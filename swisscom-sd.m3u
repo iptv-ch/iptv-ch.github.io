@@ -251,7 +251,7 @@ rtp://239.186.64.186:10000
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.iptv-epg.com/de/ntv.de.png" tvg-chno="241" channel-id="241",ntv
 rtp://239.186.64.29:10000
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" tvg-chno="244" channel-id="244",ORF1 ORF eins
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" tvg-chno="244" channel-id="244",ORF eins #EXTREM:ORF1
 rtp://239.186.64.13:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="http://static.iptv-epg.com/at/ORF2.at.png" tvg-chno="246" channel-id="246",ORF2
 rtp://239.186.64.14:10000
