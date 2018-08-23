@@ -19,8 +19,8 @@ rtp://239.186.68.19:10000
 rtp://239.186.64.37:10000
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" tvg-chno="57" channel-id="57",France3 HD
 rtp://239.186.70.25:10000
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4
-rtp://239.186.64.38:10000
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4 HD
+rtp://239.186.79.19:10000
 #EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="59" channel-id="59",France5
 rtp://239.186.64.39:10000
 #EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="60" channel-id="60",France5 HD
