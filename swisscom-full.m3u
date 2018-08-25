@@ -509,6 +509,8 @@ rtp://239.186.66.109:10000
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="254" channel-id="254",Puls8 HD
 rtp://239.186.68.191:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24 HD
+rtp://233.35.254.211:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="255" channel-id="255",R9 Oesterreich HD
 rtp://239.186.68.248:10000
 #EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB DE" tvg-logo="http://static.iptv-epg.com/de/RBB.de.png" tvg-chno="256" channel-id="256",rbb
