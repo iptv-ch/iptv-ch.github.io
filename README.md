@@ -2,7 +2,7 @@
 
 This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:
 
-## Swisscom SD
+## Swisscom TV SD only
 
 **URL: https://iptv-ch.github.io/swisscom-sd.m3u**
 
@@ -13,7 +13,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
 
-## Swisscom HD
+## Swisscom TV HD + SD
 
 **URL: https://iptv-ch.github.io/swisscom-hd.m3u**
 
@@ -23,7 +23,7 @@ This file only lists the HD channels in the case where a channel is available on
 EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
-## Swisscom UHD
+## Swisscom TV UHD only
 
 **URL: https://iptv-ch.github.io/swisscom-uhd.m3u**
 
