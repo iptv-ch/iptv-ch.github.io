@@ -285,6 +285,8 @@ rtp://239.186.64.132:10000
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="" channel-id="", Disney Cinema D
+rtp://239.186.64.218:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.iptv-epg.com/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV
@@ -349,8 +351,8 @@ rtp://239.186.68.12:10000
 rtp://239.186.68.13:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.iptv-epg.com/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7
-rtp://239.186.64.19:10000
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7 HD
+rtp://239.186.79.72:10000
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro 7 Maxx DE" tvg-logo="http://static.iptv-epg.com/de/ProSiebenMaxx.de.png" tvg-chno="253" channel-id="253",Pro7 Maxx CH HD
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="254" channel-id="254",Puls8 HD
