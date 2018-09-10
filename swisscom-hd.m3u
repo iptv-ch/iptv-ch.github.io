@@ -49,11 +49,11 @@ rtp://233.21.50.11:1234
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyXD.fr.png" tvg-chno="9" channel-id="9",Disney XD HD french
 rtp://233.21.50.52:1234
-#EXTINF:-1 tvg-id="DisnCineHD" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="10" channel-id="10",Disney Cinema HD french (fra/eng)
+#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="10" channel-id="10",Disney Cinema HD french (fra/eng)
 rtp://233.21.50.70:1234
 #EXTINF:-1 tvg-id="Mangas" tvg-name="Mangas FR" tvg-logo="http://static.iptv-epg.com/fr/Mangas.fr.png" tvg-chno="11" channel-id="11",Mangas
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="motorsporttv" tvg-name="Motorsport TV FR" tvg-logo="http://static.iptv-epg.com/fr/MotorsportTV.fr.png" tvg-chno="12" channel-id="12",motorsport.tv HD (fra/eng)
+#EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-name="Motorsport TV FR" tvg-logo="http://static.iptv-epg.com/fr/MotorsportTV.fr.png" tvg-chno="12" channel-id="12",motorsport.tv HD (fra/eng)
 rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
 rtp://233.21.50.54:1234
@@ -285,7 +285,7 @@ rtp://239.186.64.132:10000
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="" channel-id="", Disney Cinema D
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="" channel-id="", Disney Cinemagic D
 rtp://239.186.64.218:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
