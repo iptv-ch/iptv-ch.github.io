@@ -71,7 +71,7 @@ rtp://239.186.68.239:10000
 rtp://239.186.64.89:10000
 #EXTINF:-1 tvg-id="M6Boutique" tvg-name="M6 Boutique FR" tvg-logo="http://static.iptv-epg.com/fr/M6Boutique.fr.png" tvg-chno="78" channel-id="78",M6 Boutique
 rtp://239.186.64.149:10000
-#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="78" channel-id="",Disney Cinema F
+#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="" channel-id="",Disney Cinema F
 rtp://239.186.66.88:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="81" channel-id="81",maxtv
 rtp://239.186.64.102:10000
