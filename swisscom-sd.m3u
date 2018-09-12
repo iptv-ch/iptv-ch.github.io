@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz,http://epg.clientportal.link/albania.xml.gz,http://epg.clientportal.link/austria.xml.gz,http://epg.clientportal.link/belgium.xml.gz,http://epg.clientportal.link/bulgaria.xml.gz,http://epg.clientportal.link/czech.xml.gz,http://epg.clientportal.link/denmark.xml.gz,http://epg.clientportal.link/estonia.xml.gz,http://epg.clientportal.link/ex-yu.xml.gz,http://epg.clientportal.link/france.xml.gz,http://epg.clientportal.link/germany.xml.gz,http://epg.clientportal.link/greece.xml.gz,http://epg.clientportal.link/hungary.xml.gz,http://epg.clientportal.link/italy.xml.gz,http://epg.clientportal.link/netherlands.xml.gz,http://epg.clientportal.link/norway.xml.gz,http://epg.clientportal.link/poland.xml.gz,http://epg.clientportal.link/portugal.xml.gz,http://epg.clientportal.link/romania.xml.gz,http://epg.clientportal.link/russia.xml.gz,http://epg.clientportal.link/spain.xml.gz,http://epg.clientportal.link/sweden.xml.gz,http://epg.clientportal.link/switzerland.xml.gz,http://epg.clientportal.link/turkey.xml.gz,http://epg.clientportal.link/uk.xml.gz,http://epg.clientportal.link/usa.xml.gz"
+#EXTREM:french
 #EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS un
 rtp://239.186.64.5:10000
 #EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS deux
@@ -87,6 +88,7 @@ rtp://239.186.64.71:10000
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="110" channel-id="110",tvm3
 rtp://239.186.64.98:10000
+#EXTREM:english
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="115" channel-id="115",Al Jazeera E
 rtp://239.186.64.173:10000
 #EXTINF:-1 tvg-id="BBCEntertainment.uk" tvg-name="BBC Entertainment UK" tvg-logo="http://static.iptv-epg.com/uk/BBCEntertainment.uk.png" tvg-chno="117" channel-id="117",BBC entertainment
@@ -165,6 +167,7 @@ rtp://239.186.64.185:10000
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS
 rtp://239.186.64.179:10000
+#EXTREM:german
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="172" channel-id="172",3+
 rtp://239.186.64.56:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" tvg-chno="174" channel-id="174",3sat
@@ -297,8 +300,6 @@ rtp://239.186.64.87:10000
 rtp://239.186.70.10:10000
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="http://static.iptv-epg.com/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",SUPER RTL
 rtp://239.186.64.17:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="291" channel-id="291",SUPER!
-rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="http://static.iptv-epg.com/de/SWRSR.de.png" tvg-chno="293" channel-id="293",SWR >>
 rtp://239.186.64.27:10000
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24 DE" tvg-logo="http://static.iptv-epg.com/de/Tagesschau24.de.png" tvg-chno="295" channel-id="295",Tagesschau24
@@ -349,6 +350,7 @@ rtp://239.186.64.12:10000
 rtp://239.186.64.118:10000
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo DE" tvg-logo="http://static.iptv-epg.com/de/ZDFneo.de.png" tvg-chno="343" channel-id="343",zdf_neo
 rtp://239.186.64.66:10000
+#EXTREM:italian
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="347" channel-id="347",ALICE
@@ -453,6 +455,8 @@ rtp://239.186.66.177:10000
 rtp://239.186.66.178:10000
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.iptv-epg.com/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport Italia SI
 rtp://239.186.74.24:10000
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!it" tvg-logo="" tvg-chno="291" channel-id="291",SUPER!
+rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="410" channel-id="410",teleticino
 rtp://239.186.64.99:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="412" channel-id="412",TELELOMBARDIA
@@ -467,6 +471,7 @@ rtp://239.186.64.161:10000
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.iptv-epg.com/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
+#EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="420" channel-id="420",360
@@ -537,8 +542,6 @@ rtp://239.186.66.135:10000
 rtp://239.186.66.137:10000
 #EXTINF:-1 tvg-id="RTK.al" tvg-name="RTK AL" tvg-logo="http://static.iptv-epg.com/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
 rtp://239.186.64.81:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="458" channel-id="458",rtsh1
-rtp://239.186.66.150:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="459" channel-id="459",OstWest (ex rtVD)
 rtp://239.186.66.163:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="461" channel-id="461",TGN Thai Global Network
