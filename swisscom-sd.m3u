@@ -71,8 +71,6 @@ rtp://239.186.68.239:10000
 rtp://239.186.64.89:10000
 #EXTINF:-1 tvg-id="M6Boutique" tvg-name="M6 Boutique FR" tvg-logo="http://static.iptv-epg.com/fr/M6Boutique.fr.png" tvg-chno="78" channel-id="78",M6 Boutique
 rtp://239.186.64.149:10000
-#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="114" channel-id="114",Disney Cinema F
-rtp://239.186.66.88:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="81" channel-id="81",maxtv
 rtp://239.186.64.102:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="85" channel-id="85",NRTV #EXTREM:NyonRégion Télévision
@@ -83,10 +81,6 @@ rtp://239.186.64.145:10000
 rtp://239.186.64.69:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="97" channel-id="97",TC Zoom F
 rtp://239.186.64.111:10000
-#EXTINF:-1 tvg-id="TraceTropical" tvg-name="Trace Tropical MU" tvg-logo="http://static.iptv-epg.com/mu/TraceTropical.mu.png" tvg-chno="105" channel-id="105",TRACE TROPICAL
-rtp://239.186.66.144:10000
-#EXTINF:-1 tvg-id="TraceUrban" tvg-name="Trace Urban FR" tvg-logo="http://static.iptv-epg.com/fr/TraceUrban.fr.png" tvg-chno="106" channel-id="106",TRACE URBAN
-rtp://239.186.66.145:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5MONDE FRANCE BELGIQUE SUISSE
@@ -201,8 +195,6 @@ rtp://239.186.64.132:10000
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="" channel-id="301", Disney Cinemagic
-rtp://239.186.64.218:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.iptv-epg.com/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV
