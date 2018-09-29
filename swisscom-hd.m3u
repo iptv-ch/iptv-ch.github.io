@@ -26,7 +26,7 @@ rtp://239.186.70.34:10000
 rtp://239.186.68.215:10000
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" tvg-chno="114" channel-id="114",W9 CH HD
 rtp://239.186.70.38:10000
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="" tvg-logo="" tvg-chno="90" channel-id="90",RTL9 CH HD
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
 rtp://239.186.68.242:10000
 #EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte FR" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="33" channel-id="33",Arte HD French
 rtp://239.186.68.18:10000
@@ -78,9 +78,9 @@ rtp://233.32.39.143:1234
 rtp://233.32.39.154:1234
 #EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.iptv-epg.com/fr/NauticalChannel.fr.png" tvg-chno="23" channel-id="23",Nautical HD
 rtp://233.21.50.17:1234
-#EXTINF:-1 tvg-id="RMCSportAccess2" tvg-name="" tvg-logo="" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="" tvg-logo="" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
-#EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="" tvg-logo="" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="" tvg-logo="" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
 rtp://233.32.39.169:1234
 #EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="" tvg-logo="" tvg-chno="26" channel-id="26",RMC SPORT4 HD
 rtp://233.32.39.170:1234
@@ -199,6 +199,8 @@ rtp://239.186.70.118:10000
 rtp://239.186.70.23:10000
 #EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="http://static.iptv-epg.com/uk/Drama.uk.png" tvg-chno="146" channel-id="146",DRAMA
 rtp://239.186.66.140:10000
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
+rtp://239.186.64.135:10000
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="http://static.iptv-epg.com/uk/E4.uk.png" tvg-chno="147" channel-id="147",E4
 rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="http://static.iptv-epg.com/uk/EuroNews.uk.png" tvg-chno="149" channel-id="149",euronews E HD
@@ -286,8 +288,6 @@ rtp://239.186.64.34:10000
 rtp://239.186.66.241:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.iptv-epg.com/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RIC
 rtp://239.186.64.129:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="207" channel-id="207",DW-TV
-rtp://239.186.64.135:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews D HD
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
