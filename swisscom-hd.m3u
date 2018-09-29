@@ -78,13 +78,13 @@ rtp://233.32.39.143:1234
 rtp://233.32.39.154:1234
 #EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.iptv-epg.com/fr/NauticalChannel.fr.png" tvg-chno="23" channel-id="23",Nautical HD
 rtp://233.21.50.17:1234
-#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="" tvg-logo="" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="rmcsa2" tvg-logo="https://skysiertv.com/stv/chaines/rmcsa2/logo.jpg" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
-#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="" tvg-logo="" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="rmcsa3" tvg-logo="https://skysiertv.com/stv/chaines/rmcsa3/logo.jpg" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
 rtp://233.32.39.169:1234
-#EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="" tvg-logo="" tvg-chno="26" channel-id="26",RMC SPORT4 HD
+#EXTINF:-1 tvg-id="https://www.skysiertv.com/chaines.php?chaine=rmcs4" tvg-name="rmcs4" tvg-logo="https://skysiertv.com/stv/chaines/rmcs4/logo.jpg" tvg-chno="26" channel-id="26",RMC SPORT4 HD
 rtp://233.32.39.170:1234
-#EXTINF:-1 tvg-id="BFMSport" tvg-name="" tvg-logo="" tvg-chno="27" channel-id="27",RMC Sport News HD
+#EXTINF:-1 tvg-id="rmcsn" tvg-name="RMC Sport NEWS" tvg-logo="https://skysiertv.com/stv/chaines/rmcsn/logo.jpg" tvg-chno="27" channel-id="27",RMC Sport News HD
 rtp://233.32.39.171:1234
 #EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
@@ -396,7 +396,7 @@ rtp://239.186.68.2:10000
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",Star TV HD
 rtp://239.186.68.188:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="289" channel-id="289",GAMES TV
+#EXTINF:-1 tvg-id="game" tvg-name="Game TV" tvg-logo="https://skysiertv.com/stv/chaines/game/logo.jpg" tvg-chno="289" channel-id="289",GAMES TV
 rtp://239.186.70.10:10000
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="http://static.iptv-epg.com/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",SUPER RTL
 rtp://239.186.64.17:10000
