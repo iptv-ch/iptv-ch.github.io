@@ -116,7 +116,7 @@ rtp://239.186.66.225:10000
 rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="http://static.iptv-epg.com/fr/Gulli.fr.png" tvg-chno="65" channel-id="65",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="i24News" tvg-name="" tvg-logo="" tvg-chno="67" channel-id="67",i24 News F HD
+#EXTINF:-1 tvg-id="i24News" tvg-name="" tvg-logo="https://cdn.i24news.tv/ms-icon-144x144.png" tvg-chno="67" channel-id="67",i24 News F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="http://static.iptv-epg.com/fr/CNews.fr.png" tvg-chno="69" channel-id="69",CNEWS HD
 rtp://239.186.70.30:10000
