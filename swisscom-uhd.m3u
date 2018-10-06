@@ -5,12 +5,12 @@ rtp://239.186.76.1:10000
 rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
 rtp://239.186.76.4:10000
+#EXTINF:-1 ,Hispasat4K
+rtp://239.186.76.5:10000
 #EXTINF:-1 ,Ultra Nature UHD
 rtp://239.186.76.6:10000
 #EXTINF:-1 ,Vision TV UHD 
 rtp://239.186.76.11:10000
-#EXTINF:-1 ,Love Nature UHD
-rtp://239.186.76.28:10000
 #EXTINF:-1 ,NASA UHD (eng) 
 rtp://239.186.76.29:10000
 #EXTINF:-1 ,Insight UHD
