@@ -27,7 +27,9 @@ rtp://239.186.79.29:10000
 rtp://239.186.79.97:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.98:10000
-#EXTINF:-1 ,vision tv UHD demo
+#EXTINF:-1 ,hispasat4k
+rtp://239.186.79.99:10000
+#EXTINF:-1 ,vision tv UHD
 rtp://239.186.79.100:10000
 #EXTINF:-1 ,Love Nature UHD
 rtp://239.186.79.102:10000
