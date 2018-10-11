@@ -52,6 +52,8 @@ rtp://233.21.50.31:1234
 rtp://233.21.50.52:1234
 #EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="10" channel-id="10",Disney Cinema HD french (fra/eng)
 rtp://233.21.50.70:1234
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang FR" tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" tvg-chno="41" channel-id="41",Boomerang F HD
+rtp://239.186.70.159:10000
 #EXTINF:-1 tvg-id="Mangas" tvg-name="Mangas FR" tvg-logo="http://static.iptv-epg.com/fr/Mangas.fr.png" tvg-chno="11" channel-id="11",Mangas
 rtp://233.21.50.2:1234
 #EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-name="Motorsport TV FR" tvg-logo="http://static.iptv-epg.com/fr/MotorsportTV.fr.png" tvg-chno="12" channel-id="12",motorsport.tv HD (fra/eng)
@@ -154,6 +156,8 @@ rtp://239.186.70.41:10000
 rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="112" channel-id="112",TV Onex HD
 rtp://239.186.70.132:10000
+#EXTINF:-1 ,tvg-id="" tvg-name"" tvg-logo="" tvg-chno="" channel-id="",ES1 HD
+rtp://239.186.70.160:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",Al Jazeera E HD
 rtp://239.186.68.171:10000
@@ -209,8 +213,10 @@ rtp://239.186.70.105:10000
 rtp://233.32.39.198:1234
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="http://static.iptv-epg.com/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
 rtp://239.186.64.172:10000
-#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="http://static.iptv-epg.com/uk/FiveUSA.uk.png" tvg-chno="154" channel-id="154",Five HD
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="5 UK" tvg-logo="http://static.iptv-epg.com/uk/channel5.uk.png" tvg-chno="" channel-id="",Five HD
 rtp://239.186.70.151:10000
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="http://static.iptv-epg.com/uk/FiveUSA.uk.png" tvg-chno="154" channel-id="154",5USA UK HD
+rtp://239.186.66.242:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",Food Network E
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Heart TV UK" tvg-logo="http://static.iptv-epg.com/uk/HeartTV.uk.png" tvg-chno="156" channel-id="156",heartv
@@ -239,6 +245,20 @@ rtp://239.186.68.172:10000
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS
 rtp://239.186.64.179:10000
+#EXTINF:-1 ,5Spike (eng)
+rtp://239.186.66.244:10000
+#EXTINF:-1 ,5USA
+rtp://239.186.66.242:10000
+#EXTINF:-1 ,BBC Parliament
+rtp://239.186.74.25:10000
+#EXTINF:-1 ,Englisch Club HD
+rtp://239.186.70.157:10000
+#EXTINF:-1 ,ESL TV HD
+rtp://239.186.70.158:10000
+#EXTINF:-1 ,GINX HD
+rtp://239.186.70.156:10000
+#EXTINF:-1 ,PBS America
+rtp://239.186.66.243:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
 rtp://239.186.68.14:10000
@@ -468,6 +488,10 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
+#EXTINF:-1 ,tvg-id="KabelEinsClassic.de" tvg-name="kabel eins CLASSICS DE" tvg-logo="https://static.iptv-epg.com/de/KabelEinsClassic.de.png" tvg-chno"" channel-id="",Kabel Eins CLASSIC HD
+rtp://239.186.70.146:10000
+#EXTINF:-1 ,tvg-id="Planet.de" tvg-name="Planet DE" tvg-logo="https://static.iptv-epg.com/de/PLANET.de.png" tvg-chno="" channel-id="",Planet HD
+rtp://239.186.70.162:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
