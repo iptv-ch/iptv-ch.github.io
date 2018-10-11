@@ -169,6 +169,14 @@ rtp://239.186.64.185:10000
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS
 rtp://239.186.64.179:10000
+#EXTINF:-1 ,5Spike (eng)
+rtp://239.186.66.244:10000
+#EXTINF:-1 ,5USA (eng)
+rtp://239.186.66.242:10000
+#EXTINF:-1 ,BBC Parliament (eng)
+rtp://239.186.74.25:10000
+#EXTINF:-1 ,PBS America (eng)
+rtp://239.186.66.243:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="172" channel-id="172",3+
 rtp://239.186.64.56:10000
