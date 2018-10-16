@@ -179,8 +179,6 @@ rtp://239.186.64.177:10000
 rtp://239.186.66.142:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="133" channel-id="133",BOX upfront (ex Heat)
 rtp://239.186.66.124:10000
-#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-name="Capital TV UK" tvg-logo="http://static.iptv-epg.com/uk/CapitalTV.uk.png" tvg-chno="134" channel-id="134",Capital TV
-rtp://239.186.66.113:10000
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" tvg-chno="136" channel-id="136",CGTN HD (eng)
 rtp://239.186.70.90:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" tvg-chno="138" channel-id="138",Channel4 HD
@@ -215,8 +213,6 @@ rtp://239.186.70.151:10000
 rtp://239.186.66.242:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",Food Network E
 rtp://239.186.66.58:10000
-#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Heart TV UK" tvg-logo="http://static.iptv-epg.com/uk/HeartTV.uk.png" tvg-chno="156" channel-id="156",heartv
-rtp://239.186.66.123:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="158" channel-id="158",i24 News E HD
 rtp://239.186.68.140:10000
 #EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1Anglia.uk.png" tvg-chno="160" channel-id="160",itv HD
