@@ -54,7 +54,7 @@ rtp://233.21.50.52:1234
 rtp://233.21.50.70:1234
 #EXTINF:-1 tvg-id="Mangas" tvg-name="Mangas FR" tvg-logo="http://static.iptv-epg.com/fr/Mangas.fr.png" tvg-chno="11" channel-id="11",Mangas
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-name="Motorsport TV FR" tvg-logo="http://static.iptv-epg.com/fr/MotorsportTV.fr.png" tvg-chno="12" channel-id="12",motorsport.tv HD (fra/eng)
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorsport TV FR" tvg-logo="https://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="12" channel-id="12",motorvision.tv HD (fra/eng)
 rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
 rtp://233.21.50.54:1234
