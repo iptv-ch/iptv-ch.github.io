@@ -91,8 +91,6 @@ rtp://239.186.64.98:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="115" channel-id="115",Al Jazeera E
 rtp://239.186.64.173:10000
-#EXTINF:-1 tvg-id="BBCEntertainment.uk" tvg-name="BBC Entertainment UK" tvg-logo="http://static.iptv-epg.com/uk/BBCEntertainment.uk.png" tvg-chno="117" channel-id="117",BBC entertainment
-rtp://239.186.64.182:10000
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC2.uk.png" tvg-chno="120" channel-id="120",BBC Two
