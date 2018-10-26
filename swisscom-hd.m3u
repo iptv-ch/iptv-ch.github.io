@@ -237,11 +237,11 @@ rtp://239.186.66.139:10000
 rtp://239.186.64.179:10000
 #EXTINF:-1 ,5Spike
 rtp://239.186.66.244:10000
-#EXTINF:-1 ,5USA
+#EXTINF:-1 ,tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA
 rtp://239.186.66.242:10000
 #EXTINF:-1 ,BBC Parliament
 rtp://239.186.74.25:10000
-#EXTINF:-1 ,PBS America
+#EXTINF:-1 ,tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America
 rtp://239.186.66.243:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
