@@ -235,11 +235,11 @@ rtp://239.186.68.172:10000
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS
 rtp://239.186.64.179:10000
-#EXTINF:-1 ,5Spike
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",5Spike
 rtp://239.186.66.244:10000
 #EXTINF:-1 ,tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA
 rtp://239.186.66.242:10000
-#EXTINF:-1 ,BBC Parliament
+#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",BBC Parliament
 rtp://239.186.74.25:10000
 #EXTINF:-1 ,tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America
 rtp://239.186.66.243:10000
