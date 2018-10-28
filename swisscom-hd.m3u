@@ -207,8 +207,6 @@ rtp://233.32.39.198:1234
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="5 UK" tvg-logo="http://static.iptv-epg.com/uk/channel5.uk.png" tvg-chno="" channel-id="",Five HD
 rtp://239.186.70.151:10000
-#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="http://static.iptv-epg.com/uk/FiveUSA.uk.png" tvg-chno="154" channel-id="154",5USA UK HD
-rtp://239.186.66.242:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",Food Network E
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="158" channel-id="158",i24 News E HD
@@ -239,7 +237,7 @@ rtp://239.186.64.179:10000
 rtp://239.186.66.244:10000
 #EXTINF:-1 ,tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA
 rtp://239.186.66.242:10000
-#EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",BBC Parliament
+#EXTINF:-1 ,tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="103" channel-id="103",BBC Parliament
 rtp://239.186.74.25:10000
 #EXTINF:-1 ,tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America
 rtp://239.186.66.243:10000
