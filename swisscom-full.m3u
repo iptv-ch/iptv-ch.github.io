@@ -20,6 +20,8 @@ rtp://239.186.68.19:10000
 rtp://239.186.64.37:10000
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" tvg-chno="57" channel-id="57",France3 HD
 rtp://239.186.70.25:10000
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" tvg-chno="" channel-id="",France4
+rtp://239.186.64.38:10000
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4 HD
 rtp://239.186.70.26:10000
 #EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="59" channel-id="59",France5
@@ -835,6 +837,8 @@ rtp://239.186.64.161:10000
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.iptv-epg.com/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="415" channel-id="415",TV2000
+rtp://239.186.66.108:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
 rtp://239.186.64.194:10000
@@ -888,8 +892,6 @@ rtp://239.186.66.85:10000
 rtp://239.186.64.193:10000
 #EXTINF:-1 tvg-id="ERTWorld.ca" tvg-name="ERT World CA" tvg-logo="http://static.iptv-epg.com/ca/ERTWorld.ca.png" tvg-chno="444" channel-id="444",ERT world
 rtp://239.186.66.227:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="445" channel-id="445",HAW KNH MNP
-rtp://239.186.66.162:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="446" channel-id="446",HRT1
 rtp://239.186.66.125:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="http://static.iptv-epg.com/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
@@ -914,8 +916,6 @@ rtp://239.186.66.135:10000
 rtp://239.186.66.137:10000
 #EXTINF:-1 tvg-id="RTK.al" tvg-name="RTK AL" tvg-logo="http://static.iptv-epg.com/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
 rtp://239.186.64.81:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="459" channel-id="459",OstWest (ex rtVD)
-rtp://239.186.66.163:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD
 rtp://239.186.68.247:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="461" channel-id="461",TGN Thai Global Network
@@ -942,5 +942,3 @@ rtp://239.186.64.83:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="415" channel-id="415",TV2000
-rtp://239.186.66.108:10000
