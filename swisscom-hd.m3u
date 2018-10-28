@@ -376,7 +376,7 @@ rtp://239.186.68.147:10000
 rtp://239.186.64.18:10000
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold DE" tvg-logo="http://static.iptv-epg.com/de/Sat1Gold.de.png" tvg-chno="266" channel-id="266",Sat.1 Gold CH HD
 rtp://239.186.70.88:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="268" channel-id="268",Schweiz5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="268" channel-id="268",Schweiz5 HD / CCONE HD
 rtp://239.186.68.245:10000
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="Servus TV" tvg-logo="http://static.iptv-epg.com/at/ServusTV.at.png" tvg-chno="270" channel-id="270",ServusTV AT HD
 rtp://233.35.254.129:1234
