@@ -44,3 +44,23 @@ This will only work on your home network if Swisscom is your broadband provider.
 EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
 EPG information from http://epg.clientportal.link is included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
+
+## Sunrise TV SD/HD
+
+**URL: https://iptv-ch.github.io/sunrise-tv.m3u**
+
+Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
+This will only work on your home network if Sunrise/netstream is your broadband provider.<br>
+This file lists the Sunrise TV SD/HD channels.<br>
+EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+[More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille).
+
+## Sunrise Radio
+
+**URL: https://iptv-ch.github.io/sunrise-radio.m3u**
+
+Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
+This will only work on your home network if Sunrise/netstream/Swisscom is your broadband provider<br>
+This file lists only radio channels.<br>
+[More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille)
+
