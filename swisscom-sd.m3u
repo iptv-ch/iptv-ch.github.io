@@ -540,8 +540,6 @@ rtp://239.186.66.203:10000
 rtp://239.186.66.132:10000
 #EXTINF:-1 tvg-id="PlanetTurk.tr" tvg-name="Planet Türk TR" tvg-logo="http://static.iptv-epg.com/tr/PlanetTurk.tr.png" tvg-chno="452" channel-id="452",PLANETA RTR
 rtp://239.186.66.138:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="453" channel-id="453",PTC CBET
-rtp://239.186.64.80:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="454" channel-id="454",PTPC
 rtp://239.186.66.136:10000
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="http://static.iptv-epg.com/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV
