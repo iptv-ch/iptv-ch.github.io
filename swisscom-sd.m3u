@@ -163,17 +163,17 @@ rtp://239.186.64.105:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="169" channel-id="169",Russia Today
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS
 rtp://239.186.64.179:10000
-#EXTINF:-1 ,5Spike (eng)
+#EXTINF:-1 tvg-id="5spike.uk" tvg-name="5Spike UK" tvg-logo="" tvg-chno="" channel-id="",5Spike UK
 rtp://239.186.66.244:10000
-#EXTINF:-1 ,5USA (eng)
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
 rtp://239.186.66.242:10000
-#EXTINF:-1 ,BBC Parliament (eng)
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC Parliament
 rtp://239.186.74.25:10000
-#EXTINF:-1 ,PBS America (eng)
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="172" channel-id="172",3+
@@ -220,6 +220,8 @@ rtp://239.186.64.33:10000
 rtp://239.186.66.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.TV
 rtp://239.186.66.197:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24
+rtp://233.35.254.211:1234
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.iptv-epg.com/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
 rtp://239.186.64.141:10000
 #EXTINF:-1 tvg-id="HopeChannelInt.us" tvg-name="Hope Channel Int. US" tvg-logo="http://static.iptv-epg.com/us/HopeChannelInt.us.png" tvg-chno="214" channel-id="214",HopeChannel
