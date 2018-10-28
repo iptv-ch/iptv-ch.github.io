@@ -143,8 +143,6 @@ rtp://239.186.64.172:10000
 rtp://239.186.64.184:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",Food Network E
 rtp://239.186.66.58:10000
-#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Heart TV UK" tvg-logo="http://static.iptv-epg.com/uk/HeartTV.uk.png" tvg-chno="156" channel-id="156",heartv
-rtp://239.186.66.123:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="157" channel-id="157",i24 News E
 rtp://239.186.66.126:10000
 #EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1Anglia.uk.png" tvg-chno="159" channel-id="159",itv
