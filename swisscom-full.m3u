@@ -723,8 +723,6 @@ rtp://239.186.66.186:10000
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.iptv-epg.com/it/NOVE.it.png" tvg-chno="360" channel-id="360",Discovery-italia NOVE
 rtp://239.186.64.158:10000
-#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.iptv-epg.com/it/NOVE.it.png" tvg-chno="361" channel-id="361",Discovery-italia NOVE HD
-rtp://239.186.70.153:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="http://static.iptv-epg.com/it/RealTime.it.png" tvg-chno="362" channel-id="362",Discovery-italia Real Time
 rtp://239.186.66.43:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.iptv-epg.com/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews I
