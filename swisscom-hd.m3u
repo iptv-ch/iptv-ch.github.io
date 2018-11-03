@@ -563,8 +563,6 @@ rtp://239.186.66.183:10000
 rtp://239.186.66.34:10000
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.iptv-epg.com/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
 rtp://239.186.70.2:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="399" channel-id="399",Rai Sport2
-rtp://239.186.64.159:10000
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia IT" tvg-logo="http://static.iptv-epg.com/it/RaiStoria.it.png" tvg-chno="400" channel-id="400",Rai Storia
 rtp://239.186.64.162:10000
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="http://static.iptv-epg.com/it/RaiYoyo.it.png" tvg-chno="401" channel-id="401",Rai Yoyo
