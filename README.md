@@ -64,3 +64,7 @@ This will only work on your home network if Sunrise/netstream/Swisscom is your b
 This file lists only radio channels.<br>
 [More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille)
 
+## TV7 from Init7 ##
+**URL: https://iptv-ch.github.io/init7-tv7.xspf**
+
+TV7 only available for init7 internet service provider customers
