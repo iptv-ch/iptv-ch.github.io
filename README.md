@@ -67,4 +67,4 @@ This file lists only radio channels.<br>
 ## TV7 from Init7 ##
 **URL: https://iptv-ch.github.io/init7-tv7.xspf**
 
-TV7 only available for init7 internet service provider customers
+TV7 only available for init7 optical fiber  (ftth) service provider customers
