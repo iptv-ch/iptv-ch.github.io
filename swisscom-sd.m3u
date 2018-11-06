@@ -216,7 +216,7 @@ rtp://239.186.64.137:10000
 rtp://239.186.64.33:10000
 #EXTINF:-1 tvg-id="FamilyTV.de" tvg-name="Family TV DE" tvg-logo="http://static.iptv-epg.com/de/FamilyTV.de.png" tvg-chno="211" channel-id="211",FAMILY TV
 rtp://239.186.66.127:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.tv
 rtp://239.186.66.197:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24
 rtp://233.35.254.211:1234
@@ -242,7 +242,7 @@ rtp://239.186.64.133:10000
 rtp://239.186.66.231:10000
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="http://static.iptv-epg.com/de/MDR.de.png" tvg-chno="229" channel-id="229",mdr
 rtp://239.186.64.63:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="231" channel-id="231",Melodie TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="231" channel-id="231",Melodie.tv
 rtp://239.186.74.15:10000
 #EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV DE" tvg-logo="http://static.iptv-epg.com/de/MTVGermany.de.png" tvg-chno="232" channel-id="232",MTV CH
 rtp://239.186.64.32:10000
@@ -302,8 +302,6 @@ rtp://239.186.64.3:10000
 rtp://239.186.64.4:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="287" channel-id="287",Star TV
 rtp://239.186.64.87:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="289" channel-id="289",GAMETV
-rtp://239.186.70.10:10000
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="http://static.iptv-epg.com/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",SUPER RTL
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="http://static.iptv-epg.com/de/SWRSR.de.png" tvg-chno="293" channel-id="293",SWR >>
@@ -383,7 +381,7 @@ rtp://239.186.66.188:10000
 rtp://239.186.66.187:10000
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.iptv-epg.com/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="359" channel-id="359", Discovery-italia Motor Trend
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="359" channel-id="359", Discovery-italia MOTOR TREND
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="http://static.iptv-epg.com/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Discovery-italia Food Network I
 rtp://239.186.66.122:10000
@@ -473,7 +471,7 @@ rtp://239.186.64.152:10000
 rtp://239.186.64.163:10000
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://static.iptv-epg.com/it/TV8.it.png" tvg-chno="416" channel-id="416",TV8 Italia
 rtp://239.186.64.161:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="417" channel-id="417",UNINETTUNO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="417" channel-id="417",UNINETTUNO.TV
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.iptv-epg.com/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
