@@ -46,7 +46,7 @@ rtp://233.21.50.5:1234
 rtp://233.21.50.11:1234
 #EXTINF:-1 ,Nautical HD
 rtp://233.21.50.17:1234
-#EXTINF:-1 ,motorsport.tv HD
+#EXTINF:-1 ,motorvision.tv HD
 rtp://233.21.50.27:1234
 #EXTINF:-1 ,Disney Junior HD french
 rtp://233.21.50.31:1234
@@ -90,8 +90,6 @@ rtp://233.32.39.169:1234
 rtp://233.32.39.170:1234
 #EXTINF:-1 ,RMC SPORT NEWS HD
 rtp://233.32.39.171:1234
-
-
 #EXTREM: deutsch
 #EXTINF:-1 ,SRF1 HD
 rtp://233.35.254.125:1234
@@ -199,8 +197,6 @@ rtp://233.35.254.212:1234
 rtp://233.35.254.122:1234
 #EXTINF:-1 ,ZDF info HD
 rtp://233.35.254.210:1234
-
-
 #EXTREM: italiano
 #EXTINF:-1 ,RSI LA 1 HD
 rtp://233.35.254.151:1234
@@ -272,8 +268,6 @@ rtp://233.35.254.175:1234
 rtp://233.35.254.83:1234
 #EXTINF:-1 ,TELELOMBARDIA
 rtp://233.35.254.114:1234
-
-
 #EXTREM: english
 #EXTINF:-1 ,BBC 1
 rtp://233.35.254.48:1234
@@ -289,8 +283,6 @@ rtp://233.35.254.38:1234
 rtp://233.35.254.14:1234
 #EXTINF:-1 ,Fashion TV HD
 rtp://233.32.39.198:1234
-
-
 #EXTREM: others
 #EXTINF:-1 ,TVE Internacional
 rtp://233.35.254.120:1234
