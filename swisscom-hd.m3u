@@ -414,7 +414,7 @@ rtp://239.186.68.161:10000
 rtp://239.186.68.176:10000
 #EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.iptv-epg.com/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5
 rtp://239.186.64.22:10000
-#EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.iptv-epg.com/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",TELE BAERN HD
+#EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.iptv-epg.com/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
 rtp://239.186.68.38:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="303" channel-id="303",TeleBielingue HD
 rtp://239.186.70.82:10000
