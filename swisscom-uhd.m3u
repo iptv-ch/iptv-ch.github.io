@@ -11,8 +11,10 @@ rtp://239.186.76.5:10000
 rtp://239.186.76.6:10000
 #EXTINF:-1 ,Vision TV UHD 
 rtp://239.186.76.11:10000
-#EXTINF:-1 ,NASA UHD (eng) 
+#EXTINF:-1 ,NASA TV UHD (eng) 
 rtp://239.186.76.29:10000
+#EXTINF:-1 ,Hispasat UHD Ateme test 48 cores
+rtp://239.186.79.23:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.24:10000
 #EXTINF:-1 ,FunBox UHD
@@ -23,11 +25,11 @@ rtp://239.186.79.26:10000
 rtp://239.186.79.28:10000
 #EXTINF:-1 ,Stingray Festival 4K Ateme UHD Test
 rtp://239.186.79.29:10000
-#EXTINF:-1 ,Fashion4KTV UHD
+#EXTINF:-1 ,Fashion4KTV UHD Demo
 rtp://239.186.79.97:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.98:10000
-#EXTINF:-1 ,hispasat4k
+#EXTINF:-1 ,Hispasat4k
 rtp://239.186.79.99:10000
 #EXTINF:-1 ,vision tv UHD
 rtp://239.186.79.100:10000
