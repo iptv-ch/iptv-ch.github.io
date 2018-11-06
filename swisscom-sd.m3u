@@ -169,7 +169,7 @@ rtp://239.186.64.179:10000
 rtp://239.186.66.244:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
 rtp://239.186.66.242:10000
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBCParliament uk" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC Parliament
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
