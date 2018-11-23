@@ -181,7 +181,7 @@ rtp://239.186.66.124:10000
 rtp://239.186.70.90:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" tvg-chno="138" channel-id="138",Channel4 HD
 rtp://239.186.68.40:10000
-#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="Chart Show UK" tvg-logo="http://static.iptv-epg.com/uk/ChartShow.uk.png" tvg-chno="139" channel-id="139",Chart Show TV
+#EXTINF:-1 tvg-id="movies4menplus1.uk" tvg-name="movies4men +1 UK" tvg-logo="http://static.iptv-epg.com/uk/ChartShow.uk.png" tvg-chno="139" channel-id="139",movies4men +1
 rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="140" channel-id="140",chilled
 rtp://239.186.66.133:10000
