@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz,http://epg.clientportal.link/albania.xml.gz,http://epg.clientportal.link/austria.xml.gz,http://epg.clientportal.link/belgium.xml.gz,http://epg.clientportal.link/bulgaria.xml.gz,http://epg.clientportal.link/czech.xml.gz,http://epg.clientportal.link/denmark.xml.gz,http://epg.clientportal.link/estonia.xml.gz,http://epg.clientportal.link/ex-yu.xml.gz,http://epg.clientportal.link/france.xml.gz,http://epg.clientportal.link/germany.xml.gz,http://epg.clientportal.link/greece.xml.gz,http://epg.clientportal.link/hungary.xml.gz,http://epg.clientportal.link/italy.xml.gz,http://epg.clientportal.link/netherlands.xml.gz,http://epg.clientportal.link/norway.xml.gz,http://epg.clientportal.link/poland.xml.gz,http://epg.clientportal.link/portugal.xml.gz,http://epg.clientportal.link/romania.xml.gz,http://epg.clientportal.link/russia.xml.gz,http://epg.clientportal.link/spain.xml.gz,http://epg.clientportal.link/sweden.xml.gz,http://epg.clientportal.link/switzerland.xml.gz,http://epg.clientportal.link/turkey.xml.gz,http://epg.clientportal.link/uk.xml.gz,http://epg.clientportal.link/usa.xml.gz"
 #EXTREM:french
-#EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
+#EXTINF:-1 tvg-id="Un" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS deux HD
 rtp://239.186.68.4:10000
@@ -692,3 +692,5 @@ rtp://239.186.68.246:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="473",Pink Folk1
 rtp://239.186.66.131:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="474",PTC CBET HD
+rtp://239.186.74.164:10000
