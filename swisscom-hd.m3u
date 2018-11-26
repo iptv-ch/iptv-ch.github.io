@@ -154,6 +154,8 @@ rtp://239.186.70.41:10000
 rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="112" channel-id="112",TV Onex HD
 rtp://239.186.70.132:10000
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'Equipe 21 FR" tvg-logo="https://static.iptv-epg.com/fr/LEquipe21.fr.png" tvg-chno="137" channel-id="137",L'Equipe HD
+rtp://239.186.79.78:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",Al Jazeera E HD
 rtp://239.186.68.171:10000
@@ -235,11 +237,11 @@ rtp://239.186.66.139:10000
 rtp://239.186.64.179:10000
 #EXTINF:-1 ,tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",5Spike
 rtp://239.186.66.244:10000
-#EXTINF:-1 ,tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA
+#EXTINF:-1 ,tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="245" channel-id="245",5USA
 rtp://239.186.66.242:10000
-#EXTINF:-1 ,tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="103" channel-id="103",BBC Parliament
+#EXTINF:-1 ,tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="91" channel-id="103",BBC Parliament
 rtp://239.186.74.25:10000
-#EXTINF:-1 ,tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America
+#EXTINF:-1 ,tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="137" channel-id="",PBS America
 rtp://239.186.66.243:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
@@ -690,7 +692,7 @@ rtp://239.186.64.54:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="473",Pink Folk1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",Pink Folk1
 rtp://239.186.66.131:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="474",PTC CBET HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="474" channel-id="474",PTC CBET HD
 rtp://239.186.74.164:10000
