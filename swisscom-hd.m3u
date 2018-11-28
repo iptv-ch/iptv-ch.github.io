@@ -692,7 +692,5 @@ rtp://239.186.64.54:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",Pink Folk1
-rtp://239.186.66.131:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="474" channel-id="474",PTC CBET HD
 rtp://239.186.74.164:10000
