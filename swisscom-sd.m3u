@@ -204,6 +204,8 @@ rtp://239.186.64.132:10000
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="200" channel-id="200",Disney Cinemagic
+rtp://239.186.64.218:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.iptv-epg.com/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV
@@ -218,6 +220,8 @@ rtp://239.186.64.33:10000
 rtp://239.186.66.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.tv
 rtp://239.186.66.197:10000
+#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="https://static.iptv-epg.com/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
+rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24
 rtp://233.35.254.211:1234
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.iptv-epg.com/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
