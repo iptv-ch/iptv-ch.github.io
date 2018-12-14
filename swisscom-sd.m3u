@@ -88,6 +88,8 @@ rtp://239.186.64.71:10000
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="110" channel-id="110",tvm3
 rtp://239.186.64.98:10000
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="111" channel-id="111",6ter
+rtp://239.186.66.130:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="115" channel-id="115",Al Jazeera E
 rtp://239.186.64.173:10000
@@ -202,6 +204,8 @@ rtp://239.186.66.238:10000
 rtp://239.186.64.132:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musikfernsehen
 rtp://239.186.66.118:10000
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
+rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="200" channel-id="200",Disney Cinemagic
