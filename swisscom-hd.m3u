@@ -156,6 +156,8 @@ rtp://239.186.70.21:10000
 rtp://239.186.70.132:10000
 #EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'Equipe 21 FR" tvg-logo="https://static.iptv-epg.com/fr/LEquipe21.fr.png" tvg-chno="137" channel-id="137",L'Equipe HD
 rtp://239.186.79.78:10000
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="97" channel-id="97",6ter HD
+rtp://239.186.68.134:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",Al Jazeera E HD
 rtp://239.186.68.171:10000
@@ -284,6 +286,8 @@ rtp://239.186.68.216:10000
 rtp://239.186.64.132:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musikfernsehen
 rtp://239.186.66.118:10000
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
+rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="200" channel-id="200",Disney Cinemagic
@@ -396,6 +400,8 @@ rtp://239.186.68.139:10000
 rtp://239.186.64.70:10000
 #EXTINF:-1 tvg-id="SkySportsNews.de" tvg-name="Sky Sports News DE" tvg-logo="http://static.iptv-epg.com/uk/SkySportsNews.de.png" tvg-chno="171" channel-id="171",sky SPORTS NEWS DE HD
 rtp://239.186.70.79:10000
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte DE" tvg-logo="https://static.iptv-epg.com/de/SpiegelGeschichte.de.png" tvg-chno="172" channel-id="172",Spiegel Geschichte HD
+rtp://239.186.70.165:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
@@ -698,3 +704,5 @@ rtp://239.186.68.246:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",PTC CBET HD
 rtp://239.186.74.164:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="474" channel-id="474",,TV Dukagjini HD 
+rtp://239.186.70.178:10000
