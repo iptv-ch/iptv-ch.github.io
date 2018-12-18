@@ -126,6 +126,8 @@ rtp://239.186.64.148:10000
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" channel-id="72",LA TELE FR HD
+rtp://239.186.70.161:10000
 #EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.iptv-epg.com/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000/
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="http://static.iptv-epg.com/ch/LemanBleu.ch.png" tvg-chno="76" channel-id="76",lémanbleu HD
