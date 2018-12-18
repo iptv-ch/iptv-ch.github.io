@@ -400,8 +400,6 @@ rtp://239.186.68.139:10000
 rtp://239.186.64.70:10000
 #EXTINF:-1 tvg-id="SkySportsNews.de" tvg-name="Sky Sports News DE" tvg-logo="http://static.iptv-epg.com/uk/SkySportsNews.de.png" tvg-chno="171" channel-id="171",sky SPORTS NEWS DE HD
 rtp://239.186.70.79:10000
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte DE" tvg-logo="https://static.iptv-epg.com/de/SpiegelGeschichte.de.png" tvg-chno="172" channel-id="172",Spiegel Geschichte HD
-rtp://239.186.70.165:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
@@ -704,5 +702,3 @@ rtp://239.186.68.246:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",PTC CBET HD
 rtp://239.186.74.164:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="474" channel-id="474",,TV Dukagjini HD 
-rtp://239.186.70.178:10000
