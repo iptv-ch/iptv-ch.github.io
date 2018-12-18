@@ -1,7 +1,6 @@
-#EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz,http://epg.clientportal.link/albania.xml.gz,http://epg.clientportal.link/austria.xml.gz,http://epg.clientportal.link/belgium.xml.gz,http://epg.clientportal.link/bulgaria.xml.gz,http://epg.clientportal.link/czech.xml.gz,http://epg.clientportal.link/denmark.xml.gz,http://epg.clientportal.link/estonia.xml.gz,http://epg.clientportal.link/ex-yu.xml.gz,http://epg.clientportal.link/france.xml.gz,http://epg.clientportal.link/germany.xml.gz,http://epg.clientportal.link/greece.xml.gz,http://epg.clientportal.link/hungary.xml.gz,http://epg.clientportal.link/italy.xml.gz,http://epg.clientportal.link/netherlands.xml.gz,http://epg.clientportal.link/norway.xml.gz,http://epg.clientportal.link/poland.xml.gz,http://epg.clientportal.link/portugal.xml.gz,http://epg.clientportal.link/romania.xml.gz,http://epg.clientportal.link/russia.xml.gz,http://epg.clientportal.link/spain.xml.gz,http://epg.clientportal.link/sweden.xml.gz,http://epg.clientportal.link/switzerland.xml.gz,http://epg.clientportal.link/turkey.xml.gz,http://epg.clientportal.link/uk.xml.gz,http://epg.clientportal.link/usa.xml.gz"
-#EXTINF:-1 ,UHD1 by Astra 
+#EXTINF:-1 ,UHD1 by Astra
 rtp://239.186.76.1:10000
-#EXTINF:-1 ,Fashion One 4K
+#EXTINF:-1 ,Fashion 4K UHD
 rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
 rtp://239.186.76.4:10000
@@ -15,9 +14,7 @@ rtp://239.186.76.29:10000
 rtp://239.186.79.23:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.24:10000
-#EXTINF:-1 ,4KUNIVERSE
-rtp://239.186.79.26:10000
-#EXTINF:-1 ,TC Sport Live UHD HLG
+#EXTINF:-1 ,FASHION 4K UHD
 rtp://239.186.79.28:10000
 #EXTINF:-1 ,Stingray Festival 4K Ateme UHD Test
 rtp://239.186.79.29:10000
