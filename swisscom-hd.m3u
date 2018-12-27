@@ -90,8 +90,8 @@ rtp://233.32.39.171:1234
 rtp://239.186.70.106:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="34" channel-id="34",becurious HD
 rtp://239.186.68.208:10000
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.iptv-epg.com/fr/BFMBusiness.fr.png" tvg-chno="36" channel-id="36",BFM BUSINESS
-rtp://239.186.64.146:10000
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.iptv-epg.com/fr/BFMBusiness.fr.png" tvg-chno="36" channel-id="36",BFM BUSINESS fake HD
+rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="http://static.iptv-epg.com/fr/BFMTV.fr.png" tvg-chno="38" channel-id="38",BFMTV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="40" channel-id="40",booster TV HD
