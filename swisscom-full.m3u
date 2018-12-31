@@ -32,9 +32,9 @@ rtp://239.186.70.27:10000
 rtp://239.186.64.40:10000
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="80" channel-id="80",M6 CH HD
 rtp://233.35.254.130:1234
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="81" channel-id="91",6ter CH
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="" channel-id="",6ter CH
 rtp://239.186.66.130:10000
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="82" channel-id="92",6ter CH HD
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="" channel-id="",6ter CH HD
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="103" channel-id="103",TMC CH
 rtp://239.186.64.127:10000
@@ -160,7 +160,7 @@ rtp://239.186.70.24:10000
 rtp://239.186.64.151:10000
 #EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews FR" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="53" channel-id="53",euronews. F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O MU" tvg-logo="http://static.iptv-epg.com/mu/FranceO.mu.png" tvg-chno="61" channel-id="61",FranceO
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O FR" tvg-logo="http://static.iptv-epg.com/fr/FranceO.fr.png" tvg-chno="61" channel-id="61",FranceO
 rtp://239.186.66.27:10000
 #EXTINF:-1 tvg-id="FranceInfo" tvg-name="France Info FR" tvg-logo="http://static.iptv-epg.com/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
