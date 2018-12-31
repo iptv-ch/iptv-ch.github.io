@@ -346,7 +346,7 @@ rtp://239.186.64.93:10000
 rtp://239.186.64.94:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="330" channel-id="330",vision tv
 rtp://239.186.64.62:10000
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",VIVA / comedy central
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central
 rtp://239.186.64.61:10000
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
 rtp://239.186.64.21:10000
