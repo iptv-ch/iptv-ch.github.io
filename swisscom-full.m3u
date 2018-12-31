@@ -394,9 +394,9 @@ rtp://239.186.68.143:10000
 rtp://239.186.64.26:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="http://static.iptv-epg.com/de/BR.de.png" tvg-chno="195" channel-id="195",BR HD
 rtp://239.186.68.26:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="196" channel-id="196",CCone (ex City Channel1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="196" channel-id="196",CCone
 rtp://239.186.64.107:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="197" channel-id="197",CCone HD (ex City Channel1 HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="197" channel-id="197",CCone HD
 rtp://239.186.70.8:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="198" channel-id="198",Channel55 D
 rtp://239.186.66.238:10000
@@ -432,6 +432,8 @@ rtp://233.21.50.45:1234
 rtp://239.186.66.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.TV
 rtp://239.186.66.197:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",FOX D
+rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.iptv-epg.com/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
 rtp://239.186.64.141:10000
 #EXTINF:-1 tvg-id="HopeChannelInt.us" tvg-name="Hope Channel Int. US" tvg-logo="http://static.iptv-epg.com/us/HopeChannelInt.us.png" tvg-chno="214" channel-id="214",HopeChannel
