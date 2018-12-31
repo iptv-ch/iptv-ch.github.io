@@ -682,11 +682,11 @@ rtp://239.186.70.20:10000
 rtp://239.186.64.94:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="http://static.iptv-epg.com/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
 rtp://239.186.70.4:10000
-#EXTINF:-1 tvg-id="Vision.ca" tvg-name="Vision TV CA" tvg-logo="http://static.iptv-epg.com/ca/Vision.ca.png" tvg-chno="330" channel-id="330",vision tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.iptv-epg.com/ca/Vision.ca.png" tvg-chno="330" channel-id="330",vision tv
 rtp://239.186.64.62:10000
-#EXTINF:-1 tvg-id="Vision.ca" tvg-name="Vision TV CA" tvg-logo="http://static.iptv-epg.com/ca/Vision.ca.png" tvg-chno="331" channel-id="331",vision tv HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.iptv-epg.com/ca/Vision.ca.png" tvg-chno="331" channel-id="331",vision tv HD
 rtp://239.186.70.65:10000
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",VIVA / comedy central
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central
 rtp://239.186.64.61:10000
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
 rtp://239.186.64.21:10000
