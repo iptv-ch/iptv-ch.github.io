@@ -54,7 +54,7 @@ rtp://233.21.50.52:1234
 rtp://233.21.50.70:1234
 #EXTINF:-1 tvg-id="Mangas" tvg-name="Mangas FR" tvg-logo="http://static.iptv-epg.com/fr/Mangas.fr.png" tvg-chno="11" channel-id="11",Mangas
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorsport TV FR" tvg-logo="https://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="12" channel-id="12",motorvision.tv HD (fra/eng)
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorsport TV FR" tvg-logo="http://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="12" channel-id="12",motorvision.tv HD (fra/eng)
 rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
 rtp://233.21.50.54:1234
@@ -511,7 +511,7 @@ rtp://239.186.66.188:10000
 rtp://239.186.66.187:10000
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.iptv-epg.com/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="359" channel-id="359",Discovery-italia MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend US" tvg-logo="http://static.iptv-epg.com/us/MotorTrend.us.png" tvg-chno="359" channel-id="359",Discovery-italia MOTOR TREND
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.iptv-epg.com/it/NOVE.it.png" tvg-chno="361" channel-id="361",Discovery-italia NOVE
 rtp://239.186.64.158:10000
@@ -612,7 +612,7 @@ rtp://239.186.66.108:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
 rtp://239.186.64.194:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="420" channel-id="420",360
+#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="SkyTurk360.tr" tvg-logo="http://static.iptv-epg.com/tr/SkyTurk360.tr.png" tvg-chno="420" channel-id="420",360
 rtp://239.186.64.204:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa
 rtp://239.186.64.201:10000
