@@ -358,6 +358,8 @@ rtp://239.186.68.35:10000
 rtp://239.186.68.12:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="http://static.iptv-epg.com/at/ORF2.at.png" tvg-chno="247" channel-id="247",ORF2 HD
 rtp://239.186.68.13:10000
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-logo="http://static.iptv-epg.com/at/ORF3.at.png" tvg-chno="248" channel-id="248",ORF3
+rtp://239.186.64.86:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.iptv-epg.com/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7 HD
