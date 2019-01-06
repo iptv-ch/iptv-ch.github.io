@@ -16,11 +16,11 @@ rtp://239.186.64.38:10000
 rtp://239.186.64.39:10000
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="79" channel-id="79",M6 CH
 rtp://239.186.64.40:10000
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="103" channel-id="103",TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="103" channel-id="103",TMC CH
 rtp://239.186.64.127:10000
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="http://static.iptv-epg.com/fr/NRJ12.fr.png" tvg-chno="83" channel-id="83",NRJ12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="http://static.iptv-epg.com/fr/NRJ12.fr.png" tvg-chno="83" channel-id="83",NRJ12 CH
 rtp://239.186.64.58:10000
-#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" tvg-chno="101" channel-id="101",TFX (ex NT1)
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" tvg-chno="101" channel-id="101",TFX CH
 rtp://239.186.64.42:10000
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="http://static.iptv-epg.com/fr/C8.fr.png" tvg-chno="48" channel-id="48",C8 CH
 rtp://239.186.64.59:10000
@@ -46,7 +46,7 @@ rtp://239.186.64.108:10000
 rtp://239.186.64.106:10000
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.iptv-epg.com/ch/CanalAlpha.ch.png" tvg-chno="46" channel-id="46",Canal Alpha NE
 rtp://239.186.64.92:10000
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="http://static.iptv-epg.com/fr/CStar.fr.png" tvg-chno="50" channel-id="50",CSTAR
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="http://static.iptv-epg.com/fr/CStar.fr.png" tvg-chno="50" channel-id="50",CSTAR CH
 rtp://239.186.66.26:10000
 #EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews FR" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="52" channel-id="52",euronews. F
 rtp://239.186.64.151:10000
@@ -107,12 +107,10 @@ rtp://239.186.64.113:10000
 rtp://239.186.64.176:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="http://static.iptv-epg.com/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
 rtp://239.186.64.177:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="132" channel-id="132",BOX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="132" channel-id="132",The BOX
 rtp://239.186.66.142:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="133" channel-id="133",BOX upfront
 rtp://239.186.66.124:10000
-#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-name="Capital TV UK" tvg-logo="http://static.iptv-epg.com/uk/CapitalTV.uk.png" tvg-chno="134" channel-id="134",Capital TV
-rtp://239.186.66.113:10000
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" tvg-chno="135" channel-id="135",CGTN
 rtp://239.186.66.114:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
@@ -161,7 +159,7 @@ rtp://239.186.64.105:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
-#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int.
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news
 rtp://239.186.64.179:10000
@@ -174,10 +172,10 @@ rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
 #EXTREM:german
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="172" channel-id="172",3+
-rtp://239.186.64.56:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" tvg-chno="174" channel-id="174",3sat
 rtp://239.186.64.55:10000
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="172" channel-id="172",3+
+rtp://239.186.64.56:10000
 #EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="http://static.iptv-epg.com/ch/4Plus.ch.png" tvg-chno="176" channel-id="176",4+
 rtp://239.186.64.142:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="179" channel-id="179",AlpenlandTV
@@ -262,7 +260,7 @@ rtp://239.186.64.186:10000
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.iptv-epg.com/de/ntv.de.png" tvg-chno="241" channel-id="241",ntv
 rtp://239.186.64.29:10000
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" tvg-chno="244" channel-id="244",ORF eins
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" tvg-chno="244" channel-id="244",ORF1 eins
 rtp://239.186.64.13:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="http://static.iptv-epg.com/at/ORF2.at.png" tvg-chno="246" channel-id="246",ORF2
 rtp://239.186.64.14:10000
@@ -365,7 +363,7 @@ rtp://239.186.64.66:10000
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="347" channel-id="347",ALICE
 rtp://239.186.66.107:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="348" channel-id="348",ANTENNA TRE A3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="348" channel-id="348",ANTENNA3 A3
 rtp://239.186.74.18:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.iptv-epg.com/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
 rtp://239.186.64.74:10000
