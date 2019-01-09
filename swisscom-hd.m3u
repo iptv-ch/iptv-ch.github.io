@@ -126,6 +126,8 @@ rtp://239.186.64.148:10000
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="303" channel-id="303",TeleBielingue HD
+rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.iptv-epg.com/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000/
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="http://static.iptv-epg.com/ch/LemanBleu.ch.png" tvg-chno="76" channel-id="76",lemanbleu HD
@@ -428,8 +430,6 @@ rtp://239.186.68.176:10000
 rtp://239.186.64.22:10000
 #EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.iptv-epg.com/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
 rtp://239.186.68.38:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="303" channel-id="303",TeleBielingue HD
-rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="304" channel-id="304",TELE D HD
 rtp://239.186.68.217:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1 CH" tvg-logo="http://static.iptv-epg.com/ch/TeleM1.ch.png" tvg-chno="306" channel-id="306",Tele M1 HD
