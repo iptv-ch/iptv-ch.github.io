@@ -126,9 +126,6 @@ rtp://239.186.64.148:10000
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" channel-id="72",LA TELE FR HD
-rtp://239.186.70.161:10000
-
 #EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.iptv-epg.com/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000/
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="http://static.iptv-epg.com/ch/LemanBleu.ch.png" tvg-chno="76" channel-id="76",lemanbleu HD
@@ -162,8 +159,6 @@ rtp://239.186.79.78:10000
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="62" channel-id="62",6ter HD
 rtp://239.186.68.134:10000
 #EXTREM:english
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",Al Jazeera E HD
-rtp://239.186.68.171:10000
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC2.uk.png" tvg-chno="121" channel-id="121",BBC Two HD
@@ -178,6 +173,8 @@ rtp://239.186.68.152:10000
 rtp://239.186.68.160:10000
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News UK" tvg-logo="http://static.iptv-epg.com/uk/BBCWorldNews.uk.png" tvg-chno="130" channel-id="130",BBC World News HD
 rtp://239.186.68.214:10000
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="http://static.iptv-epg.com/uk/BBCParliament.uk.png" tvg-chno="91" channel-id="103",BBC Parliament
+rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="http://static.iptv-epg.com/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV uk
 rtp://239.186.64.177:10000
 #EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="https://static.iptv-epg.com/uk/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
@@ -244,10 +241,10 @@ rtp://239.186.64.179:10000
 rtp://239.186.66.244:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="http://static.iptv-epg.com/uk/FiveUSA.uk.png" tvg-chno="245" channel-id="245",5USA
 rtp://239.186.66.242:10000
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="http://static.iptv-epg.com/uk/BBCParliament.uk.png" tvg-chno="91" channel-id="103",BBC Parliament
-rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="http://static.iptv-epg.com/uk/PBSAmerica.uk.png" tvg-chno="137" channel-id="",PBS America
 rtp://239.186.66.243:10000
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA E HD
+rtp://239.186.68.171:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://233.35.254.209:1234
