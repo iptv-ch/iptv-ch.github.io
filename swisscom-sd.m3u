@@ -76,6 +76,8 @@ rtp://239.186.64.149:10000
 rtp://239.186.64.102:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="85" channel-id="85",NRTV
 rtp://239.186.66.198:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="302" channel-id="302",TeleBielingue
+rtp://239.186.64.95:10000
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.iptv-epg.com/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",rougeTV
 rtp://239.186.64.145:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GENEVE REGION TELEVISION
@@ -316,8 +318,6 @@ rtp://239.186.64.91:10000
 rtp://239.186.64.22:10000
 #EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.iptv-epg.com/ch/TeleBaern.ch.png" tvg-chno="300" channel-id="300",telebaern
 rtp://239.186.64.60:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="302" channel-id="302",TeleBielingue
-rtp://239.186.64.95:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1 CH" tvg-logo="http://static.iptv-epg.com/ch/TeleM1.ch.png" tvg-chno="305" channel-id="305",Tele M1
 rtp://239.186.64.90:10000
 #EXTINF:-1 tvg-id="TeleTop.ch" tvg-name="Tele Top CH" tvg-logo="http://static.iptv-epg.com/ch/TeleTop.ch.png" tvg-chno="307" channel-id="307",Tele Top
