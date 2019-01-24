@@ -362,6 +362,8 @@ rtp://239.186.68.13:10000
 rtp://239.186.64.86:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.iptv-epg.com/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7
+rtp://239.186.64.19:10000
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro 7 Maxx DE" tvg-logo="http://static.iptv-epg.com/de/ProSiebenMaxx.de.png" tvg-chno="253" channel-id="253",Pro7 Maxx CH HD
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls Acht CH" tvg-logo="http://static.iptv-epg.com/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD / Puls8 HD
