@@ -161,7 +161,7 @@ rtp://239.186.79.78:10000
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="62" channel-id="62",6ter HD
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.iptv-epg.com/ch/ajoie.ch.png" tvg-chno="" channel-id="",Ajoie HD
-rtp://239.186.68.134:10000
+rtp://239.186.70.180:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
