@@ -570,3 +570,5 @@ rtp://239.186.64.83:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AlJazeeraArabic.qa" tvg-logo="http://static.iptv-epg.com/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
 rtp://239.186.64.173:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Pink Reality
+rtp://239.186.74.39:10000
