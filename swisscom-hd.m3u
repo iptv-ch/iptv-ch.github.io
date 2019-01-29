@@ -160,6 +160,8 @@ rtp://239.186.70.132:10000
 rtp://239.186.79.78:10000
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="62" channel-id="62",6ter HD
 rtp://239.186.68.134:10000
+#EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.iptv-epg.com/ch/ajoie.ch.png" tvg-chno="" channel-id="",Ajoie HD
+rtp://239.186.68.134:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
@@ -177,8 +179,8 @@ rtp://239.186.68.160:10000
 rtp://239.186.68.214:10000
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="http://static.iptv-epg.com/uk/BBCParliament.uk.png" tvg-chno="91" channel-id="103",BBC Parliament
 rtp://239.186.74.25:10000
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="http://static.iptv-epg.com/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV uk
-rtp://239.186.64.177:10000
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="http://static.iptv-epg.com/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV HD UK
+rtp://239.186.68.125:10000
 #EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="https://static.iptv-epg.com/uk/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
 rtp://239.186.66.142:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="133" channel-id="133",BOX upfront
@@ -256,6 +258,8 @@ rtp://239.186.68.14:10000
 rtp://239.186.68.142:10000
 #EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ CH" tvg-logo="http://static.iptv-epg.com/ch/5Plus.ch.png" tvg-chno="178" channel-id="178",5+ HD
 rtp://239.186.68.195:10000
+#EXTINF:-1 tvg-id="Alf-TV.de" tvg-name="Alf-TV DE" tvg-logo="http://static.iptv-epg.com/de/Alf-tv.de.png" tvg-chno="" channel-id="",ALF-TV HD
+rtp://239.186.70.179:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="180" channel-id="180",AlpenlandTV HD
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE HD
@@ -300,6 +304,8 @@ rtp://239.186.64.34:10000
 rtp://239.186.66.241:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.iptv-epg.com/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
+#EXTINF:-1 tvg-id="Eurolatino.de" tvg-name="Eurolatino DE" tvg-logo="http://static.iptv-epg.com/de/Eurolatino.de.png" tvg-chno="" channel-id="",Eurolatino D HD
+rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews D HD
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
@@ -330,6 +336,8 @@ rtp://239.186.70.86:10000
 rtp://239.186.68.145:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.iptv-epg.com/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
 rtp://239.186.68.28:10000
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt DE" tvg-logo="http://static.iptv-epg.com/de/Kinowelt.de.png" tvg-chno="" channel-id="",kinowelt.tv HD
+rtp://239.186.70.163:10000
 #EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.iptv-epg.com/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv
 rtp://239.186.64.133:10000
 #EXTINF:-1 tvg-id="Loly.il" tvg-name="Loly IL" tvg-logo="http://static.iptv-epg.com/il/Loly.il.png" tvg-chno="228" channel-id="228",LOLY
@@ -704,3 +712,5 @@ rtp://239.186.68.246:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",PTC CBET HD
 rtp://239.186.70.164:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Pink Reality
+rtp://239.186.74.39:10000
