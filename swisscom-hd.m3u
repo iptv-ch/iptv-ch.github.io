@@ -58,7 +58,7 @@ rtp://233.21.50.2:1234
 rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
 rtp://233.21.50.54:1234
-#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeoWild.fr.png" tvg-chno="14" channel-id="14",Nat Geo Wild HD French (fra/eng)
+#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeoWild.fr.png" tvg-chno="14" channel-id="14",National Geographic Wild HD French (fra/eng)
 rtp://233.21.50.55:1234
 #EXTINF:-1 tvg-id="Voyage" tvg-name="Voyage FR" tvg-logo="http://static.iptv-epg.com/fr/Voyage.fr.png" tvg-chno="15" channel-id="15",Voyage HD
 rtp://233.21.50.56:1234
@@ -74,9 +74,9 @@ rtp://233.21.50.127:1234
 rtp://233.32.39.142:1234
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="http://static.iptv-epg.com/fr/ChassePeche.fr.png" tvg-chno="21" channel-id="21",Chasse & Peche HD
 rtp://233.32.39.143:1234
-#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel US" tvg-logo="http://static.iptv-epg.com/us/GolfChannel.us.png" tvg-chno="22" channel-id="22",Golf Channel HD
+#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel US" tvg-logo="http://static.iptv-epg.com/us/GolfChannel.us.png" tvg-chno="22" channel-id="22",Golf HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.iptv-epg.com/fr/NauticalChannel.fr.png" tvg-chno="23" channel-id="23",Nautical HD
+#EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.iptv-epg.com/fr/NauticalChannel.fr.png" tvg-chno="23" channel-id="23",Nautical Channel HD
 rtp://233.21.50.17:1234
 #EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="rmcsa2" tvg-logo="https://skysiertv.com/stv/chaines/rmcsa2/logo.jpg" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
@@ -231,7 +231,7 @@ rtp://239.186.64.171:10000
 rtp://239.186.74.14:10000
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="http://static.iptv-epg.com/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
-#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="http://static.iptv-epg.com/uk/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss TV
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="http://static.iptv-epg.com/uk/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
@@ -239,7 +239,7 @@ rtp://239.186.64.185:10000
 rtp://239.186.68.172:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="169" channel-id="169",Russia Today
 rtp://239.186.66.139:10000
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS international
 rtp://239.186.64.179:10000
 #EXTINF:-1 tvg-id="FiveSpike.uk" tvg-name="5Spike UK" tvg-logo="" tvg-chno="http://static.iptv-epg.com/uk/FiveSpike.uk.png" channel-id="",5Spike
 rtp://239.186.66.244:10000
@@ -310,7 +310,7 @@ rtp://239.186.70.101:10000
 rtp://239.186.64.33:10000
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra DE" tvg-logo="https://static.iptv-epg.com/de/Eurosport2Xtra.de.png" tvg-chno="229" channel-id="229",EUROSPORT2 XTRA HD D
 rtp://233.21.50.45:1234
-#EXTINF:-1 tvg-id="FamilyTV.de" tvg-name="Family TV DE" tvg-logo="http://static.iptv-epg.com/de/FamilyTV.de.png" tvg-chno="211" channel-id="211",FAMILY TV
+#EXTINF:-1 tvg-id="tm3tv.de" tvg-name="tm3.tv DE" tvg-logo="http://static.iptv-epg.com/de/tm3tv.de.png" tvg-chno="211" channel-id="211",tm3.tv
 rtp://239.186.66.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.tv
 rtp://239.186.66.197:10000
@@ -468,7 +468,7 @@ rtp://239.186.70.20:10000
 rtp://239.186.70.4:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="331" channel-id="331",vision tv CH HD
 rtp://239.186.70.65:10000
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central D
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz
 rtp://239.186.64.61:10000
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
 rtp://239.186.64.21:10000
@@ -644,7 +644,7 @@ rtp://239.186.64.205:10000
 rtp://239.186.64.192:10000
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="http://static.iptv-epg.com/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1 TV
 rtp://239.186.66.111:10000
-#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="http://static.iptv-epg.com/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="http://static.iptv-epg.com/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV 4 Europe CN" tvg-logo="http://static.iptv-epg.com/cn/CCTV4Europe.cn.png" tvg-chno="436" channel-id="436",CCTV4 HD
 rtp://239.186.70.89:10000
