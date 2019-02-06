@@ -304,8 +304,6 @@ rtp://239.186.64.34:10000
 rtp://239.186.66.241:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.iptv-epg.com/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
-#EXTINF:-1 tvg-id="Eurolatino.de" tvg-name="Eurolatino DE" tvg-logo="http://static.iptv-epg.com/de/Eurolatino.de.png" tvg-chno="" channel-id="",Eurolatino D HD
-rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews D HD
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
@@ -490,6 +488,8 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
+#EXTINF:-1 tvg-id="tccinemax.de" tvg-name="TC Cinemax DE" tvg-logo="http://static.iptv-epg.com/de/tccinemax.de.png" tvg-chno="" channel-id="",TC Cinemax HD
+rtp://239.186.79.21:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
@@ -710,3 +710,5 @@ rtp://239.186.68.246:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",PTC CBET HD
 rtp://239.186.70.164:10000
+#EXTINF:-1 tvg-id="Eurolatino.de" tvg-name="Eurolatino DE" tvg-logo="http://static.iptv-epg.com/de/Eurolatino.de.png" tvg-chno="" channel-id="",eurolatino.tv HD
+rtp://239.186.70.150:10000
