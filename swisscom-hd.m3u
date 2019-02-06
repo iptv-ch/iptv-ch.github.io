@@ -336,8 +336,6 @@ rtp://239.186.70.86:10000
 rtp://239.186.68.145:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.iptv-epg.com/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
 rtp://239.186.68.28:10000
-#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt DE" tvg-logo="http://static.iptv-epg.com/de/Kinowelt.de.png" tvg-chno="" channel-id="",kinowelt.tv HD
-rtp://239.186.70.163:10000
 #EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.iptv-epg.com/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv
 rtp://239.186.64.133:10000
 #EXTINF:-1 tvg-id="Loly.il" tvg-name="Loly IL" tvg-logo="http://static.iptv-epg.com/il/Loly.il.png" tvg-chno="228" channel-id="228",LOLY
