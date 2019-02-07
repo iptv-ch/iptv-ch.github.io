@@ -328,8 +328,6 @@ rtp://239.186.64.123:10000
 rtp://239.186.70.75:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="http://static.iptv-epg.com/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
 rtp://239.186.64.20:10000
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel 1 Doku DE" tvg-logo="http://static.iptv-epg.com/de/KabelEinsDoku.de.png" tvg-chno="222" channel-id="222",kabel eins DOKU CH HD
-rtp://239.186.70.86:10000
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="http://static.iptv-epg.com/ch/Kanal9.ch.png" tvg-chno="224" channel-id="224",Kanal9 HD
 rtp://239.186.68.145:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.iptv-epg.com/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
@@ -368,8 +366,6 @@ rtp://239.186.64.86:10000
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7
 rtp://239.186.64.19:10000
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro 7 Maxx DE" tvg-logo="http://static.iptv-epg.com/de/ProSiebenMaxx.de.png" tvg-chno="253" channel-id="253",Pro7 Maxx CH HD
-rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls Acht CH" tvg-logo="http://static.iptv-epg.com/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD / Puls8 HD
 rtp://239.186.68.191:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24
@@ -390,8 +386,6 @@ rtp://239.186.66.201:10000
 rtp://239.186.68.147:10000
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
 rtp://239.186.64.18:10000
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold DE" tvg-logo="http://static.iptv-epg.com/de/Sat1Gold.de.png" tvg-chno="266" channel-id="266",Sat.1 Gold CH HD
-rtp://239.186.70.88:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="268" channel-id="268",Schweiz5 HD / CCONE HD
 rtp://239.186.68.245:10000
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="Servus TV" tvg-logo="http://static.iptv-epg.com/de/ServusTV.at.png" tvg-chno="270" channel-id="270",ServusTV Deutschland HD
