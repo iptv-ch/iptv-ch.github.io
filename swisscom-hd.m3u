@@ -249,6 +249,8 @@ rtp://239.186.66.242:10000
 rtp://239.186.66.243:10000
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA E HD
 rtp://239.186.68.171:10000
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="" channel-id="",BBC One HD 1080p test
+rtp://239.186.79.25:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://233.35.254.209:1234
