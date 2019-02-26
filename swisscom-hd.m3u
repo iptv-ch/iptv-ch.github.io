@@ -209,6 +209,8 @@ rtp://239.186.64.135:10000
 rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="http://static.iptv-epg.com/uk/EuroNews.uk.png" tvg-chno="149" channel-id="149",euronews E HD
 rtp://239.186.70.105:10000
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="Fashion TV FR" tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-chno="151" channel-id="151",Fashion TV HD
+rtp://233.32.39.198:1234
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="http://static.iptv-epg.com/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="5 UK" tvg-logo="http://static.iptv-epg.com/uk/channel5.uk.png" tvg-chno="" channel-id="",Five HD
