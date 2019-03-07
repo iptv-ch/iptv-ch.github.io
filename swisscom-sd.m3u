@@ -30,6 +30,8 @@ rtp://239.186.66.24:10000
 rtp://239.186.64.57:10000
 #EXTINF:-1 tvg-id="AB3" tvg-name="AB 3 FR" tvg-logo="http://static.iptv-epg.com/fr/AB3.fr.png" tvg-chno="30" channel-id="30",AB3 CH
 rtp://239.186.66.229:10000
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL9 LU" tvg-logo="http://static.iptv-epg.com/fr/rtl9.lu.png" tvg-chno="31" channel-id="31",RTL9 CH
+rtp://239.186.64.155:10000
 #EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="28" channel-id="28",8Mont-Blanc
 rtp://239.186.64.144:10000
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.iptv-epg.com/fr/BFMBusiness.fr.png" tvg-chno="35" channel-id="35",BFM BUSINESS
