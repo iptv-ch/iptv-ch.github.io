@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,HotBird4K1
-rtp://233.21.50.3:1234
 #EXTINF:-1 ,UHD1 by Astra 
 rtp://239.186.76.1:10000
 #EXTINF:-1 ,Fashion One 4K
@@ -17,7 +15,7 @@ rtp://239.186.76.29:10000
 rtp://239.186.79.23:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.24:10000
-#EXTINF:-1 ,Stingray Festival UHD
+#EXTINF:-1 ,HotBird4K1 UHD
 rtp://239.186.79.25:10000
 #EXTINF:-1 ,4KUNIVERSE
 rtp://239.186.79.26:10000
