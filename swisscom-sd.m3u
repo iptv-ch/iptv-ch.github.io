@@ -566,4 +566,18 @@ rtp://239.186.64.83:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AlJazeeraArabic.qa" tvg-logo="http://static.iptv-epg.com/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
 rtp://239.186.64.173:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",OBN TV
+rtp://239.186.66.245:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
+rtp://239.186.66.246:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",SIC Noticias
+rtp://239.186.66.248:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",tvi ficcao
+rtp://239.186.66.249:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",tvi internacional
+rtp://239.186.66.250:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",TIN The Israeli Network
+rtp://239.186.66.251:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",RTP3
+rtp://239.186.66.252:10000
 
