@@ -734,13 +734,13 @@ rtp://239.186.70.191:10000
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",SIC Noticias
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SicNoticias PT" tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" tvg-chno="" channel-id="",SIC Noticias
 rtp://239.186.66.248:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",tvi ficcao
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao PT" tvg-logo="https://static.iptv-epg.com/pt/TVIFiccao.pt.png" tvg-chno="" channel-id="",tvi ficcao
 rtp://239.186.66.249:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",tvi internacional
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVIInternacional PT" tvg-logo="https://static.iptv-epg.com/pt/TVIInternacional.pt.png" tvg-chno="" channel-id="",tvi internacional
 rtp://239.186.66.250:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",TIN The Israeli Network
 rtp://239.186.66.251:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",RTP3
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="Rtp3 PT" tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" tvg-chno="" channel-id="",RTP3
 rtp://239.186.66.252:10000
