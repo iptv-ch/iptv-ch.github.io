@@ -218,8 +218,6 @@ rtp://239.186.64.129:10000
 rtp://239.186.64.137:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
 rtp://239.186.64.33:10000
-#EXTINF:-1 tvg-id="tm3.tv de" tvg-name="tm3.tv DE" tvg-logo="http://static.iptv-epg.com/de/tm3tv.de.png" tvg-chno="211" channel-id="211",tm3.tv
-rtp://239.186.66.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",Folx
 rtp://239.186.66.197:10000
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="https://static.iptv-epg.com/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
