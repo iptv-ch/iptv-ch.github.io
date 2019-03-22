@@ -720,7 +720,7 @@ rtp://239.186.64.197:10000
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.iptv-epg.com/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record Int. EU HD
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.iptv-epg.com/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
