@@ -28,7 +28,7 @@ rtp://239.186.68.215:10000
 rtp://239.186.70.38:10000
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
 rtp://239.186.68.242:10000
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte FR" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="33" channel-id="33",Arte F HD
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte FR" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="33" channel-id="33",arte F HD
 rtp://239.186.68.18:10000
 #EXTINF:-1 tvg-id="AB3" tvg-name="AB 3 FR" tvg-logo="http://static.iptv-epg.com/fr/AB3.fr.png" tvg-chno="31" channel-id="31",AB3 CH HD
 rtp://239.186.68.33:10000
