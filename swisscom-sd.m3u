@@ -82,7 +82,7 @@ rtp://239.186.66.198:10000
 rtp://239.186.64.95:10000
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.iptv-epg.com/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",rougeTV
 rtp://239.186.64.145:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GENEVE REGION TELEVISION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV
 rtp://239.186.64.69:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="97" channel-id="97",TELECLUB zoom F
 rtp://239.186.64.111:10000
