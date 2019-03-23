@@ -254,6 +254,10 @@ rtp://239.186.68.171:10000
 #EXTINF:-1 tvg-id="Smithsonian.uk" tvg-name="Smithsonian UK" tvg-logo="http://static.iptv-epg.com/uk/Smithsonian.uk.png" tvg-chno="" channel-id="",Smithsonian Channel UK HD
 rtp://239.186.70.189:10000
 #EXTREM:german
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
+rtp://239.186.68.1:10000
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.iptv-epg.com/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
+rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://233.35.254.209:1234
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
@@ -348,7 +352,7 @@ rtp://239.186.68.162:10000
 rtp://239.186.74.15:10000
 #EXTINF:-1 tvg-id="MTVSchweiz.ch" tvg-name="MTV DE" tvg-logo="http://static.iptv-epg.com/de/MTVSchweiz.ch.png" tvg-chno="233" channel-id="233",MTV CH HD
 rtp://239.186.68.174:10000
-#EXTINF:-1 tvg-id="Music24.il" tvg-name="Music 24 IL" tvg-logo="http://static.iptv-epg.com/il/Music24.il.png" tvg-chno="234" channel-id="234",musig24 HD
+#EXTINF:-1 tvg-id="Musig24.ch" tvg-name="Musig24 CH" tvg-logo="http://static.iptv-epg.com/ch/Musig24.ch.png" tvg-chno="234" channel-id="234",musig24 HD
 rtp://239.186.68.207:10000
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="http://static.iptv-epg.com/de/N24Doku.de.png" tvg-chno="235" channel-id="235",N24 Doku
 rtp://239.186.66.232:10000
@@ -410,10 +414,6 @@ rtp://239.186.64.70:10000
 rtp://239.186.70.79:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
-rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.iptv-epg.com/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
-rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.iptv-epg.com/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",Star TV HD
