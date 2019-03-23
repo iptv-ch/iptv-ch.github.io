@@ -54,7 +54,7 @@ rtp://233.21.50.52:1234
 rtp://233.21.50.70:1234
 #EXTINF:-1 tvg-id="Mangas" tvg-name="Mangas FR" tvg-logo="http://static.iptv-epg.com/fr/Mangas.fr.png" tvg-chno="11" channel-id="11",Mangas HD
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorsport TV FR" tvg-logo="http://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="12" channel-id="12",motorvision.tv HD
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV FR" tvg-logo="http://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="12" channel-id="12",motorvision.tv HD
 rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
 rtp://233.21.50.54:1234
@@ -96,7 +96,7 @@ rtp://239.186.70.74:10000
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="40" channel-id="40",booster HD
 rtp://239.186.70.104:10000
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="Canal+ FR" tvg-logo="http://static.iptv-epg.com/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ programmes en clair
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="Canal+ FR" tvg-logo="http://static.iptv-epg.com/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ en clair
 rtp://239.186.79.5:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="https://static.iptv-epg.com/ch/Canal9.ch.png" tvg-chno="43" channel-id="43",Canal9 HD
 rtp://239.186.68.144:10000
@@ -623,21 +623,39 @@ rtp://239.186.66.184:10000
 rtp://239.186.66.240:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
-#EXTREM:others
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
-rtp://239.186.64.194:10000
-#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="SkyTurk360.tr" tvg-logo="http://static.iptv-epg.com/tr/SkyTurk360.tr.png" tvg-chno="420" channel-id="420",360 HD
-rtp://239.186.70.184:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa
-rtp://239.186.64.201:10000
+#EXTREM:portuguese
+#EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.iptv-epg.com/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
+rtp://239.186.70.149:10000
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.iptv-epg.com/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
+rtp://239.186.68.246:10000
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
+rtp://239.186.64.77:10000
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SicNoticias PT" tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" tvg-chno="" channel-id="",SIC Noticias
+rtp://239.186.66.248:10000
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao PT" tvg-logo="https://static.iptv-epg.com/pt/TVIFiccao.pt.png" tvg-chno="" channel-id="",tvi ficcao
+rtp://239.186.66.249:10000
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVIInternacional PT" tvg-logo="https://static.iptv-epg.com/pt/TVIInternacional.pt.png" tvg-chno="" channel-id="",tvi internacional
+rtp://239.186.66.250:10000
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="Rtp3 PT" tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" tvg-chno="" channel-id="",RTP3
+rtp://239.186.66.252:10000
+#EXTREM:spanish
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="423" channel-id="423",Canal Extremadura
 rtp://239.186.64.222:10000
-#EXTINF:-1 tvg-id="EuroD.nl" tvg-name="Euro D NL" tvg-logo="http://static.iptv-epg.com/nl/EuroD.nl.png" tvg-chno="424" channel-id="424",Euro D
-rtp://239.186.64.199:10000
-#EXTINF:-1 tvg-id="Eurostar.nl" tvg-name="Eurostar NL" tvg-logo="http://static.iptv-epg.com/nl/Eurostar.nl.png" tvg-chno="425" channel-id="425",EURO STAR
-rtp://239.186.66.121:10000
+#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-logo="http://static.iptv-epg.com/es/CanalAndalucia.es.png" tvg-chno="467" channel-id="467",Andalucia TV
+rtp://239.186.64.197:10000
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="http://static.iptv-epg.com/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",TV Galicia
+rtp://239.186.64.187:10000
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international
+rtp://239.186.64.54:10000
+#EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="" channel-id="",LATINOS1 HD
+rtp://239.186.70.150:10000
+#EXTREM:turkish
+#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="SkyTurk360.tr" tvg-logo="http://static.iptv-epg.com/tr/SkyTurk360.tr.png" tvg-chno="420" channel-id="420",360 HD
+rtp://239.186.70.184:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa
+rtp://239.186.64.201:10000
 #EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Powerturk TR" tvg-logo="http://static.iptv-epg.com/tr/Powerturk.tr.png" tvg-chno="427" channel-id="427",POWERTURK HD
 rtp://239.186.70.122:10000
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="Showmax TR" tvg-logo="http://static.iptv-epg.com/tr/Showmax.tr.png" tvg-chno="428" channel-id="428",SHOW MAX
@@ -648,6 +666,21 @@ rtp://239.186.64.200:10000
 rtp://239.186.64.188:10000
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
 rtp://239.186.64.205:10000
+#EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRTBELGESEL TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBELGESEL.tr.png" tvg-chno="" channel-id="",TRTBELGESEL HD
+rtp://239.186.70.186:10000
+#EXTINF:-1 tvg-id="TRTCOCUK.tr" tvg-name="TRT COCUK TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCOCUK.tr.png" tvg-chno="" channel-id="",TRT COCUK HD
+rtp://239.186.70.185:10000
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî TR" tvg-logo="http://static.iptv-epg.com/tr/TRTKurdi.tr.png" tvg-chno="463" channel-id="463",TRT KURDI
+rtp://239.186.66.204:10000
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TRT SPOR TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSPOR.tr.png" tvg-chno="" channel-id="",TRT SPOR HD
+rtp://239.186.70.187:10000
+#EXTREM:others
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
+rtp://239.186.64.194:10000
+#EXTINF:-1 tvg-id="EuroD.nl" tvg-name="Euro D NL" tvg-logo="http://static.iptv-epg.com/nl/EuroD.nl.png" tvg-chno="424" channel-id="424",Euro D
+rtp://239.186.64.199:10000
+#EXTINF:-1 tvg-id="Eurostar.nl" tvg-name="Eurostar NL" tvg-logo="http://static.iptv-epg.com/nl/Eurostar.nl.png" tvg-chno="425" channel-id="425",EURO STAR
+rtp://239.186.66.121:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.iptv-epg.com/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al Arabiya
 rtp://239.186.64.192:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraArabic.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA Arabic
@@ -680,14 +713,12 @@ rtp://239.186.70.183:10000
 rtp://239.186.66.141:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="449" channel-id="449",Kurdistan TV HD
 rtp://239.186.70.129:10000
-#EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.iptv-epg.com/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
-rtp://239.186.70.149:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="451" channel-id="451",PHOENIX NEWS taiwan
 rtp://239.186.66.132:10000
-#EXTINF:-1 tvg-id="PlanetTurk.tr" tvg-name="Planet Türk TR" tvg-logo="http://static.iptv-epg.com/tr/PlanetTurk.tr.png" tvg-chno="452" channel-id="452",PLANETA RTR
-rtp://239.186.66.138:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="454" channel-id="454",PTPC www.rtrs.tv
 rtp://239.186.66.136:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="452" channel-id="452",PLANETA RTR
+rtp://239.186.66.138:10000
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="http://static.iptv-epg.com/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV
 rtp://239.186.66.135:10000
 #EXTINF:-1 tvg-id="RiK.sk" tvg-name="RiK SK" tvg-logo="http://static.iptv-epg.com/sk/RiK.sk.png" tvg-chno="456" channel-id="456",RiK Sat
@@ -700,47 +731,19 @@ rtp://239.186.68.247:10000
 rtp://239.186.64.198:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRTBELGESEL TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBELGESEL.tr.png" tvg-chno="" channel-id="",TRTBELGESEL HD
-rtp://239.186.70.186:10000
-#EXTINF:-1 tvg-id="TRTCOCUK.tr" tvg-name="TRT COCUK TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCOCUK.tr.png" tvg-chno="" channel-id="",TRT COCUK HD
-rtp://239.186.70.185:10000
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî TR" tvg-logo="http://static.iptv-epg.com/tr/TRTKurdi.tr.png" tvg-chno="463" channel-id="463",TRT KURDI
-rtp://239.186.66.204:10000
-#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TRT SPOR TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSPOR.tr.png" tvg-chno="" channel-id="",TRT SPOR HD
-rtp://239.186.70.187:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="http://static.iptv-epg.com/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
 rtp://239.186.66.147:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="465" channel-id="465",TVRi TV Romania International
 rtp://239.186.66.148:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="466" channel-id="466",Z1 TV
 rtp://239.186.66.149:10000
-#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-logo="http://static.iptv-epg.com/es/CanalAndalucia.es.png" tvg-chno="467" channel-id="467",Andalucia TV
-rtp://239.186.64.197:10000
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="http://static.iptv-epg.com/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",TV Galicia
-rtp://239.186.64.187:10000
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international
-rtp://239.186.64.54:10000
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.iptv-epg.com/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
-rtp://239.186.68.246:10000
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
-rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473",PTC CBET HD
 rtp://239.186.70.164:10000
-#EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="" channel-id="",LATINOS1 HD
-rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World KR" tvg-logo="http://static.iptv-epg.com/kr/KBSWorld.kr.png" tvg-chno="" channel-id="",KBS World HD
 rtp://239.186.70.191:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",OBN TV
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
-#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SicNoticias PT" tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" tvg-chno="" channel-id="",SIC Noticias
-rtp://239.186.66.248:10000
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao PT" tvg-logo="https://static.iptv-epg.com/pt/TVIFiccao.pt.png" tvg-chno="" channel-id="",tvi ficcao
-rtp://239.186.66.249:10000
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVIInternacional PT" tvg-logo="https://static.iptv-epg.com/pt/TVIInternacional.pt.png" tvg-chno="" channel-id="",tvi internacional
-rtp://239.186.66.250:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",TIN The Israeli Network
 rtp://239.186.66.251:10000
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="Rtp3 PT" tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" tvg-chno="" channel-id="",RTP3
-rtp://239.186.66.252:10000
