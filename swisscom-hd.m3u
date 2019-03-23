@@ -652,6 +652,10 @@ rtp://239.186.64.54:10000
 #EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="" channel-id="",LATINOS1 HD
 rtp://239.186.70.150:10000
 #EXTREM:turkish
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="http://static.iptv-epg.com/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
+rtp://239.186.64.199:10000
+#EXTINF:-1 tvg-id="Eurostar.tr" tvg-name="Eurostar TR" tvg-logo="http://static.iptv-epg.com/tr/Eurostar.tr.png" tvg-chno="425" channel-id="425",EURO STAR
+rtp://239.186.66.121:10000
 #EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="SkyTurk360.tr" tvg-logo="http://static.iptv-epg.com/tr/SkyTurk360.tr.png" tvg-chno="420" channel-id="420",360 HD
 rtp://239.186.70.184:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa
@@ -662,6 +666,8 @@ rtp://239.186.70.122:10000
 rtp://239.186.64.209:10000
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" tvg-chno="429" channel-id="429",SHOW TURK
 rtp://239.186.64.200:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
+rtp://239.186.64.203:10000
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT TURK
 rtp://239.186.64.188:10000
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
@@ -677,10 +683,6 @@ rtp://239.186.70.187:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
 rtp://239.186.64.194:10000
-#EXTINF:-1 tvg-id="EuroD.nl" tvg-name="Euro D NL" tvg-logo="http://static.iptv-epg.com/nl/EuroD.nl.png" tvg-chno="424" channel-id="424",Euro D
-rtp://239.186.64.199:10000
-#EXTINF:-1 tvg-id="Eurostar.nl" tvg-name="Eurostar NL" tvg-logo="http://static.iptv-epg.com/nl/Eurostar.nl.png" tvg-chno="425" channel-id="425",EURO STAR
-rtp://239.186.66.121:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.iptv-epg.com/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al Arabiya
 rtp://239.186.64.192:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraArabic.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA Arabic
@@ -729,8 +731,6 @@ rtp://239.186.64.81:10000
 rtp://239.186.68.247:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="461" channel-id="461",TGN Thai Global Network
 rtp://239.186.64.198:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
-rtp://239.186.64.203:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="http://static.iptv-epg.com/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
 rtp://239.186.66.147:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="465" channel-id="465",TVRi TV Romania International
