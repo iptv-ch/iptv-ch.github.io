@@ -589,7 +589,7 @@ rtp://239.186.70.2:10000
 rtp://239.186.64.162:10000
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="http://static.iptv-epg.com/it/RaiYoyo.it.png" tvg-chno="401" channel-id="401",Rai Yoyo
 rtp://239.186.66.182:10000
-#EXTINF:-1 tvg-id="radionorbatv.it" tvg-name="radionorbatv IT" tvg-logo="http://static.iptv-epg.com/it/Radionorbatv.it.png" tvg-chno="" channel-id="",radionorba TV
+#EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.iptv-epg.com/it/Radionorba.it.png" tvg-chno="" channel-id="",radionorba TV
 rtp://239.186.66.247:10000
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
