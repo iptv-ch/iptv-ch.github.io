@@ -480,14 +480,6 @@ rtp://239.186.66.108:10000
 rtp://239.186.64.83:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SicNoticias PT" tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" tvg-chno="" channel-id="",SIC Noticias
-rtp://239.186.66.248:10000
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao PT" tvg-logo="https://static.iptv-epg.com/pt/TVIFiccao.pt.png" tvg-chno="" channel-id="",tvi ficcao
-rtp://239.186.66.249:10000
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVIInternacional PT" tvg-logo="https://static.iptv-epg.com/pt/TVIInternacional.pt.png" tvg-chno="" channel-id="",tvi internacional
-rtp://239.186.66.250:10000
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="Rtp3 PT" tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" tvg-chno="" channel-id="",RTP3
-rtp://239.186.66.252:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
@@ -581,5 +573,4 @@ rtp://239.186.64.173:10000
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",TIN The Israeli Network
-rtp://239.186.66.251:10000
+
