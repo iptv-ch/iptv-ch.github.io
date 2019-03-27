@@ -209,8 +209,6 @@ rtp://239.186.64.135:10000
 rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="http://static.iptv-epg.com/uk/EuroNews.uk.png" tvg-chno="149" channel-id="149",euronews E HD
 rtp://239.186.70.105:10000
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport1 UK" tvg-logo="http://static.iptv-epg.com/uk/Eurosport1.uk.png" tvg-chno="" channel-id="",Eurosport1 E HD
-rtp://239.186.70.193:10000
 #EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="Fashion TV FR" tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-chno="151" channel-id="151",Fashion TV HD
 rtp://233.32.39.198:1234
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="http://static.iptv-epg.com/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
@@ -529,8 +527,6 @@ rtp://239.186.66.43:10000
 rtp://239.186.66.122:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.iptv-epg.com/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport2 IT" tvg-logo="http://static.iptv-epg.com/it/Eurosport2.it.png" tvg-chno="" channel-id="",Eurosport2 I HD
-rtp://239.186.70.192:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="365" channel-id="365",Italia Channel
 rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.iptv-epg.com/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
@@ -630,14 +626,6 @@ rtp://239.186.70.149:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SicNoticias PT" tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" tvg-chno="" channel-id="",SIC Noticias
-rtp://239.186.66.248:10000
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao PT" tvg-logo="https://static.iptv-epg.com/pt/TVIFiccao.pt.png" tvg-chno="" channel-id="",tvi ficcao
-rtp://239.186.66.249:10000
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVIInternacional PT" tvg-logo="https://static.iptv-epg.com/pt/TVIInternacional.pt.png" tvg-chno="" channel-id="",tvi internacional
-rtp://239.186.66.250:10000
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="Rtp3 PT" tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" tvg-chno="" channel-id="",RTP3
-rtp://239.186.66.252:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
@@ -745,5 +733,3 @@ rtp://239.186.70.191:10000
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",TIN The Israeli Network
-rtp://239.186.66.251:10000
