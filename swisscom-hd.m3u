@@ -362,7 +362,7 @@ rtp://239.186.68.175:10000
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.iptv-epg.com/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
 rtp://239.186.68.146:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="243" channel-id="243",NRJ HD Energy D HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="243" channel-id="243",NRJTV CH HD 
 rtp://239.186.68.35:10000
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" tvg-chno="245" channel-id="245",ORF1 HD ORF eins HD
 rtp://239.186.68.12:10000
@@ -444,7 +444,7 @@ rtp://239.186.70.182:10000
 rtp://239.186.68.205:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="311" channel-id="311",Tele Zentralschweiz
 rtp://239.186.68.166:10000
-#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="Tele Zueri CH" tvg-logo="http://static.iptv-epg.com/ch/TeleZueri.ch.png" tvg-chno="313" channel-id="313",Tele Zuri HD
+#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="Tele Zueri CH" tvg-logo="http://static.iptv-epg.com/ch/TeleZueri.ch.png" tvg-chno="313" channel-id="313",TELE ZURI HD
 rtp://239.186.68.189:10000
 #EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="http://static.iptv-epg.com/ch/TeleBasel.ch.png" tvg-chno="315" channel-id="315",Telebasel HD
 rtp://239.186.68.206:10000
@@ -488,8 +488,6 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
-#EXTINF:-1 tvg-id="tccinemax.de" tvg-name="TC Cinemax DE" tvg-logo="http://static.iptv-epg.com/de/tccinemax.de.png" tvg-chno="" channel-id="",TC Cinemax HD
-rtp://239.186.79.21:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
@@ -557,7 +555,7 @@ rtp://239.186.70.188:10000
 rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://static.iptv-epg.com/it/TopCrime.it.png" tvg-chno="382" channel-id="382",MEDIASET TOP crime
 rtp://239.186.66.180:10000
-#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.iptv-epg.com/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount Channel I
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.iptv-epg.com/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount NETWORK I
 rtp://239.186.64.122:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
@@ -601,7 +599,7 @@ rtp://239.186.66.178:10000
 rtp://239.186.74.24:10000
 #EXTINF:-1 tvg-id="super.it" tvg-name="super!.it" tvg-logo="" tvg-chno="291" channel-id="291",SUPER!
 rtp://239.186.66.181:10000
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis IT" tvg-logo="http://static.iptv-epg.com/it/SuperTennis.it.png" tvg-chno="409" channel-id="409",SuperTennis TV HD
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis IT" tvg-logo="http://static.iptv-epg.com/it/SuperTennis.it.png" tvg-chno="409" channel-id="409",SuperTennis HD
 rtp://239.186.70.154:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="411" channel-id="411",teleticino HD
 rtp://239.186.68.201:10000
@@ -729,7 +727,7 @@ rtp://239.186.66.149:10000
 rtp://239.186.70.164:10000
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World KR" tvg-logo="http://static.iptv-epg.com/kr/KBSWorld.kr.png" tvg-chno="" channel-id="",KBS World HD
 rtp://239.186.70.191:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",OBN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",OBN
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
