@@ -162,6 +162,8 @@ rtp://239.186.79.78:10000
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.iptv-epg.com/ch/ajoie.ch.png" tvg-chno="" channel-id="",Ajoie HD
 rtp://239.186.70.180:10000
+#EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="http://static.iptv-epg.com/ch/verniervisions.ch.png" tvg-chno="" channel-id="",Vernier Visions HD
+rtp://239.186.70.203:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
@@ -274,8 +276,8 @@ rtp://239.186.70.9:10000
 rtp://239.186.68.7:10000
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="http://static.iptv-epg.com/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD1 Das Erste HD
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.iptv-epg.com/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD1 alpha
-rtp://239.186.64.119:10000
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.iptv-epg.com/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD1 alpha HD
+rtp://239.186.70.194:10000
 #EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.iptv-epg.com/de/One.de.png" tvg-chno="186" channel-id="186",ARD1 one HD
 rtp://239.186.68.154:10000
 #EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/SRfernsehen.de.png" tvg-chno="" channel-id="",ARD1 SR fernsehen HD
@@ -382,7 +384,9 @@ rtp://233.35.254.211:1234
 rtp://239.186.68.248:10000
 #EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB DE" tvg-logo="http://static.iptv-epg.com/de/RBB.de.png" tvg-chno="257" channel-id="257",rbb HD
 rtp://239.186.68.157:10000
-#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="http://static.iptv-epg.com/de/RegioTV.de.png" tvg-chno="258" channel-id="258",regioTVplus HD
+#EXTINF:-1 tvg-id="RegioTVplus.ch" tvg-name="Regio TVplus CH" tvg-logo="http://static.iptv-epg.com/de/RegioTVplus.ch.png" tvg-chno="258" channel-id="258",regioTVplus HD
+rtp://239.186.70.40:10000
+#EXTINF:-1 tvg-id="Rheinwelten.ch" tvg-name="Regio TV DE" tvg-logo="http://static.iptv-epg.com/de/RegioTV.de.png" tvg-chno="258" channel-id="258",regioTVplus HD
 rtp://239.186.70.40:10000
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH HD
 rtp://233.35.254.237:1234
@@ -464,6 +468,8 @@ rtp://239.186.70.5:10000
 rtp://239.186.68.190:10000
 #EXTINF:-1 tvg-id="TV25.ch" tvg-name="TV 25 CH" tvg-logo="http://static.iptv-epg.com/ch/TV25.ch.png" tvg-chno="327" channel-id="327",TV25 HD
 rtp://239.186.70.20:10000
+#EXTINF:-1 tvg-id="TVcentral.ch" tvg-name="TV Central CH" tvg-logo="http://static.iptv-epg.com/ch/TVcentral.ch.png" tvg-chno="" channel-id="",TV Central HD
+rtp://239.186.70.201:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="http://static.iptv-epg.com/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
 rtp://239.186.70.4:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="331" channel-id="331",vision tv CH HD
@@ -666,13 +672,15 @@ rtp://239.186.70.185:10000
 rtp://239.186.66.204:10000
 #EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TRT SPOR TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSPOR.tr.png" tvg-chno="" channel-id="",TRT SPOR HD
 rtp://239.186.70.187:10000
+#EXTINF:-1 tvg-id="TRTmusik.tr" tvg-name="TRT musik TR" tvg-logo="http://static.iptv-epg.com/tr/TRTMUSIK.tr.png" tvg-chno="" channel-id="",TRT musik HD
+rtp://239.186.70.198:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.iptv-epg.com/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al Arabiya
 rtp://239.186.64.192:10000
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraArabic.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA Arabic
-rtp://239.186.64.173:10000
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraArabic.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA Arabic HD
+rtp://239.186.70.199:10000
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="http://static.iptv-epg.com/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1 TV
 rtp://239.186.66.111:10000
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="http://static.iptv-epg.com/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
@@ -727,7 +735,14 @@ rtp://239.186.66.149:10000
 rtp://239.186.70.164:10000
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World KR" tvg-logo="http://static.iptv-epg.com/kr/KBSWorld.kr.png" tvg-chno="" channel-id="",KBS World HD
 rtp://239.186.70.191:10000
+#EXTINF:-1 tvg-id="arirang.kr" tvg-name="arirang KR" tvg-logo="http://static.iptv-epg.com/kr/arirang.kr.png" tvg-chno="" channel-id="",arirang HD
+rtp://239.186.70.191:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",OBN
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus IN" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" tvg-chno="" channel-id="",StarPlus HD
+rtp://239.186.70.196:10000
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold IN" tvg-logo="https://static.iptv-epg.com/in/StarGold.in.png" tvg-chno="" channel-id="",StarGOLD HD
+rtp://239.186.70.197:10000
+
