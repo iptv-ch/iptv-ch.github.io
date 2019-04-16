@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,UHD1 by Astra 
+#EXTINF:-1 ,Astra UHD
 rtp://239.186.76.1:10000
 #EXTINF:-1 ,HotBird4K1 UHD
 rtp://239.186.76.2:10000
-#EXTINF:-1 ,Fashion One 4K
+#EXTINF:-1 ,Fashion One 4K UHD
 rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
 rtp://239.186.76.4:10000
@@ -13,25 +13,25 @@ rtp://239.186.76.6:10000
 rtp://239.186.76.11:10000
 #EXTINF:-1 ,NASA UHD
 rtp://239.186.76.29:10000
-#EXTINF:-1 ,Test UHD
+#EXTINF:-1 ,Test video UHD
 rtp://239.186.79.23:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.24:10000
 #EXTINF:-1 ,HotBird4K1 UHD
 rtp://239.186.79.25:10000
-#EXTINF:-1 ,4KUNIVERSE
+#EXTINF:-1 ,4KUNIVERSE UHD
 rtp://239.186.79.26:10000
 #EXTINF:-1 ,ULTRA NATURE UHD
 rtp://239.186.79.28:10000
-#EXTINF:-1 ,Stingra Festival4k
+#EXTINF:-1 ,Stingray Festival4k UHD
 rtp://239.186.79.29:10000
 #EXTINF:-1 ,Fashion4KTV UHD
 rtp://239.186.79.97:10000
 #EXTINF:-1 ,Insight UHD
 rtp://239.186.79.98:10000
-#EXTINF:-1 ,Hispasat4k
+#EXTINF:-1 ,Hispasat4k UHD
 rtp://239.186.79.99:10000
-#EXTINF:-1 ,vision tv UHD demo
+#EXTINF:-1 ,vision tv UHD
 rtp://239.186.79.100:10000
 #EXTINF:-1 ,Love Nature UHD
 rtp://239.186.79.102:10000
