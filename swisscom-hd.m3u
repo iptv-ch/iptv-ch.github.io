@@ -388,7 +388,7 @@ rtp://239.186.68.248:10000
 rtp://239.186.68.157:10000
 #EXTINF:-1 tvg-id="RegioTVplus.ch" tvg-name="Regio TVplus CH" tvg-logo="http://static.iptv-epg.com/de/RegioTVplus.ch.png" tvg-chno="258" channel-id="258",regioTVplus HD
 rtp://239.186.70.40:10000
-#EXTINF:-1 tvg-id="Rheinwelten.ch" tvg-name="Regio TV DE" tvg-logo="http://static.iptv-epg.com/de/RegioTV.de.png" tvg-chno="258" channel-id="258",regioTVplus HD
+#EXTINF:-1 tvg-id="Rheinwelten.ch" tvg-name="Rheinwelten CH" tvg-logo="http://static.iptv-epg.com/de/Rheinwelten.ch.png" tvg-chno="" channel-id="",Rheinwelten HD
 rtp://239.186.70.40:10000
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH HD
 rtp://233.35.254.237:1234
