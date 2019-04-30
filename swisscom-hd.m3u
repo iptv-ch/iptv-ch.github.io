@@ -148,6 +148,8 @@ rtp://239.186.68.253:10000
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="98" channel-id="98",TC Zoom F HD
 rtp://239.186.68.244:10000
+#EXTINF:-1 tvg-id="TeleclubSport.ch" tvg-name="Teleclub Sports Live CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="" channel-id="",TELECLUB SPORTS LIVE F HD
+rtp://239.186.79.8:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="109" channel-id="109",TV5MONDE FRANCE BELGIQUE SUISSE HD
@@ -205,7 +207,7 @@ rtp://239.186.70.118:10000
 rtp://239.186.70.23:10000
 #EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="http://static.iptv-epg.com/uk/Drama.uk.png" tvg-chno="146" channel-id="146",DRAMA
 rtp://239.186.66.140:10000
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DW English
 rtp://239.186.64.135:10000
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="http://static.iptv-epg.com/uk/E4.uk.png" tvg-chno="147" channel-id="147",E4
 rtp://239.186.64.53:10000
