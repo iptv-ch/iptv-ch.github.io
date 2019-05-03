@@ -148,7 +148,7 @@ rtp://239.186.68.253:10000
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="98" channel-id="98",TC Zoom F HD
 rtp://239.186.68.244:10000
-#EXTINF:-1 tvg-id="TeleclubSport.ch" tvg-name="Teleclub Sports Live CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="" channel-id="",TELECLUB SPORTS LIVE F HD
+#EXTINF:-1 tvg-id="TeleclubSports.ch" tvg-name="Teleclub Sports Live CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubSports.ch.png" tvg-chno="" channel-id="",TELECLUB SPORTS LIVE F HD
 rtp://239.186.79.8:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
@@ -262,6 +262,8 @@ rtp://239.186.68.1:10000
 rtp://239.186.79.21:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.iptv-epg.com/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
 rtp://239.186.68.2:10000
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.iptv-epg.com/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
+rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://233.35.254.209:1234
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.iptv-epg.com/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
@@ -278,13 +280,13 @@ rtp://239.186.70.179:10000
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE HD
 rtp://239.186.68.7:10000
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="http://static.iptv-epg.com/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD1 Das Erste HD
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="http://static.iptv-epg.com/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD Das Erste HD
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.iptv-epg.com/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD1 alpha HD
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.iptv-epg.com/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD alpha HD
 rtp://239.186.70.194:10000
-#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.iptv-epg.com/de/One.de.png" tvg-chno="186" channel-id="186",ARD1 one HD
+#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.iptv-epg.com/de/One.de.png" tvg-chno="186" channel-id="186",ARD ONE HD
 rtp://239.186.68.154:10000
-#EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/SRfernsehen.de.png" tvg-chno="" channel-id="",ARD1 SR fernsehen HD
+#EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/SRfernsehen.de.png" tvg-chno="" channel-id="",ARD SR fernsehen HD
 rtp://239.186.70.190:10000
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="http://static.iptv-epg.com/de/ARTE.de.png" tvg-chno="188" channel-id="188",arte D HD
 rtp://239.186.68.11:10000
@@ -320,11 +322,11 @@ rtp://239.186.64.34:10000
 rtp://239.186.66.241:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.iptv-epg.com/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
-#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews D HD
+#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
 rtp://239.186.64.33:10000
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra DE" tvg-logo="https://static.iptv-epg.com/de/Eurosport2Xtra.de.png" tvg-chno="229" channel-id="229",EUROSPORT2 XTRA HD D
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra DE" tvg-logo="https://static.iptv-epg.com/de/Eurosport2Xtra.de.png" tvg-chno="229" channel-id="229",EUROSPORT2 XTRA D HD
 rtp://233.21.50.45:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",folx.tv
 rtp://239.186.66.197:10000
@@ -362,13 +364,13 @@ rtp://239.186.68.207:10000
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="http://static.iptv-epg.com/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
 rtp://239.186.68.29:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="239" channel-id="239",Nick schweiz HD
+#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="https://static.iptv-epg.com/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239",Nick schweiz HD
 rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.iptv-epg.com/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.iptv-epg.com/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
 rtp://239.186.68.146:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="243" channel-id="243",NRJTV CH HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="243" channel-id="243",NRJTV CH HD
 rtp://239.186.68.35:10000
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" tvg-chno="245" channel-id="245",ORF1 HD ORF eins HD
 rtp://239.186.68.12:10000
@@ -420,8 +422,6 @@ rtp://239.186.64.70:10000
 rtp://239.186.70.79:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.iptv-epg.com/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
-rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",Star TV HD
 rtp://239.186.68.188:10000
 #EXTINF:-1 tvg-id="game" tvg-name="Game TV" tvg-logo="http://skysiertv.com/stv/chaines/game/logo.jpg" tvg-chno="289" channel-id="289",GAMETV HD
@@ -499,6 +499,10 @@ rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
 #EXTREM:italian
+#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
+rtp://239.186.68.5:10000
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 HD
+rtp://239.186.68.6:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="347" channel-id="347",ALICE
@@ -595,10 +599,6 @@ rtp://239.186.64.162:10000
 rtp://239.186.66.182:10000
 #EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.iptv-epg.com/it/Radionorba.it.png" tvg-chno="" channel-id="",radionorba TV
 rtp://239.186.66.247:10000
-#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
-rtp://239.186.68.5:10000
-#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 HD
-rtp://239.186.68.6:10000
 #EXTINF:-1 tvg-id="RTL102.5.it" tvg-name="RTL102.5 IT" tvg-logo="http://static.iptv-epg.com/it/RTL102.5.it.png" tvg-chno="" channel-id="",RTL 102.5 TV HD
 rtp://239.186.70.181:10000
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="http://static.iptv-epg.com/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
