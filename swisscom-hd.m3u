@@ -745,8 +745,4 @@ rtp://239.186.70.191:10000
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus IN" tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" tvg-chno="" channel-id="",StarPlus HD
-rtp://239.186.70.196:10000
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold IN" tvg-logo="https://static.iptv-epg.com/in/StarGold.in.png" tvg-chno="" channel-id="",StarGOLD HD
-rtp://239.186.70.197:10000
 
