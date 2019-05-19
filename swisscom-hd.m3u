@@ -258,8 +258,6 @@ rtp://239.186.70.189:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="" channel-id="",SRF1 HD 1080p test
-rtp://239.186.79.21:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.iptv-epg.com/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.iptv-epg.com/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
