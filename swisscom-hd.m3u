@@ -82,7 +82,7 @@ rtp://233.21.50.17:1234
 rtp://233.32.39.164:1234
 #EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="rmcsa3" tvg-logo="https://skysiertv.com/stv/chaines/rmcsa3/logo.jpg" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
 rtp://233.32.39.169:1234
-#EXTINF:-1 tvg-id="https://www.skysiertv.com/chaines.php?chaine=rmcs4" tvg-name="rmcs4" tvg-logo="https://skysiertv.com/stv/chaines/rmcs4/logo.jpg" tvg-chno="26" channel-id="26",RMC SPORT4 HD
+#EXTINF:-1 tvg-id="RMCSportAccess4.fr" tvg-name="rmcs4" tvg-logo="https://skysiertv.com/stv/chaines/rmcs4/logo.jpg" tvg-chno="26" channel-id="26",RMC SPORT4 HD
 rtp://233.32.39.170:1234
 #EXTINF:-1 tvg-id="rmcsn" tvg-name="RMC Sport NEWS" tvg-logo="https://skysiertv.com/stv/chaines/rmcsn/logo.jpg" tvg-chno="27" channel-id="27",RMC Sport News HD
 rtp://233.32.39.171:1234
