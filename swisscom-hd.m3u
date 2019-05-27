@@ -113,7 +113,7 @@ rtp://239.186.66.27:10000
 #EXTINF:-1 tvg-id="FranceInfo" tvg-name="France Info FR" tvg-logo="http://static.iptv-epg.com/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
 #EXTINF:-1 tvg-id="France24F" tvg-name="France 24 FR" tvg-logo="http://static.iptv-epg.com/fr/France24.fr.png" tvg-chno="63" channel-id="63",France24 HD
-rtp://233.35.254.73:1234
+rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="http://static.iptv-epg.com/fr/Gulli.fr.png" tvg-chno="65" channel-id="65",gulli HD
 rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="i24News" tvg-name="" tvg-logo="https://cdn.i24news.tv/ms-icon-144x144.png" tvg-chno="67" channel-id="67",i24 News F HD
