@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM netplus iptv open
 #EXTREM french
 #EXTINF:-1 ,RTS 1 HD
