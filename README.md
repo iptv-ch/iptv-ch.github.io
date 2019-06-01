@@ -7,7 +7,7 @@ This repository contains M3U playlist files for Swiss IPTV Providers. Here are t
 **URL: https://iptv-ch.github.io/netplus.m3u**
 
 Many of the channels available on [Netplus TV partners](https://citycable.ch/tv/chaines-tv/tv-numerique/).<br>
-This will only work on your home network if Citycable is your broadband provider.<br>
+This will only work on your home network if netplus partners like Citycable is your broadband provider.<br>
 This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br>
 EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
 [More information](https://www.regardtv.net/t7600-netplus-iptv-gratuit-free).
