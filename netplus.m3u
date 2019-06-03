@@ -17,152 +17,138 @@ udp://@239.101.10.56:1234
 udp://@239.101.10.68:1234
 #EXTINF:-1 ,M6 HD
 udp://@239.101.10.66:1234
-#EXTINF:-1 ,arte
+#EXTINF:-1 ,arte HD
 udp://@239.101.10.67:1234
-#EXTINF:-1 ,C8
+#EXTINF:-1 ,C8 HD
 udp://@239.101.10.26:1234
-#EXTINF:-1 ,W9
+#EXTINF:-1 ,W9 HD
 udp://@239.101.10.22:1234
-#EXTINF:-1 ,TMC
+#EXTINF:-1 ,TMC HD
 udp://@239.101.10.21:1234
-#EXTINF:-1 ,TFX
+#EXTINF:-1 ,TFX HD
 udp://@239.101.10.23:1234
-#EXTINF:-1 ,NRJ12
+#EXTINF:-1 ,NRJ12 HD
 udp://@239.101.10.24:1234
-#EXTINF:-1 ,LCP
+#EXTINF:-1 ,LCP Public Senat
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal Plus Clair
+#EXTINF:-1 ,Canal Plus Clair HD
 udp://@239.101.10.39:1234
-#EXTINF:-1 ,BFM TV
+#EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
-#EXTINF:-1 ,CNews
+#EXTINF:-1 ,CNews HD
 udp://@239.101.10.161:1234
 #EXTINF:-1 ,CSTAR HD
 udp://@239.101.10.27:1234
-#EXTINF:-1 ,Gulli
+#EXTINF:-1 ,Gulli HD
 udp://@239.101.10.31:1234
-#EXTINF:-1 ,France O
+#EXTINF:-1 ,France O HD
 udp://@239.101.10.38:1234
-#EXTINF:-1 ,TF1 Series
+#EXTINF:-1 ,TF1 Series Films HD
 udp://@239.101.10.50:1234
-#EXTINF:-1 ,L Equipe
+#EXTINF:-1 ,L Equipe HD
 udp://@239.101.10.54:1234
-#EXTINF:-1 ,6ter
+#EXTINF:-1 ,6ter HD
 udp://@239.101.10.51:1234
-#EXTINF:-1 ,RMC Story
+#EXTINF:-1 ,RMC Story HD
 udp://@239.101.10.52:1234
-#EXTINF:-1 ,RMC Decouverte
+#EXTINF:-1 ,RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 ,Cherie 25
+#EXTINF:-1 ,Cherie 25 HD
 udp://@239.101.10.55:1234
-#EXTINF:-1 ,LCI
+#EXTINF:-1 ,LCI HD low quality
 udp://@239.101.10.162:1234
 #EXTINF:-1 ,France Info
 udp://@239.101.10.75:1234
-#EXTINF:-1 ,TV5 Monde FBS
+#EXTINF:-1 ,TV5MONDE FBS HD 
 udp://@239.101.10.18:1234
 #EXTINF:-1 ,KTO
 udp://@239.101.10.43:1234
-#EXTINF:-1 ,TV8 Mont Blanc
+#EXTINF:-1 ,TV8 Mont Blanc HD
 udp://@239.101.10.36:1234
-#EXTINF:-1 ,AB1
+#EXTINF:-1 ,AB1 HD
 udp://@239.101.10.240:1234
-#EXTINF:-1 ,Animaux
+#EXTINF:-1 ,Animaux HD
 udp://@239.101.10.241:1234
-#EXTINF:-1 ,BFM Business
+#EXTINF:-1 ,BFM Business HD low quality
 udp://@239.101.10.245:1234
 #EXTINF:-1 ,Canal 9
 udp://@239.101.10.57:1234
-#EXTINF:-1 ,BeCurious
+#EXTINF:-1 ,BeCurious HD
 udp://@239.101.10.179:1234
 #EXTINF:-1 ,La Tele HD
 udp://@239.101.10.250:1234
-#EXTINF:-1 ,Leman Bleu
+#EXTINF:-1 ,Leman Bleu HD
 udp://@239.101.10.11:1234
-#EXTINF:-1 ,LFM TV
+#EXTINF:-1 ,LFM TV HD
 udp://@239.101.10.164:1234
 #EXTINF:-1 ,Rouge TV HD
 udp://@239.101.10.41:1234
-#EXTINF:-1 ,Max TV
+#EXTINF:-1 ,Max TV HD medium quality
 udp://@239.101.10.249:1234
-#EXTINF:-1 ,Val TV
+#EXTINF:-1 ,Val TV HD
 udp://@239.101.10.178:1234
-#EXTINF:-1 ,TeleBielingue
+#EXTINF:-1 ,TeleBielingue HD
 udp://@239.101.10.183:1234
-#EXTINF:-1 ,Canal J
+#EXTINF:-1 ,Canal J HD
 udp://@239.101.10.30:1234
-#EXTINF:-1 ,Canal Alpha NE
+#EXTINF:-1 ,Canal Alpha NE HD
 udp://@239.101.10.182:1234
-#EXTINF:-1 ,CANALPLUSCINEMAHD_XT_TV
-udp://@239.101.11.24:1234
-#EXTINF:-1 ,CANALPLUSDECALEHD_XT_TV
-udp://@239.101.11.27:1234
-#EXTINF:-1 ,CANALPLUSFAMILYHD_XT_TV
-udp://@239.101.11.26:1234
-#EXTINF:-1 ,CANALPLUSSERIES_XT_TV
-udp://@239.101.11.120:1234
-#EXTINF:-1 ,CANALPLUSSPORTHD_XT_TV
-udp://@239.101.11.25:1234
 #EXTINF:-1 ,Cartoon Network F HD
 udp://@239.101.10.29:1234
 #EXTINF:-1 ,Euronews. F HD
 udp://@239.101.10.15:1234
 #EXTINF:-1 ,France 24
 udp://@239.101.10.16:1234
-#EXTINF:-1 ,Game One
+#EXTINF:-1 ,Game One HD
 udp://@239.101.10.244:1234
-#EXTINF:-1 ,MCM Top
+#EXTINF:-1 ,MCM Top HD
 udp://@239.101.10.42:1234
-#EXTINF:-1 ,Mezzo
+#EXTINF:-1 ,Mezzo HD
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
 #EXTINF:-1 ,Nickelodeon Junior F HD
 udp://@239.101.11.53:1234
-#EXTINF:-1 ,NRJ 12
-udp://@239.101.10.24:1234
-#EXTINF:-1 ,NRTV
+#EXTINF:-1 ,NRTV HD
 udp://@239.101.10.251:1234
-#EXTINF:-1 ,One TV
+#EXTINF:-1 ,One TV CH HD
 udp://@239.101.10.163:1234
 #EXTINF:-1 ,Paramount Channel F HD
 udp://@239.101.10.243:1234
-#EXTINF:-1 ,POLARPLUS_XT_TV
-udp://@239.101.11.32:1234
-#EXTINF:-1 ,Planete Plus
+#EXTINF:-1 ,Planete Plus HD
 udp://@239.101.10.32:1234
-#EXTINF:-1 ,RMC Sport News
+#EXTINF:-1 ,RMC Sport News HD
 udp://@239.101.10.14:1234
-#EXTINF:-1 ,RTL 9
+#EXTINF:-1 ,RTL 9 HD
 udp://@239.101.10.20:1234
-#EXTINF:-1 ,TCM cinema
+#EXTINF:-1 ,TCM cinema HD
 udp://@239.101.10.9:1234
-#EXTINF:-1 ,Trek
+#EXTINF:-1 ,Trek HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 ,M6 Boutique
+#EXTINF:-1 ,M6 Boutique HD low quality
 udp://@239.101.10.166:1234
-#EXTINF:-1 ,Booster TV
+#EXTINF:-1 ,Booster TV HD
 udp://@239.101.10.81:1234
-#EXTINF:-1 ,TVM3
+#EXTINF:-1 ,TVM3 HD low quality
 udp://@239.101.10.165:1234
-#EXTINF:-1 ,MySports F demo
+#EXTINF:-1 ,MySports F demo HD
 udp://@239.101.10.85:1234
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
 udp://@239.101.10.48:1234
 #EXTINF:-1 ,SRF 2 HD
 udp://@239.101.10.49:1234
-#EXTINF:-1 ,SRF info
+#EXTINF:-1 ,SRF info HD
 udp://@239.101.10.203:1234
 #EXTINF:-1 ,3Sat HD
 udp://@239.101.10.149:1234
-#EXTINF:-1 ,Anixe
+#EXTINF:-1 ,Anixe HD
 udp://@239.101.10.223:1234
 #EXTINF:-1 ,ATV
 udp://@239.101.10.221:1234
 #EXTINF:-1 ,BR Alpha
 udp://@239.101.11.97:1234
-#EXTINF:-1 ,BR HD Sud
+#EXTINF:-1 ,BR HD
 udp://@239.101.10.152:1234
 #EXTINF:-1 ,COMEDY CENTRAL
 udp://@239.101.11.76:1234
@@ -176,9 +162,9 @@ udp://@239.101.10.142:1234
 udp://@239.101.10.145:1234
 #EXTINF:-1 ,ZDF neo HD
 udp://@239.101.10.143:1234
-#EXTINF:-1 ,Channel 55
+#EXTINF:-1 ,Channel 55 HD
 udp://@239.101.10.82:1234
-#EXTINF:-1 ,MTV English Deutsch
+#EXTINF:-1 ,MTV Schweiz
 udp://@239.101.11.71:1234
 #EXTINF:-1 ,Das Erste HD
 udp://@239.101.10.219:1234
@@ -200,41 +186,41 @@ udp://@239.101.10.12:1234
 udp://@239.101.10.158:1234
 #EXTINF:-1 ,N24
 udp://@239.101.10.155:1234
-#EXTINF:-1 ,NDR
+#EXTINF:-1 ,NDR HD
 udp://@239.101.10.247:1234
 #EXTINF:-1 ,Nitro.
 udp://@239.101.10.220:1234
-#EXTINF:-1 ,NTV
+#EXTINF:-1 ,ntv
 udp://@239.101.11.69:1234
 #EXTINF:-1 ,ORF 1
 udp://@239.101.10.207:1234
 #EXTINF:-1 ,ORF 2
 udp://@239.101.10.148:1234
-#EXTINF:-1 ,Phoenix HD
+#EXTINF:-1 ,phoenix HD
 udp://@239.101.10.150:1234
 #EXTINF:-1 ,Pro 7
 udp://@239.101.10.213:1234
 #EXTINF:-1 ,ProSieben MAXX
 udp://@239.101.10.222:1234
-#EXTINF:-1 ,RBB
+#EXTINF:-1 ,rbb
 udp://@239.101.10.248:1234
-#EXTINF:-1 ,RIC
+#EXTINF:-1 ,Ric
 udp://@239.101.10.185:1234
 #EXTINF:-1 ,RTL
 udp://@239.101.10.210:1234
 #EXTINF:-1 ,RTL 2
 udp://@239.101.10.211:1234
-#EXTINF:-1 ,Sat 1
+#EXTINF:-1 ,Sat.1
 udp://@239.101.10.209:1234
-#EXTINF:-1 ,Servus TV
+#EXTINF:-1 ,Servus TV Deutschland HD
 udp://@239.101.11.74:1234
 #EXTINF:-1 ,Sixx
 udp://@239.101.10.160:1234
 #EXTINF:-1 ,Sky Sport News HD
 udp://@239.101.10.71:1234
-#EXTINF:-1 ,Sport 1
+#EXTINF:-1 ,sport1 HD
 udp://@239.101.10.216:1234
-#EXTINF:-1 ,Star TV
+#EXTINF:-1 ,STAR TV CH HD
 udp://@239.101.10.184:1234
 #EXTINF:-1 ,Super RTL
 udp://@239.101.10.212:1234
@@ -242,55 +228,55 @@ udp://@239.101.10.212:1234
 udp://@239.101.10.217:1234
 #EXTINF:-1 ,Tele 5
 udp://@239.101.11.70:1234
-#EXTINF:-1 ,Tele Baern
+#EXTINF:-1 ,Tele Baern HD
 udp://@239.101.10.252:1234
-#EXTINF:-1 ,MySports D demo
+#EXTINF:-1 ,MySports D demo HD
 udp://@239.101.10.86:1234
 #EXTREM italian
 #EXTINF:-1 ,RSI LA 1 HD
 udp://@239.101.10.44:1234
 #EXTINF:-1 ,RSI LA 2 HD
 udp://@239.101.10.45:1234
-#EXTINF:-1 ,Video Italia
+#EXTINF:-1 ,Video Italia HD
 udp://@239.101.10.181:1234
-#EXTINF:-1 ,Canale 5
+#EXTINF:-1 ,Canale 5 HD
 udp://@239.101.10.111:1234
 #EXTINF:-1 ,Canale Italia
 udp://@239.101.10.235:1234
 #EXTINF:-1 ,DMAX Italia
 udp://@239.101.10.226:1234
-#EXTINF:-1 ,Italia 1
+#EXTINF:-1 ,Italia 1 HD
 udp://@239.101.10.109:1234
-#EXTINF:-1 ,LA 7
+#EXTINF:-1 ,LA7 HD
 udp://@239.101.10.112:1234
-#EXTINF:-1 ,Rai 1
+#EXTINF:-1 ,Rai 1 HD
 udp://@239.101.10.103:1234
-#EXTINF:-1 ,Rai 2
+#EXTINF:-1 ,Rai 2 HD
 udp://@239.101.10.104:1234
-#EXTINF:-1 ,Rai 3
+#EXTINF:-1 ,Rai 3 HD
 udp://@239.101.10.105:1234
+#EXTINF:-1 ,Rai Sport+ HD
+udp://@239.101.10.106:1234
 #EXTINF:-1 ,Rai Gulp
 udp://@239.101.10.113:1234
-#EXTINF:-1 ,Rai News
+#EXTINF:-1 ,Rai News24
 udp://@239.101.10.108:1234
 #EXTINF:-1 ,Rai Scuola
 udp://@239.101.10.224:1234
-#EXTINF:-1 ,Rai Sport 1
-udp://@239.101.10.106:1234
 #EXTINF:-1 ,Rai Storia
 udp://@239.101.10.225:1234
 #EXTINF:-1 ,Rete 4
 udp://@239.101.10.110:1234
 #EXTREM english
-#EXTINF:-1 ,BBC 1
+#EXTINF:-1 ,BBC one HD
 udp://@239.101.10.114:1234
-#EXTINF:-1 ,BBC 2
+#EXTINF:-1 ,BBC two HD
 udp://@239.101.10.115:1234
-#EXTINF:-1 ,BBC 3 CBBC
+#EXTINF:-1 ,BBC three CBBC HD
 udp://@239.101.10.116:1234
-#EXTINF:-1 ,BBC 4 CBeebies
+#EXTINF:-1 ,BBC FOUR CBeebies HD
 udp://@239.101.10.117:1234
-#EXTINF:-1 ,BBC world
+#EXTINF:-1 ,BBC WORLD NEWS HD
 udp://@239.101.10.118:1234
 #EXTINF:-1 ,Bloomberg
 udp://@239.101.10.127:1234
@@ -302,7 +288,7 @@ udp://@239.101.11.81:1234
 udp://@239.101.10.126:1234
 #EXTINF:-1 ,CNN
 udp://@239.101.10.124:1234
-#EXTINF:-1 ,CNN Money
+#EXTINF:-1 ,CNN Money CH HD
 udp://@239.101.10.83:1234
 #EXTINF:-1 ,Fashion TV
 udp://@239.101.10.128:1234
@@ -310,27 +296,27 @@ udp://@239.101.10.128:1234
 udp://@239.101.11.82:1234
 #EXTINF:-1 ,Food Network
 udp://@239.101.11.83:1234
-#EXTINF:-1 ,ITV
+#EXTINF:-1 ,itv HD
 udp://@239.101.10.119:1234
-#EXTINF:-1 ,ITV 2
+#EXTINF:-1 ,itv 2
 udp://@239.101.10.120:1234
-#EXTINF:-1 ,ITV 3
+#EXTINF:-1 ,itv 3
 udp://@239.101.10.121:1234
-#EXTINF:-1 ,ITV 4
+#EXTINF:-1 ,itv 4
 udp://@239.101.10.122:1234
 #EXTINF:-1 ,More 4
 udp://@239.101.10.236:1234
-#EXTINF:-1 ,TVC News
+#EXTINF:-1 ,TVC News Nigeria
 udp://@239.101.10.234:1234
 #EXTINF:-1 ,Travel Channel
 udp://@239.101.10.237:1234
 #EXTINF:-1 ,CGTN english
 udp://@239.101.10.238:1234
-#EXTINF:-1 ,Sky News
+#EXTINF:-1 ,sky news
 udp://@239.101.10.123:1234
-#EXTINF:-1 ,Al Jazeera English
+#EXTINF:-1 ,ALJAZEERA English
 udp://@239.101.10.125:1234
-#EXTINF:-1 ,NHK
+#EXTINF:-1 ,NHK WORLD
 udp://@239.101.10.239:1234
 #EXTINF:-1 ,Russia Today
 udp://@239.101.10.229:1234
@@ -363,27 +349,27 @@ udp://@239.101.10.231:1234
 udp://@239.101.10.233:1234
 #EXTINF:-1 ,RTS1 Senegal
 udp://@239.101.10.168:1234
-#EXTINF:-1 ,Al Arabiya
+#EXTINF:-1 ,Al Arabiya HD
 udp://@239.101.10.232:1234
-#EXTINF:-1 ,Al Maghribia
+#EXTINF:-1 ,Al Maghribia HD
 udp://@239.101.10.176:1234
 #EXTINF:-1 ,Al Masriya
 udp://@239.101.10.177:1234
-#EXTINF:-1 ,Dubai TV HD
+#EXTINF:-1 ,Dubai TV International HD
 udp://@239.101.11.142:1234
 #EXTINF:-1 ,BNT 4
 udp://@239.101.10.175:1234
-#EXTINF:-1 ,BVN
+#EXTINF:-1 ,bvn.
 udp://@239.101.10.134:1234
 #EXTINF:-1 ,CCTV 4
 udp://@239.101.10.141:1234
 #EXTINF:-1 ,Channel 1 Russia
 udp://@239.101.10.172:1234
-#EXTINF:-1 ,TVR International
+#EXTINF:-1 ,TVRi
 udp://@239.101.10.174:1234
 #EXTINF:-1 ,DM SAT
 udp://@239.101.11.100:1234
-#EXTINF:-1 ,Duna
+#EXTINF:-1 ,Duna HD
 udp://@239.101.10.230:1234
 #EXTINF:-1 ,ERT world
 udp://@239.101.10.173:1234
@@ -395,15 +381,15 @@ udp://@239.101.11.96:1234
 udp://@239.101.10.169:1234
 #EXTINF:-1 ,TV Polonia
 udp://@239.101.11.99:1234
-#EXTINF:-1 ,RTCG
+#EXTINF:-1 ,RTCG sat
 udp://@239.101.10.137:1234
-#EXTINF:-1 ,RTK 1
+#EXTINF:-1 ,RTK1
 udp://@239.101.10.135:1234
-#EXTINF:-1 ,TRT Turk
+#EXTINF:-1 ,TRT TURK
 udp://@239.101.10.138:1234
-#EXTINF:-1 ,RTR Planeta
+#EXTINF:-1 ,PLANETA RTR
 udp://@239.101.10.139:1234
 #EXTINF:-1 ,Show Turk
 udp://@239.101.10.170:1234
-#EXTINF:-1 ,RTS Sat PTC CBET HD
+#EXTINF:-1 ,PTC CBET HD
 udp://@239.101.10.136:1234
