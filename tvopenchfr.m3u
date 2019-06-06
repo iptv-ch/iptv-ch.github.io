@@ -1,0 +1,208 @@
+#EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
+#EXTREM netplus + sunrise + swisscom iptv open french
+#EXTINF:-1 ,RTS 1 HD
+udp://@239.101.10.46:1234
+#EXTINF:-1 ,RTS 2 HD
+udp://@239.101.10.47:1234
+#EXTINF:-1 ,TF1 HD Suisse
+udp://@239.101.10.63:1234
+#EXTINF:-1 ,France 2 HD
+udp://@239.101.10.64:1234
+#EXTINF:-1 ,France 3 HD
+udp://@239.101.10.65:1234
+#EXTINF:-1 ,France 4 HD
+udp://@239.101.10.56:1234
+#EXTINF:-1 ,France 5 HD
+udp://@239.101.10.68:1234
+#EXTINF:-1 ,M6 HD Suisse
+udp://@239.101.10.66:1234
+#EXTINF:-1 ,arte HD
+udp://@239.101.10.67:1234
+#EXTINF:-1 ,C8 HD
+udp://@239.101.10.26:1234
+#EXTINF:-1 ,W9 HD
+udp://@239.101.10.22:1234
+#EXTINF:-1 ,TMC HD
+udp://@239.101.10.21:1234
+#EXTINF:-1 ,TFX HD
+udp://@239.101.10.23:1234
+#EXTINF:-1 ,NRJ12 HD
+udp://@239.101.10.24:1234
+#EXTINF:-1 ,LCP Public Senat
+udp://@239.101.10.180:1234
+#EXTINF:-1 ,Canal Plus Clair HD
+udp://@239.101.10.39:1234
+#EXTINF:-1 ,BFM TV HD
+udp://@239.101.10.17:1234
+#EXTINF:-1 ,CNews HD
+udp://@239.101.10.161:1234
+#EXTINF:-1 ,CSTAR HD
+udp://@239.101.10.27:1234
+#EXTINF:-1 ,Gulli HD
+udp://@239.101.10.31:1234
+#EXTINF:-1 ,France O HD
+udp://@239.101.10.38:1234
+#EXTINF:-1 ,TF1 Series Films HD
+udp://@239.101.10.50:1234
+#EXTINF:-1 ,L Equipe HD
+udp://@239.101.10.54:1234
+#EXTINF:-1 ,6ter HD
+udp://@239.101.10.51:1234
+#EXTINF:-1 ,RMC Story HD
+udp://@239.101.10.52:1234
+#EXTINF:-1 ,RMC Decouverte HD
+udp://@239.101.10.53:1234
+#EXTINF:-1 ,Cherie 25 HD
+udp://@239.101.10.55:1234
+#EXTINF:-1 ,LCI HD low quality
+udp://@239.101.10.162:1234
+#EXTINF:-1 ,France Info
+udp://@239.101.10.75:1234
+#EXTINF:-1 ,TV5MONDE FBS HD 
+udp://@239.101.10.18:1234
+#EXTINF:-1 ,KTO
+udp://@239.101.10.43:1234
+#EXTINF:-1 ,Canal 9
+udp://@239.101.10.57:1234
+#EXTINF:-1 ,BeCurious HD
+udp://@239.101.10.179:1234
+#EXTINF:-1 ,La Tele HD
+udp://@239.101.10.250:1234
+#EXTINF:-1 ,Leman Bleu HD
+udp://@239.101.10.11:1234
+#EXTINF:-1 ,LFM TV HD
+udp://@239.101.10.164:1234
+#EXTINF:-1 ,Rouge TV HD
+udp://@239.101.10.41:1234
+#EXTINF:-1 ,Max TV HD
+udp://@239.101.10.249:1234
+#EXTINF:-1 ,Val TV HD
+udp://@239.101.10.178:1234
+#EXTINF:-1 ,TeleBielingue HD
+udp://@239.101.10.183:1234
+#EXTINF:-1 ,Canal Alpha NE HD
+udp://@239.101.10.182:1234
+#EXTINF:-1 ,NRTV HD
+udp://@239.101.10.251:1234
+#EXTINF:-1 ,One TV CH HD
+udp://@239.101.10.163:1234
+#EXTINF:-1 ,Cartoon Network F HD
+udp://@239.101.10.29:1234
+#EXTINF:-1 ,AB1 HD
+udp://@239.101.10.240:1234
+#EXTINF:-1 ,Animaux HD
+udp://@239.101.10.241:1234
+#EXTINF:-1 ,BFM Business HD
+udp://@239.101.10.245:1234
+#EXTINF:-1 ,Canal J HD
+udp://@239.101.10.30:1234
+#EXTINF:-1 ,Euronews. F HD
+udp://@239.101.10.15:1234
+#EXTINF:-1 ,France 24
+udp://@239.101.10.16:1234
+#EXTINF:-1 ,Game One HD
+udp://@239.101.10.244:1234
+#EXTINF:-1 ,MCM Top HD
+udp://@239.101.10.42:1234
+#EXTINF:-1 ,Mezzo HD
+udp://@239.101.10.40:1234
+#EXTINF:-1 ,MTV France HD
+udp://@239.101.10.25:1234
+#EXTINF:-1 ,Nickelodeon Junior F HD
+udp://@239.101.11.53:1234
+#EXTINF:-1 ,Paramount Channel F HD
+udp://@239.101.10.243:1234
+#EXTINF:-1 ,Planete Plus HD
+udp://@239.101.10.32:1234
+#EXTINF:-1 ,RMC Sport News HD
+udp://@239.101.10.14:1234
+#EXTINF:-1 ,RTL 9 HD
+udp://@239.101.10.20:1234
+#EXTINF:-1 ,TCM cinema HD
+udp://@239.101.10.9:1234
+#EXTINF:-1 ,Trek HD
+udp://@239.101.10.242:1234
+#EXTINF:-1 ,M6 Boutique HD
+udp://@239.101.10.166:1234
+#EXTINF:-1 ,Booster TV HD
+udp://@239.101.10.81:1234
+#EXTINF:-1 ,TV8 Mont Blanc HD
+udp://@239.101.10.36:1234
+#EXTINF:-1 ,TVM3 HD
+udp://@239.101.10.165:1234
+#EXTINF:-1 ,MySports F demo HD
+udp://@239.101.10.85:1234
+#EXTINF:-1 ,Mangas HD
+rtp://233.21.50.2:1234
+#EXTINF:-1 ,13eme Rue HD
+rtp://233.21.50.4:1234
+#EXTINF:-1 ,SyFy HD french
+rtp://233.21.50.5:1234
+#EXTINF:-1 ,Disney Channel HD french
+rtp://233.21.50.11:1234
+#EXTINF:-1 ,Nautical HD
+rtp://233.21.50.17:1234
+#EXTINF:-1 ,motorvision.tv HD
+rtp://233.21.50.27:1234
+#EXTINF:-1 ,Disney Junior HD french
+rtp://233.21.50.31:1234
+#EXTINF:-1 ,Disney XD HD french
+rtp://233.21.50.52:1234
+#EXTINF:-1 ,National Geographic HD french
+rtp://233.21.50.54:1234
+#EXTINF:-1 ,Nat Geo Wild HD french
+rtp://233.21.50.55:1234
+#EXTINF:-1 ,Voyage HD
+rtp://233.21.50.56:1234
+#EXTINF:-1 ,TV Breizh HD
+rtp://233.21.50.57:1234
+#EXTINF:-1 ,Ushuaia TV HD
+rtp://233.21.50.58:1234
+#EXTINF:-1 ,OCS Max HD
+rtp://233.21.50.59:1234
+#EXTINF:-1 ,OCS City HD
+rtp://233.21.50.60:1234
+#EXTINF:-1 ,OCS Choc HD
+rtp://233.21.50.61:1234
+#EXTINF:-1 ,OCS Geants HD
+rtp://233.21.50.62:1234
+#EXTINF:-1 ,Nickelodeon Junior HD French
+rtp://233.21.50.63:1234
+#EXTINF:-1 ,Disney Cinema HD French
+rtp://233.21.50.70:1234
+#EXTINF:-1 ,Paramount Channel HD
+rtp://233.21.50.126:1234
+#EXTINF:-1 ,My Cuisine HD
+rtp://233.21.50.127:1234
+#EXTINF:-1 ,Equidia HD
+rtp://233.32.39.142:1234
+#EXTINF:-1 ,Chasse et Peche HD
+rtp://233.32.39.143:1234
+#EXTINF:-1 ,Golf Channel HD
+rtp://233.32.39.154:1234
+#EXTINF:-1 ,RMC SPORT Access 2 HD
+rtp://233.32.39.164:1234
+#EXTINF:-1 ,RMC SPORT Access 3 HD
+rtp://233.32.39.169:1234
+#EXTINF:-1 ,RMC Sport 4 HD
+rtp://233.32.39.170:1234
+#EXTINF:-1 ,RMC SPORT NEWS HD
+rtp://233.32.39.171:1234
+#EXTINF:-1 ,AB3 CH HD
+rtp://239.186.68.33:10000
+#EXTINF:-1 ,i24 News F HD
+rtp://239.186.70.102:10000
+#EXTINF:-1 ,GrandGeneveTV HD
+rtp://239.186.70.133:10000
+#EXTINF:-1 ,GRTV HD
+rtp://239.186.70.155:10000
+#EXTINF:-1 Teleclub Zoom F HD
+rtp://239.186.68.244:10000
+#EXTINF:-1 ,TV5MONDE EUROPE
+rtp://239.186.64.71:10000
+#EXTINF:-1 ,TV Onex HD
+rtp://239.186.70.132:10000
+#EXTINF:-1 ,Ajoie HD
+rtp://239.186.70.180:10000
+#EXTINF:-1 ,Vernier Visions HD
+rtp://239.186.70.203:10000
