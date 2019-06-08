@@ -138,8 +138,6 @@ rtp://233.21.50.2:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 ,SyFy HD french
 rtp://233.21.50.5:1234
-#EXTINF:-1 ,Disney Channel HD french
-rtp://233.21.50.11:1234
 #EXTINF:-1 ,Nautical HD
 rtp://233.21.50.17:1234
 #EXTINF:-1 ,motorvision.tv HD
@@ -148,6 +146,10 @@ rtp://233.21.50.27:1234
 rtp://233.21.50.31:1234
 #EXTINF:-1 ,Disney XD HD french
 rtp://233.21.50.52:1234
+#EXTINF:-1 ,Disney Channel HD french
+rtp://233.21.50.11:1234
+EXTINF:-1 ,Disney Cinema HD French
+rtp://233.21.50.70:1234
 #EXTINF:-1 ,National Geographic HD french
 rtp://233.21.50.54:1234
 #EXTINF:-1 ,Nat Geo Wild HD french
@@ -168,8 +170,6 @@ rtp://233.21.50.61:1234
 rtp://233.21.50.62:1234
 #EXTREM#EXTINF:-1 ,Nickelodeon Junior HD French
 #EXTREM rtp://233.21.50.63:1234
-EXTINF:-1 ,Disney Cinema HD French
-rtp://233.21.50.70:1234
 #REM #EXTINF:-1 ,Paramount Channel HD
 #REM rtp://233.21.50.126:1234
 #EXTINF:-1 ,My Cuisine HD
