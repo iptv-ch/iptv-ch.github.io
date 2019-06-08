@@ -166,8 +166,8 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.61:1234
 #EXTINF:-1 ,OCS Geants HD
 rtp://233.21.50.62:1234
-#rem #EXTINF:-1 ,Nickelodeon Junior HD French
-#rem rtp://233.21.50.63:1234
+#EXTREM#EXTINF:-1 ,Nickelodeon Junior HD French
+#EXTREM rtp://233.21.50.63:1234
 EXTINF:-1 ,Disney Cinema HD French
 rtp://233.21.50.70:1234
 #REM #EXTINF:-1 ,Paramount Channel HD
