@@ -131,7 +131,7 @@ udp://@239.101.10.166:1234
 udp://@239.101.10.81:1234
 #EXTINF:-1 ,TVM3 HD low quality
 udp://@239.101.10.165:1234
-#EXTINF:-1 ,MySports F demo HD
+#EXTINF:-1 ,MySports Preview F HD
 udp://@239.101.10.85:1234
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
