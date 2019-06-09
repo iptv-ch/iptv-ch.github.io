@@ -82,20 +82,22 @@ udp://@239.101.10.178:1234
 udp://@239.101.10.183:1234
 #EXTINF:-1 ,Canal Alpha NE HD
 udp://@239.101.10.182:1234
-#EXTINF:-1 ,NRTV HD
+#EXTINF:-1 ,NyonRegionTV HD
 udp://@239.101.10.251:1234
 #EXTINF:-1 ,One TV CH HD
 udp://@239.101.10.163:1234
 #EXTINF:-1 ,Cartoon Network F HD
 udp://@239.101.10.29:1234
+#EXTINF:-1 ,Canal J HD
+udp://@239.101.10.30:1234
+#EXTINF:-1 ,Nickelodeon Junior F HD
+udp://@239.101.11.53:1234
 #EXTINF:-1 ,AB1 HD
 udp://@239.101.10.240:1234
 #EXTINF:-1 ,Animaux HD
 udp://@239.101.10.241:1234
 #EXTINF:-1 ,BFM Business HD
 udp://@239.101.10.245:1234
-#EXTINF:-1 ,Canal J HD
-udp://@239.101.10.30:1234
 #EXTINF:-1 ,Euronews. F HD
 udp://@239.101.10.15:1234
 #EXTINF:-1 ,France 24
@@ -108,10 +110,6 @@ udp://@239.101.10.42:1234
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
-#EXTINF:-1 ,Nickelodeon Junior F HD
-udp://@239.101.11.53:1234
-#EXTINF:-1 ,Paramount Channel F HD
-udp://@239.101.10.243:1234
 #EXTINF:-1 ,Planete Plus HD
 udp://@239.101.10.32:1234
 #EXTINF:-1 ,RMC Sport News HD
@@ -120,6 +118,8 @@ udp://@239.101.10.14:1234
 udp://@239.101.10.20:1234
 #EXTINF:-1 ,TCM cinema HD
 udp://@239.101.10.9:1234
+#EXTINF:-1 ,Paramount Channel F HD
+udp://@239.101.10.243:1234
 #EXTINF:-1 ,Trek HD
 udp://@239.101.10.242:1234
 #EXTINF:-1 ,M6 Boutique HD
@@ -188,11 +188,11 @@ rtp://233.32.39.171:1234
 rtp://239.186.68.33:10000
 #EXTINF:-1 ,i24 News F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 ,GrandGeneveTV HD ex LancyTV
+#EXTINF:-1 ,GrandGeneveTV HD
 rtp://239.186.70.133:10000
-#EXTINF:-1 ,GeneveRegionTV HD ex televersoix
+#EXTINF:-1 ,GeneveRegionTV HD
 rtp://239.186.70.155:10000
-#EXTINF:-1 Teleclub Zoom F HD
+#EXTINF:-1 ,Teleclub Zoom F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1 ,TV5MONDE EUROPE
 rtp://239.186.64.71:10000
