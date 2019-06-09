@@ -28,9 +28,9 @@ udp://@239.101.10.21:1234
 udp://@239.101.10.23:1234
 #EXTINF:-1 ,NRJ12 HD
 udp://@239.101.10.24:1234
-#EXTINF:-1 ,LCP Public Senat
+#EXTINF:-1 ,LCP Public Senat HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal Plus Clair HD
+#EXTINF:-1 ,Canal plus en clair HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
@@ -130,7 +130,7 @@ udp://@239.101.10.81:1234
 udp://@239.101.10.36:1234
 #EXTINF:-1 ,TVM3 HD
 udp://@239.101.10.165:1234
-#EXTINF:-1 ,MySports F demo HD
+#EXTINF:-1 ,MySports Preview F HD
 udp://@239.101.10.85:1234
 #EXTINF:-1 ,Mangas HD
 rtp://233.21.50.2:1234
@@ -138,9 +138,9 @@ rtp://233.21.50.2:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 ,SyFy HD french
 rtp://233.21.50.5:1234
-#EXTINF:-1 ,Nautical HD
+#EXTINF:-1 ,Nautical HD low quality
 rtp://233.21.50.17:1234
-#EXTINF:-1 ,motorvision.tv HD
+#EXTINF:-1 ,motorvision.tv HD french low quality
 rtp://233.21.50.27:1234
 #EXTINF:-1 ,Disney Junior HD french
 rtp://233.21.50.31:1234
@@ -168,10 +168,6 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.61:1234
 #EXTINF:-1 ,OCS Geants HD
 rtp://233.21.50.62:1234
-#EXTREM#EXTINF:-1 ,Nickelodeon Junior HD French
-#EXTREM rtp://233.21.50.63:1234
-#REM #EXTINF:-1 ,Paramount Channel HD
-#REM rtp://233.21.50.126:1234
 #EXTINF:-1 ,My Cuisine HD
 rtp://233.21.50.127:1234
 #EXTINF:-1 ,Equidia HD
@@ -192,9 +188,9 @@ rtp://233.32.39.171:1234
 rtp://239.186.68.33:10000
 #EXTINF:-1 ,i24 News F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 ,GrandGeneveTV HD
+#EXTINF:-1 ,GrandGeneveTV HD ex LancyTV
 rtp://239.186.70.133:10000
-#EXTINF:-1 ,GRTV HD
+#EXTINF:-1 ,GeneveRegionTV HD ex televersoix
 rtp://239.186.70.155:10000
 #EXTINF:-1 Teleclub Zoom F HD
 rtp://239.186.68.244:10000
