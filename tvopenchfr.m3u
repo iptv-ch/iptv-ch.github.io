@@ -148,7 +148,7 @@ rtp://233.21.50.31:1234
 rtp://233.21.50.52:1234
 #EXTINF:-1 ,Disney Channel HD french
 rtp://233.21.50.11:1234
-EXTINF:-1 ,Disney Cinema HD French
+#EXTINF:-1 ,Disney Cinema HD French
 rtp://233.21.50.70:1234
 #EXTINF:-1 ,National Geographic HD french
 rtp://233.21.50.54:1234
