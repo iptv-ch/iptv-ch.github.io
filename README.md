@@ -6,7 +6,9 @@ IPTV open channels from Netplus + Sunrise + Swisscom as french only or english o
 (remark: german, italian follow soon)
 
 **URL: https://iptv-ch.github.io/tvopenchfr.m3u**
+
 **URL: https://iptv-ch.github.io/tvopenchen.m3u**
+
 **URL: https://iptv-ch.github.io/tvopenchde.m3u**
 
 
