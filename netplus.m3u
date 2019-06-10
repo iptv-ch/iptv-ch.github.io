@@ -31,8 +31,10 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 ,LCP Public Senat
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal Plus Clair HD
+#EXTINF:-1 ,Canal+ en clair HD
 udp://@239.101.10.39:1234
+#EXTINF:-1 ,Canal+ Sport HD
+udp://@239.101.11.25:1234
 #EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
 #EXTINF:-1 ,CNews HD
