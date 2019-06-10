@@ -2,8 +2,7 @@
 
 This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:
 
-IPTV open channels from Netplus + Sunrise + Swisscom as french only or english only, german language 
-(remark: italian follow soon)
+IPTV open channels from Netplus + Sunrise + Swisscom as language french only, english only, german only, italian only.
 
 **URL: https://iptv-ch.github.io/tvopenchfr.m3u**
 
@@ -11,6 +10,7 @@ IPTV open channels from Netplus + Sunrise + Swisscom as french only or english o
 
 **URL: https://iptv-ch.github.io/tvopenchde.m3u**
 
+**URL: https://iptv-ch.github.io/tvopenchit.m3u**
 
 ## Netplus TV HD + SD
 
