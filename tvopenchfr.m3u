@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.koditvepg.com/c39e9974/904703b1/guide.xml"
+#EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM netplus + sunrise + swisscom iptv network open french language in Switzerland
 #EXTINF:-1 ,RTS 1 HD
 udp://@239.101.10.46:1234
