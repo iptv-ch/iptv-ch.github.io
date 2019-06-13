@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM netplus iptv open
 #EXTREM french
-#EXTINF:-1 ,RTS 1 HD
+#EXTINF:-1 ,RTS un HD
 udp://@239.101.10.46:1234
-#EXTINF:-1 ,RTS 2 HD
+#EXTINF:-1 ,RTS deux HD
 udp://@239.101.10.47:1234
-#EXTINF:-1 ,TF1 HD Suisse
+#EXTINF:-1 ,TF1 CH HD
 udp://@239.101.10.63:1234
 #EXTINF:-1 ,France 2 HD
 udp://@239.101.10.64:1234
@@ -15,7 +15,7 @@ udp://@239.101.10.65:1234
 udp://@239.101.10.56:1234
 #EXTINF:-1 ,France 5 HD
 udp://@239.101.10.68:1234
-#EXTINF:-1 ,M6 HD
+#EXTINF:-1 ,M6 CH HD
 udp://@239.101.10.66:1234
 #EXTINF:-1 ,arte HD
 udp://@239.101.10.67:1234
@@ -186,7 +186,7 @@ udp://@239.101.10.215:1234
 udp://@239.101.10.12:1234
 #EXTINF:-1 ,Kika HD
 udp://@239.101.10.158:1234
-#EXTINF:-1 ,N24
+#EXTINF:-1 ,WeLT
 udp://@239.101.10.155:1234
 #EXTINF:-1 ,NDR HD
 udp://@239.101.10.247:1234
@@ -202,7 +202,7 @@ udp://@239.101.10.148:1234
 udp://@239.101.10.150:1234
 #EXTINF:-1 ,Pro 7
 udp://@239.101.10.213:1234
-#EXTINF:-1 ,ProSieben MAXX
+#EXTINF:-1 ,Pro 7 MAXX
 udp://@239.101.10.222:1234
 #EXTINF:-1 ,rbb
 udp://@239.101.10.248:1234
