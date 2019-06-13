@@ -735,7 +735,7 @@ udp://@239.101.10.233:1234
 udp://@239.101.10.168:1234
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="http://static.iptv-epg.com/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1 TV
 rtp://239.186.66.111:10000
-#EXTINF:-1 tvg-id="bnt." tvg-name="BNT4" tvg-logo="" tvg-chno="" channel-id="",BNT 4
+#EXTINF:-1 tvg-id="bnt4.bg" tvg-name="BNT4 BG" tvg-logo="http://static.iptv-epg.com/bg/bnt4.bg.png" tvg-chno="" channel-id="",BNT 4
 udp://@239.101.10.175:1234
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="http://static.iptv-epg.com/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
 rtp://239.186.64.189:10000
