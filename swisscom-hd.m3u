@@ -56,7 +56,7 @@ udp://@239.101.10.52:1234
 udp://@239.101.10.53:1234
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="http://static.iptv-epg.com/fr/cherie25.fr.png" tvg-chno="" channel-id="",Cherie 25 HD
 udp://@239.101.10.55:1234
-#EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.iptv-epg.com/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info HD low quality
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FR" tvg-logo="http://static.iptv-epg.com/fr/lci.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info HD low quality
 udp://@239.101.10.162:1234
 #EXTINF:-1 tvg-id="FranceInfo" tvg-name="France Info FR" tvg-logo="http://static.iptv-epg.com/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
@@ -69,7 +69,7 @@ rtp://239.186.70.106:10000
 #EXTINF:-1 tvg-id="Val TV" tvg-name="Val TV CH" tvg-logo="http://static.iptv-epg.com/ch/valtv.ch.png" tvg-chno="" channel-id="",Val TV HD
 udp://@239.101.10.178:1234
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
-rtp://239.186.68.242:10000
+udp://@239.101.10.20:10000
 #EXTINF:-1 tvg-id="AB1.lu" tvg-name="AB 1 FR" tvg-logo="http://static.iptv-epg.com/fr/AB1.fr.png" tvg-chno="" channel-id="",AB1 CH HD
 udp://@239.101.10.240:1234
 #EXTINF:-1 tvg-id="AB3.lu" tvg-name="AB 3 FR" tvg-logo="http://static.iptv-epg.com/fr/AB3.fr.png" tvg-chno="31" channel-id="31",AB3 CH HD
@@ -430,8 +430,8 @@ rtp://239.186.68.157:10000
 rtp://239.186.70.40:10000
 #EXTINF:-1 tvg-id="Rheinwelten.ch" tvg-name="Rheinwelten CH" tvg-logo="http://static.iptv-epg.com/de/Rheinwelten.ch.png" tvg-chno="" channel-id="",Rheinwelten HD
 rtp://239.186.70.202:10000
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH HD
-rtp://233.35.254.237:1234
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH
+rtp://239.186.64.15:10000
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 DE" tvg-logo="http://static.iptv-epg.com/de/RTL2.de.png" tvg-chno="261" channel-id="261",RTL2
 rtp://239.186.64.16:10000
 #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="http://static.iptv-epg.com/de/RTLPlus.de.png" tvg-chno="262" channel-id="262",RTLplus
@@ -702,8 +702,8 @@ rtp://239.186.64.209:10000
 rtp://239.186.64.200:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT TURK
-rtp://239.186.64.188:10000
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT T
+udp://@239.101.10.138:1234
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
 rtp://239.186.64.205:10000
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRTBELGESEL TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBELGESEL.tr.png" tvg-chno="" channel-id="",TRTBELGESEL HD
