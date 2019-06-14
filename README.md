@@ -77,4 +77,4 @@ This file lists only radio channels.<br>
 ## TV7 from Init7 ##
 **URL: https://iptv-ch.github.io/init7-tv7.xspf**
 
-TV7 only available for init7 optical fiber  Crossover7, hybrid7 (ftth) , Copper7 (vdsl/ffts) service provider customers
+TV7 only available for init7 service provider customers on optical fiber  Crossover7, hybrid7 (ftth) , Copper7 (vdsl/ffts)
