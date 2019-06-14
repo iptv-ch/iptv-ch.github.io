@@ -702,7 +702,7 @@ rtp://239.186.64.209:10000
 rtp://239.186.64.200:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT T
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk
 udp://@239.101.10.138:1234
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
 rtp://239.186.64.205:10000
