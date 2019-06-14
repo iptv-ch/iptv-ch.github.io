@@ -24,7 +24,7 @@ rtp://239.186.68.18:10000
 rtp://239.186.68.215:10000
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" tvg-chno="114" channel-id="114",W9 CH HD
 rtp://239.186.70.38:10000
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="104" channel-id="104",TMC HD CH
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="104" channel-id="104",TMC CH HD
 rtp://239.186.70.37:10000
 #EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" tvg-chno="102" channel-id="102",TFX CH HD
 udp://@239.101.10.23:1234
@@ -788,7 +788,7 @@ rtp://239.186.70.164:10000
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World KR" tvg-logo="http://static.iptv-epg.com/kr/KBSWorld.kr.png" tvg-chno="" channel-id="",KBS World HD
 rtp://239.186.70.191:10000
 #EXTINF:-1 tvg-id="arirang.kr" tvg-name="arirang KR" tvg-logo="http://static.iptv-epg.com/kr/arirang.kr.png" tvg-chno="" channel-id="",arirang HD
-rtp://239.186.70.191:10000
+rtp://239.186.70.195:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",OBN
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
