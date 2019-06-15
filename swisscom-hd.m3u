@@ -62,12 +62,10 @@ udp://@239.101.10.162:1234
 rtp://239.186.66.225:10000
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="109" channel-id="109",TV5MONDE FBS HD
 udp://@239.101.10.18:1234
-#EXTINF:-1 tvg-id="KTO" tvg-name="KTO FR" tvg-logo="http://static.iptv-epg.com/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
+rtp://239.186.64.71:10000
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="http://static.iptv-epg.com/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD low quality
-udp://@239.101.10.36:1234
-#EXTINF:-1 tvg-id="Valtv.ch" tvg-name="Val TV CH" tvg-logo="http://static.iptv-epg.com/ch/valtv.ch.png" tvg-chno="" channel-id="",Val TV HD
-udp://@239.101.10.178:1234
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
 udp://@239.101.10.20:10000
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="http://static.iptv-epg.com/fr/AB1.fr.png" tvg-chno="" channel-id="",AB1 CH HD
@@ -148,12 +146,14 @@ rtp://233.32.39.169:1234
 rtp://233.32.39.170:1234
 #EXTINF:-1 tvg-id="rmcsn" tvg-name="RMC Sport NEWS" tvg-logo="https://skysiertv.com/stv/chaines/rmcsn/logo.jpg" tvg-chno="27" channel-id="27",RMC Sport News HD
 rtp://233.32.39.171:1234
-#EXTINF:-1 tvg-id="becurious.ch" tvg-name="BeCurious CH" tvg-logo="http://static.iptv-epg.com/ch/becurious.ch.png" tvg-chno="34" channel-id="34",becurious HD
-rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.iptv-epg.com/fr/BFMBusiness.fr.png" tvg-chno="36" channel-id="36",BFM BUSINESS HD
 rtp://239.186.70.74:10000
-#EXTINF:-1 tvg-id="booster.ch" tvg-name="Booster CH" tvg-logo="http://static.iptv-epg.com/ch/booster.ch.png" tvg-chno="40" channel-id="40",booster HD
-rtp://239.186.70.104:10000
+#EXTINF:-1 tvg-id="becurious.ch" tvg-name="BeCurious CH" tvg-logo="http://static.iptv-epg.com/ch/becurious.ch.png" tvg-chno="34" channel-id="34",becurious HD
+rtp://239.186.68.208:10000
+#EXTINF:-1 tvg-id="8MontBlanc.fr" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD low quality
+udp://@239.101.10.36:1234
+#EXTINF:-1 tvg-id="Valtv.ch" tvg-name="Val TV CH" tvg-logo="http://static.iptv-epg.com/ch/valtv.ch.png" tvg-chno="" channel-id="",Val TV HD
+udp://@239.101.10.178:1234
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="https://static.iptv-epg.com/ch/Canal9.ch.png" tvg-chno="43" channel-id="43",Canal9 HD
 rtp://239.186.68.144:10000
 #EXTINF:-1 tvg-id="CanalAlphaJU.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.iptv-epg.com/ch/CanalAlpha.ch.png" tvg-chno="45" channel-id="45",CanalAlpha JU HD
@@ -178,6 +178,10 @@ rtp://239.186.70.39:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="M6Boutique.fr" tvg-name="M6 Boutique FR" tvg-logo="http://static.iptv-epg.com/fr/M6Boutique.fr.png" tvg-chno="78" channel-id="78",M6 Boutique
 rtp://239.186.64.149:10000
+#EXTINF:-1 tvg-id="booster.ch" tvg-name="Booster CH" tvg-logo="http://static.iptv-epg.com/ch/booster.ch.png" tvg-chno="40" channel-id="40",booster HD
+rtp://239.186.70.104:10000
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="http://static.iptv-epg.com/ch/tvm3.ch.png" tvg-chno="111" channel-id="111",tvm3 HD
+rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="http://static.iptv-epg.com/ch/maxtv.ch.png" tvg-chno="82" channel-id="82",maxtv HD
 rtp://239.186.68.199:10000
 #EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="http://static.iptv-epg.com/ch/nrtv.ch.png" tvg-chno="86" channel-id="86",NRTV HD
@@ -188,10 +192,6 @@ rtp://239.186.70.12:10000
 rtp://239.186.68.253:10000
 #EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.iptv-epg.com/ch/grtv.ch.png" tvg-chno="96" channel-id="96",GRTV HD
 rtp://239.186.70.155:10000
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
-rtp://239.186.64.71:10000
-#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="http://static.iptv-epg.com/ch/tvm3.ch.png" tvg-chno="111" channel-id="111",tvm3 HD
-rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.iptv-epg.com/ch/tvonex.ch.png" tvg-chno="112" channel-id="112",TV Onex HD
 rtp://239.186.70.132:10000
 #EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.iptv-epg.com/ch/ajoie.ch.png" tvg-chno="" channel-id="",Ajoie HD
