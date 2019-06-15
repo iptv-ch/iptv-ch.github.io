@@ -30,7 +30,7 @@ rtp://239.186.70.37:10000
 udp://@239.101.10.23:1234
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="http://static.iptv-epg.com/fr/NRJ12.fr.png" tvg-chno="84" channel-id="84",NRJ12 CH HD
 rtp://239.186.70.33:10000
-#EXTINF:-1 ,tvg-id="LaChaineParlementaire.fr" tvg-name="LCP FR" tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" tvg-chno="" channel-id="",LCP HD
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP FR" tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" tvg-chno="" channel-id="",LCP HD
 udp://@239.101.10.180:1234
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="http://static.iptv-epg.com/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ en clair HD
 udp://@239.101.10.39:1234
@@ -67,7 +67,7 @@ rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="http://static.iptv-epg.com/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
 rtp://239.186.64.148:10000
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
-udp://@239.101.10.20:10000
+udp://@239.101.10.20:1234
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="http://static.iptv-epg.com/fr/AB1.fr.png" tvg-chno="" channel-id="",AB1 CH HD
 udp://@239.101.10.240:1234
 #EXTINF:-1 tvg-id="AB3.fr" tvg-name="AB 3 FR" tvg-logo="http://static.iptv-epg.com/fr/AB3.fr.png" tvg-chno="31" channel-id="31",AB3 CH HD
@@ -162,8 +162,8 @@ rtp://239.186.68.193:10000
 rtp://239.186.68.194:10000
 #EXTINF:-1 tvg-id="EuronewsF.fr" tvg-name="Euronews FR" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="53" channel-id="53",euronews. F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1 tvg-id="France24F.fr" tvg-name="France 24 FR" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24 HD
-rtp://239.186.70.125:10000
+#EXTINF:-1 tvg-id="France24F.fr" tvg-name="France 24 FR" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24
+rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="i24News.il" tvg-name="" tvg-logo="http://static.iptv-epg.com/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 News F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="http://static.iptv-epg.com/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
@@ -524,7 +524,7 @@ rtp://239.186.68.24:10000
 rtp://239.186.64.30:10000
 #EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="http://static.iptv-epg.com/de/WeltDerWunder.de.png" tvg-chno="337" channel-id="337",Welt der Wunder TV HD
 rtp://239.186.68.198:10000
-#EXTINF:-1 tvg-id="Wetterfernsehen.de" tvg-name="Wetter.com TV DE" tvg-logo="http://static.iptv-epg.com/de/Wetterfernsehen.de.png" tvg-chno="338" channel-id="338",wetter.tv HD
+#EXTINF:-1 tvg-id="Wettertv.ch" tvg-name="WetterTV CH" tvg-logo="http://static.iptv-epg.com/ch/Wettertv.ch.png" tvg-chno="338" channel-id="338",wetter.tv CH HD
 rtp://239.186.70.119:10000
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="http://static.iptv-epg.com/de/ZDF.de.png" tvg-chno="340" channel-id="340",ZDF CH HD
 rtp://239.186.68.10:10000
