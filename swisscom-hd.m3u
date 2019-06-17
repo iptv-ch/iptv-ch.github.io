@@ -2,77 +2,77 @@
 #EXTREM:french
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="0",TC Zoom F HD
 rtp://239.186.68.244:10000
-#EXTINF:-1 tvg-id="RTSUn.ch" tvg-name="RTS un CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS un CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
 rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="RTSDeux.ch" tvg-name="RTS deux CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS deux HD
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS deux CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS deux HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="100" channel-id="100",TF1 CH HD
 rtp://233.35.254.133:1234
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" tvg-chno="55" channel-id="55",France2 HD
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" tvg-chno="55" channel-id="55",France2 HD
 rtp://239.186.68.19:10000
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" tvg-chno="57" channel-id="57",France3 HD
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" tvg-chno="57" channel-id="57",France3 HD
 rtp://239.186.70.25:10000
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4 HD
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4 HD
 rtp://239.186.70.26:10000
-#EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="60" channel-id="60",France5 HD
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="60" channel-id="60",France5 HD
 rtp://239.186.70.27:10000
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="80" channel-id="80",M6 CH HD Suisse
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="80" channel-id="80",M6 CH HD Suisse
 udp://@239.101.10.66:1234
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte FR" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="33" channel-id="33",arte F HD
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="33" channel-id="33",arte F HD
 rtp://239.186.68.18:10000
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="http://static.iptv-epg.com/fr/C8.fr.png" tvg-chno="49" channel-id="49",C8 CH HD
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="http://static.iptv-epg.com/fr/C8.fr.png" tvg-chno="49" channel-id="49",C8 CH HD
 rtp://239.186.68.215:10000
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" tvg-chno="114" channel-id="114",W9 CH HD
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" tvg-chno="114" channel-id="114",W9 CH HD
 rtp://239.186.70.38:10000
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="104" channel-id="104",TMC CH HD
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" tvg-chno="104" channel-id="104",TMC CH HD
 rtp://239.186.70.37:10000
-#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" tvg-chno="102" channel-id="102",TFX CH HD
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX" tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" tvg-chno="102" channel-id="102",TFX CH HD
 udp://@239.101.10.23:1234
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="http://static.iptv-epg.com/fr/NRJ12.fr.png" tvg-chno="84" channel-id="84",NRJ12 CH HD
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12" tvg-logo="http://static.iptv-epg.com/fr/NRJ12.fr.png" tvg-chno="84" channel-id="84",NRJ12 CH HD
 rtp://239.186.70.33:10000
-#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP FR" tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" tvg-chno="" channel-id="",LCP HD
+#EXTINF:-1 tvg-id="LCP2424" tvg-name="LCP 24/24" tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" tvg-chno="" channel-id="",LCP HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="http://static.iptv-epg.com/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ en clair HD
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="http://static.iptv-epg.com/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ en clair HD
 udp://@239.101.10.39:1234
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="http://static.iptv-epg.com/fr/BFMTV.fr.png" tvg-chno="38" channel-id="38",BFMTV CH HD
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://static.iptv-epg.com/fr/BFMTV.fr.png" tvg-chno="38" channel-id="38",BFMTV CH HD
 rtp://239.186.68.196:10000
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="http://static.iptv-epg.com/fr/CNews.fr.png" tvg-chno="69" channel-id="69",CNEWS HD
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="http://static.iptv-epg.com/fr/CNews.fr.png" tvg-chno="69" channel-id="69",CNEWS HD
 rtp://239.186.70.30:10000
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="http://static.iptv-epg.com/fr/CStar.fr.png" tvg-chno="51" channel-id="51",CSTAR HD
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="http://static.iptv-epg.com/fr/CStar.fr.png" tvg-chno="51" channel-id="51",CSTAR HD
 rtp://239.186.70.24:10000
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="http://static.iptv-epg.com/fr/Gulli.fr.png" tvg-chno="65" channel-id="65",gulli HD
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="http://static.iptv-epg.com/fr/Gulli.fr.png" tvg-chno="65" channel-id="65",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O MU" tvg-logo="http://static.iptv-epg.com/mu/FranceO.mu.png" tvg-chno="61" channel-id="61",FranceO HD
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O" tvg-logo="http://static.iptv-epg.com/mu/FranceO.mu.png" tvg-chno="61" channel-id="61",FranceO HD
 udp://@239.101.10.38:1234
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="http://static.iptv-epg.com/fr/TF1seriesfilms.fr" tvg-chno="" channel-id="",TF1 Series Films HD
+#EXTINF:-1 tvg-id="HD1.fr" tvg-name="TF1 Séries Films" tvg-logo="http://static.iptv-epg.com/fr/TF1seriesfilms.fr" tvg-chno="" channel-id="",TF1 Series Films HD
 udp://@239.101.10.50:1234
-#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'Equipe 21 FR" tvg-logo="http://static.iptv-epg.com/fr/LEquipe21.fr.png" tvg-chno="137" channel-id="137",L'Equipe HD
+#EXTINF:-1 tvg-id="equipetv.fr" tvg-name="L'Equipe TV" tvg-logo="http://static.iptv-epg.com/fr/LEquipe21.fr.png" tvg-chno="137" channel-id="137",L'Equipe HD
 udp://@239.101.10.54:1234
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="62" channel-id="62",6ter HD
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="62" channel-id="62",6ter HD
 udp://@239.101.10.51:1234
 #EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC Story FR" tvg-logo="http://static.iptv-epg.com/fr/rmcstory.fr.png" tvg-chno="" channel-id="",RMC Story HD
 udp://@239.101.10.52:1234
-#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC Decouverte FR" tvg-logo="http://static.iptv-epg.com/fr/rmcdecouverte.fr.png" tvg-chno="" channel-id="",RMC Decouverte HD
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.iptv-epg.com/fr/rmcdecouverte.fr.png" tvg-chno="" channel-id="",RMC Decouverte HD
 udp://@239.101.10.53:1234
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="http://static.iptv-epg.com/fr/cherie25.fr.png" tvg-chno="" channel-id="",Cherie 25 HD
 udp://@239.101.10.55:1234
 #EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FR" tvg-logo="http://static.iptv-epg.com/fr/lci.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info HD low quality
 udp://@239.101.10.162:1234
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="http://static.iptv-epg.com/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
+#EXTINF:-1 tvg-id="FranceInfo" tvg-name="franceinfo:" tvg-logo="http://static.iptv-epg.com/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="109" channel-id="109",TV5MONDE FBS HD
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE France Belgique Suisse" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="109" channel-id="109",TV5MONDE FBS HD
 udp://@239.101.10.18:1234
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="http://static.iptv-epg.com/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://static.iptv-epg.com/lu/RTL9.lu.png" tvg-chno="90" channel-id="90",RTL9 CH HD
 udp://@239.101.10.20:1234
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="http://static.iptv-epg.com/fr/AB1.fr.png" tvg-chno="" channel-id="",AB1 CH HD
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://static.iptv-epg.com/fr/AB1.fr.png" tvg-chno="" channel-id="",AB1 CH HD
 udp://@239.101.10.240:1234
-#EXTINF:-1 tvg-id="AB3.fr" tvg-name="AB 3 FR" tvg-logo="http://static.iptv-epg.com/fr/AB3.fr.png" tvg-chno="31" channel-id="31",AB3 CH HD
+#EXTINF:-1 tvg-id="AB3" tvg-name="AB3" tvg-logo="http://static.iptv-epg.com/fr/AB3.fr.png" tvg-chno="31" channel-id="31",AB3 CH HD
 rtp://239.186.68.33:10000
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network FR" tvg-logo="http://static.iptv-epg.com/fr/CartoonNetwork.fr.png" tvg-chno="" channel-id="",Cartoon Network F HD
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="http://static.iptv-epg.com/fr/CartoonNetwork.fr.png" tvg-chno="" channel-id="",Cartoon Network F HD
 udp://@239.101.10.29:1234
 #EXTINF:-1 tvg-id="canalj.fr" tvg-name="Canal J FR" tvg-logo="http://static.iptv-epg.com/fr/canalj.fr.png" tvg-chno="" channel-id="",Canal J HD
 udp://@239.101.10.30:1234
@@ -82,7 +82,7 @@ udp://@239.101.10.244:1234
 udp://@239.101.10.42:1234
 #EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FR" tvg-logo="http://static.iptv-epg.com/fr/mezzo.fr.png" tvg-chno="" channel-id="",Mezzo HD
 udp://@239.101.10.40:1234
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FR" tvg-logo="http://static.iptv-epg.com/fr/mtv.fr.png" tvg-chno="" channel-id="",MTV France HD
+#EXTINF:-1 tvg-id="MTVF" tvg-name="MTV France" tvg-logo="http://static.iptv-epg.com/fr/mtv.fr.png" tvg-chno="" channel-id="",MTV France HD
 udp://@239.101.10.25:1234
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux FR" tvg-logo="http://static.iptv-epg.com/fr/animaux.fr.png" tvg-chno="" channel-id="",Animaux HD
 udp://@239.101.10.241:1234
@@ -90,19 +90,19 @@ udp://@239.101.10.241:1234
 udp://@239.101.10.32:1234
 #EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FR" tvg-logo="http://static.iptv-epg.com/fr/trek.fr.png" tvg-chno="" channel-id="",Trek HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS Max FR" tvg-logo="http://static.iptv-epg.com/fr/OCSMax.fr.png" tvg-chno="1" channel-id="1",OCS Max FR HD
+#EXTINF:-1 tvg-id="OCSMax" tvg-name="OCS Max" tvg-logo="http://static.iptv-epg.com/fr/OCSMax.fr.png" tvg-chno="1" channel-id="1",OCS Max FR HD
 rtp://233.21.50.59:1234
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS City FR" tvg-logo="http://static.iptv-epg.com/fr/OCSCity.fr.png" tvg-chno="2" channel-id="2",OCS City FR HD
+#EXTINF:-1 tvg-id="OCSCity" tvg-name="OCS City" tvg-logo="http://static.iptv-epg.com/fr/OCSCity.fr.png" tvg-chno="2" channel-id="2",OCS City FR HD
 rtp://233.21.50.60:1234
-#EXTINF:-1 tvg-id="OcsChoc.fr" tvg-name="Ocs Choc FR" tvg-logo="http://static.iptv-epg.com/mu/OcsChoc.mu.png" tvg-chno="3" channel-id="3",OCS Choc FR HD
+#EXTINF:-1 tvg-id="OCSChoc" tvg-name="OCS Choc" tvg-logo="http://static.iptv-epg.com/mu/OcsChoc.mu.png" tvg-chno="3" channel-id="3",OCS Choc FR HD
 rtp://233.21.50.61:1234
-#EXTINF:-1 tvg-id="OcsGeants.fr" tvg-name="Ocs Geants FR" tvg-logo="http://static.iptv-epg.com/mu/OcsGeants.mu.png" tvg-chno="4" channel-id="4",OCS Geants FR HD
+#EXTINF:-1 tvg-id="OCSGeants" tvg-name="OCS Geants" tvg-logo="http://static.iptv-epg.com/mu/OcsGeants.mu.png" tvg-chno="4" channel-id="4",OCS Geants FR HD
 rtp://233.21.50.62:1234
-#EXTINF:-1 tvg-id="13eRue.fr" tvg-name="13e Rue FR" tvg-logo="http://static.iptv-epg.com/fr/13Rue.fr.png" tvg-chno="5" channel-id="5",13ème Rue FR HD
+#EXTINF:-1 tvg-id="13eRue" tvg-name="13ème Rue" tvg-logo="http://static.iptv-epg.com/fr/13Rue.fr.png" tvg-chno="5" channel-id="5",13ème Rue FR HD
 rtp://233.21.50.4:1234
-#EXTINF:-1 tvg-id="SyFyF.fr" tvg-name="Syfy FR" tvg-logo="http://static.iptv-epg.com/fr/Syfy.fr.png" tvg-chno="6" channel-id="6",SyFy HD French
+#EXTINF:-1 tvg-id="SyFyF" tvg-name="Syfy" tvg-logo="http://static.iptv-epg.com/fr/Syfy.fr.png" tvg-chno="6" channel-id="6",SyFy HD French
 rtp://233.21.50.5:1234
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyChannel.fr.png" tvg-chno="7" channel-id="7",Disney Channel HD french
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyChannel.fr.png" tvg-chno="7" channel-id="7",Disney Channel HD french
 rtp://233.21.50.11:1234
 #EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="Disney Junior FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyJunior.fr.png" tvg-chno="8" channel-id="8",Disney Junior HD french
 rtp://233.21.50.31:1234
@@ -114,15 +114,15 @@ rtp://233.21.50.70:1234
 rtp://233.21.50.2:1234
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV FR" tvg-logo="http://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="12" channel-id="12",motorvision.tv HD
 rtp://233.21.50.27:1234
-#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
+#EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeo.fr.png" tvg-chno="13" channel-id="13",National Geographic HD French
 rtp://233.21.50.54:1234
-#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeoWild.fr.png" tvg-chno="14" channel-id="14",National Geographic Wild HD French (fra/eng)
+#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.iptv-epg.com/fr/NatGeoWild.fr.png" tvg-chno="14" channel-id="14",National Geographic Wild HD French (fra/eng)
 rtp://233.21.50.55:1234
 #EXTINF:-1 tvg-id="Voyage.fr" tvg-name="Voyage FR" tvg-logo="http://static.iptv-epg.com/fr/Voyage.fr.png" tvg-chno="15" channel-id="15",Voyage HD
 rtp://233.21.50.56:1234
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="Tv Breizh FR" tvg-logo="http://static.iptv-epg.com/fr/TvBreizh.fr.png" tvg-chno="16" channel-id="16",TV Breizh HD
 rtp://233.21.50.57:1234
-#EXTINF:-1 tvg-id="Ushuaia.fr" tvg-name="Ushuaïa TV FR" tvg-logo="http://static.iptv-epg.com/fr/UshuaiaTV.fr.png" tvg-chno="17" channel-id="17",Ushuaia TV HD
+#EXTINF:-1 tvg-id="Ushuaia" tvg-name="Ushuaïa TV" tvg-logo="http://static.iptv-epg.com/fr/UshuaiaTV.fr.png" tvg-chno="17" channel-id="17",Ushuaia TV HD
 rtp://233.21.50.58:1234
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.iptv-epg.com/fr/ParamountChannel.fr.png" tvg-chno="18" channel-id="18",Paramount Channel HD French
 rtp://233.21.50.126:1234
@@ -136,13 +136,13 @@ rtp://233.32.39.142:1234
 rtp://233.32.39.143:1234
 #EXTINF:-1 tvg-id="Golf.fr" tvg-name="Golf FR" tvg-logo="http://static.iptv-epg.com/us/GolfChannel.us.png" tvg-chno="22" channel-id="22",Golf channel HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.iptv-epg.com/fr/NauticalChannel.fr.png" tvg-chno="23" channel-id="23",Nautical Channel HD
+#EXTINF:-1 tvg-id="NauticalChannel" tvg-name="Nautical Channel FR" tvg-logo="http://static.iptv-epg.com/fr/NauticalChannel.fr.png" tvg-chno="23" channel-id="23",Nautical Channel HD
 rtp://233.21.50.17:1234
-#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.iptv-epg.com/fr/RMCSportAccess2.fr.png" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
+#EXTINF:-1 tvg-id="RMCSportAccess2" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.iptv-epg.com/fr/RMCSportAccess2.fr.png" tvg-chno="24" channel-id="24",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
-#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="RMC Sport Access 3 FR" tvg-logo="http://static.iptv-epg.com/fr/RMCSportAccess2.fr.png" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
+#EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="RMC Sport Access 3 FR" tvg-logo="http://static.iptv-epg.com/fr/RMCSportAccess2.fr.png" tvg-chno="25" channel-id="25",RMC SPORT Access 3 HD
 rtp://233.32.39.169:1234
-#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.iptv-epg.com/fr/RMCSport4.fr.png" tvg-chno="26" channel-id="26",RMC SPORT 4 HD
+#EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="RMC Sport 4" tvg-logo="http://static.iptv-epg.com/fr/RMCSport4.fr.png" tvg-chno="26" channel-id="26",RMC SPORT 4 HD
 rtp://233.32.39.170:1234
 #EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC Sport News FR" tvg-logo="http://static.iptv-epg.com/fr/rmcsn.fr.png" tvg-chno="27" channel-id="27",RMC Sport News HD
 rtp://233.32.39.171:1234
@@ -150,7 +150,7 @@ rtp://233.32.39.171:1234
 rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="becurious.ch" tvg-name="BeCurious CH" tvg-logo="http://static.iptv-epg.com/ch/becurious.ch.png" tvg-chno="34" channel-id="34",becurious HD
 rtp://239.186.68.208:10000
-#EXTINF:-1 tvg-id="8MontBlanc.fr" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD low quality
+#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD low quality
 udp://@239.101.10.36:1234
 #EXTINF:-1 tvg-id="Valtv.ch" tvg-name="Val TV CH" tvg-logo="http://static.iptv-epg.com/ch/valtv.ch.png" tvg-chno="" channel-id="",Val TV HD
 udp://@239.101.10.178:1234
@@ -160,9 +160,9 @@ rtp://239.186.68.144:10000
 rtp://239.186.68.193:10000
 #EXTINF:-1 tvg-id="CanalAlphaNE.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.iptv-epg.com/ch/CanalAlpha.ch.png" tvg-chno="47" channel-id="47",Canal Alpha NE HD
 rtp://239.186.68.194:10000
-#EXTINF:-1 tvg-id="EuronewsF.fr" tvg-name="Euronews FR" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="53" channel-id="53",euronews. F HD
+#EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="53" channel-id="53",euronews. F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1 tvg-id="France24F.fr" tvg-name="France 24 FR" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24
+#EXTINF:-1 tvg-id="France24F" tvg-name="France 24" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24
 rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="i24News.il" tvg-name="" tvg-logo="http://static.iptv-epg.com/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 News F HD
 rtp://239.186.70.102:10000
@@ -245,7 +245,7 @@ rtp://239.186.64.135:10000
 rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="http://static.iptv-epg.com/uk/EuroNews.uk.png" tvg-chno="149" channel-id="149",euronews E HD
 rtp://239.186.70.105:10000
-#EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="Fashion TV FR" tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-chno="151" channel-id="151",Fashion TV HD
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-chno="151" channel-id="151",Fashion TV HD
 rtp://233.32.39.198:1234
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="http://static.iptv-epg.com/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
 rtp://239.186.64.172:10000
@@ -316,7 +316,7 @@ rtp://239.186.70.179:10000
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE HD
 rtp://239.186.68.7:10000
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="http://static.iptv-epg.com/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD Das Erste HD
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="http://static.iptv-epg.com/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD Das Erste HD
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.iptv-epg.com/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD alpha HD
 rtp://239.186.70.194:10000
