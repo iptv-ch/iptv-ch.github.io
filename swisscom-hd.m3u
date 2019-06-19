@@ -162,8 +162,8 @@ rtp://239.186.68.193:10000
 rtp://239.186.68.194:10000
 #EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="53" channel-id="53",euronews. F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1 tvg-id="France24F" tvg-name="France 24" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24
-rtp://239.186.64.41:10000
+#EXTINF:-1 tvg-id="France24F" tvg-name="France 24" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24 HD
+rtp://233.35.254.73:1234
 #EXTINF:-1 tvg-id="i24News.il" tvg-name="" tvg-logo="http://static.iptv-epg.com/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 News F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="http://static.iptv-epg.com/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
