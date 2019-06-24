@@ -188,8 +188,8 @@ rtp://239.186.68.199:10000
 rtp://239.186.70.66:10000
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-name="OneTV CH" tvg-logo="http://static.iptv-epg.com/ch/OneTV.ch.png" tvg-chno="87" channel-id="87",One tv CH HD
 rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.iptv-epg.com/ch/RougeTV.ch.png" tvg-chno="89" channel-id="89",rougeTV HD
-rtp://239.186.68.253:10000
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.iptv-epg.com/ch/RougeTV.ch.png" tvg-chno="89" channel-id="89",rouge TV HD
+udp://@239.101.10.41:1234
 #EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.iptv-epg.com/ch/grtv.ch.png" tvg-chno="96" channel-id="96",GRTV HD
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.iptv-epg.com/ch/tvonex.ch.png" tvg-chno="112" channel-id="112",TV Onex HD
