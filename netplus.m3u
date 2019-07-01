@@ -162,8 +162,6 @@ udp://@239.101.10.142:1234
 udp://@239.101.10.145:1234
 #EXTINF:-1 ,ZDF neo HD
 udp://@239.101.10.143:1234
-#EXTINF:-1 ,Channel 55 HD
-udp://@239.101.10.82:1234
 #EXTINF:-1 ,MTV Schweiz
 udp://@239.101.11.71:1234
 #EXTINF:-1 ,Das Erste HD
