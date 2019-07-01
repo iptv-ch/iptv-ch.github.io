@@ -55,18 +55,12 @@ rtp://233.32.39.88:1234
 rtp://233.32.39.89:1234
 #EXTINF:-1 ,NRJ Black
 rtp://233.32.39.75:1234
-#EXTINF:-1 ,NRJ Charts
-rtp://233.32.39.91:1234
 #EXTINF:-1 ,NRJ Dance
 rtp://233.32.39.76:1234
 #EXTINF:-1 ,NRJ Electro
 rtp://233.32.39.77:1234
 #EXTINF:-1 ,NRJ German
 rtp://233.32.39.78:1234
-#EXTINF:-1 ,NRJ Girl
-rtp://233.32.39.92:1234
-#EXTINF:-1 ,NRJ Hot
-rtp://233.32.39.93:1234
 #EXTINF:-1 ,NRJ Italy
 rtp://233.32.39.79:1234
 #EXTINF:-1 ,NRJ Latin
