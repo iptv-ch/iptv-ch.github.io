@@ -126,7 +126,7 @@ udp://@239.101.10.242:1234
 udp://@239.101.10.166:1234
 #EXTINF:-1 ,Booster TV HD
 udp://@239.101.10.81:1234
-#EXTINF:-1 ,TV8 Mont Blanc HD
+#EXTINF:-1 ,8Mont-Blanc HD
 udp://@239.101.10.36:1234
 #EXTINF:-1 ,TVM3 HD
 udp://@239.101.10.165:1234
@@ -152,13 +152,13 @@ rtp://233.21.50.11:1234
 rtp://233.21.50.70:1234
 #EXTINF:-1 ,National Geographic HD french
 rtp://233.21.50.54:1234
-#EXTINF:-1 ,Nat Geo Wild HD french
+#EXTINF:-1 ,National Geographic Wild HD french
 rtp://233.21.50.55:1234
 #EXTINF:-1 ,Voyage HD
 rtp://233.21.50.56:1234
 #EXTINF:-1 ,TV Breizh HD
 rtp://233.21.50.57:1234
-#EXTINF:-1 ,Ushuaia TV HD
+#EXTINF:-1 ,Ushuaïa TV HD
 rtp://233.21.50.58:1234
 #EXTINF:-1 ,OCS Max HD
 rtp://233.21.50.59:1234
