@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM netplus + sunrise + swisscom iptv network open french language in Switzerland
-#EXTINF:-1 ,RTS 1 HD
+#EXTINF:-1 ,RTS un HD
 udp://@239.101.10.46:1234
-#EXTINF:-1 ,RTS 2 HD
+#EXTINF:-1 ,RTS deux HD
 udp://@239.101.10.47:1234
 #EXTINF:-1 ,TF1 HD Suisse
 udp://@239.101.10.63:1234
@@ -30,7 +30,7 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 ,LCP HD/ Public Senat HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal plus en clair HD
+#EXTINF:-1 ,Canal+ programmes en clair HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
