@@ -80,7 +80,7 @@ udp://@239.101.10.30:1234
 udp://@239.101.10.244:1234
 #EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM Top FR" tvg-logo="http://static.iptv-epg.com/fr/mcmtop.fr.png" tvg-chno="" channel-id="",MCM Top HD
 udp://@239.101.10.42:1234
-#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FR" tvg-logo="http://static.iptv-epg.com/fr/mezzo.fr.png" tvg-chno="" channel-id="",Mezzo HD
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FR" tvg-logo="http://static.iptv-epg.com/fr/mezzo.fr.png" tvg-chno="" channel-id="",mezzo HD
 udp://@239.101.10.40:1234
 #EXTINF:-1 tvg-id="MTVF" tvg-name="MTV France" tvg-logo="http://static.iptv-epg.com/fr/mtv.fr.png" tvg-chno="" channel-id="",MTV France HD
 udp://@239.101.10.25:1234
@@ -150,8 +150,8 @@ rtp://233.32.39.171:1234
 rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="becurious.ch" tvg-name="BeCurious CH" tvg-logo="http://static.iptv-epg.com/ch/becurious.ch.png" tvg-chno="34" channel-id="34",becurious HD
 rtp://239.186.68.208:10000
-#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD low quality
-udp://@239.101.10.36:1234
+#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD
+rtp://239.186.70.106:10000
 #EXTINF:-1 tvg-id="Valtv.ch" tvg-name="Val TV CH" tvg-logo="http://static.iptv-epg.com/ch/valtv.ch.png" tvg-chno="" channel-id="",Val TV HD
 udp://@239.101.10.178:1234
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="http://static.iptv-epg.com/ch/Canal9.ch.png" tvg-chno="43" channel-id="43",Canal9 HD
@@ -176,8 +176,8 @@ rtp://239.186.70.82:10000
 rtp://239.186.70.39:10000
 #EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFMTV CH" tvg-logo="http://static.iptv-epg.com/ch/lfmtv.ch.png" tvg-chno="77" channel-id="77",LFM TV HD
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="M6Boutique.fr" tvg-name="M6 Boutique FR" tvg-logo="http://static.iptv-epg.com/fr/M6Boutique.fr.png" tvg-chno="78" channel-id="78",M6 Boutique HD
-rtp://239.101.10.166:1234
+#EXTINF:-1 tvg-id="M6Boutique.fr" tvg-name="M6 Boutique FR" tvg-logo="http://static.iptv-epg.com/fr/M6Boutique.fr.png" tvg-chno="78" channel-id="78",M6 Boutique
+rtp://239.186.64.149:10000
 #EXTINF:-1 tvg-id="booster.ch" tvg-name="Booster CH" tvg-logo="http://static.iptv-epg.com/ch/booster.ch.png" tvg-chno="40" channel-id="40",booster HD
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="http://static.iptv-epg.com/ch/tvm3.ch.png" tvg-chno="111" channel-id="111",tvm3 HD
@@ -416,7 +416,7 @@ rtp://239.186.68.13:10000
 rtp://239.186.64.86:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.iptv-epg.com/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="http://static.iptv-epg.com/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben
 rtp://239.186.64.19:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="http://static.iptv-epg.com/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
 rtp://239.186.68.191:10000
@@ -458,7 +458,7 @@ rtp://239.186.64.70:10000
 rtp://239.186.70.79:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
-#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",Star TV HD
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV HD
 rtp://239.186.68.188:10000
 #EXTINF:-1 tvg-id="gametv.ch" tvg-name="GameTV CH" tvg-logo="http://static.iptv-epg.com/ch/Gametv.ch.png" tvg-chno="289" channel-id="289",GAMETV CH HD
 rtp://239.186.70.10:10000
@@ -555,8 +555,6 @@ rtp://239.186.64.160:10000
 rtp://239.186.66.176:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.iptv-epg.com/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
-#EXTINF:-1 tvg-id="CineSony.it" tvg-name="CineSony IT" tvg-logo="http://static.iptv-epg.com/it/CineSony.it.png" tvg-chno="353" channel-id="353",Cine Sony
-rtp://239.186.74.22:10000
 #EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.iptv-epg.com/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda
 rtp://239.186.66.189:10000
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
@@ -591,6 +589,8 @@ rtp://239.186.70.152:10000
 rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.iptv-epg.com/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
 rtp://239.186.66.37:10000
+#EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic IT" tvg-logo="http://static.iptv-epg.com/it/NationalGeographic.it.png" tvg-chno="353" channel-id="353",National Geographic I HD
+rtp://239.186.68.180:10000
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.iptv-epg.com/it/FocusTv.it.png" tvg-chno="374" channel-id="374",MEDIASET Focus
 rtp://239.186.66.69:10000
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.iptv-epg.com/it/Italia1.it.png" tvg-chno="376" channel-id="376",MEDIASET ITALIA1 HD
