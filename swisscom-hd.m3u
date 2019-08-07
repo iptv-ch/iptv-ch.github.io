@@ -7,7 +7,7 @@ rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS deux CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS deux HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="100" channel-id="100",TF1 CH HD
-rtp://233.35.254.133:1234
+udp://@239.101.10.63:1234
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" tvg-chno="55" channel-id="55",France2 HD
 rtp://239.186.68.19:10000
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" tvg-chno="57" channel-id="57",France3 HD
@@ -16,7 +16,7 @@ rtp://239.186.70.25:10000
 rtp://239.186.70.26:10000
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="60" channel-id="60",France5 HD
 rtp://239.186.70.27:10000
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="80" channel-id="80",M6 CH HD Suisse
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="80" channel-id="80",M6 CH HD
 udp://@239.101.10.66:1234
 #EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="33" channel-id="33",arte F HD
 rtp://239.186.68.18:10000
@@ -30,7 +30,7 @@ rtp://239.186.70.37:10000
 udp://@239.101.10.23:1234
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12" tvg-logo="http://static.iptv-epg.com/fr/NRJ12.fr.png" tvg-chno="84" channel-id="84",NRJ12 CH HD
 rtp://239.186.70.33:10000
-#EXTINF:-1 tvg-id="LCP2424" tvg-name="LCP 24/24" tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" tvg-chno="" channel-id="",LCP HD
+#EXTINF:-1 tvg-id="LCP2424" tvg-name="LCP Public Sénat" tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" tvg-chno="" channel-id="",LCP Public Sénat HD
 udp://@239.101.10.180:1234
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="http://static.iptv-epg.com/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ en clair HD
 udp://@239.101.10.39:1234
@@ -545,7 +545,7 @@ rtp://239.186.68.201:10000
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="alice.it" tvg-name="ALICE IT" tvg-logo="http://static.iptv-epg.com/it/alice.it.png" tvg-chno="347" channel-id="347",ALICE
 rtp://239.186.66.107:10000
-#EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.iptv-epg.com/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3 A3
+#EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.iptv-epg.com/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3
 rtp://239.186.74.18:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.iptv-epg.com/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
 rtp://239.186.64.74:10000
@@ -590,6 +590,8 @@ rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.iptv-epg.com/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
 rtp://239.186.66.37:10000
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic IT" tvg-logo="http://static.iptv-epg.com/it/NationalGeographic.it.png" tvg-chno="353" channel-id="353",National Geographic I HD
+rtp://239.186.68.180:10000
+#EXTINF:-1 tvg-id="NatGeopeople.it" tvg-name="Nat Geo people IT" tvg-logo="http://static.iptv-epg.com/it/NatGeopeople.it.png" tvg-chno="" channel-id="",Nat Geo people HD
 rtp://239.186.68.180:10000
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.iptv-epg.com/it/FocusTv.it.png" tvg-chno="374" channel-id="374",MEDIASET Focus
 rtp://239.186.66.69:10000
@@ -673,7 +675,7 @@ rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
 #EXTREM:spanish
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Antena3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Antena3 Noticias
 udp://@239.101.10.133:1234
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
