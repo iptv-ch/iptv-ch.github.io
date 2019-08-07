@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM:french
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="0" channel-id="0",TELECLUB zoom F
+rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS un
 rtp://239.186.64.5:10000
 #EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS deux
@@ -84,8 +86,6 @@ rtp://239.186.64.95:10000
 rtp://239.186.64.145:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV
 rtp://239.186.64.69:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="97" channel-id="97",TELECLUB zoom F
-rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5MONDE FRANCE BELGIQUE SUISSE
@@ -369,8 +369,6 @@ rtp://239.186.64.160:10000
 rtp://239.186.66.176:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.iptv-epg.com/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
-#EXTINF:-1 tvg-id="CineSony.it" tvg-name="CineSony IT" tvg-logo="http://static.iptv-epg.com/it/CineSony.it.png" tvg-chno="353" channel-id="353",CINE SONY I
-rtp://239.186.74.22:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="354" channel-id="354",ClassTV Moda
 rtp://239.186.66.189:10000
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
