@@ -458,7 +458,7 @@ rtp://239.186.64.70:10000
 rtp://239.186.70.79:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
-#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV HD
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
 rtp://239.186.68.188:10000
 #EXTINF:-1 tvg-id="gametv.ch" tvg-name="GameTV CH" tvg-logo="http://static.iptv-epg.com/ch/Gametv.ch.png" tvg-chno="289" channel-id="289",GAMETV CH HD
 rtp://239.186.70.10:10000
@@ -547,32 +547,28 @@ rtp://239.186.74.23:10000
 rtp://239.186.66.107:10000
 #EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.iptv-epg.com/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3
 rtp://239.186.74.18:10000
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.iptv-epg.com/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
-rtp://239.186.64.74:10000
 #EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.iptv-epg.com/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://static.iptv-epg.com/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",cartoonito
-rtp://239.186.66.176:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.iptv-epg.com/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
 #EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.iptv-epg.com/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda
 rtp://239.186.66.189:10000
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
-rtp://239.186.66.110:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.iptv-epg.com/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia Frisbee /FAMILY CLUB
-rtp://239.186.66.188:10000
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://static.iptv-epg.com/it/Giallo.it.png" tvg-chno="357" channel-id="357",Discovery-italia Giallo
-rtp://239.186.66.187:10000
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.iptv-epg.com/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
-rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend US" tvg-logo="http://static.iptv-epg.com/us/MotorTrend.us.png" tvg-chno="359" channel-id="359",Discovery-italia MOTOR TREND
-rtp://239.186.74.21:10000
-#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.iptv-epg.com/it/NOVE.it.png" tvg-chno="361" channel-id="361",Discovery-italia NOVE
-rtp://239.186.64.158:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="http://static.iptv-epg.com/it/RealTime.it.png" tvg-chno="362" channel-id="362",Discovery-italia Real Time
 rtp://239.186.66.43:10000
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.iptv-epg.com/it/NOVE.it.png" tvg-chno="361" channel-id="361",Discovery-italia NOVE
+rtp://239.186.64.158:10000
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
+rtp://239.186.66.110:10000
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://static.iptv-epg.com/it/Giallo.it.png" tvg-chno="357" channel-id="357",Discovery-italia Giallo
+rtp://239.186.66.187:10000
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend US" tvg-logo="http://static.iptv-epg.com/us/MotorTrend.us.png" tvg-chno="359" channel-id="359",Discovery-italia MOTOR TREND
+rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="http://static.iptv-epg.com/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Discovery-italia food network I
 rtp://239.186.66.122:10000
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.iptv-epg.com/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
+rtp://239.186.66.186:10000
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.iptv-epg.com/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia Frisbee /FAMILY CLUB
+rtp://239.186.66.188:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.iptv-epg.com/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
 #EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-name="Italia Channel IT" tvg-logo="http://static.iptv-epg.com/it/ItaliaChannel.it.png" tvg-chno="365" channel-id="365",Italia Channel
@@ -583,32 +579,36 @@ rtp://239.186.70.7:10000
 rtp://239.186.70.6:10000
 #EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="Marco Polo TV DE" tvg-logo="http://static.iptv-epg.com/de/MarcoPoloTV.de.png" tvg-chno="369" channel-id="369",MARCOPOLO.TV
 rtp://239.186.74.20:10000
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.iptv-epg.com/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",MEDIASET 20 HD
-rtp://239.186.70.152:10000
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="http://static.iptv-epg.com/it/Canale5.it.png" tvg-chno="372" channel-id="372",MEDIASET Canale5 HD
 rtp://239.186.68.163:10000
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.iptv-epg.com/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
-rtp://239.186.66.37:10000
-#EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic IT" tvg-logo="http://static.iptv-epg.com/it/NationalGeographic.it.png" tvg-chno="353" channel-id="353",National Geographic I HD
-rtp://239.186.68.180:10000
-#EXTINF:-1 tvg-id="NatGeopeople.it" tvg-name="Nat Geo people IT" tvg-logo="http://static.iptv-epg.com/it/NatGeopeople.it.png" tvg-chno="" channel-id="",Nat Geo people HD
-rtp://239.186.68.180:10000
-#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.iptv-epg.com/it/FocusTv.it.png" tvg-chno="374" channel-id="374",MEDIASET Focus
-rtp://239.186.66.69:10000
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.iptv-epg.com/it/Italia1.it.png" tvg-chno="376" channel-id="376",MEDIASET ITALIA1 HD
 rtp://239.186.68.165:10000
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.iptv-epg.com/it/Italia2.it.png" tvg-chno="377" channel-id="377",MEDIASET ITALIA2
-rtp://239.186.66.44:10000
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://static.iptv-epg.com/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS
-rtp://239.186.64.75:10000
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.iptv-epg.com/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
-rtp://239.186.64.73:10000
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="http://static.iptv-epg.com/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",MEDIASET Rete4 HD
 rtp://239.186.70.188:10000
-#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="http://static.iptv-epg.com/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24
-rtp://239.186.64.214:10000
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.iptv-epg.com/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",MEDIASET 20 HD
+rtp://239.186.70.152:10000
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.iptv-epg.com/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
+rtp://239.186.64.73:10000
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.iptv-epg.com/it/Italia2.it.png" tvg-chno="377" channel-id="377",MEDIASET ITALIA2
+rtp://239.186.66.44:10000
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.iptv-epg.com/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
+rtp://239.186.66.37:10000
+#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.iptv-epg.com/it/FocusTv.it.png" tvg-chno="374" channel-id="374",MEDIASET Focus
+rtp://239.186.66.69:10000
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://static.iptv-epg.com/it/TopCrime.it.png" tvg-chno="382" channel-id="382",MEDIASET TOP crime
 rtp://239.186.66.180:10000
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://static.iptv-epg.com/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS
+rtp://239.186.64.75:10000
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.iptv-epg.com/it/Boing.it.png" tvg-chno="349" channel-id="349",MEDIASET Boing I
+rtp://239.186.64.74:10000
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://static.iptv-epg.com/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",MEDIASET cartoonito
+rtp://239.186.66.176:10000
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="http://static.iptv-epg.com/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24
+rtp://239.186.64.214:10000
+#EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic IT" tvg-logo="http://static.iptv-epg.com/it/NationalGeographic.it.png" tvg-chno="353" channel-id="353",National Geographic I HD
+rtp://239.186.68.180:10000
+#EXTINF:-1 tvg-id="NatGeopeople.it" tvg-name="Nat Geo people IT" tvg-logo="http://static.iptv-epg.com/it/NatGeopeople.it.png" tvg-chno="" channel-id="",Nat Geo people I HD
+rtp://239.186.68.180:10000
 #EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.iptv-epg.com/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount NETWORK I
 rtp://239.186.64.122:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
@@ -621,22 +621,22 @@ rtp://239.186.70.78:10000
 rtp://239.186.64.50:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="http://static.iptv-epg.com/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://static.iptv-epg.com/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp
-rtp://233.35.254.98:1234
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://static.iptv-epg.com/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie
 rtp://239.186.66.185:10000
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://static.iptv-epg.com/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24
-rtp://239.186.64.156:10000
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="http://static.iptv-epg.com/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium
 rtp://239.186.66.183:10000
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://static.iptv-epg.com/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola
-rtp://239.186.66.34:10000
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.iptv-epg.com/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
-rtp://239.186.70.2:10000
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia IT" tvg-logo="http://static.iptv-epg.com/it/RaiStoria.it.png" tvg-chno="400" channel-id="400",Rai Storia
-rtp://239.186.64.162:10000
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://static.iptv-epg.com/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp
+rtp://233.35.254.98:1234
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="http://static.iptv-epg.com/it/RaiYoyo.it.png" tvg-chno="401" channel-id="401",Rai Yoyo
 rtp://239.186.66.182:10000
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia IT" tvg-logo="http://static.iptv-epg.com/it/RaiStoria.it.png" tvg-chno="400" channel-id="400",Rai Storia
+rtp://239.186.64.162:10000
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://static.iptv-epg.com/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola
+rtp://239.186.66.34:10000
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://static.iptv-epg.com/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24
+rtp://239.186.64.156:10000
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.iptv-epg.com/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
+rtp://239.186.70.2:10000
 #EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.iptv-epg.com/it/Radionorba.it.png" tvg-chno="" channel-id="",radionorba TV
 rtp://239.186.66.247:10000
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5TV IT" tvg-logo="http://static.iptv-epg.com/it/RTL1025TV.it.png" tvg-chno="" channel-id="",RTL 102.5 TV HD
