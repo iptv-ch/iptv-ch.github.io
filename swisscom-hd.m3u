@@ -78,10 +78,14 @@ udp://@239.101.10.29:1234
 udp://@239.101.10.30:1234
 #EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One FR" tvg-logo="http://static.iptv-epg.com/fr/gameone.fr.png" tvg-chno="" channel-id="",Game One HD
 udp://@239.101.10.244:1234
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM FR" tvg-logo="http://static.iptv-epg.com/fr/mcm.fr.png" tvg-chno="" channel-id="",MCM HD
+rtp://239.186.70.213:10000
 #EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM Top FR" tvg-logo="http://static.iptv-epg.com/fr/mcmtop.fr.png" tvg-chno="" channel-id="",MCM Top HD
 udp://@239.101.10.42:1234
 #EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FR" tvg-logo="http://static.iptv-epg.com/fr/mezzo.fr.png" tvg-chno="" channel-id="",mezzo HD
 udp://@239.101.10.40:1234
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="Mezzo Live FR" tvg-logo="http://static.iptv-epg.com/fr/mezzolive.fr.png" tvg-chno="" channel-id="",mezzo live
+rtp://239.186.64.128:10000
 #EXTINF:-1 tvg-id="MTVF" tvg-name="MTV France" tvg-logo="http://static.iptv-epg.com/fr/mtv.fr.png" tvg-chno="" channel-id="",MTV France HD
 udp://@239.101.10.25:1234
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux FR" tvg-logo="http://static.iptv-epg.com/fr/animaux.fr.png" tvg-chno="" channel-id="",Animaux HD
@@ -246,13 +250,15 @@ rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="http://static.iptv-epg.com/uk/EuroNews.uk.png" tvg-chno="149" channel-id="149",euronews E HD
 rtp://239.186.70.105:10000
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" tvg-chno="151" channel-id="151",Fashion TV HD
-rtp://233.32.39.198:1234
+rtp://239.186.70.200:10000
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="http://static.iptv-epg.com/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="5 UK" tvg-logo="http://static.iptv-epg.com/uk/channel5.uk.png" tvg-chno="" channel-id="",Five HD
 rtp://239.186.70.151:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
+#EXTINF:-1 tvg-id="Foxnews.uk" tvg-name="Fox News UK" tvg-logo="http://static.iptv-epg.com/uk/Foxnews.uk.png" tvg-chno="" channel-id="",Fox News HD
+rtp://239.186.70.222:10000
 #EXTINF:-1 tvg-id="i24.il" tvg-name="i24 IL" tvg-logo="http://static.iptv-epg.com/uk/i24.il.png" tvg-chno="158" channel-id="158",i24 News E HD
 rtp://239.186.68.140:10000
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1.uk.png" tvg-chno="160" channel-id="160",itv HD
@@ -291,6 +297,8 @@ rtp://239.186.70.189:10000
 udp://@239.101.10.234:1234
 #EXTINF:-1 tvg-id="travelchannel.uk" tvg-name="Travel Channel UK" tvg-logo="http://static.iptv-epg.com/uk/travelchannel.uk.png" tvg-chno="" channel-id="",Travel Channel
 udp://@239.101.10.237:1234
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave UK" tvg-logo="http://static.iptv-epg.com/uk/dave.uk.png" tvg-chno="" channel-id="",Dave
+rtp://239.186.66.253:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -354,10 +362,12 @@ rtp://239.186.64.116:10000
 rtp://239.186.64.218:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
-#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.iptv-epg.com/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV
-rtp://239.186.66.241:10000
+#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.iptv-epg.com/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV HD
+rtp://239.186.70.28:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.iptv-epg.com/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
+#EXTINF:-1 tvg-id="ENJY.TV.ch" tvg-name="ENJY.TV CH" tvg-logo="http://static.iptv-epg.com/de/ENJY.TV.ch.png" tvg-chno="206" channel-id="206",ENJY.TV HD
+rtp://239.186.68.22:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
@@ -706,8 +716,8 @@ rtp://239.186.64.209:10000
 rtp://239.186.64.200:10000
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU TR" tvg-logo="http://static.iptv-epg.com/tr/TGRTEU.tr.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk
-udp://@239.101.10.138:1234
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk HD
+rtp://239.186.70.210:10000
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
 rtp://239.186.64.205:10000
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRTBELGESEL TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBELGESEL.tr.png" tvg-chno="" channel-id="",TRTBELGESEL HD
@@ -753,10 +763,18 @@ rtp://239.186.66.117:10000
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.iptv-epg.com/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",Dubai TV HD
 udp://@239.101.11.142:1234
-#EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.iptv-epg.com/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA
-rtp://239.186.66.120:10000
+#EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.iptv-epg.com/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
+rtp://239.186.70.205:10000
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.iptv-epg.com/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD
 rtp://239.186.66.85:10000
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1 HU" tvg-logo="http://static.iptv-epg.com/hu/M1.hu.png" tvg-chno="" channel-id="",M1 HD
+rtp://239.186.70.206:10000
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2 HU" tvg-logo="http://static.iptv-epg.com/hu/M2.hu.png" tvg-chno="" channel-id="",M2 HD
+rtp://239.186.70.207:10000
+#EXTINF:-1 tvg-id="M4sport.hu" tvg-name="M4 Sport HU" tvg-logo="http://static.iptv-epg.com/hu/M4Sport.hu.png" tvg-chno="" channel-id="",M4 Sport HD
+rtp://239.186.70.208:10000
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5 HU" tvg-logo="http://static.iptv-epg.com/hu/M5.hu.png" tvg-chno="" channel-id="",M5 HD
+rtp://239.186.70.209:10000
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World GR" tvg-logo="http://static.iptv-epg.com/ca/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world
 rtp://239.186.66.227:10000
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT1 HR" tvg-logo="http://static.iptv-epg.com/hr/HRT1.hr" tvg-chno="446" channel-id="446",HRT1 HD
