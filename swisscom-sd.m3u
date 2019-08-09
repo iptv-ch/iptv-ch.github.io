@@ -94,6 +94,8 @@ rtp://239.186.64.150:10000
 rtp://239.186.64.98:10000
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="111" channel-id="111",6ter
 rtp://239.186.66.130:10000
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live FR" tvg-logo="https://static.iptv-epg.com/fr/mezzolive.fr.png" tvg-chno="" channel-id="",Mezzo Live
+rtp://239.186.64.128:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -173,6 +175,8 @@ rtp://239.186.66.242:10000
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.iptv-epg.com/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
+#EXTINF:-1 ,Dave (eng)
+rtp://239.186.66.253:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -350,6 +354,8 @@ rtp://239.186.64.12:10000
 rtp://239.186.64.118:10000
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo DE" tvg-logo="http://static.iptv-epg.com/de/ZDFneo.de.png" tvg-chno="343" channel-id="343",zdf_neo
 rtp://239.186.64.66:10000
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.iptv-epg.com/de/HGTV.de.png" tvg-chno="" channel-id="",HGTV (deu)
+rtp://239.186.74.40:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -443,7 +449,7 @@ rtp://239.186.66.183:10000
 rtp://239.186.66.34:10000
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.iptv-epg.com/it/RaiSportPlus.it.png" tvg-chno="397" channel-id="397",Rai Sport+
 rtp://239.186.64.157:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="399" channel-id="399",Rai Sport
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RaiSport IT" tvg-logo="http://static.iptv-epg.com/it/RaiSport.it.png" tvg-chno="399" channel-id="399",Rai Sport
 rtp://239.186.64.159:10000
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia IT" tvg-logo="http://static.iptv-epg.com/it/RaiStoria.it.png" tvg-chno="400" channel-id="400",Rai Storia
 rtp://239.186.64.162:10000
@@ -479,7 +485,9 @@ rtp://239.186.64.83:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
 #EXTREM:spanish
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Antena3
+#EXTINF:-1 tvg-id="Aragontv.es" tvg-name="aragon TV ES" tvg-logo="http://static.iptv-epg.com/es/aragontv.es.png" tvg-chno="" channel-id="",Aragon TV
+rtp://239.186.66.62:10000
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="antena3 ES" tvg-logo="http://static.iptv-epg.com/es/antena3.es.png" tvg-chno="" channel-id="",Antena3
 udp://@239.101.10.133:1234
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
