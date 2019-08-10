@@ -368,7 +368,7 @@ rtp://239.186.70.28:10000
 rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="ENJY.TV.ch" tvg-name="ENJY.TV CH" tvg-logo="http://static.iptv-epg.com/de/ENJY.TV.ch.png" tvg-chno="206" channel-id="206",ENJY.TV HD
 rtp://239.186.68.22:10000
-#EXTINF:-1 ,HGTV (deu)
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.iptv-epg.com/de/HGTV.de.png" tvg-chno="" channel-id="",HGTV (deu)
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.iptv-epg.com/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
