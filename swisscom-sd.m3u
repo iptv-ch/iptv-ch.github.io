@@ -485,7 +485,7 @@ rtp://239.186.64.83:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
 #EXTREM:spanish
-#EXTINF:-1 tvg-id="Aragontv.es" tvg-name="aragon TV ES" tvg-logo="http://static.iptv-epg.com/es/aragontv.es.png" tvg-chno="" channel-id="",Aragon TV
+#EXTINF:-1 tvg-id="Aragontv.es" tvg-name="aragon TV ES" tvg-logo="http://static.iptv-epg.com/es/aragontv.es.png" tvg-chno="" channel-id="",Aragon int
 rtp://239.186.66.62:10000
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="antena3 ES" tvg-logo="http://static.iptv-epg.com/es/antena3.es.png" tvg-chno="" channel-id="",Antena3
 udp://@239.101.10.133:1234
