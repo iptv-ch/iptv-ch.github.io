@@ -84,8 +84,8 @@ rtp://239.186.70.213:10000
 udp://@239.101.10.42:1234
 #EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FR" tvg-logo="http://static.iptv-epg.com/fr/mezzo.fr.png" tvg-chno="" channel-id="",mezzo HD
 udp://@239.101.10.40:1234
-#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="Mezzo Live FR" tvg-logo="http://static.iptv-epg.com/fr/mezzolive.fr.png" tvg-chno="" channel-id="",mezzo live
-rtp://239.186.64.128:10000
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="Mezzo Live FR" tvg-logo="http://static.iptv-epg.com/fr/mezzolive.fr.png" tvg-chno="" channel-id="",mezzo live HD
+rtp://239.186.70.212:10000
 #EXTINF:-1 tvg-id="MTVF" tvg-name="MTV France" tvg-logo="http://static.iptv-epg.com/fr/mtv.fr.png" tvg-chno="" channel-id="",MTV France HD
 udp://@239.101.10.25:1234
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux FR" tvg-logo="http://static.iptv-epg.com/fr/animaux.fr.png" tvg-chno="" channel-id="",Animaux HD
@@ -396,8 +396,8 @@ rtp://239.186.68.145:10000
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.iptv-epg.com/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv
 rtp://239.186.64.133:10000
-#EXTINF:-1 tvg-id="Loly.ch" tvg-name="Loly CH" tvg-logo="http://static.iptv-epg.com/ch/Loly.ch.png" tvg-chno="228" channel-id="228",LOLY CH
-rtp://239.186.66.231:10000
+#EXTINF:-1 tvg-id="Loly.ch" tvg-name="Loly CH" tvg-logo="http://static.iptv-epg.com/ch/Loly.ch.png" tvg-chno="228" channel-id="228",LOLY CH HD
+rtp://239.186.70.211:10000
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="http://static.iptv-epg.com/de/MDR.de.png" tvg-chno="230" channel-id="230",mdr HD
 rtp://239.186.68.162:10000
 #EXTINF:-1 tvg-id="melodietv.at" tvg-name="Melodie.tv AT" tvg-logo="http://static.iptv-epg.com/at/melodietv.at.png" tvg-chno="231" channel-id="231",Melodie.tv
