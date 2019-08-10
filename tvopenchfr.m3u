@@ -111,8 +111,7 @@ udp://@239.101.10.42:1234
 #EXTINF:-1 ,Mezzo HD
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,Mezzo live HD
-rtp://239.186.64.128:10000
-
+rtp://239.186.70.211:10000
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
 #EXTINF:-1 ,Planete Plus HD
