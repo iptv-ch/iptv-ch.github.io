@@ -620,7 +620,7 @@ rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic IT" tvg-logo="http://static.iptv-epg.com/it/NationalGeographic.it.png" tvg-chno="353" channel-id="353",National Geographic I HD
 rtp://239.186.68.180:10000
 #EXTINF:-1 tvg-id="NatGeopeople.it" tvg-name="Nat Geo people IT" tvg-logo="http://static.iptv-epg.com/it/NatGeopeople.it.png" tvg-chno="" channel-id="",Nat Geo people I HD
-rtp://239.186.68.180:10000
+rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.iptv-epg.com/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount NETWORK I
 rtp://239.186.64.122:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
@@ -687,9 +687,9 @@ rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
 #EXTREM:spanish
-#EXTINF:-1 ,Aragon int
+#EXTINF:-1 tvg-id="Aragonint.es" tvg-name="Aragon int ES" tvg-logo="http://static.iptv-epg.com/es/aragonint.es.png" tvg-chno="" channel-id="",Aragon int
 rtp://239.186.66.62:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Antena3 Noticias
+#EXTINF:-1 tvg-id="Antena3int.es" tvg-name=""Antena3int.es" tvg-logo="http://static.iptv-epg.com/es/antena3int.es.png" tvg-chno="" channel-id="",Antena3 int
 udp://@239.101.10.133:1234
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
