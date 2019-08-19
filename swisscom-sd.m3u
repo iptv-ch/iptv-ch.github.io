@@ -276,8 +276,10 @@ rtp://239.186.64.14:10000
 rtp://239.186.64.86:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.iptv-epg.com/de/Phoenix.de.png" tvg-chno="249" channel-id="249",phoenix
 rtp://239.186.64.65:10000
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben
 rtp://239.186.64.19:10000
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX DE" tvg-logo="http://static.iptv-epg.com/de/ProSiebenMAXX.de.png" tvg-chno="" channel-id="",ProSieben MAXX
+udp://@239.101.10.222:1234
 #EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB DE" tvg-logo="http://static.iptv-epg.com/de/RBB.de.png" tvg-chno="256" channel-id="256",rbb
 rtp://239.186.64.126:10000
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" tvg-chno="259" channel-id="259",RTL CH
