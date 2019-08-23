@@ -125,7 +125,7 @@ rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="Ushuaia" tvg-name="Ushuaïa TV" tvg-logo="http://static.iptv-epg.com/fr/UshuaiaTV.fr.png" tvg-chno="17" channel-id="17",Ushuaia TV HD
 rtp://233.21.50.58:1234
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.iptv-epg.com/fr/ParamountChannel.fr.png" tvg-chno="18" channel-id="18",Paramount Channel HD French
-rtp://233.21.50.126:1234
+udp://@239.101.10.243:1234
 #EXTINF:-1 tvg-id="TCMCinema.fr" tvg-name="TCM Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/tcmcinema.fr.png" tvg-chno="" channel-id="",TCM cinema HD
 udp://@239.101.10.9:1234
 #EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="My Cuisine FR" tvg-logo="http://static.iptv-epg.com/fr/MyCuisine.fr.png" tvg-chno="19" channel-id="19",myCUISINE HD
