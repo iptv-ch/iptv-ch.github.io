@@ -148,7 +148,7 @@ rtp://233.32.39.170:1234
 rtp://233.32.39.171:1234
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.iptv-epg.com/fr/BFMBusiness.fr.png" tvg-chno="36" channel-id="36",BFM BUSINESS HD
 rtp://239.186.70.74:10000
-#EXTINF:-1 tvg-id="becurious.ch" tvg-name="BeCurious CH" tvg-logo="http://static.iptv-epg.com/ch/becurious.ch.png" tvg-chno="34" channel-id="34",becurious HD
+#EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.iptv-epg.com/ch/teleswizz.ch.png" tvg-chno="34" channel-id="34",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc" tvg-logo="http://static.iptv-epg.com/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD
 rtp://239.186.70.106:10000
