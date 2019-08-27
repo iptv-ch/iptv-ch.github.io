@@ -64,7 +64,7 @@ udp://@239.101.10.18:1234
 udp://@239.101.10.43:1234
 #EXTINF:-1 ,Canal 9
 udp://@239.101.10.57:1234
-#EXTINF:-1 ,BeCurious HD
+#EXTINF:-1 ,TeleSWIZz HD
 udp://@239.101.10.179:1234
 #EXTINF:-1 ,La Tele HD
 udp://@239.101.10.250:1234
