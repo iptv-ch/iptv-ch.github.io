@@ -1,14 +1,26 @@
 #EXTM3U
+#EXTINF:-1 ,RTS La1ere
+rtp://233.32.39.11:1234
+#EXTINF:-1 ,Espace 2
+rtp://233.32.39.12:1234
 #EXTINF:-1 ,Couleur3
 rtp://233.32.39.13:1234
+#EXTINF:-1 ,Option Musique
+rtp://233.32.39.14:1234
+#EXTINF:-1 ,Swiss Classic
+rtp://233.32.39.7:1234
+#EXTINF:-1 ,Swiss Classique
+rtp://233.32.39.19:1234
+#EXTINF:-1 ,Swiss Jazz
+rtp://233.32.39.9:1234
+#EXTINF:-1 ,Swiss Pop
+rtp://233.32.39.8:1234
 #EXTINF:-1 ,Deluxe Lounge Radio
 rtp://233.32.39.119:1234
 #EXTINF:-1 ,Deluxe Music Radio
 rtp://233.32.39.120:1234
 #EXTINF:-1 ,Deluxe Radio
 rtp://233.32.39.118:1234
-#EXTINF:-1 ,Espace 2
-rtp://233.32.39.12:1234
 #EXTINF:-1 ,GRRIF
 rtp://233.32.39.125:1234
 #EXTINF:-1 ,Hotmix 2000
@@ -81,8 +93,6 @@ rtp://233.32.39.82:1234
 rtp://233.32.39.83:1234
 #EXTINF:-1 ,Open Broadcast
 rtp://233.32.39.74:1234
-#EXTINF:-1 ,Option Musique
-rtp://233.32.39.14:1234
 #EXTINF:-1 ,Planet 105
 rtp://233.32.39.31:1234
 #EXTINF:-1 ,Planet 105 Ibiza Club
@@ -207,8 +217,6 @@ rtp://233.32.39.15:1234
 rtp://233.32.39.123:1234
 #EXTINF:-1 ,RTN Neuchatel
 rtp://233.32.39.124:1234
-#EXTINF:-1 ,RTS-1ere
-rtp://233.32.39.11:1234
 #EXTINF:-1 ,SRF 1
 rtp://233.32.39.1:1234
 #EXTINF:-1 ,SRF 2 Kultur
@@ -221,14 +229,6 @@ rtp://233.32.39.10:1234
 rtp://233.32.39.5:1234
 #EXTINF:-1 ,SRF Virus
 rtp://233.32.39.4:1234
-#EXTINF:-1 ,Swiss Classic
-rtp://233.32.39.7:1234
-#EXTINF:-1 ,Swiss Classique
-rtp://233.32.39.19:1234
-#EXTINF:-1 ,Swiss Jazz
-rtp://233.32.39.9:1234
-#EXTINF:-1 ,Swiss Pop
-rtp://233.32.39.8:1234
 #EXTINF:-1 ,SWR1 BW
 rtp://233.32.39.20:1234
 #EXTINF:-1 ,SWR2
