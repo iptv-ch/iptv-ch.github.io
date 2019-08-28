@@ -2,9 +2,9 @@
 #EXTREM:french
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="0" channel-id="0",TELECLUB zoom F
 rtp://239.186.64.111:10000
-#EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS un
+#EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS1
 rtp://239.186.64.5:10000
-#EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS deux
+#EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS2
 rtp://239.186.64.6:10000
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="99" channel-id="99",TF1 CH
 rtp://239.186.64.35:10000
