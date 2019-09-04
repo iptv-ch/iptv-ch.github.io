@@ -143,7 +143,7 @@ rtp://239.186.64.172:10000
 rtp://239.186.64.184:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="157" channel-id="157",i24 NEWS E
+#EXTINF:-1 tvg-id="i24news.il" tvg-name="i24news IL" tvg-logo="http://static.iptv-epg.com/il/i24news.png" tvg-chno="157" channel-id="157",i24 NEWS E
 rtp://239.186.66.126:10000
 #EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1Anglia.uk.png" tvg-chno="159" channel-id="159",itv
 rtp://239.186.64.169:10000
@@ -161,6 +161,8 @@ rtp://239.186.64.105:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
+#EXTINF:-1 tvg-id="NHKworldjapan.uk" tvg-name="NHK World Japan UK" tvg-logo="http://static.iptv-epg.com/uk/nhkworldjapan.uk.png" tvg-chno="" channel-id="",NHK World Japan
+udp://@239.101.10.239:1234
 #EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int.
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
@@ -583,4 +585,3 @@ rtp://239.186.64.173:10000
 rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
-
