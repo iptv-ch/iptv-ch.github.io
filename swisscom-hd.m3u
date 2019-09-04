@@ -699,7 +699,7 @@ rtp://239.186.64.197:10000
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
-#EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="" channel-id="",LATINOS1 HD
+#EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="" channel-id="",LATINOS1 CH HD
 rtp://239.186.70.150:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="http://static.iptv-epg.com/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
