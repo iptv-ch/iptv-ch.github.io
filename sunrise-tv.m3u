@@ -225,6 +225,8 @@ rtp://233.35.254.39:1234
 rtp://233.35.254.38:1234
 #EXTINF:-1 ,CNN Int.
 rtp://233.35.254.14:1234
+#EXTINF:-1 ,Fashion TV
+rtp://233.35.254.67:1234
 #EXTINF:-1 ,Fashion TV HD
 rtp://233.32.39.198:1234
 #EXTREM: others
