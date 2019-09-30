@@ -376,7 +376,7 @@ rtp://239.186.66.197:10000
 rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.iptv-epg.com/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
 rtp://239.186.64.141:10000
-#EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.iptv-epg.com/us/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeTV HD
+#EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.iptv-epg.com/de/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeTV HD
 rtp://239.186.68.251:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="http://static.iptv-epg.com/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
 rtp://239.186.68.156:10000
