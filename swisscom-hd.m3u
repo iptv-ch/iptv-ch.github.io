@@ -163,8 +163,8 @@ rtp://239.186.68.194:10000
 #EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews" tvg-logo="http://static.iptv-epg.com/fr/Euronews.fr.png" tvg-chno="53" channel-id="53",euronews. F HD
 rtp://239.186.70.148:10000
 #EXTINF:-1 tvg-id="France24F" tvg-name="France 24" tvg-logo="http://static.iptv-epg.com/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24 HD
-rtp://233.35.254.73:1234
-#EXTINF:-1 tvg-id="i24News.il" tvg-name="" tvg-logo="http://static.iptv-epg.com/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 News F HD
+rtp://239.186.70.125:10000
+#EXTINF:-1 tvg-id="i24News.il" tvg-name="" tvg-logo="http://static.iptv-epg.com/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="http://static.iptv-epg.com/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
 rtp://239.186.70.133:10000
@@ -253,7 +253,7 @@ rtp://239.186.64.172:10000
 rtp://239.186.70.151:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
-#EXTINF:-1 tvg-id="i24.il" tvg-name="i24 IL" tvg-logo="http://static.iptv-epg.com/uk/i24.il.png" tvg-chno="158" channel-id="158",i24 News E HD
+#EXTINF:-1 tvg-id="i24.il" tvg-name="i24 IL" tvg-logo="http://static.iptv-epg.com/uk/i24.il.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
 rtp://239.186.68.140:10000
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1.uk.png" tvg-chno="160" channel-id="160",itv HD
 rtp://239.186.68.42:10000
@@ -324,7 +324,7 @@ rtp://239.186.68.9:10000
 rtp://239.186.70.194:10000
 #EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.iptv-epg.com/de/ARDOne.de.png" tvg-chno="186" channel-id="186",ARD ONE HD
 rtp://239.186.68.154:10000
-#EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/SRfernsehen.de.png" tvg-chno="" channel-id="",ARD SR fernsehen HD
+#EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.iptv-epg.com/de/SRfernsehen.de.png" tvg-chno="" channel-id="",SR fernsehen HD
 rtp://239.186.70.190:10000
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="http://static.iptv-epg.com/de/ARTE.de.png" tvg-chno="188" channel-id="188",arte D HD
 rtp://239.186.68.11:10000
@@ -376,7 +376,7 @@ rtp://239.186.66.197:10000
 rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.iptv-epg.com/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
 rtp://239.186.64.141:10000
-#EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.iptv-epg.com/us/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeChannel HD
+#EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.iptv-epg.com/us/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeTV HD
 rtp://239.186.68.251:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="http://static.iptv-epg.com/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
 rtp://239.186.68.156:10000
