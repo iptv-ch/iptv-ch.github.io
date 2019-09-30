@@ -448,7 +448,7 @@ rtp://239.186.66.201:10000
 rtp://239.186.68.147:10000
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
 rtp://239.186.64.18:10000
-#EXTINF:-1 tvg-id="Schweiz5.ch" tvg-name="Schweiz5 CH" tvg-logo="http://static.iptv-epg.com/ch/Schweiz5.ch.png" tvg-chno="268" channel-id="268",Schweiz5 HD / CCONE HD
+#EXTINF:-1 tvg-id="Schweiz5.ch" tvg-name="Schweiz5 CH" tvg-logo="http://static.iptv-epg.com/ch/Schweiz5.ch.png" tvg-chno="268" channel-id="268",Schweiz5 HD
 rtp://239.186.68.245:10000
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="http://static.iptv-epg.com/de/ServusTV.de.png" tvg-chno="270" channel-id="270",ServusTV Deutschland HD
 rtp://233.35.254.129:1234
