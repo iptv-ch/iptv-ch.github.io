@@ -27,8 +27,6 @@ rtp://239.186.79.28:10000
 rtp://239.186.79.29:10000
 #EXTINF:-1 ,Fashion4K UHD
 rtp://239.186.79.97:10000
-#EXTINF:-1 ,Insight UHD
-rtp://239.186.79.98:10000
 #EXTINF:-1 ,Hispasat4k UHD
 rtp://239.186.79.99:10000
 #EXTINF:-1 ,vision tv UHD
