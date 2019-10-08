@@ -41,7 +41,7 @@ udp://@239.101.10.161:1234
 udp://@239.101.10.27:1234
 #EXTINF:-1 ,Gulli HD
 udp://@239.101.10.31:1234
-#EXTINF:-1 ,France O HD
+#EXTINF:-1 ,France O
 udp://@239.101.10.38:1234
 #EXTINF:-1 ,TF1 Series Films HD
 udp://@239.101.10.50:1234
@@ -77,11 +77,11 @@ udp://@239.101.10.57:1234
 udp://@239.101.10.179:1234
 #EXTINF:-1 ,La Tele HD
 udp://@239.101.10.250:1234
-#EXTINF:-1 ,Leman Bleu HD
+#EXTINF:-1 ,lemanbleu HD
 udp://@239.101.10.11:1234
 #EXTINF:-1 ,LFM TV HD
 udp://@239.101.10.164:1234
-#EXTINF:-1 ,Rouge TV HD
+#EXTINF:-1 ,rouge TV HD
 udp://@239.101.10.41:1234
 #EXTINF:-1 ,Max TV HD medium quality
 udp://@239.101.10.249:1234
@@ -99,11 +99,11 @@ udp://@239.101.10.29:1234
 udp://@239.101.10.15:1234
 #EXTINF:-1 ,France 24
 udp://@239.101.10.16:1234
-#EXTINF:-1 ,Game One HD
+#EXTINF:-1 ,GAME ONE HD
 udp://@239.101.10.244:1234
-#EXTINF:-1 ,MCM Top HD
+#EXTINF:-1 ,MCM TOP HD
 udp://@239.101.10.42:1234
-#EXTINF:-1 ,Mezzo HD
+#EXTINF:-1 ,mezzo HD
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
@@ -206,7 +206,7 @@ udp://@239.101.10.248:1234
 udp://@239.101.10.185:1234
 #EXTINF:-1 ,RTL
 udp://@239.101.10.210:1234
-#EXTINF:-1 ,RTL ZWEI
+#EXTINF:-1 ,RTLZWEI
 udp://@239.101.10.211:1234
 #EXTINF:-1 ,Sat.1
 udp://@239.101.10.209:1234
