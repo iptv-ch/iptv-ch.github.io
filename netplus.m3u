@@ -31,7 +31,7 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 ,LCP Public Senat
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal+ en clair HD
+#EXTINF:-1 ,Canal+ HD plages en clair
 udp://@239.101.10.39:1234
 #EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
@@ -57,13 +57,13 @@ udp://@239.101.10.53:1234
 udp://@239.101.10.55:1234
 #EXTINF:-1 ,LCI HD low quality
 udp://@239.101.10.162:1234
-#EXTINF:-1 ,France Info
+#EXTINF:-1 ,franceinfo:
 udp://@239.101.10.75:1234
 #EXTINF:-1 ,TV5MONDE FBS HD 
 udp://@239.101.10.18:1234
-#EXTINF:-1 ,KTO
+#EXTINF:-1 ,KtO
 udp://@239.101.10.43:1234
-#EXTINF:-1 ,TV8 Mont Blanc HD
+#EXTINF:-1 ,8MontBlanc HD low quality
 udp://@239.101.10.36:1234
 #EXTINF:-1 ,AB1 HD
 udp://@239.101.10.240:1234
@@ -93,7 +93,7 @@ udp://@239.101.10.183:1234
 udp://@239.101.10.30:1234
 #EXTINF:-1 ,Canal Alpha NE HD
 udp://@239.101.10.182:1234
-#EXTINF:-1 ,Cartoon Network F HD
+#EXTINF:-1 ,Cartoon Network France HD
 udp://@239.101.10.29:1234
 #EXTINF:-1 ,Euronews. F HD
 udp://@239.101.10.15:1234
@@ -113,13 +113,13 @@ udp://@239.101.11.53:1234
 udp://@239.101.10.251:1234
 #EXTINF:-1 ,One TV CH HD
 udp://@239.101.10.163:1234
-#EXTINF:-1 ,Paramount Channel F HD
+#EXTINF:-1 ,Paramount Channel France HD
 udp://@239.101.10.243:1234
-#EXTINF:-1 ,Planete Plus HD
+#EXTINF:-1 ,Planete+ HD
 udp://@239.101.10.32:1234
 #EXTINF:-1 ,RMC Sport News HD
 udp://@239.101.10.14:1234
-#EXTINF:-1 ,RTL 9 HD
+#EXTINF:-1 ,RTL9 HD
 udp://@239.101.10.20:1234
 #EXTINF:-1 ,TCM cinema HD
 udp://@239.101.10.9:1234
@@ -136,7 +136,7 @@ udp://@239.101.10.85:1234
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
 udp://@239.101.10.48:1234
-#EXTINF:-1 ,SRF 2 HD
+#EXTINF:-1 ,SRF zwei HD
 udp://@239.101.10.49:1234
 #EXTINF:-1 ,SRF info HD
 udp://@239.101.10.203:1234
@@ -150,7 +150,7 @@ udp://@239.101.10.221:1234
 udp://@239.101.11.97:1234
 #EXTINF:-1 ,BR HD
 udp://@239.101.10.152:1234
-#EXTINF:-1 ,COMEDY CENTRAL
+#EXTINF:-1 ,COMEDY CENTRAL D
 udp://@239.101.11.76:1234
 #EXTINF:-1 ,Vox
 udp://@239.101.10.214:1234
@@ -206,7 +206,7 @@ udp://@239.101.10.248:1234
 udp://@239.101.10.185:1234
 #EXTINF:-1 ,RTL
 udp://@239.101.10.210:1234
-#EXTINF:-1 ,RTL 2
+#EXTINF:-1 ,RTL ZWEI
 udp://@239.101.10.211:1234
 #EXTINF:-1 ,Sat.1
 udp://@239.101.10.209:1234
