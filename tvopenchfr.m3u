@@ -40,7 +40,7 @@ udp://@239.101.10.161:1234
 udp://@239.101.10.27:1234
 #EXTINF:-1 ,Gulli HD
 udp://@239.101.10.31:1234
-#EXTINF:-1 ,France O HD
+#EXTINF:-1 ,France O
 udp://@239.101.10.38:1234
 #EXTINF:-1 ,TF1 Series Films HD
 udp://@239.101.10.50:1234
@@ -56,25 +56,23 @@ udp://@239.101.10.53:1234
 udp://@239.101.10.55:1234
 #EXTINF:-1 ,LCI HD low quality
 udp://@239.101.10.162:1234
-#EXTINF:-1 ,France Info
+#EXTINF:-1 ,franceinfo:
 udp://@239.101.10.75:1234
 #EXTINF:-1 ,TV5MONDE FBS HD 
 udp://@239.101.10.18:1234
-#EXTINF:-1 ,KTO
+#EXTINF:-1 ,KtO
 udp://@239.101.10.43:1234
 #EXTINF:-1 ,Canal 9
 udp://@239.101.10.57:1234
 #EXTINF:-1 ,TeleSWIZz HD
 udp://@239.101.10.179:1234
-#EXTINF:-1 ,La Tele HD
+#EXTINF:-1 ,LA TELE HD
 udp://@239.101.10.250:1234
 #EXTINF:-1 ,Leman Bleu HD
 udp://@239.101.10.11:1234
-#EXTINF:-1 ,LFM TV HD
-udp://@239.101.10.164:1234
-#EXTINF:-1 ,Rouge TV HD
+#EXTINF:-1 ,rouge TV HD
 udp://@239.101.10.41:1234
-#EXTINF:-1 ,Max TV HD
+#EXTINF:-1 ,maxtv HD
 udp://@239.101.10.249:1234
 #EXTINF:-1 ,Val TV HD
 udp://@239.101.10.178:1234
@@ -84,9 +82,7 @@ udp://@239.101.10.183:1234
 udp://@239.101.10.182:1234
 #EXTINF:-1 ,NyonRegionTV HD
 udp://@239.101.10.251:1234
-#EXTINF:-1 ,One TV CH HD
-udp://@239.101.10.163:1234
-#EXTINF:-1 ,Cartoon Network F HD
+#EXTINF:-1 ,CARTOON NETWORK HD
 udp://@239.101.10.29:1234
 #EXTINF:-1 ,Canal J HD
 udp://@239.101.10.30:1234
@@ -94,37 +90,41 @@ udp://@239.101.10.30:1234
 udp://@239.101.11.53:1234
 #EXTINF:-1 ,AB1 HD
 udp://@239.101.10.240:1234
-#EXTINF:-1 ,Animaux HD
+#EXTINF:-1 ,ANIMAUX HD
 udp://@239.101.10.241:1234
-#EXTINF:-1 ,BFM Business HD
+#EXTINF:-1 ,BFM BUSINESS HD
 udp://@239.101.10.245:1234
-#EXTINF:-1 ,Euronews. F HD
+#EXTINF:-1 ,euronews. F HD
 udp://@239.101.10.15:1234
-#EXTINF:-1 ,France 24
+#EXTINF:-1 ,FRANCE 24
 udp://@239.101.10.16:1234
-#EXTINF:-1 ,Game One HD
+#EXTINF:-1 ,GAME ONE HD
 udp://@239.101.10.244:1234
-#EXTINF:-1 ,MCM Top HD
+#EXTINF:-1 ,MCM TOP HD
 udp://@239.101.10.42:1234
-#EXTINF:-1 ,Mezzo HD
+#EXTINF:-1 ,mezzo HD
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
-#EXTINF:-1 ,Planete Plus HD
+#EXTINF:-1 ,PLANETE+ HD
 udp://@239.101.10.32:1234
-#EXTINF:-1 ,RMC Sport News HD
+#EXTINF:-1 ,RMC SPORT NEWS HD
 udp://@239.101.10.14:1234
-#EXTINF:-1 ,RTL 9 HD
+#EXTINF:-1 ,RTL9 HD
 udp://@239.101.10.20:1234
-#EXTINF:-1 ,TCM cinema HD
+#EXTINF:-1 ,TCM CINEMA HD
 udp://@239.101.10.9:1234
-#EXTINF:-1 ,Paramount Channel F HD
+#EXTINF:-1 ,Paramount CHANNEL HD
 udp://@239.101.10.243:1234
-#EXTINF:-1 ,Trek HD
+#EXTINF:-1 ,TReK HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 ,M6 Boutique HD
+#EXTINF:-1 ,M6 boutique HD
 udp://@239.101.10.166:1234
-#EXTINF:-1 ,Booster TV HD
+#EXTINF:-1 ,LFM TV HD
+udp://@239.101.10.164:1234
+#EXTINF:-1 ,One TV CH HD
+udp://@239.101.10.163:1234
+#EXTINF:-1 ,booster TV HD
 udp://@239.101.10.81:1234
 #EXTINF:-1 ,8Mont-Blanc HD
 udp://@239.101.10.36:1234
@@ -138,7 +138,7 @@ rtp://233.21.50.2:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 ,SyFy HD french
 rtp://233.21.50.5:1234
-#EXTINF:-1 ,Nautical HD low quality
+#EXTINF:-1 ,Nautical CHANNEL HD low quality
 rtp://233.21.50.17:1234
 #EXTINF:-1 ,motorvision.tv HD french low quality
 rtp://233.21.50.27:1234
@@ -150,11 +150,11 @@ rtp://233.21.50.52:1234
 rtp://233.21.50.11:1234
 #EXTINF:-1 ,Disney Cinema HD French
 rtp://233.21.50.70:1234
-#EXTINF:-1 ,National Geographic HD french
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD french
 rtp://233.21.50.54:1234
-#EXTINF:-1 ,National Geographic Wild HD french
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC WILD HD french
 rtp://233.21.50.55:1234
-#EXTINF:-1 ,Voyage HD
+#EXTINF:-1 ,voyage HD
 rtp://233.21.50.56:1234
 #EXTINF:-1 ,TV Breizh HD
 rtp://233.21.50.57:1234
@@ -168,13 +168,13 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.61:1234
 #EXTINF:-1 ,OCS Geants HD
 rtp://233.21.50.62:1234
-#EXTINF:-1 ,My Cuisine HD
+#EXTINF:-1 ,my CUISINE HD
 rtp://233.21.50.127:1234
-#EXTINF:-1 ,Equidia HD
+#EXTINF:-1 ,EQUIDIA HD
 rtp://233.32.39.142:1234
-#EXTINF:-1 ,Chasse et Peche HD
+#EXTINF:-1 ,Chasse&Pêche HD
 rtp://233.32.39.143:1234
-#EXTINF:-1 ,Golf Channel HD
+#EXTINF:-1 ,Golf HD
 rtp://233.32.39.154:1234
 #EXTINF:-1 ,RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
@@ -186,7 +186,7 @@ rtp://233.32.39.170:1234
 rtp://233.32.39.171:1234
 #EXTINF:-1 ,AB3 CH HD
 rtp://239.186.68.33:10000
-#EXTINF:-1 ,i24 News F HD
+#EXTINF:-1 ,i24 NEWS F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 ,GrandGeneveTV HD
 rtp://239.186.70.133:10000
