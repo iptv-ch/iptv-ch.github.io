@@ -11,6 +11,8 @@ rtp://239.186.76.4:10000
 rtp://239.186.76.6:10000
 #EXTINF:-1 ,Vision TV UHD 
 rtp://239.186.76.11:10000
+#EXTINF:-1 ,auto motor sport UHD (deu)
+rtp://239.186.76.20:10000
 #EXTINF:-1 ,NASA UHD
 rtp://239.186.76.29:10000
 #EXTINF:-1 ,Sky Blackout UHD
