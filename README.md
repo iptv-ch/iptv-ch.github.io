@@ -55,7 +55,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 [More information]( https://www.regardtv.net/t6105p325-flux-iptv-swisscom#77698 ).
 
 
-## Sunrise TV SD/HD/UHD
+## Sunrise TV SD/HD
 
 **URL: https://iptv-ch.github.io/sunrise-tv.m3u**
 
