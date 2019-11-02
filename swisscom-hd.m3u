@@ -548,6 +548,8 @@ rtp://239.186.70.70:10000
 rtp://239.186.74.66:10000
 #EXTINF:-1 tvg-id="nicktoons.de" tvg-name="nicktoons DE" tvg-logo="http://static.iptv-epg.com/de/nicktoons.de.png" tvg-chno="" channel-id="",niCKToons
 rtp://239.186.74.68:10000
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.iptv-epg.com/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
+#EXTREM rtp://239.186.74.70:10000
 #EXTINF:-1 ,Puls24 HD
 rtp://239.186.70.251:10000
 #EXTREM:italian
