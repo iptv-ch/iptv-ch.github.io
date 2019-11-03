@@ -202,3 +202,6 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 ,Vernier Visions HD
 rtp://239.186.70.203:10000
+#EXTINF:-1 ,Teleclub Sports Live F HD
+rtp://239.186.79.8:10000
+
