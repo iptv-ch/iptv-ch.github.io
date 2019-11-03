@@ -198,6 +198,8 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="http://static.iptv-epg.com/ch/verniervisions.ch.png" tvg-chno="" channel-id="",Vernier Visions HD
 rtp://239.186.70.203:10000
+#EXTINF:-1 tvg-id="teleclubsportlive.ch" tvg-name="Teleclub Sports Live CH" tvg-logo="http://static.iptv-epg.com/ch/teleclubsportslive.ch.png" tvg-chno="" channel-id="",Teleclub Sports Live F HD
+rtp://239.186.79.8:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
