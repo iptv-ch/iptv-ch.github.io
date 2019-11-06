@@ -73,8 +73,3 @@ Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
 This will only work on your home network if Sunrise/netstream/Swisscom is your broadband provider<br>
 This file lists only radio channels.<br>
 [More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille)
-
-## TV7 from Init7 ##
-**URL: https://iptv-ch.github.io/init7-tv7.xspf**
-
-TV7 only available for init7 service provider customers on only optical fiber7
