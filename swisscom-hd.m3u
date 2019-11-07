@@ -546,8 +546,6 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
-#EXTINF:-1 tvg-id="bongusto.de" tvg-name="bon gusto DE" tvg-logo="http://static.iptv-epg.com/de/bongusto.de.png" tvg-chno="" channel-id="",Bon Gusto
-rtp://239.186.74.66:10000
 #EXTINF:-1 tvg-id="nicktoons.de" tvg-name="nicktoons DE" tvg-logo="http://static.iptv-epg.com/de/nicktoons.de.png" tvg-chno="" channel-id="",niCKToons
 rtp://239.186.74.68:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.iptv-epg.com/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
@@ -687,8 +685,6 @@ rtp://239.186.66.240:10000
 udp://@239.101.10.181:1234
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.iptv-epg.com/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Disney Junior I
-rtp://239.186.74.64:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.iptv-epg.com/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
