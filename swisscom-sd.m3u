@@ -360,8 +360,6 @@ rtp://239.186.64.118:10000
 rtp://239.186.64.66:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.iptv-epg.com/de/HGTV.de.png" tvg-chno="" channel-id="",HGTV (deu)
 rtp://239.186.74.40:10000
-#EXTINF:-1 tvg-id="bongusto.de" tvg-name="bon gusto DE" tvg-logo="http://static.iptv-epg.com/de/bongusto.de.png" tvg-chno="" channel-id="",Bon Gusto
-rtp://239.186.74.66:10000
 #EXTINF:-1 tvg-id="nicktoons.de" tvg-name="nicktoons DE" tvg-logo="http://static.iptv-epg.com/de/nicktoons.de.png" tvg-chno="" channel-id="",niCKToons
 rtp://239.186.74.68:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.iptv-epg.com/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
@@ -387,8 +385,6 @@ rtp://239.186.66.176:10000
 rtp://239.186.64.76:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="354" channel-id="354",ClassTV Moda
 rtp://239.186.66.189:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="",Disney Junior I
-rtp://239.186.74.64:10000
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
 rtp://239.186.66.110:10000
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.iptv-epg.com/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia FRISBEE /FAMILY CLUB
