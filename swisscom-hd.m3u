@@ -356,8 +356,6 @@ rtp://239.186.66.118:10000
 rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="Disney Cinemagic DE" tvg-logo="http://static.iptv-epg.com/de/DisneyCinemagic.de.png" tvg-chno="200" channel-id="200",Disney Cinemagic
-rtp://239.186.64.218:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.iptv-epg.com/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV HD
