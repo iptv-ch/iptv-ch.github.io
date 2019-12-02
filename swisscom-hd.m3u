@@ -621,10 +621,6 @@ rtp://239.186.64.74:10000
 rtp://239.186.66.176:10000
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="http://static.iptv-epg.com/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24
 rtp://239.186.64.214:10000
-#EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic IT" tvg-logo="http://static.iptv-epg.com/it/NationalGeographic.it.png" tvg-chno="353" channel-id="353",National Geographic I HD
-rtp://239.186.68.180:10000
-#EXTINF:-1 tvg-id="NatGeopeople.it" tvg-name="Nat Geo people IT" tvg-logo="http://static.iptv-epg.com/it/NatGeopeople.it.png" tvg-chno="" channel-id="",Nat Geo people I HD
-rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.iptv-epg.com/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount NETWORK I
 rtp://239.186.64.122:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
