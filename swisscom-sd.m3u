@@ -161,8 +161,6 @@ rtp://239.186.64.105:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
-#EXTINF:-1 tvg-id="NHKworldjapan.uk" tvg-name="NHK World Japan UK" tvg-logo="http://static.iptv-epg.com/uk/nhkworldjapan.uk.png" tvg-chno="" channel-id="",NHK World Japan
-udp://@239.101.10.239:1234
 #EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int.
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
