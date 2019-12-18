@@ -1,0 +1,416 @@
+#EXTM3U
+#EXTREM: Citycable Lausanne FTTH, 2019-12-18
+#EXTREM:
+#EXTREM: French
+#EXTINF:-1,1 - RTS Un
+udp://@239.101.10.46:1234
+#EXTINF:-1,2 - RTS Deux
+udp://@239.101.10.47:1234
+#EXTINF:-1,3 - TF1 Suisse
+udp://@239.101.10.63:1234
+#EXTINF:-1,4 - France 2
+udp://@239.101.10.64:1234
+#EXTINF:-1,5 - France 3
+udp://@239.101.10.65:1234
+#EXTINF:-1,6 - France 4
+udp://@239.101.10.56:1234
+#EXTINF:-1,7 - France 5
+udp://@239.101.10.68:1234
+#EXTINF:-1,8 - M6 Suisse
+udp://@239.101.10.66:1234
+#EXTINF:-1,10 - La Tele
+udp://@239.101.9.42:1234
+#EXTINF:-1,12 - Leman Bleu
+udp://@239.101.10.11:1234
+#EXTINF:-1,13 - Canal Alpha
+udp://@239.101.9.69:1234
+#EXTINF:-1,14 - TMC Suisse
+udp://@239.101.10.21:1234
+#EXTINF:-1,15 - W9 Suisse
+udp://@239.101.10.22:1234
+#EXTINF:-1,16 - NRJ 12
+udp://@239.101.10.24:1234
+#EXTINF:-1,17 - TFX Suisse
+udp://@239.101.10.23:1234
+#EXTINF:-1,18 - Canal 8 Suisse
+udp://@239.101.10.26:1234
+#EXTINF:-1,19 - Canal Star
+udp://@239.101.10.27:1234
+#EXTINF:-1,20 - RTL 9 Suisse
+udp://@239.101.10.20:1234
+#EXTINF:-1,21 - AB 1
+udp://@239.101.9.10:1234
+#EXTINF:-1,22 - TF1 Series Films
+udp://@239.101.10.50:1234
+#EXTINF:-1,23 - 6Ter Suisse
+udp://@239.101.10.51:1234
+#EXTINF:-1,24 - Cherie 25
+udp://@239.101.10.55:1234
+#EXTINF:-1,25 - MTV France
+udp://@239.101.10.25:1234
+#EXTINF:-1,26 - RMC Story
+udp://@239.101.10.52:1234
+#EXTINF:-1,29 - RMC Sport News
+udp://@239.101.10.14:1234
+#EXTINF:-1,30 - L'Equipe
+udp://@239.101.10.54:1234
+#EXTINF:-1,31 - TCM Cinema
+udp://@239.101.10.9:1234
+#EXTINF:-1,32 - Paramount Channel
+udp://@239.101.9.13:1234
+#EXTINF:-1,35 - Cartoon Network Suis
+udp://@239.101.10.29:1234
+#EXTINF:-1,36 - Canal J 
+udp://@239.101.10.30:1234
+#EXTINF:-1,37 - Gulli
+udp://@239.101.10.31:1234
+#EXTINF:-1,38 - Game One
+udp://@239.101.9.14:1234
+#EXTINF:-1,40 - RMC Decouverte
+udp://@239.101.10.53:1234
+#EXTINF:-1,41 - Planete Plus
+udp://@239.101.10.32:1234
+#EXTINF:-1,42 - Animaux
+udp://@239.101.9.11:1234
+#EXTINF:-1,43 - Trek
+udp://@239.101.9.12:1234
+#EXTINF:-1,44 - Arte
+udp://@239.101.10.67:1234
+#EXTINF:-1,45 - BFM TV
+udp://@239.101.10.17:1234
+#EXTINF:-1,46 - France 24
+udp://@239.101.10.16:1234
+#EXTINF:-1,47 - Euronews
+udp://@239.101.10.15:1234
+#EXTINF:-1,48 - TV5 Monde FBS
+udp://@239.101.10.18:1234
+#EXTINF:-1,49 - Canal News
+udp://@239.101.9.47:1234
+#EXTINF:-1,50 - LCI
+udp://@239.101.9.66:1234
+#EXTINF:-1,51 - BFM Business
+udp://@239.101.9.15:1234
+#EXTINF:-1,52 - LCP
+udp://@239.101.9.41:1234
+#EXTINF:-1,53 - M6 Boutique
+udp://@239.101.9.51:1234
+#EXTINF:-1,54 - France Info
+udp://@239.101.9.75:1234
+#EXTINF:-1,55 - MCM Top
+udp://@239.101.10.42:1234
+#EXTINF:-1,56 - Mezzo
+udp://@239.101.10.40:1234
+#EXTINF:-1,57 - One TV
+udp://@239.101.9.48:1234
+#EXTINF:-1,58 - LFM TV
+udp://@239.101.9.49:1234
+#EXTINF:-1,61 - France O
+udp://@239.101.10.38:1234
+#EXTINF:-1,62 - KTO
+udp://@239.101.10.43:1234
+#EXTINF:-1,63 - Canal Plus Clair
+udp://@239.101.10.39:1234
+#EXTINF:-1,64 - Booster TV
+udp://@239.101.9.81:1234
+#EXTINF:-1,65 - TeleSwizz
+udp://@239.101.9.43:1234
+#EXTINF:-1,66 - Rouge TV
+udp://@239.101.10.41:1234
+#EXTINF:-1,67 - NRTV
+udp://@239.101.10.251:1234
+#EXTINF:-1,68 - Max TV
+udp://@239.101.10.249:1234
+#EXTINF:-1,69 - TVM3
+udp://@239.101.9.50:1234
+#EXTINF:-1,70 - 8 Mont Blanc
+udp://@239.101.10.36:1234
+#EXTINF:-1,71 - Val TV
+udp://@239.101.9.55:1234
+
+#EXTREM: Deutsch
+#EXTINF:-1,200 - SRF 1
+udp://@239.101.10.48:1234
+#EXTINF:-1,201 - SRF zwei
+udp://@239.101.10.49:1234
+#EXTINF:-1,202 - SRF info
+udp://@239.101.10.203:1234
+#EXTINF:-1,203 - Das Erste
+udp://@239.101.10.219:1234
+#EXTINF:-1,204 - ZDF
+udp://@239.101.10.142:1234
+#EXTINF:-1,205 - ORF 1
+udp://@239.101.10.207:1234
+#EXTINF:-1,206 - RTL
+udp://@239.101.10.210:1234
+#EXTINF:-1,207 - RTL 2
+udp://@239.101.10.211:1234
+#EXTINF:-1,208 - Pro 7
+udp://@239.101.10.213:1234
+#EXTINF:-1,209 - Sat 1
+udp://@239.101.10.209:1234
+#EXTINF:-1,210 - Vox
+udp://@239.101.10.214:1234
+#EXTINF:-1,211 - Kabel 1
+udp://@239.101.10.215:1234
+#EXTINF:-1,212 - 3 Sat
+udp://@239.101.10.149:1234
+#EXTINF:-1,213 - SWR BW
+udp://@239.101.10.217:1234
+#EXTINF:-1,214 - Super RTL
+udp://@239.101.10.212:1234
+#EXTINF:-1,215 - KiKa
+udp://@239.101.10.158:1234
+#EXTINF:-1,216 - Sport 1
+udp://@239.101.10.216:1234
+#EXTINF:-1,218 - Kanal 9
+udp://@239.101.10.12:1234
+#EXTINF:-1,219 - TeleBärn
+udp://@239.101.10.252:1234
+#EXTINF:-1,222 - TeleBielingue
+udp://@239.101.9.68:1234
+#EXTINF:-1,223 - ORF 2
+udp://@239.101.10.148:1234
+#EXTINF:-1,224 - RTL Nitro
+udp://@239.101.9.20:1234
+#EXTINF:-1,225 - Sixx
+udp://@239.101.10.160:1234
+#EXTINF:-1,226 - BR Sud
+udp://@239.101.10.152:1234
+#EXTINF:-1,227 - WDR
+udp://@239.101.10.151:1234
+#EXTINF:-1,228 - NDR
+udp://@239.101.9.17:1234
+#EXTINF:-1,229 - hr
+udp://@239.101.10.154:1234
+#EXTINF:-1,230 - mdr
+udp://@239.101.9.16:1234
+#EXTINF:-1,231 - ZDF neo
+udp://@239.101.10.143:1234
+#EXTINF:-1,232 - ZDF info
+udp://@239.101.10.145:1234
+#EXTINF:-1,233 - Welt
+udp://@239.101.10.155:1234
+#EXTINF:-1,235 - N TV
+udp://@239.101.11.69:1234
+#EXTINF:-1,236 - phoenix
+udp://@239.101.10.150:1234
+#EXTINF:-1,237 - Eurosport Deutschlan
+udp://@239.101.11.75:1234
+#EXTINF:-1,240 - Nick Schweiz
+udp://@239.101.11.71:1234
+#EXTINF:-1,241 - Disney Channel D
+udp://@239.101.10.153:1234
+#EXTINF:-1,242 - Comedy Central D
+udp://@239.101.11.76:1234
+#EXTINF:-1,243 - Ric
+udp://@239.101.9.19:1234
+#EXTINF:-1,244 - Pro 7 MAXX
+udp://@239.101.9.22:1234
+#EXTINF:-1,245 - DMAX
+udp://@239.101.10.156:1234
+#EXTINF:-1,246 - Deluxe Music
+udp://@239.101.10.157:1234
+#EXTINF:-1,247 - Servus TV Deutschland
+udp://@239.101.11.74:1234
+#EXTINF:-1,248 - Anixe
+udp://@239.101.9.23:1234
+#EXTINF:-1,249 - Tele 5
+udp://@239.101.11.70:1234
+#EXTINF:-1,250 - BR Alpha
+udp://@239.101.11.97:1234
+#EXTINF:-1,251 - rbb
+udp://@239.101.9.18:1234
+#EXTINF:-1,253 - One
+udp://@239.101.10.146:1234
+#EXTINF:-1,255 - Star TV
+udp://@239.101.9.70:1234
+
+#EXTREM: Italian
+#EXTINF:-1,300 - RSI LA 1
+udp://@239.101.10.44:1234
+#EXTINF:-1,301 - RSI LA 2
+udp://@239.101.10.45:1234
+#EXTINF:-1,302 - Rai 1
+udp://@239.101.10.103:1234
+#EXTINF:-1,303 - Rai 2
+udp://@239.101.10.104:1234
+#EXTINF:-1,304 - Rai 3
+udp://@239.101.10.105:1234
+#EXTINF:-1,305 - Rai Sport Plus
+udp://@239.101.10.106:1234
+#EXTINF:-1,307 - Rai News
+udp://@239.101.10.108:1234
+#EXTINF:-1,308 - Italia 1
+udp://@239.101.10.109:1234
+#EXTINF:-1,309 - Rete 4
+udp://@239.101.10.110:1234
+#EXTINF:-1,310 - Canale 5
+udp://@239.101.10.111:1234
+#EXTINF:-1,311 - La 7
+udp://@239.101.10.112:1234
+#EXTINF:-1,312 - Rai Gulp
+udp://@239.101.10.113:1234
+#EXTINF:-1,313 - Rai Storia
+udp://@239.101.9.25:1234
+#EXTINF:-1,314 - Rai Scuola
+udp://@239.101.9.24:1234
+#EXTINF:-1,315 - DMAX Italia
+udp://@239.101.9.26:1234
+#EXTINF:-1,316 - Canale Italia
+udp://@239.101.9.35:1234
+#EXTINF:-1,317 - Video Italia
+udp://@239.101.9.45:1234
+
+#EXTREM: English
+#EXTINF:-1,400 - BBC One
+udp://@239.101.10.114:1234
+#EXTINF:-1,401 - BBC Two
+udp://@239.101.10.115:1234
+#EXTINF:-1,402 - CBBC
+udp://@239.101.10.116:1234
+#EXTINF:-1,403 - BBC Four / CBeebies
+udp://@239.101.10.117:1234
+#EXTINF:-1,404 - BBC World News
+udp://@239.101.10.118:1234
+#EXTINF:-1,405 - ITV
+udp://@239.101.10.119:1234
+#EXTINF:-1,406 - ITV 2
+udp://@239.101.10.120:1234
+#EXTINF:-1,407 - ITV 3
+udp://@239.101.10.121:1234
+#EXTINF:-1,408 - ITV 4
+udp://@239.101.10.122:1234
+#EXTINF:-1,409 - Sky News
+udp://@239.101.10.123:1234
+#EXTINF:-1,410 - CNN
+udp://@239.101.10.124:1234
+#EXTINF:-1,411 - Al Jazeera
+udp://@239.101.10.125:1234
+#EXTINF:-1,412 - CNBC
+udp://@239.101.10.126:1234
+#EXTINF:-1,413 - Bloomberg
+udp://@239.101.10.127:1234
+#EXTINF:-1,414 - Fashion TV
+udp://@239.101.10.128:1234
+#EXTINF:-1,416 - Channel 4
+udp://@239.101.11.80:1234
+#EXTINF:-1,417 - Channel 5
+udp://@239.101.11.81:1234
+#EXTINF:-1,418 - Film 4
+udp://@239.101.11.82:1234
+#EXTINF:-1,419 - More 4
+udp://@239.101.9.36:1234
+#EXTINF:-1,420 - Food Network
+udp://@239.101.11.83:1234
+#EXTINF:-1,421 - Travel Channel
+udp://@239.101.9.37:1234
+#EXTINF:-1,422 - CGTN
+udp://@239.101.9.38:1234
+#EXTINF:-1,423 - TVC News
+udp://@239.101.9.34:1234
+#EXTINF:-1,424 - NHK World TV
+udp://@239.101.9.39:1234
+#EXTINF:-1,427 - CNN Money CH
+udp://@239.101.9.83:1234
+#EXTINF:-1,472 - Russia Today
+udp://@239.101.9.29:1234
+
+#EXTREM: Spanish
+#EXTINF:-1,452 - TVE Internacional
+udp://@239.101.10.131:1234
+#EXTINF:-1,453 - Canal 24 Horas
+udp://@239.101.10.132:1234
+#EXTINF:-1,454 - Antena 3
+udp://@239.101.10.133:1234
+#EXTINF:-1,455 - Andalucia TV
+udp://@239.101.11.84:1234
+#EXTINF:-1,456 - Canal Extremadura
+udp://@239.101.9.56:1234
+#EXTINF:-1,457 - TV Galicia
+udp://@239.101.11.85:1234
+
+#EXTREM: Portuguese
+#EXTINF:-1,450 - RTPi
+udp://@239.101.10.129:1234
+#EXTINF:-1,451 - Rede Record Internac
+udp://@239.101.10.130:1234
+#EXTINF:-1,458 - Record News
+udp://@239.101.9.27:1234
+
+#EXTREM: Others
+#EXTINF:-1,459 - Canal Algerie
+udp://@239.101.9.31:1234
+#EXTINF:-1,460 - Tunisie Nationale
+udp://@239.101.9.32:1234
+#EXTINF:-1,461 - RTS1 Senegal
+udp://@239.101.9.57:1234
+#EXTINF:-1,462 - Al Arabiya
+udp://@239.101.9.32:1234
+#EXTINF:-1,463 - Al Masriyah
+udp://@239.101.9.67:1234
+#EXTINF:-1,464 - Al Maghribia
+udp://@239.101.9.58:1234
+#EXTINF:-1,465 - DM SAT
+udp://@239.101.11.100:1234
+#EXTINF:-1,467 - OBN
+udp://@239.101.9.60:1234
+#EXTINF:-1,468 - HRT Int
+udp://@239.101.11.96:1234
+#EXTINF:-1,469 - Show Turk
+udp://@239.101.9.59:1234
+#EXTINF:-1,470 - Euro D
+udp://@239.101.9.61:1234
+#EXTINF:-1,471 - TVP Polonia
+udp://@239.101.11.99:1234
+#EXTINF:-1,473 - Channel 1 Russia
+udp://@239.101.9.65:1234
+#EXTINF:-1,474 - ERT World
+udp://@239.101.9.62:1234
+#EXTINF:-1,475 - Duna
+udp://@239.101.9.30:1234
+#EXTINF:-1,476 - BNT World
+udp://@239.101.9.63:1234
+#EXTINF:-1,477 - TVR International
+udp://@239.101.9.64:1234
+#EXTINF:-1,478 - Dubai TV
+udp://@239.101.11.142:1234
+#EXTINF:-1,480 - BVN
+udp://@239.101.10.134:1234
+#EXTINF:-1,481 - RTK 1
+udp://@239.101.10.135:1234
+#EXTINF:-1,482 - RTS Sat
+udp://@239.101.10.136:1234
+#EXTINF:-1,483 - RTCG
+udp://@239.101.10.137:1234
+#EXTINF:-1,484 - TRT Turk
+udp://@239.101.10.138:1234
+#EXTINF:-1,485 - RTR Planeta
+udp://@239.101.10.139:1234
+#EXTINF:-1,486 - 2M Maroc
+udp://@239.101.10.140:1234
+#EXTINF:-1,487 - CCTV 4
+udp://@239.101.10.141:1234
+
+#EXTREM: Channels not in the standard line-up:
+#EXTINF:-1,104 - Décalé
+udp://@239.101.11.27:1234
+#EXTINF:-1,133 - Nickelodeon Junior
+udp://@239.101.11.53:1234
+#EXTINF:-1,254 - Sky Sport News D
+udp://@239.101.9.71:1234
+#EXTINF:-1,9 - MySports F
+udp://@239.101.9.85:1234
+#EXTINF:-1,220 - MySports D
+udp://@239.101.9.86:1234
+
+#EXTREM:  Missing from the standard line-up:
+#EXTREM:  11 - Canal 9
+#EXTREM:  28 - Eurosport
+#EXTREM:  75 - Info
+#EXTREM:  234 - Sat.1 Gold
+#EXTREM:  238 - Kabel eins Doku
+#EXTREM:  239 - Puls 8
+#EXTREM:  415 - BBC Entertainment
+#EXTREM:  488 - ATV Avrupa
+#EXTREM:  489 - Arti TV
+#EXTREM:  490 - Zarok TV
