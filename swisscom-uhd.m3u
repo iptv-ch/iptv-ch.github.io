@@ -3,8 +3,6 @@
 rtp://239.186.76.1:10000
 #EXTINF:-1 ,THE EXPLORERS UHD
 rtp://239.186.76.2:10000
-#EXTINF:-1 ,FTV UHD
-rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
 rtp://239.186.76.4:10000
 #EXTINF:-1 ,Ultra Nature UHD
@@ -25,8 +23,6 @@ rtp://239.186.79.26:10000
 rtp://239.186.79.28:10000
 #EXTINF:-1 ,Stingray festival4k UHD
 rtp://239.186.79.29:10000
-#EXTINF:-1 ,fashionTV UHD
-rtp://239.186.79.97:10000
 #EXTINF:-1 ,Hispasat4k UHD
 rtp://239.186.79.99:10000
 #EXTINF:-1 ,vision tv UHD
