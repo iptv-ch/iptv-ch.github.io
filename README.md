@@ -15,7 +15,8 @@ IPTV open channels from Netplus + Sunrise + Swisscom as language french only, en
 ## CityCable TV Lausanne ftth
 
 **URL: https://iptv-ch.github.io/citycable.m3u**
-special thanks to bendreth for their update for community and customers of CityCable
+
+special thanks to bendreth for their update for community and customers of CityCable TV Lausanne over ftth date 2019-12-18
 
 ## Netplus TV HD + SD
 
