@@ -70,10 +70,6 @@ rtp://239.186.64.74:10000
 rtp://239.186.66.176:10000
 #EXTINF:-1 ,MEDIASET TGCom24
 rtp://239.186.64.214:10000
-#EXTINF:-1 ,National Geographic I HD
-rtp://239.186.68.180:10000
-#EXTINF:-1 ,Nat Geo people I HD
-rtp://239.186.68.180:10000
 #EXTINF:-1 ,Paramount Network I
 rtp://239.186.64.122:10000
 #EXTINF:-1 ,Rai1 HD
