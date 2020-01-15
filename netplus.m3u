@@ -87,8 +87,6 @@ udp://@239.101.10.41:1234
 udp://@239.101.10.249:1234
 #EXTINF:-1 ,Val TV HD
 udp://@239.101.10.178:1234
-#EXTINF:-1 ,TeleBielingue HD
-udp://@239.101.10.183:1234
 #EXTINF:-1 ,Canal J HD
 udp://@239.101.10.30:1234
 #EXTINF:-1 ,Canal Alpha NE HD
@@ -150,9 +148,9 @@ udp://@239.101.10.221:1234
 udp://@239.101.11.97:1234
 #EXTINF:-1 ,BR HD
 udp://@239.101.10.152:1234
-#EXTINF:-1 ,COMEDY CENTRAL D
+#EXTINF:-1 ,COMEDY CENTRAL SCHWEIZ HD
 udp://@239.101.11.76:1234
-#EXTINF:-1 ,Disney Channel DE
+#EXTINF:-1 ,Disney Channel
 udp://@239.101.10.153:1234
 #EXTINF:-1 ,Vox
 udp://@239.101.10.214:1234
@@ -174,7 +172,7 @@ udp://@239.101.10.157:1234
 udp://@239.101.10.156:1234
 #EXTINF:-1 ,ARD one HD
 udp://@239.101.10.146:1234
-#EXTINF:-1 ,Eurosport DE
+#EXTINF:-1 ,Eurosport1
 udp://@239.101.11.75:1234
 #EXTINF:-1 ,HR HD
 udp://@239.101.10.154:1234
@@ -202,7 +200,7 @@ udp://@239.101.10.150:1234
 udp://@239.101.10.213:1234
 #EXTINF:-1 ,Pro 7 MAXX
 udp://@239.101.10.222:1234
-#EXTINF:-1 ,rbb
+#EXTINF:-1 ,rbb HD
 udp://@239.101.10.248:1234
 #EXTINF:-1 ,Ric
 udp://@239.101.10.185:1234
@@ -230,6 +228,8 @@ udp://@239.101.10.217:1234
 udp://@239.101.11.70:1234
 #EXTINF:-1 ,Tele Baern HD
 udp://@239.101.10.252:1234
+#EXTINF:-1 ,TeleBielingue HD
+udp://@239.101.10.183:1234
 #EXTINF:-1 ,MySports D demo HD
 udp://@239.101.10.86:1234
 #EXTREM italian
