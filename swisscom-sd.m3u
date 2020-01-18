@@ -407,6 +407,8 @@ rtp://239.186.64.49:10000
 rtp://239.186.64.164:10000
 #EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="Marco Polo TV DE" tvg-logo="http://static.iptv-epg.com/de/MarcoPoloTV.de.png" tvg-chno="369" channel-id="369",MARCOPOLO
 rtp://239.186.74.20:10000
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.iptv-epg.com/it/20mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET
+rtp://239.186.74.67:10000
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="http://static.iptv-epg.com/it/Canale5.it.png" tvg-chno="371" channel-id="371",MEDIASET Canale5
 rtp://239.186.64.46:10000
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.iptv-epg.com/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
