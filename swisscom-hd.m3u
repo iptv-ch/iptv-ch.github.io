@@ -691,8 +691,8 @@ rtp://239.186.64.77:10000
 rtp://239.186.70.247:10000
 #EXTINF:-1 tvg-id="Antena3int.es" tvg-name=""Antena3int.es" tvg-logo="http://static.iptv-epg.com/es/antena3int.es.png" tvg-chno="" channel-id="",Antena3 int
 udp://@239.101.10.133:1234
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
-rtp://239.186.64.196:10000
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="http://static.iptv-epg.com/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas HD
+rtp://239.186.68.45:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="423" channel-id="423",Canal Extremadura
 rtp://239.186.64.222:10000
 #EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-logo="http://static.iptv-epg.com/es/CanalAndalucia.es.png" tvg-chno="467" channel-id="467",Andalucia TV
