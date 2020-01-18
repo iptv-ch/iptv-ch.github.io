@@ -699,8 +699,8 @@ rtp://239.186.64.222:10000
 rtp://239.186.64.197:10000
 #EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="http://static.iptv-epg.com/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",TV Galicia
 rtp://239.186.64.187:10000
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international
-rtp://239.186.64.54:10000
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international HD
+rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="" channel-id="",LATINOS1 CH HD
 rtp://239.186.70.150:10000
 #EXTREM:turkish
