@@ -815,7 +815,5 @@ rtp://239.186.70.164:10000
 rtp://239.186.70.191:10000
 #EXTINF:-1 tvg-id="arirang.kr" tvg-name="arirang KR" tvg-logo="http://static.iptv-epg.com/kr/arirang.kr.png" tvg-chno="" channel-id="",arirang HD
 rtp://239.186.70.195:10000
-#EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN BA" tvg-logo="http://static.iptv-epg.com/ba/obn.ba.png" tvg-chno="" channel-id="",OBN
-rtp://239.186.66.245:10000
 #EXTINF:-1 tvg-id="hayatmusic.ba" tvg-name="Hayat Music BA" tvg-logo="http://static.iptv-epg.com/ba/hayatmusic.ba.png" tvg-chno="" channel-id="",Hayat Music
 rtp://239.186.66.246:10000
