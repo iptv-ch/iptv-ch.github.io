@@ -228,6 +228,12 @@ udp://@239.101.10.221:1234
 rtp://239.186.74.68:10000
 #EXTINF:-1 ,Puls24 HD (deu)
 rtp://239.186.70.251:10000
+#EXTINF:-1 ,BonGusto HD
+rtp://@239.186.84.5:10000
+#EXTINF:-1 ,BlickTV HD
+rtp://@239.186.84.16:10000
+#EXTINF:-1 ,Swiss Sport TV HD
+rtp://@239.186.84.17:10000
 #EXTINF:-1 ,AlpenlandTV HD
 rtp://239.186.70.9:10000
 #EXTINF:-1 ,Welt der Wunder TV HD
