@@ -190,7 +190,7 @@ rtp://239.186.70.66:10000
 rtp://239.186.70.12:10000
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.iptv-epg.com/ch/RougeTV.ch.png" tvg-chno="89" channel-id="89",rouge TV HD
 udp://@239.101.10.41:1234
-#EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.iptv-epg.com/ch/grtv.ch.png" tvg-chno="96" channel-id="96",Genève Région Télévision / TéléVersoix HD
+#EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.iptv-epg.com/ch/grtv.ch.png" tvg-chno="96" channel-id="96",GRTV / TéléVersoix HD
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.iptv-epg.com/ch/tvonex.ch.png" tvg-chno="112" channel-id="112",TV Onex HD
 rtp://239.186.70.132:10000
@@ -295,8 +295,12 @@ udp://@239.101.10.234:1234
 udp://@239.101.10.237:1234
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave UK" tvg-logo="http://static.iptv-epg.com/uk/dave.uk.png" tvg-chno="" channel-id="",Dave
 rtp://239.186.66.253:10000
-#EXTINF:-1 ,FREE SPORTS HD
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Free Sports UK" tvg-logo="http://static.iptv-epg.com/uk/freesports.uk.png" tvg-chno="" channel-id="",FREE SPORTS HD
 rtp://239.186.70.253:10000
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest UK" tvg-logo="http://static.iptv-epg.com/uk/quest.uk.png" tvg-chno="" channel-id="",Quest HD
+rtp://@239.186.84.14:10000
+#EXTINF:-1 tvg-id="stingraydjazz.uk" tvg-name="Stingray Djazz UK" tvg-logo="http://static.iptv-epg.com/uk/stingraydjazz.uk.png" tvg-chno="" channel-id="",Stingray Djazz HD
+rtp://@239.186.84.9:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -550,6 +554,12 @@ rtp://239.186.74.68:10000
 rtp://239.186.74.70:10000
 #EXTINF:-1 tvg-id="Puls24.ch" tvg-name="Puls24 CH" tvg-logo="http://static.iptv-epg.com/ch/puls24.ch.png tvg-chno="" channel-id="",Puls24 HD
 rtp://239.186.70.251:10000
+#EXTINF:-1 tvg-id="BonGusto.ch" tvg-name="BonGusto DE" tvg-logo="http://static.iptv-epg.com/de/bongusto.de.png" tvg-chno"" channel-id="",BonGusto HD
+rtp://@239.186.84.5:10000
+#EXTINF:-1 tvg-id="Blick.ch" tvg-name="BlickTV CH" tvg-logo="http://static.iptv-epg.com/ch/blicktv.ch.png" tvg-chno"" channel-id=""BlickTV HD
+rtp://@239.186.84.16:10000
+#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.iptv-epg.com/ch/swisssporttv.ch.png" tvg-chno"" channel-id="",Swiss Sport TV HD
+rtp://@239.186.84.17:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -728,8 +738,8 @@ rtp://239.186.64.205:10000
 rtp://239.186.70.186:10000
 #EXTINF:-1 tvg-id="TRTCOCUK.tr" tvg-name="TRT COCUK TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCOCUK.tr.png" tvg-chno="" channel-id="",TRT COCUK HD
 rtp://239.186.70.185:10000
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî TR" tvg-logo="http://static.iptv-epg.com/tr/TRTKurdi.tr.png" tvg-chno="463" channel-id="463",TRT KURDI
-rtp://239.186.66.204:10000
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî TR" tvg-logo="http://static.iptv-epg.com/tr/TRTKurdi.tr.png" tvg-chno="463" channel-id="463",TRT KURDI HD
+rtp://@239.186.84.14:10000
 #EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-name="TRT SPOR TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSPOR.tr.png" tvg-chno="" channel-id="",TRT SPOR HD
 rtp://239.186.70.187:10000
 #EXTINF:-1 tvg-id="TRTmusik.tr" tvg-name="TRT musik TR" tvg-logo="http://static.iptv-epg.com/tr/TRTMUSIK.tr.png" tvg-chno="" channel-id="",TRT musik HD
