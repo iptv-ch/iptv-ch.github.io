@@ -556,7 +556,7 @@ rtp://239.186.74.70:10000
 rtp://239.186.70.251:10000
 #EXTINF:-1 tvg-id="BonGusto.ch" tvg-name="BonGusto DE" tvg-logo="http://static.iptv-epg.com/de/bongusto.de.png" tvg-chno"" channel-id="",BonGusto HD
 rtp://@239.186.84.5:10000
-#EXTINF:-1 tvg-id="Blick.ch" tvg-name="BlickTV CH" tvg-logo="http://static.iptv-epg.com/ch/blicktv.ch.png" tvg-chno"" channel-id=""BlickTV HD
+#EXTINF:-1 tvg-id="Blicktv.ch" tvg-name="BlickTV CH" tvg-logo="http://static.iptv-epg.com/ch/blicktv.ch.png" tvg-chno"" channel-id="",Blick TV HD
 rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.iptv-epg.com/ch/swisssporttv.ch.png" tvg-chno"" channel-id="",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
