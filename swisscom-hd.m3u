@@ -298,7 +298,7 @@ rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Free Sports UK" tvg-logo="http://static.iptv-epg.com/uk/freesports.uk.png" tvg-chno="" channel-id="",FREE SPORTS HD
 rtp://239.186.70.253:10000
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest UK" tvg-logo="http://static.iptv-epg.com/uk/quest.uk.png" tvg-chno="" channel-id="",Quest HD
-rtp://@239.186.84.14:10000
+rtp://@239.186.84.2:10000
 #EXTINF:-1 tvg-id="stingraydjazz.uk" tvg-name="Stingray Djazz UK" tvg-logo="http://static.iptv-epg.com/uk/stingraydjazz.uk.png" tvg-chno="" channel-id="",Stingray Djazz HD
 rtp://@239.186.84.9:10000
 #EXTREM:german
