@@ -231,7 +231,7 @@ rtp://239.186.70.251:10000
 #EXTINF:-1 ,BonGusto HD
 rtp://@239.186.84.5:10000
 #EXTINF:-1 ,BlickTV HD
-rtp://@239.186.84.16:10000
+#rtp://@239.186.84.16:10000
 #EXTINF:-1 ,Swiss Sport TV HD
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,AlpenlandTV HD
