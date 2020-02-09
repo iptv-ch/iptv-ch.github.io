@@ -87,6 +87,10 @@ rtp://239.186.68.171:10000
 udp://@239.101.10.234:1234
 #EXTINF:-1 ,BBC Parliament
 rtp://239.186.74.25:10000
+#EXTINF:-1 ,France 24 E HD
+rtp://239.186.84.31:10000
+#EXTINF:-1 ,Voice of America HD
+rtp://239.186.84.32:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
