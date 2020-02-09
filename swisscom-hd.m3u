@@ -301,7 +301,7 @@ rtp://239.186.70.253:10000
 rtp://@239.186.84.2:10000
 #EXTINF:-1 tvg-id="stingraydjazz.uk" tvg-name="Stingray Djazz UK" tvg-logo="http://static.iptv-epg.com/uk/stingraydjazz.uk.png" tvg-chno="" channel-id="",Stingray Djazz HD
 rtp://@239.186.84.9:10000
-#EXTINF:-1 tvg-id="france24.uk" tvg-name="France 24 UK" tvg-logo="http://static.iptv-epg.com/uk/france24.uk.png" tvg-chno="" channel-id="",France 24 E HD
+#EXTINF:-1 tvg-id="France24E" tvg-name="France 24 E" tvg-logo="http://static.iptv-epg.com/fr/France24e.fr.png" tvg-chno="" channel-id="",France24 E HD
 rtp://239.186.84.31:10000
 #EXTINF:-1 tvg-id="voiceofameica.uk" tvg-name="Voice of America UK" tvg-logo="http://static.iptv-epg.com/uk/voiceofamerica.uk.png" tvg-chno="" channel-id="",Voice of America HD
 rtp://239.186.84.32:10000
