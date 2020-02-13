@@ -88,13 +88,13 @@ udp://@239.101.10.241:1234
 udp://@239.101.10.32:1234
 #EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FR" tvg-logo="http://static.iptv-epg.com/fr/trek.fr.png" tvg-chno="" channel-id="",Trek HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 tvg-id="OCSMax" tvg-name="OCS Max" tvg-logo="http://static.iptv-epg.com/fr/OCSMax.fr.png" tvg-chno="1" channel-id="1",OCS Max FR HD
+#EXTINF:-1 tvg-id="OCSMax" tvg-name="OCS Max" tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" tvg-chno="1" channel-id="1",OCS MAX HD
 rtp://233.21.50.59:1234
-#EXTINF:-1 tvg-id="OCSCity" tvg-name="OCS City" tvg-logo="http://static.iptv-epg.com/fr/OCSCity.fr.png" tvg-chno="2" channel-id="2",OCS City FR HD
+#EXTINF:-1 tvg-id="OCSCity" tvg-name="OCS City" tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" tvg-chno="2" channel-id="2",OCS City HD
 rtp://233.21.50.60:1234
-#EXTINF:-1 tvg-id="OCSChoc" tvg-name="OCS Choc" tvg-logo="http://static.iptv-epg.com/mu/OcsChoc.mu.png" tvg-chno="3" channel-id="3",OCS Choc FR HD
+#EXTINF:-1 tvg-id="OCSChoc" tvg-name="OCS Choc" tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" tvg-chno="3" channel-id="3",OCS choc HD
 rtp://233.21.50.61:1234
-#EXTINF:-1 tvg-id="OCSGeants" tvg-name="OCS Geants" tvg-logo="http://static.iptv-epg.com/mu/OcsGeants.mu.png" tvg-chno="4" channel-id="4",OCS Geants FR HD
+#EXTINF:-1 tvg-id="OCSGeants" tvg-name="OCS Geants" tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" tvg-chno="4" channel-id="4",OCS geants HD
 rtp://233.21.50.62:1234
 #EXTINF:-1 tvg-id="13eRue" tvg-name="13ème Rue" tvg-logo="http://static.iptv-epg.com/fr/13Rue.fr.png" tvg-chno="5" channel-id="5",13ème Rue FR HD
 rtp://233.21.50.4:1234
