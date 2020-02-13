@@ -562,6 +562,8 @@ rtp://@239.186.84.5:10000
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.iptv-epg.com/ch/swisssporttv.ch.png" tvg-chno"" channel-id="",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
+#EXTINF:-1 tvg-id="TeleclubCinema.ch" tvg-name="Teleclub Cinema CH" tvg-logo="http://static.iptv-epg.com/ch/teleclubcinema.ch.png" tvg-chno"" channel-id="",TELECLUB CINEMA HD
+rtp://@239.186.79.18:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
