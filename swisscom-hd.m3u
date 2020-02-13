@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM:french
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="0",TC Zoom F HD
-rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS un CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS1 HD
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS deux CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS2 HD
@@ -198,8 +196,8 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="http://static.iptv-epg.com/ch/verniervisions.ch.png" tvg-chno="" channel-id="",Vernier Visions HD
 rtp://239.186.70.203:10000
-#EXTINF:-1 tvg-id="teleclubsportlive.ch" tvg-name="Teleclub Sports Live CH" tvg-logo="http://static.iptv-epg.com/ch/teleclubsportslive.ch.png" tvg-chno="" channel-id="",Teleclub Sports Live F HD
-rtp://239.186.79.8:10000
+#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="115" channel-id="115",TC Zoom F HD
+rtp://239.186.68.244:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
@@ -303,7 +301,7 @@ rtp://@239.186.84.2:10000
 rtp://@239.186.84.9:10000
 #EXTINF:-1 tvg-id="France24E" tvg-name="France 24 E" tvg-logo="http://static.iptv-epg.com/fr/France24e.fr.png" tvg-chno="" channel-id="",France24 E HD
 rtp://239.186.84.31:10000
-#EXTINF:-1 tvg-id="voiceofameica.uk" tvg-name="Voice of America UK" tvg-logo="http://static.iptv-epg.com/uk/voiceofamerica.uk.png" tvg-chno="" channel-id="",Voice of America HD
+#EXTINF:-1 tvg-id="voiceofamerica.uk" tvg-name="Voice of America UK" tvg-logo="http://static.iptv-epg.com/uk/voiceofamerica.uk.png" tvg-chno="" channel-id="",Voice of America HD
 rtp://239.186.84.32:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
