@@ -111,13 +111,11 @@ rtp://239.186.64.176:10000
 rtp://239.186.64.177:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="132" channel-id="132",The BOX
 rtp://239.186.66.142:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="133" channel-id="133",BOX upfront
-rtp://239.186.66.124:10000
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" tvg-chno="135" channel-id="135",CGTN
 rtp://239.186.66.114:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
 rtp://239.186.64.183:10000
-#EXTINF:-1 tvg-id="chartshow.uk" tvg-name="Chart Show UK" tvg-logo="http://static.iptv-epg.com/uk/ChartShow.uk.png" tvg-chno="139" channel-id="139",CHART SHOW TV
+#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="TRACE URBAN UK" tvg-logo="http://static.iptv-epg.com/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE URBAN
 rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="140" channel-id="140",Now 90s
 rtp://239.186.66.133:10000
@@ -165,8 +163,6 @@ rtp://239.186.64.185:10000
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
 rtp://239.186.64.179:10000
-#EXTINF:-1 tvg-id="5spike.uk" tvg-name="5Spike UK" tvg-logo="" tvg-chno="" channel-id="",5Spike UK
-rtp://239.186.66.244:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
 rtp://239.186.66.242:10000
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBCParliament uk" tvg-logo="https://static.iptv-epg.com/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC Parliament
@@ -541,8 +537,6 @@ rtp://239.186.64.189:10000
 rtp://239.186.64.195:10000
 #EXTINF:-1 tvg-id="Channel1.il" tvg-name="Channel 1 IL" tvg-logo="http://static.iptv-epg.com/il/Channel1.il.png" tvg-chno="437" channel-id="437",Channel1 RU
 rtp://239.186.64.82:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="438" channel-id="438",CTC International
-rtp://239.186.66.117:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="439" channel-id="439",DM SAT
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.iptv-epg.com/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",DUBAI TV
