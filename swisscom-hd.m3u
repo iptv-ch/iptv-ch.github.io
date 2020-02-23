@@ -219,13 +219,11 @@ rtp://239.186.74.25:10000
 rtp://239.186.68.125:10000
 #EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="http://static.iptv-epg.com/uk/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
 rtp://239.186.66.142:10000
-#EXTINF:-1 tvg-id="boxupfront.uk" tvg-name="Box upfront UK" tvg-logo="http://static.iptv-epg.com/uk/BoxUpfront.uk.png" tvg-chno="133" channel-id="133",BOX upfront
-rtp://239.186.66.124:10000
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" tvg-chno="136" channel-id="136",CGTN E HD
 rtp://239.186.70.90:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" tvg-chno="138" channel-id="138",Channel4 HD
 rtp://239.186.68.40:10000
-#EXTINF:-1 tvg-id="chartshow.uk" tvg-name="Chart Show UK" tvg-logo="http://static.iptv-epg.com/uk/ChartShow.uk.png" tvg-chno="139" channel-id="139",CHART SHOW TV
+#EXTINF:-1 tvg-id="Traceurban.uk" tvg-name="Trace Urban UK" tvg-logo="http://static.iptv-epg.com/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE URBAN
 rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="NOW90s.uk" tvg-name="Now 90s UK" tvg-logo="http://static.iptv-epg.com/uk/NOW90s.uk.png" tvg-chno="140" channel-id="140",Now 90s
 rtp://239.186.66.133:10000
@@ -277,8 +275,6 @@ rtp://239.186.68.172:10000
 rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky NEWS international
 rtp://239.186.64.179:10000
-#EXTINF:-1 tvg-id="FiveSpike.uk" tvg-name="5Spike UK" tvg-logo="" tvg-chno="http://static.iptv-epg.com/uk/FiveSpike.uk.png" channel-id="",5Spike
-rtp://239.186.66.244:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="http://static.iptv-epg.com/uk/FiveUSA.uk.png" tvg-chno="245" channel-id="245",5USA
 rtp://239.186.66.242:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="http://static.iptv-epg.com/uk/PBSAmerica.uk.png" tvg-chno="137" channel-id="",PBS America
@@ -326,7 +322,7 @@ udp://@239.101.10.221:1234
 rtp://239.186.70.179:10000
 #EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="http://static.iptv-epg.com/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
 rtp://239.186.70.9:10000
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE HD
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE SERIE HD
 rtp://239.186.68.7:10000
 #EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="http://static.iptv-epg.com/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD Das Erste HD
 rtp://239.186.68.9:10000
@@ -414,7 +410,7 @@ rtp://239.186.68.207:10000
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="http://static.iptv-epg.com/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
 rtp://239.186.68.29:10000
-#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="http://static.iptv-epg.com/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239",Nick schweiz HD
+#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="http://static.iptv-epg.com/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239",nick schweiz HD
 rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.iptv-epg.com/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
 rtp://239.186.64.140:10000
@@ -775,8 +771,6 @@ rtp://239.186.64.189:10000
 rtp://239.186.70.89:10000
 #EXTINF:-1 tvg-id="PervyyKanal.ru" tvg-name="PervyyKanal RU" tvg-logo="http://static.iptv-epg.com/ru/PervyyKanal.ru.png" tvg-chno="437" channel-id="437",PervyyKanal
 rtp://239.186.64.82:10000
-#EXTINF:-1 tvg-id="sts.ru" tvg-name="CTC RU" tvg-logo="http://static.iptv-epg.com/ru/sts.ru.png" tvg-chno="438" channel-id="438",CTC International
-rtp://239.186.66.117:10000
 #EXTINF:-1 tvg-id="DMsat.sr" tvg-name="DM SAT SR" tvg-logo="http://static.iptv-epg.com/sr/DMsat.sr.png" tvg-chno="439" channel-id="439",DM Sat
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.iptv-epg.com/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",Dubai TV HD
