@@ -321,22 +321,22 @@ udp://@239.101.10.239:1234
 #EXTINF:-1 ,Russia Today
 udp://@239.101.10.229:1234
 #EXTREM spanish
-#EXTINF:-1 ,Andalucia TV
+#EXTINF:-1 ,Andalucia TV HD low
 udp://@239.101.11.84:1234
 #EXTINF:-1 ,Antena3Int
 udp://@239.101.10.133:1234
-#EXTINF:-1 ,Canal 24 Horas
+#EXTINF:-1 ,Canal 24 Horas HD
 udp://@239.101.10.132:1234
-#EXTINF:-1 ,Canal Extremadura
+#EXTINF:-1 ,Canal Extremadura HD?
 udp://@239.101.10.167:1234
-#EXTINF:-1 ,TVE Internacional
+#EXTINF:-1 ,TVE Internacional HD
 udp://@239.101.10.131:1234
-#EXTINF:-1 ,TV Galicia
+#EXTINF:-1 ,TV Galicia HD
 udp://@239.101.11.85:1234
 #EXTREM portuguese
 #EXTINF:-1 ,Record News
 udp://@239.101.10.227:1234
-#EXTINF:-1 ,Rede Record Internacional
+#EXTINF:-1 ,Rede Record Internacional HD
 udp://@239.101.10.130:1234
 #EXTINF:-1 ,RTPi
 udp://@239.101.10.129:1234
@@ -377,8 +377,6 @@ udp://@239.101.10.173:1234
 udp://@239.101.10.171:1234
 #EXTINF:-1 ,HRT int.
 udp://@239.101.11.96:1234
-#EXTINF:-1 ,OBN
-udp://@239.101.10.169:1234
 #EXTINF:-1 ,TV Polonia
 udp://@239.101.11.99:1234
 #EXTINF:-1 ,RTCG sat
