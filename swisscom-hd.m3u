@@ -41,13 +41,13 @@ rtp://239.186.70.24:10000
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="http://static.iptv-epg.com/fr/Gulli.fr.png" tvg-chno="65" channel-id="65",gulli HD
 rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O" tvg-logo="http://static.iptv-epg.com/mu/FranceO.mu.png" tvg-chno="61" channel-id="61",FranceO
-udp://@239.101.10.38:1234
+rtp://239.186.66.27:10000
 #EXTINF:-1 tvg-id="HD1.fr" tvg-name="TF1 Séries Films" tvg-logo="http://static.iptv-epg.com/fr/TF1seriesfilms.fr" tvg-chno="" channel-id="",TF1 Series Films HD
 udp://@239.101.10.50:1234
 #EXTINF:-1 tvg-id="equipetv.fr" tvg-name="L'Equipe TV" tvg-logo="http://static.iptv-epg.com/fr/LEquipe21.fr.png" tvg-chno="137" channel-id="137",L'Equipe HD
 udp://@239.101.10.54:1234
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="http://static.iptv-epg.com/fr/6ter.fr.png" tvg-chno="62" channel-id="62",6ter HD
-udp://@239.101.10.51:1234
+rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC Story FR" tvg-logo="http://static.iptv-epg.com/fr/rmcstory.fr.png" tvg-chno="" channel-id="",RMC Story HD
 udp://@239.101.10.52:1234
 #EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.iptv-epg.com/fr/rmcdecouverte.fr.png" tvg-chno="" channel-id="",RMC Decouverte HD
@@ -59,7 +59,7 @@ udp://@239.101.10.162:1234
 #EXTINF:-1 tvg-id="FranceInfo" tvg-name="franceinfo:" tvg-logo="http://static.iptv-epg.com/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE France Belgique Suisse" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="109" channel-id="109",TV5MONDE FBS HD
-udp://@239.101.10.18:1234
+rtp://239.186.70.41:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="http://static.iptv-epg.com/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
@@ -122,7 +122,7 @@ rtp://233.21.50.56:1234
 rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="Ushuaia" tvg-name="Ushuaïa TV" tvg-logo="http://static.iptv-epg.com/fr/UshuaiaTV.fr.png" tvg-chno="17" channel-id="17",Ushuaia TV HD
 rtp://233.21.50.58:1234
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.iptv-epg.com/fr/ParamountChannel.fr.png" tvg-chno="18" channel-id="18",Paramount Channel HD French
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.iptv-epg.com/fr/ParamountChannel.fr.png" tvg-chno="18" channel-id="18",Paramount HD
 udp://@239.101.10.243:1234
 #EXTINF:-1 tvg-id="TCMCinema.fr" tvg-name="TCM Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/tcmcinema.fr.png" tvg-chno="" channel-id="",TCM cinema HD
 udp://@239.101.10.9:1234
