@@ -29,7 +29,7 @@ udp://@239.101.10.21:1234
 udp://@239.101.10.23:1234
 #EXTINF:-1 ,NRJ12 HD
 udp://@239.101.10.24:1234
-#EXTINF:-1 ,LCP Public Senat
+#EXTINF:-1 ,LCP Public Senat HD
 udp://@239.101.10.180:1234
 #EXTINF:-1 ,Canal+ HD plages en clair
 udp://@239.101.10.39:1234
@@ -45,7 +45,7 @@ udp://@239.101.10.31:1234
 udp://@239.101.10.38:1234
 #EXTINF:-1 ,TF1 Series Films HD
 udp://@239.101.10.50:1234
-#EXTINF:-1 ,L Equipe HD
+#EXTINF:-1 ,Equipe HD
 udp://@239.101.10.54:1234
 #EXTINF:-1 ,6ter HD
 udp://@239.101.10.51:1234
@@ -71,7 +71,7 @@ udp://@239.101.10.240:1234
 udp://@239.101.10.241:1234
 #EXTINF:-1 ,BFM Business HD low quality
 udp://@239.101.10.245:1234
-#EXTINF:-1 ,Canal 9
+#EXTINF:-1 ,Canal 9 HD
 udp://@239.101.10.57:1234
 #EXTINF:-1 ,TeleSwizz HD
 udp://@239.101.10.179:1234
@@ -142,7 +142,7 @@ udp://@239.101.10.203:1234
 udp://@239.101.10.149:1234
 #EXTINF:-1 ,Anixe HD
 udp://@239.101.10.223:1234
-#EXTINF:-1 ,ATV
+#EXTINF:-1 ,ATV HD
 udp://@239.101.10.221:1234
 #EXTINF:-1 ,BR Alpha
 udp://@239.101.11.97:1234
