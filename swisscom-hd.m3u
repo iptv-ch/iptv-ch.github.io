@@ -728,11 +728,11 @@ rtp://239.186.64.209:10000
 rtp://239.186.64.200:10000
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU TR" tvg-logo="http://static.iptv-epg.com/tr/TGRTEU.tr.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk HD
-rtp://239.186.70.210:10000
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
 rtp://239.186.64.205:10000
-#EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRTBELGESEL TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBELGESEL.tr.png" tvg-chno="" channel-id="",TRTBELGESEL HD
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk HD
+rtp://239.186.70.210:10000
+#EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRT BELGESEL TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBELGESEL.tr.png" tvg-chno="" channel-id="",TRT Belgesel HD
 rtp://239.186.70.186:10000
 #EXTINF:-1 tvg-id="TRTCOCUK.tr" tvg-name="TRT COCUK TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCOCUK.tr.png" tvg-chno="" channel-id="",TRT COCUK HD
 rtp://239.186.70.185:10000
