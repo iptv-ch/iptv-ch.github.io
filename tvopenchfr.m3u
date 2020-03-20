@@ -16,8 +16,10 @@ udp://@239.101.10.56:1234
 udp://@239.101.10.68:1234
 #EXTINF:-1 ,M6 HD Suisse
 udp://@239.101.10.66:1234
-#EXTINF:-1 ,arte HD
+#EXTINF:-1 ,arte F HD
 udp://@239.101.10.67:1234
+#EXTINF:-1 audio-track="fra" ,arte D HD
+rtp://233.35.254.135:1234
 #EXTINF:-1 ,C8 HD
 udp://@239.101.10.26:1234
 #EXTINF:-1 ,W9 HD
@@ -138,7 +140,7 @@ rtp://233.21.50.2:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 ,SyFy HD french
 rtp://233.21.50.5:1234
-#EXTINF:-1 ,Nautical CHANNEL HD low quality
+#EXTINF:-1 audio-track="fra" ,Nautical CHANNEL HD low quality
 rtp://233.21.50.17:1234
 #EXTINF:-1 ,motorvision.tv HD french low quality
 rtp://233.21.50.27:1234
@@ -174,7 +176,7 @@ rtp://233.21.50.127:1234
 rtp://233.32.39.142:1234
 #EXTINF:-1 ,Chasse&Pêche HD
 rtp://233.32.39.143:1234
-#EXTINF:-1 ,Golf HD
+#EXTINF:-1 ,CNBC Golf HD
 rtp://233.32.39.154:1234
 #EXTINF:-1 ,RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
@@ -200,6 +202,3 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 ,Vernier Visions HD
 rtp://239.186.70.203:10000
-#EXTINF:-1 ,Teleclub Sports Live F HD
-rtp://239.186.79.8:10000
-
