@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTREM:IPTV channels open in Switzerland (CH) english language Swisscom network and partners.
+#EXTREM:IPTV channels open in Switzerland (CH) english language Swisscom network and multicast IPTV partners layer3
 #EXTINF:-1 ,BBC One HD
 rtp://239.186.68.43:10000
 #EXTINF:-1 ,BBC Two HD
@@ -8,8 +8,6 @@ rtp://239.186.68.41:10000
 rtp://239.186.68.153:10000
 #EXTINF:-1 ,BBC Four HD / BBC CBeebies HD
 rtp://239.186.68.158:10000
-#EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
-rtp://239.186.68.152:10000
 #EXTINF:-1 ,Dave
 rtp://239.186.66.253:10000
 #EXTINF:-1 ,DRAMA
@@ -18,8 +16,6 @@ rtp://239.186.66.140:10000
 rtp://239.186.70.200:10000
 #EXTINF:-1 ,E4
 rtp://239.186.64.53:10000
-#EXTINF:-1 ,Film4
-rtp://239.186.64.172:10000
 #EXTINF:-1 ,Channel4 HD
 rtp://239.186.68.40:10000
 #EXTINF:-1 ,Five HD
@@ -46,12 +42,17 @@ rtp://239.186.66.243:10000
 rtp://239.186.70.189:10000
 #EXTINF:-1 ,Travel Channel
 udp://@239.101.10.237:1234
-#EXTINF:-1 ,FREE SPORTS HD
-rtp://239.186.70.253:10000
-#EXTINF:-1 ,RETRO MOVIES
-rtp://239.186.74.65:10000
 #EXTINF:-1 ,Quest HD
 rtp://@239.186.84.2:10000
+#EXTREM Sports
+#EXTINF:-1 ,FREE SPORTS HD
+rtp://239.186.70.253:10000
+#EXTINF:-1 ,EUROSPORT2 XTRA
+rtp://233.21.50.45:1234
+#EXTINF:-1 audio-track="eng" ,MotorVision HD
+rtp://233.21.50.27:1234
+#EXTINF:-1 audio-track="eng" ,Nautical HD
+rtp://233.21.50.17:1234
 #EXTREM news
 #EXTINF:-1 ,BBC News HD
 rtp://239.186.68.160:10000
@@ -89,6 +90,8 @@ rtp://239.186.74.25:10000
 rtp://239.186.84.31:10000
 #EXTINF:-1 ,Voice of America HD
 rtp://239.186.84.32:10000
+#EXTINF:-1 ,Animaux HD
+udp://@239.101.10.241:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
@@ -104,3 +107,57 @@ rtp://239.186.66.128:10000
 rtp://239.186.64.105:10000
 #EXTINF:-1 ,Stingray Djazz HD
 rtp://@239.186.84.9:10000
+#EXTINF:-1 audio-track="eng" ,MTV Switzerland HD
+rtp://@239.101.11.71:10000
+#EXTREM childreen
+#EXTINF:-1 audio-track="eng" ,Nicktoons
+rtp://@239.186.74.68:10000
+#EXTINF:-1 audio-track="eng" ,Nick CH HD
+rtp://@239.186.68.175:10000
+#EXTINF:-1 audio-track="eng" ,Nickelodeon Junior HD
+rtp://233.21.50.63:1234
+#EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
+rtp://239.186.68.152:10000
+#EXTINF:-1 audio-track="eng" ,Cartoon Network HD
+udp://@239.101.10.29:1234
+#EXTINF:-1 audio-track="eng" ,Disney channel HD
+rtp://233.21.50.11:1234
+#EXTINF:-1 audio-track="eng" ,Disney Junior HD
+rtp://233.21.50.31:1234
+#EXTINF:-1 audio-track="eng" ,Disney XD HD
+rtp://233.21.50.52:1234
+#EXTINF:-1 audio-track="eng" ,Disney Cinema HD
+rtp://233.21.50.70:1234
+#EXTREM movies
+#EXTINF:-1 ,Film4
+rtp://239.186.64.172:10000
+#EXTINF:-1 audio-track="eng" ,Fox
+rtp://239.186.64.213:10000
+#EXTINF:-1 audio-track="eng" ,Paramount channel HD
+udp://@239.101.10.243:1234
+#EXTINF:-1 audio-track="eng" ,TCM CINEMA HD
+udp://@239.101.10.9:1234
+#EXTINF:-1 audio-track="eng" ,13 street HD
+rtp://233.21.50.4:1234
+#EXTINF:-1 audio-track="eng" ,SyFy HD
+rtp://233.21.50.5:1234
+#EXTINF:-1 ,RETRO MOVIES
+rtp://239.186.74.65:10000
+#EXTINF:-1 audio-track="eng" ,Italia 1
+udp://@239.101.10.109:1234
+#EXTINF:-1 audio-track="eng" ,Iris 
+rtp://233.35.254.77:1234
+#EXTINF:-1 audio-track="eng" ,Top Crime
+rtp://233.35.254.82:1234
+#EXTINF:-1 audio-track="eng" ,Rai Movie
+rtp://233.35.254.94:1234
+#EXTINF:-1 audio-track="eng" ,Rai Premium
+rtp://233.35.254.95:1234
+#EXTINF:-1 audio-track="eng" ,Rai 4
+rtp://233.35.254.96:1234
+#EXTINF:-1 audio-track="eng" ,Mediaset LA 5
+rtp://233.35.254.175:1234
+#EXTINF:-1 audio-track="eng" ,OCS City HBO
+rtp://233.21.50.60:1234
+#EXTINF:-1 audio-track="eng" ,OCS Max
+rtp://233.21.50.59:1234
