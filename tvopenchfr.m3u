@@ -138,7 +138,7 @@ rtp://233.21.50.2:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy FR" tvg-logo="https://static.iptv-epg.com/fr/Syfy.fr.png" ,SyFy HD french
 rtp://233.21.50.5:1234
-#EXTINF:-1 tvg-id="NauticalChannel.uk" tvg-name="Nautical Channel UK" tvg-logo="https://static.iptv-epg.com/gb/NauticalChannel.uk.png" audio-track="fra" ,Nautical CHANNEL HD
+#EXTINF:-1 audio-track="fra" tvg-id="NauticalChannel.uk" tvg-name="Nautical Channel UK" tvg-logo="https://static.iptv-epg.com/gb/NauticalChannel.uk.png" ,Nautical CHANNEL HD
 rtp://233.21.50.17:1234
 #EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorovision TV DE" tvg-logo="https://static.iptv-epg.com/de/MotorVision.de.png" ,motorvision.tv HD french
 rtp://233.21.50.27:1234
