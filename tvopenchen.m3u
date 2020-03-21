@@ -137,7 +137,7 @@ rtp://239.186.64.213:10000
 udp://@239.101.10.243:1234
 #EXTINF:-1 audio-track="eng" ,TCM CINEMA HD
 udp://@239.101.10.9:1234
-#EXTINF:-1 audio-track="eng" ,13 street HD
+#EXTINF:-1 audio-track="eng" ,13th STREET HD
 rtp://233.21.50.4:1234
 #EXTINF:-1 audio-track="eng" ,SyFy HD
 rtp://233.21.50.5:1234
