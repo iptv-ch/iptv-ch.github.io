@@ -54,7 +54,7 @@ udp://@239.101.10.51:1234
 udp://@239.101.10.52:1234
 #EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC Découverte FR" tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" ,RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Chlrue 25 FR" tvg-logo="https://static.iptv-epg.com/fr/Cherie25.fr.png" ,Cherie 25 HD
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Chérie 25 FR" tvg-logo="https://static.iptv-epg.com/fr/Cherie25.fr.png" ,Cherie 25 HD
 udp://@239.101.10.55:1234
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://static.iptv-epg.com/fr/LCI.fr.png" ,LCI HD
 udp://@239.101.10.162:1234
