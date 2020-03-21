@@ -4,7 +4,7 @@
 udp://@239.101.10.46:1234
 #EXTINF:-1 tvg-id="" tvg-name="RTS 2 CH" tvg-logo="https://static.iptv-epg.com/ch/RTS2.ch.png" ,RTS2 HD
 udp://@239.101.10.47:1234
-#EXTINF:-1 tvg-id="" tvg-name="TF1 FR" tvg-logo="https://static.iptv-epg.com/fr/TF1.ch.png" ,TF1 HD Suisse
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="https://static.iptv-epg.com/fr/TF1.ch.png" ,TF1 HD Suisse
 udp://@239.101.10.63:1234
 #EXTINF:-1 tvg-id="" tvg-name="France 2 FR" tvg-logo="https://static.iptv-epg.com/fr/France2.fr.png" ,France 2 HD
 udp://@239.101.10.64:1234
@@ -88,7 +88,7 @@ udp://@239.101.10.251:1234
 udp://@239.101.10.29:1234
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" ,Canal J HD
 udp://@239.101.10.30:1234
-#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="nick Jr UK" tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" ,Nickelodeon Junior F HD
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="Nick Jr FR" tvg-logo="https://static.iptv-epg.com/fr/NickJr.fr.png" ,Nickelodeon Junior F HD
 udp://@239.101.11.53:1234
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1 FR" tvg-logo="https://static.iptv-epg.com/fr/AB1.fr.png" ,AB1 HD
 udp://@239.101.10.240:1234
@@ -96,7 +96,7 @@ udp://@239.101.10.240:1234
 udp://@239.101.10.241:1234
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="https://static.iptv-epg.com/fr/BFMBusiness.fr.png" ,BFM BUSINESS HD
 udp://@239.101.10.245:1234
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews FR" tvg-logo="https://static.iptv-epg.com/fr/BFMBusiness.fr.png" ,euronews. F HD
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews FR" tvg-logo="https://static.iptv-epg.com/fr/Euronews.fr.png" ,euronews. F HD
 udp://@239.101.10.15:1234
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="https://static.iptv-epg.com/fr/France24.fr.png" ,FRANCE 24
 udp://@239.101.10.16:1234
@@ -148,7 +148,7 @@ rtp://233.21.50.31:1234
 rtp://233.21.50.52:1234
 #EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel FR" tvg-logo="https://static.iptv-epg.com/fr/DisneyChannel.fr.png" ,Disney Channel HD french
 rtp://233.21.50.11:1234
-#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="" ,Disney Cinema HD French
+#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="https://static.iptv-epg.com/fr/DisneyCinema.fr.png" ,Disney Cinema HD French
 rtp://233.21.50.70:1234
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="Nat Geo FR" tvg-logo="https://static.iptv-epg.com/fr/NationalGeographic.fr.png" ,NATIONAL GEOGRAPHIC HD french
 rtp://233.21.50.54:1234
