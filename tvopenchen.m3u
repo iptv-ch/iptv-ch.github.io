@@ -90,7 +90,7 @@ rtp://239.186.74.25:10000
 rtp://239.186.84.31:10000
 #EXTINF:-1 ,Voice of America HD
 rtp://239.186.84.32:10000
-#EXTINF:-1 ,Animaux HD
+#EXTINF:-1 audio-track="eng" ,Animaux HD
 udp://@239.101.10.241:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
@@ -112,7 +112,7 @@ rtp://@239.101.11.71:10000
 #EXTREM childreen
 #EXTINF:-1 audio-track="eng" ,Nicktoons
 rtp://@239.186.74.68:10000
-#EXTINF:-1 audio-track="eng" ,Nick CH HD
+#EXTINF:-1 audio-track="eng" ,MTV CH Nick CH HD
 rtp://@239.186.68.175:10000
 #EXTINF:-1 audio-track="eng" ,Nickelodeon Junior HD
 rtp://233.21.50.63:1234
