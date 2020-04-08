@@ -15,7 +15,7 @@ rtp://239.186.70.26:10000
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" tvg-chno="7" channel-id="7",France5 HD
 rtp://239.186.70.27:10000
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://static.iptv-epg.com/fr/M6.fr.png" tvg-chno="8" channel-id="8",M6 CH HD
-udp://@239.101.10.66:1234
+rtp://233.35.254.130:1234
 #EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" tvg-chno="9" channel-id="9",arte F HD
 rtp://239.186.68.18:10000
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="http://static.iptv-epg.com/fr/C8.fr.png" tvg-chno="10" channel-id="10",C8 CH HD
