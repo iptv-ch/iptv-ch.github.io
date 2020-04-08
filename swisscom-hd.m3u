@@ -494,7 +494,7 @@ rtp://239.186.68.217:10000
 rtp://239.186.68.102:10000
 #EXTINF:-1 tvg-id="TeleTop.ch" tvg-name="Tele Top CH" tvg-logo="http://static.iptv-epg.com/ch/TeleTop.ch.png" tvg-chno="308" channel-id="308",Tele Top HD
 rtp://239.186.68.252:10000
-#EXTINF:-1 tvg-id="televista.ch" tvg-name="televista CH" tvg-logo="http://static.iptv-epg.com/ch/televista.ch.png" tvg-chno="" channel-id="",TELEVISTA HD
+#EXTINF:-1 tvg-id="televista.ch" tvg-name="televista CH" tvg-logo="http://static.iptv-epg.com/ch/televista.ch.png" tvg-chno="163" channel-id="163",TELEVISTA HD
 rtp://239.186.70.182:10000
 #EXTINF:-1 tvg-id="telez.ch" tvg-name="TELE Z CH" tvg-logo="http://static.iptv-epg.com/ch/telez.ch.png" tvg-chno="310" channel-id="310",TELEZ HD
 rtp://239.186.68.205:10000
