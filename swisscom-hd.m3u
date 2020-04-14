@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM:french
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS un CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
 rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS deux CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
 udp://@239.101.10.63:1234
@@ -104,10 +104,6 @@ rtp://233.21.50.5:1234
 rtp://233.21.50.11:1234
 #EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="Disney Junior FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyJunior.fr.png" tvg-chno="52" channel-id="52",Disney Junior HD french
 rtp://233.21.50.31:1234
-#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="Disney XD FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyXD.fr.png" tvg-chno="53" channel-id="53",Disney XD HD french
-rtp://233.21.50.52:1234
-#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="Disney Cinema FR" tvg-logo="http://static.iptv-epg.com/fr/DisneyCinema.fr.png" tvg-chno="54" channel-id="54",Disney Cinema HD french
-rtp://233.21.50.70:1234
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas FR" tvg-logo="http://static.iptv-epg.com/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://233.21.50.2:1234
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV FR" tvg-logo="http://static.iptv-epg.com/de/MotorVision.de.png" tvg-chno="56" channel-id="56",motorvision.tv HD
@@ -546,14 +542,10 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
-#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="nicktoons DE" tvg-logo="http://static.iptv-epg.com/de/nicktoons.de.png" tvg-chno="134" channel-id="134",niCKToons
-rtp://239.186.74.68:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.iptv-epg.com/de/voxup.de.png" tvg-chno="135" channel-id="135",VOXup
 rtp://239.186.74.70:10000
 #EXTINF:-1 tvg-id="Puls24.ch" tvg-name="Puls24 CH" tvg-logo="http://static.iptv-epg.com/ch/puls24.ch.png tvg-chno="136" channel-id="136",Puls24 HD
 rtp://239.186.70.251:10000
-#EXTINF:-1 tvg-id="BonGusto.ch" tvg-name="BonGusto DE" tvg-logo="http://static.iptv-epg.com/de/bongusto.de.png" tvg-chno="137" channel-id="137",BonGusto HD
-rtp://@239.186.84.5:10000
 #EXTINF:-1 tvg-id="Blicktv.ch" tvg-name="BlickTV CH" tvg-logo="http://static.iptv-epg.com/ch/blicktv.ch.png" tvg-chno="138" channel-id="138",Blick TV HD
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.iptv-epg.com/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
