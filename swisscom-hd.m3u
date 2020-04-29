@@ -194,6 +194,8 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.iptv-epg.com/ch/TeleclubZoom.ch.png" tvg-chno="89" channel-id="89",TELECLUB zoom F HD
 rtp://239.186.68.244:10000
+#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb" tvg-logo="http://static.iptv-epg.com/bj/ortb.bj.png" tvg-chno="" channel-id="",ortb
+rtp://239.186.74.97:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -295,6 +297,38 @@ rtp://@239.186.84.9:10000
 rtp://239.186.84.31:10000
 #EXTINF:-1 tvg-id="voiceofamerica.uk" tvg-name="Voice of America UK" tvg-logo="http://static.iptv-epg.com/uk/voiceofamerica.uk.png" tvg-chno="125" channel-id="125",Voice of America HD
 rtp://239.186.84.32:10000
+#EXTINF:-1 ,5STAR
+rtp://239.186.74.72:10000
+#EXTINF:-1 ,CITV U.K. > No signal
+#rtp://239.186.74.73:10000
+#EXTINF:-1 ,DMAX UK
+rtp://239.186.74.74:10000
+#EXTINF:-1 ,Vox africa
+rtp://239.186.74.76:10000
+#EXTINF:-1 ,itv granada
+rtp://239.186.74.80:10000
+#EXTINF:-1 ,travel channel
+rtp://239.186.74.81:10000
+#EXTINF:-1 ,Paramount network UK
+rtp://239.186.74.84:10000
+#EXTINF:-1 ,TRACE LATINA UK
+rtp://239.186.74.86:10000
+#EXTINF:-1 ,Yesterday
+rtp://239.186.74.87:10000
+#EXTINF:-1 ,5SELECT
+rtp://239.186.74.88:10000
+#EXTINF:-1 ,4Seven
+rtp://239.186.74.93:10000
+#EXTINF:-1 ,Pick
+rtp://239.186.74.94:10000
+#EXTINF:-1 ,Challenge
+rtp://239.186.74.95:10000
+#EXTINF:-1 ,MotorVision HD
+rtp://239.186.70.223:10000
+#EXTINF:-1 ,Russia Today HD
+rtp://239.186.84.21:10000
+#EXTINF:-1 ,CBNN HD
+rtp://239.186.84.22:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.iptv-epg.com/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -428,7 +462,7 @@ rtp://239.186.64.19:10000
 udp://@239.101.10.222:1234
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="http://static.iptv-epg.com/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
 rtp://239.186.68.191:10000
-#EXTINF:-1 tvg-id="QS24.ch" tvg-name="QS24 CH" tvg-logo="http://static.iptv-epg.com/ch/QS24.ch.png" tvg-chno="131" channel-id="131",QS24
+#EXTINF:-1 tvg-id="QS24.ch" tvg-name="QS24 CH" tvg-logo="http://static.iptv-epg.com/ch/QS24.ch.png" tvg-chno="131" channel-id="131",QS24 HD
 rtp://233.35.254.211:1234
 #EXTINF:-1 tvg-id="r-9.at" tvg-name="R-9 AT" tvg-logo="http://static.iptv-epg.com/at/r-9.at.png" tvg-chno="255" channel-id="255",R9 Oesterreich HD
 rtp://239.186.68.248:10000
@@ -550,6 +584,10 @@ rtp://239.186.70.251:10000
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.iptv-epg.com/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
+#EXTINF:-1 ,MotorVision
+rtp://239.186.74.101:10000
+#EXTINF:-1 ,Eurochannel D HD
+rtp://239.186.84.30:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.iptv-epg.com/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -679,6 +717,20 @@ rtp://239.186.66.240:10000
 udp://@239.101.10.181:1234
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.iptv-epg.com/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
+#EXTINF:-1 ,Espansione TV
+rtp://239.186.74.22:10000
+#EXTINF:-1 ,Italian Fishing TV
+rtp://239.186.74.69:10000
+#EXTINF:-1 ,Discovery-Italia HGTV
+rtp://239.186.74.71:10000
+#EXTINF:-1 ,MEDIASET Cine34
+rtp://239.186.74.78:10000
+#EXTINF:-1 ,TOP CALCIO 24
+rtp://239.186.74.79:10000
+#EXTINF:-1 ,senato italiano tv
+rtp://239.186.74.85:10000
+#EXTINF:-1 ,Deejay TV HD
+rtp://239.186.70.152:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.iptv-epg.com/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
@@ -686,6 +738,8 @@ rtp://239.186.70.149:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.iptv-epg.com/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
+#EXTINF:-1 ,tpa internacional Angola (por)
+rtp://239.186.74.99:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="Aragonint.es" tvg-name="Aragon int ES" tvg-logo="http://static.iptv-epg.com/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int HD
 rtp://239.186.70.247:10000
@@ -697,12 +751,14 @@ rtp://239.186.68.45:10000
 rtp://239.186.64.222:10000
 #EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-logo="http://static.iptv-epg.com/es/CanalAndalucia.es.png" tvg-chno="467" channel-id="467",Andalucia TV
 rtp://239.186.64.197:10000
-#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="http://static.iptv-epg.com/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",TV Galicia
-rtp://239.186.64.187:10000
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="http://static.iptv-epg.com/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",TV Galicia HD
+rtp://239.186.84.33:10000
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="http://static.iptv-epg.com/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve international HD
 rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="latinos1.ch" tvg-name="LATINOS1 CH" tvg-logo="http://static.iptv-epg.com/ch/latinos1.ch.png" tvg-chno="145" channel-id="145",LATINOS1 CH HD
 rtp://239.186.70.150:10000
+#EXTINF:-1 ,teleSUR HD (spa)
+rtp://239.186.84.19:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="http://static.iptv-epg.com/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
 rtp://239.186.64.199:10000
@@ -734,6 +790,8 @@ rtp://@239.186.84.14:10000
 rtp://239.186.70.187:10000
 #EXTINF:-1 tvg-id="TRTmusik.tr" tvg-name="TRT musik TR" tvg-logo="http://static.iptv-epg.com/tr/TRTMUSIK.tr.png" tvg-chno="149" channel-id="149",TRT musik HD
 rtp://239.186.70.198:10000
+#EXTINF:-1 ,CNN Turk
+rtp://239.186.74.75:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="alalmaghribia.ma" tvg-name="Al Almaghribia MA" tvg-logo="http://static.iptv-epg.com/ma/almaghribia.ma.png" tvg-chno="150" channel-id="150",Al Maghribia HD
 udp://@239.101.10.176:1234
@@ -815,3 +873,25 @@ rtp://239.186.70.191:10000
 rtp://239.186.70.195:10000
 #EXTINF:-1 tvg-id="hayatmusic.ba" tvg-name="Hayat Music BA" tvg-logo="http://static.iptv-epg.com/ba/hayatmusic.ba.png" tvg-chno="162" channel-id="162",Hayat Music
 rtp://239.186.66.246:10000
+#EXTINF:-1 ,Digi 24 (rum)
+rtp://239.186.74.64:10000
+#EXTINF:-1 ,TV Duga+ (bos)
+rtp://239.186.74.77:10000
+#EXTINF:-1 ,PTPC plus (bos)
+rtp://239.186.74.92:10000
+#EXTINF:-1 ,HRT int. (hrv)
+rtp://239.186.74.83:10000
+#EXTINF:-1 ,Tunisie Nationale (ara)
+rtp://239.186.74.89:10000
+#EXTINF:-1 ,Karusel Int. (rus)
+rtp://239.186.74.91:10000
+#EXTINF:-1 ,Zico TV (alb)
+rtp://239.186.74.98:10000
+#EXTINF:-1 ,first CHANNEL (alb)
+rtp://239.186.74.100:10000
+#EXTINF:-1 ,Dubai Sports HD (ara)
+rtp://239.186.70.254:10000
+#EXTINF:-1 ,Kuwait TV HD (ara)
+rtp://239.186.84.20:10000
+#EXTINF:-1 ,bn music HD (bos)
+rtp://239.186.84.34:10000
