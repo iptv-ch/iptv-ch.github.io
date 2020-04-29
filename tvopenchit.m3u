@@ -3,7 +3,6 @@
 #EXTINF:-1 ,RSI LA1 HD
 rtp://239.186.68.5:10000
 #EXTINF:-1 ,RSI LA2 HD
-rtp://239.186.68.6:10000
 #EXTINF:-1 ,teleticino HD
 rtp://239.186.68.201:10000
 #EXTINF:-1 ,7G Telecity
@@ -34,6 +33,8 @@ rtp://239.186.64.158:10000
 rtp://239.186.66.43:10000
 #EXTINF:-1 ,Discovery-italia food network I
 rtp://239.186.66.122:10000
+#EXTINF:-1 ,Discovery-italia HGTV
+rtp://239.186.74.71:10000
 #EXTINF:-1 ,euronews. I
 rtp://239.186.64.153:10000
 #EXTINF:-1 ,Italia Channel
@@ -70,6 +71,8 @@ rtp://239.186.64.74:10000
 rtp://239.186.66.176:10000
 #EXTINF:-1 ,MEDIASET TGCom24
 rtp://239.186.64.214:10000
+#EXTINF:-1 ,MEDIASET Cine34
+rtp://239.186.74.78:10000
 #EXTINF:-1 ,Paramount Network I
 rtp://239.186.64.122:10000
 #EXTINF:-1 ,Rai1 HD
@@ -126,3 +129,13 @@ rtp://239.186.66.184:10000
 rtp://239.186.66.240:10000
 #EXTINF:-1 ,TV2000
 rtp://239.186.66.108:10000
+#EXTINF:-1 ,Espansione TV
+rtp://239.186.74.22:10000
+#EXTINF:-1 ,Italian Fishing TV
+rtp://239.186.74.69:10000
+#EXTINF:-1 ,TOP CALCIO 24
+rtp://239.186.74.79:10000
+#EXTINF:-1 ,senato italiano tv
+rtp://239.186.74.85:10000
+#EXTINF:-1 ,Deejay TV HD
+rtp://239.186.70.152:10000
