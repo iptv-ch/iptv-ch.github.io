@@ -258,5 +258,6 @@ rtp://239.186.68.97:10000
 rtp://239.186.64.123:10000
 #EXTINF:-1 ,Eurochannel D HD
 rtp://239.186.84.30:10000
-#EXTINF:-1 ,MotorVision
-rtp://239.186.74.101:10000
+#EXTINF:-1 ,MotorVision D HD
+rtp://239.186.70.223:10000
+
