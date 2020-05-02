@@ -299,8 +299,10 @@ rtp://239.186.84.31:10000
 rtp://239.186.84.32:10000
 #EXTINF:-1 ,5STAR
 rtp://239.186.74.72:10000
-#EXTINF:-1 ,CITV U.K. > No signal
-#rtp://239.186.74.73:10000
+#EXTINF:-1 ,5SELECT
+rtp://239.186.74.88:10000
+#EXTINF:-1 ,Citv itv Childrens
+rtp://239.186.74.73:10000
 #EXTINF:-1 ,DMAX UK
 rtp://239.186.74.74:10000
 #EXTINF:-1 ,Vox africa
@@ -315,16 +317,12 @@ rtp://239.186.74.84:10000
 rtp://239.186.74.86:10000
 #EXTINF:-1 ,Yesterday
 rtp://239.186.74.87:10000
-#EXTINF:-1 ,5SELECT
-rtp://239.186.74.88:10000
-#EXTINF:-1 ,4Seven
+#EXTINF:-1 ,channel four seven Channel4 7
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
 #EXTINF:-1 ,Challenge
 rtp://239.186.74.95:10000
-#EXTINF:-1 ,MotorVision HD
-rtp://239.186.70.223:10000
 #EXTINF:-1 ,Russia Today HD
 rtp://239.186.84.21:10000
 #EXTINF:-1 ,CBNN HD
@@ -584,8 +582,10 @@ rtp://239.186.70.251:10000
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.iptv-epg.com/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
-#EXTINF:-1 ,MotorVision
+#EXTINF:-1 ,MotorVision D
 rtp://239.186.74.101:10000
+#EXTINF:-1 ,MotorVision D HD
+rtp://239.186.70.223:10000
 #EXTINF:-1 ,Eurochannel D HD
 rtp://239.186.84.30:10000
 #EXTREM:italian
