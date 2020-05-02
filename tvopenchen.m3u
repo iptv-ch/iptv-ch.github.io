@@ -163,8 +163,8 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.59:1234
 #EXTINF:-1 ,5STAR
 rtp://239.186.74.72:10000
-#EXTINF:-1 ,CITV U.K. (eng) > No signal
-#rtp://239.186.74.73:10000
+#EXTINF:-1 ,Citv itv Childrens
+rtp://239.186.74.73:10000
 #EXTINF:-1 ,DMAX UK
 rtp://239.186.74.74:10000
 #EXTINF:-1 ,Vox africa
@@ -181,7 +181,7 @@ rtp://239.186.74.86:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 ,5SELECT
 rtp://239.186.74.88:10000
-#EXTINF:-1 ,4Seven
+#EXTINF:-1 ,Channel four seven Channel4 7
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
