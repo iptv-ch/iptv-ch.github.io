@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.com/147c9-ojdrsp.xml.gz"
+#EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM netplus + sunrise + swisscom iptv network open french language in Switzerland
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1 CH" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" ,RTS1 HD
 udp://@239.101.10.46:1234
