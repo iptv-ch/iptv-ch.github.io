@@ -4,23 +4,23 @@ This repository contains M3U playlist files for Swiss IPTV Providers. Here are t
 
 IPTV open channels from Netplus + Sunrise + Swisscom as language french only, english only, german only, italian only.
 
-**URL: https://iptv-ch.github.io/tvopenchfr.m3u**
+**https://iptv-ch.github.io/tvopenchfr.m3u**
 
-**URL: https://iptv-ch.github.io/tvopenchen.m3u**
+**https://iptv-ch.github.io/tvopenchen.m3u**
 
-**URL: https://iptv-ch.github.io/tvopenchde.m3u**
+**https://iptv-ch.github.io/tvopenchde.m3u**
 
-**URL: https://iptv-ch.github.io/tvopenchit.m3u**
+**https://iptv-ch.github.io/tvopenchit.m3u**
 
 ## CityCable TV Lausanne ftth
 
-**URL: https://iptv-ch.github.io/citycable.m3u**
+**https://iptv-ch.github.io/citycable.m3u**
 
 special thanks to bendreth for their update for community and customers of CityCable TV Lausanne over ftth date 2019-12-18
 
 ## Netplus TV HD + SD
 
-**URL: https://iptv-ch.github.io/netplus.m3u**
+**https://iptv-ch.github.io/netplus.m3u**
 
 Many of the channels available on [Netplus TV partners](https://citycable.ch/tv/chaines-tv/tv-numerique/).<br>
 This will only work on your home network if netplus partners like Citycable (old BoisyTV) is your broadband provider.<br>
@@ -31,7 +31,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 
 ## Swisscom TV SD only
 
-**URL: https://iptv-ch.github.io/swisscom-sd.m3u**
+**https://iptv-ch.github.io/swisscom-sd.m3u**
 
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
@@ -42,7 +42,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 
 ## Swisscom TV HD + SD
 
-**URL: https://iptv-ch.github.io/swisscom-hd.m3u**
+**https://iptv-ch.github.io/swisscom-hd.m3u**
 
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
@@ -52,7 +52,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 
 ## Swisscom TV UHD only
 
-**URL: https://iptv-ch.github.io/swisscom-uhd.m3u**
+**https://iptv-ch.github.io/swisscom-uhd.m3u**
 
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
@@ -63,7 +63,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 
 ## Sunrise TV SD/HD
 
-**URL: https://iptv-ch.github.io/sunrise-tv.m3u**
+**https://iptv-ch.github.io/sunrise-tv.m3u**
 
 Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
 This will only work on your home network if Sunrise/netstream is your broadband provider.<br>
@@ -73,7 +73,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 
 ## Sunrise Radio
 
-**URL: https://iptv-ch.github.io/sunrise-radio.m3u**
+**https://iptv-ch.github.io/sunrise-radio.m3u**
 
 Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
 This will only work on your home network if Sunrise/netstream/Swisscom is your broadband provider<br>
