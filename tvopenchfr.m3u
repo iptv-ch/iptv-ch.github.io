@@ -164,8 +164,6 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.61:1234
 #EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS Géants FR" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" ,OCS Geants HD
 rtp://233.21.50.62:1234
-#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="My Cuisine FR" tvg-logo="https://static.epg.best/fr/MyCuisine.fr.png" ,my CUISINE HD
-rtp://233.21.50.127:1234
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia FR" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" ,EQUIDIA HD
 rtp://233.32.39.142:1234
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://static.epg.best/fr/ChassePeche.fr.png" ,Chasse&Pêche HD
