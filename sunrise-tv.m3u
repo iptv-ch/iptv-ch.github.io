@@ -50,8 +50,6 @@ rtp://233.21.50.17:1234
 rtp://233.21.50.27:1234
 #EXTINF:-1 ,Disney Junior HD french
 rtp://233.21.50.31:1234
-#EXTINF:-1 ,Disney XD HD french
-rtp://233.21.50.52:1234
 #EXTINF:-1 ,National Geographic HD french
 rtp://233.21.50.54:1234
 #EXTINF:-1 ,Nat Geo Wild HD french
@@ -72,12 +70,8 @@ rtp://233.21.50.61:1234
 rtp://233.21.50.62:1234
 #EXTINF:-1 ,Nickelodeon Junior HD French
 rtp://233.21.50.63:1234
-#EXTINF:-1 ,Disney Cinema HD French
-rtp://233.21.50.70:1234
 #EXTINF:-1 ,Paramount Channel HD
 rtp://233.21.50.126:1234
-#EXTINF:-1 ,My Cuisine HD
-rtp://233.21.50.127:1234
 #EXTINF:-1 ,Equidia HD
 rtp://233.32.39.142:1234
 #EXTINF:-1 ,Chasse et Peche HD
