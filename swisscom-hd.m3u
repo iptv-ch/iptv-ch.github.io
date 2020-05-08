@@ -122,8 +122,6 @@ rtp://233.21.50.58:1234
 udp://@239.101.10.243:1234
 #EXTINF:-1 tvg-id="TCMCinema.fr" tvg-name="TCM Cinema FR" tvg-logo="http://static.epg.best/fr/tcmcinema.fr.png" tvg-chno="63" channel-id="63",TCM cinema HD
 udp://@239.101.10.9:1234
-#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="My Cuisine FR" tvg-logo="http://static.epg.best/fr/MyCuisine.fr.png" tvg-chno="64" channel-id="64",myCUISINE HD
-rtp://233.21.50.127:1234
 #EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="Equidia FR" tvg-logo="http://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
 rtp://233.32.39.142:1234
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse Peche FR" tvg-logo="http://static.epg.best/fr/ChassePeche.fr.png" tvg-chno="66" channel-id="66",Chasse & Peche HD
@@ -317,7 +315,7 @@ rtp://239.186.74.84:10000
 rtp://239.186.74.86:10000
 #EXTINF:-1 ,Yesterday
 rtp://239.186.74.87:10000
-#EXTINF:-1 ,channel four seven Channel4 7
+#EXTINF:-1 ,Channel4 7 
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
