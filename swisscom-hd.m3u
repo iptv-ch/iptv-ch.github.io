@@ -192,7 +192,7 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="89" channel-id="89",TELECLUB zoom F HD
 rtp://239.186.68.244:10000
-#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb" tvg-logo="http://static.epg.best/bj/ortb.bj.png" tvg-chno="" channel-id="",ortb
+#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="" channel-id="",ortb
 rtp://239.186.74.97:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
@@ -305,8 +305,6 @@ rtp://239.186.74.73:10000
 rtp://239.186.74.74:10000
 #EXTINF:-1 tvg-id="voxafrica.uk" tvg-name="vox africa UK" tvg-logo="http://static.epg.best/uk/voxafrica.uk.png" tvg-chno="" channel-id="",vox africa
 rtp://239.186.74.76:10000
-#EXTINF:-1 ,itv1
-rtp://239.186.74.80:10000
 #EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel UK" tvg-logo="http://static.epg.best/uk/TravelChannel.uk.png" tvg-chno="" channel-id="",travel channel
 rtp://239.186.74.81:10000
 #EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
@@ -717,15 +715,15 @@ rtp://239.186.66.108:10000
 rtp://239.186.74.22:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
-#EXTINF:-1 ,Discovery-Italia HGTV
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-italia HGTV
 rtp://239.186.74.71:10000
-#EXTINF:-1 ,MEDIASET Cine34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="http://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
 rtp://239.186.74.78:10000
 #EXTINF:-1 ,TOP CALCIO 24
 rtp://239.186.74.79:10000
 #EXTINF:-1 ,senato italiano tv
 rtp://239.186.74.85:10000
-#EXTINF:-1 ,Deejay TV HD
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
