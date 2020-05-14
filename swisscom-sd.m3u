@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz"
 #EXTREM:french
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="0" channel-id="0",TELECLUB zoom F
+#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="0",TELECLUB zoom F
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS1
 rtp://239.186.64.5:10000
@@ -62,13 +62,13 @@ rtp://239.186.66.225:10000
 rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="64" channel-id="64",gulli
 rtp://239.186.66.23:10000
-#EXTINF:-1 tvg-id="i24News" tvg-name="" tvg-logo="" tvg-chno="66" channel-id="66",i24 NEWS F
+#EXTINF:-1 tvg-id="i24News.fr" tvg-name="I24News FR" tvg-logo="https://rcp.scsstatic.ch/etc/swisscom/servlets/public/channellist.M9_2rS.png/logos/i24_news_francais_116x62_msblack_png.png" tvg-chno="66" channel-id="66",i24 NEWS F
 rtp://239.186.66.174:10000
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="68" channel-id="68",CNEWS
 rtp://239.186.66.25:10000
 #EXTINF:-1 tvg-id="KTO" tvg-name="KTO FR" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="72" channel-id="72",LA TELE
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-name="LA TELE CH" tvg-logo="" tvg-chno="72" channel-id="72",LA TELE
 rtp://239.186.64.104:10000
 #EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000
@@ -90,11 +90,11 @@ rtp://239.186.64.69:10000
 rtp://239.186.64.71:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5MONDE FRANCE BELGIQUE SUISSE
 rtp://239.186.64.150:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="110" channel-id="110",tvm3
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="https://static.epg.best/ch/TVM3.ch.png" tvg-chno="110" channel-id="110",tvm3
 rtp://239.186.64.98:10000
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://static.epg.best/fr/6ter.fr.png" tvg-chno="111" channel-id="111",6ter
 rtp://239.186.66.130:10000
-#EXTINF:-1 ,ortb (fra)
+#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
