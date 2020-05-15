@@ -319,8 +319,6 @@ rtp://239.186.74.94:10000
 rtp://239.186.74.95:10000
 #EXTINF:-1 ,Russia Today HD
 rtp://239.186.84.21:10000
-#EXTINF:-1 ,CBNN HD
-rtp://239.186.84.22:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
