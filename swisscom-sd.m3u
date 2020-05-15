@@ -248,8 +248,6 @@ rtp://239.186.64.129:10000
 rtp://239.186.64.137:10000
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.epg.best/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
 rtp://239.186.64.33:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212",Folx
-rtp://239.186.66.197:10000
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="https://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX D
 rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24 QuantiSana
@@ -429,8 +427,6 @@ rtp://239.186.74.19:10000
 rtp://239.186.64.49:10000
 #EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D IT" tvg-logo="http://static.epg.best/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d
 rtp://239.186.64.164:10000
-#EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="Marco Polo TV DE" tvg-logo="http://static.epg.best/de/MarcoPoloTV.de.png" tvg-chno="369" channel-id="369",MARCOPOLO
-rtp://239.186.74.20:10000
 #EXTINF:-1 tvg-id="20mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET
 rtp://239.186.74.67:10000
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="http://static.epg.best/it/Canale5.it.png" tvg-chno="371" channel-id="371",MEDIASET Canale5
