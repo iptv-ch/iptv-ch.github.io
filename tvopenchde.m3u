@@ -1,30 +1,33 @@
 #EXTM3U
 #EXTREM:german
-#EXTINF:-1 ,SRF1 HD
+#EXTREM: #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="" group-title="(No group)",
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282"
 rtp://239.186.68.1:10000
-#EXTINF:-1 ,SRF2 HD SRF zwei HD
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284"
 rtp://239.186.68.2:10000
-#EXTINF:-1 ,SRF info HD
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286"
 rtp://239.186.68.202:10000
-#EXTINF:-1 ,3sat HD
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="http://static.epg.best/de/3sat.de.png" tvg-chno="175" channel-id="175"
 rtp://233.35.254.209:1234
-#EXTINF:-1 ,3+ HD
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173"
 rtp://239.186.68.14:10000
-#EXTINF:-1 ,4+ HD
+#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="http://static.epg.best/ch/4Plus.ch.png" tvg-chno="177" channel-id="177"
 rtp://239.186.68.142:10000
-#EXTINF:-1 ,5+ HD
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ CH" tvg-logo="http://static.epg.best/ch/5Plus.ch.png" tvg-chno="178" channel-id="178"
 rtp://239.186.68.195:10000
-#EXTINF:-1 ,6+ HD
+#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="http://static.epg.best/ch/6Plus.ch.png" tvg-chno="179" channel-id="179"
 rtp://239.186.70.116:10000
-#EXTINF:-1 ,ALF-TV HD
+#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV AT" tvg-logo="http://static.epg.best/ch/atv.at.png" tvg-chno="126" channel-id="126"
+udp://@239.101.10.221:1234
+#EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="http://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127"
 rtp://239.186.70.179:10000
-#EXTINF:-1 ,ANIXE SERIE HD
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.epg.best/de/Anixe.de.png" tvg-chno="181" channel-id="181"
 rtp://239.186.68.7:10000
-#EXTINF:-1 ,ARD Das Erste HD
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="http://static.epg.best/de/ARD.de.png" tvg-chno="183" channel-id="183"
 rtp://239.186.68.9:10000
-#EXTINF:-1 ,ARD alpha HD
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.epg.best/de/ARDalpha.de.png" tvg-chno="184" channel-id="184"
 rtp://239.186.70.194:10000
-#EXTINF:-1 ,ARD one HD
+#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.epg.best/de/ARDOne.de.png" tvg-chno="186" channel-id="186"
 rtp://239.186.68.154:10000
 #EXTINF:-1 ,ARD SR fernsehen HD
 rtp://239.186.70.190:10000
