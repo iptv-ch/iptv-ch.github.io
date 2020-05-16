@@ -1,258 +1,258 @@
 #EXTM3U
 #EXTREM:german
 #EXTREM: #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="" group-title="(No group)",channel name
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282", SRF1 HD
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284", SRF ZWEI HD
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="http://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286"SRF Info HD
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="http://static.epg.best/de/3sat.de.png" tvg-chno="175" channel-id="175", 3Sat HD
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="http://static.epg.best/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://233.35.254.209:1234
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173", 3+ HD
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
 rtp://239.186.68.14:10000
-#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="http://static.epg.best/ch/4Plus.ch.png" tvg-chno="177" channel-id="177", 4+ HD
+#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="http://static.epg.best/ch/4Plus.ch.png" tvg-chno="177" channel-id="177",4+ HD
 rtp://239.186.68.142:10000
-#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ CH" tvg-logo="http://static.epg.best/ch/5Plus.ch.png" tvg-chno="178" channel-id="178", 5+ HD
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ CH" tvg-logo="http://static.epg.best/ch/5Plus.ch.png" tvg-chno="178" channel-id="178",5+ HD
 rtp://239.186.68.195:10000
-#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="http://static.epg.best/ch/6Plus.ch.png" tvg-chno="179" channel-id="179", 6+ HD
+#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="http://static.epg.best/ch/6Plus.ch.png" tvg-chno="179" channel-id="179",6+ HD
 rtp://239.186.70.116:10000
-#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV AT" tvg-logo="http://static.epg.best/ch/atv.at.png" tvg-chno="126" channel-id="126", Austria TV
+#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV AT" tvg-logo="http://static.epg.best/ch/atv.at.png" tvg-chno="126" channel-id="126",ATV
 udp://@239.101.10.221:1234
-#EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="http://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127", Alf-TV HD
+#EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="http://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.epg.best/de/Anixe.de.png" tvg-chno="181" channel-id="181", Anixe Serie HD
+#EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="http://static.epg.best/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
+rtp://239.186.70.9:10000
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.epg.best/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE SERIE HD
 rtp://239.186.68.7:10000
-#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="http://static.epg.best/de/ARD.de.png" tvg-chno="183" channel-id="183", ARD Das Erste HD
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="http://static.epg.best/de/ARD.de.png" tvg-chno="183" channel-id="183",ARD Das Erste HD
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.epg.best/de/ARDalpha.de.png" tvg-chno="184" channel-id="184", ARD alpha HD
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.epg.best/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD alpha HD
 rtp://239.186.70.194:10000
-#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.epg.best/de/ARDOne.de.png" tvg-chno="186" channel-id="186", ARD one HD
+#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.epg.best/de/ARDOne.de.png" tvg-chno="186" channel-id="186",ARD ONE HD
 rtp://239.186.68.154:10000
-#EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.epg.best/de/SRfernsehen.de.png" tvg-chno="128" channel-id="128", SR fernsehen HD
+#EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.epg.best/de/SRfernsehen.de.png" tvg-chno="128" channel-id="128",SR fernsehen HD
 rtp://239.186.70.190:10000
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="http://static.epg.best/de/ARTE.de.png" tvg-chno="188" channel-id="188", arte D HD
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="http://static.epg.best/de/ARTE.de.png" tvg-chno="188" channel-id="188",arte D HD
 rtp://239.186.68.11:10000
-#EXTINF:-1 tvg-id="auftankentv.ch" tvg-name="auftankentv CH" tvg-logo="" tvg-chno="189" channel-id="189", auftanken.TV CH HD
+#EXTINF:-1 tvg-id="auftankentv.ch" tvg-name="auftankentv CH" tvg-logo="" tvg-chno="189" channel-id="189",auftanken.TV CH HD
 rtp://239.186.70.117:10000
-#EXTINF:-1 tvg-id="beatz.ch" tvg-name="BEATZ CH" tvg-logo="http://static.epg.best/ch/beatz.ch.png" tvg-chno="190" channel-id="190", BEATZ HD
+#EXTINF:-1 tvg-id="beatz.ch" tvg-name="BEATZ CH" tvg-logo="http://static.epg.best/ch/beatz.ch.png" tvg-chno="190" channel-id="190",BEATZ HD / radio Pilatus HD
 rtp://239.186.68.104:10000
-#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV DE" tvg-logo="http://static.epg.best/de/BibelTV.de.png" tvg-chno="192" channel-id="192", bibel.TV HD
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV DE" tvg-logo="http://static.epg.best/de/BibelTV.de.png" tvg-chno="192" channel-id="192",bibel.TV HD
 rtp://239.186.68.148:10000
 #EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-name="Regio TV Bodensee DE" tvg-logo="http://static.epg.best/de/RegioTVBodensee.de.png" tvg-chno="193" channel-id="193",BTV Bodensee TV HD
 rtp://239.186.68.143:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="http://static.epg.best/de/BR.de.png" tvg-chno="195" channel-id="195",BR HD
 rtp://239.186.68.26:10000
-#EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="http://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200", Davos Klosters HD
+#EXTINF:-1 tvg-id="CCone.ch" tvg-name="CCone CH" tvg-logo="http://static.epg.best/ch/CCone.ch.png" tvg-chno="197" channel-id="197",CCone CH HD
+rtp://239.186.70.8:10000
+#EXTINF:-1 tvg-id="Channel55.de" tvg-name="Channel55 DE" tvg-logo="http://static.epg.best/de/channel55.de.png" tvg-chno="199" channel-id="199",Channel55 D HD
+rtp://239.186.70.103:10000
+#EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="http://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
 rtp://239.186.68.216:10000
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="http://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201", DELUXE MUSIC
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="http://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201",DELUXE MUSIC
 rtp://239.186.64.132:10000
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207", Deutsche Welle
-rtp://239.186.74.26:10000
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203", Disney Channel
-rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.epg.best/de/DMax.de.png" tvg-chno="204" channel-id="204", DMAX Schweiz
-rtp://239.186.64.34:10000
-#EXTINF:-1 tvg-id="ENJY.TV.ch" tvg-name="ENJY.TV CH" tvg-logo="http://static.epg.best/de/ENJY.TV.ch.png" tvg-chno="206" channel-id="206", ENJY.TV HD
-rtp://239.186.68.22:10000
-#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209", Euronews. D HD
-rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.epg.best/de/Eurosport1.de.png" tvg-chno="210" channel-id="210", EUROSPORT1 D
-rtp://239.186.64.33:10000
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra DE" tvg-logo="http://static.epg.best/de/Eurosport2Xtra.de.png" tvg-chno="229" channel-id="229", EUROSPORT2 XTRA D HD
-rtp://233.21.50.45:1234
-#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="http://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209", FOX DE
-rtp://239.186.64.213:10000
-#EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213", gotv
-rtp://239.186.64.141:10000
-#EXTINF:-1 ,#EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.epg.best/de/HopeChannel.de.png" tvg-chno="215" channel-id="215", HopeTV HD
-rtp://239.186.68.251:10000
-#EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="http://static.epg.best/de/HR.de.png" tvg-chno="217" channel-id="217", hr HD
-rtp://239.186.68.156:10000
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="129" channel-id="129", HGTV D
-rtp://239.186.74.40:10000
-#EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight UK" tvg-logo="http://static.epg.best/uk/Insight.uk.png" tvg-chno="219" channel-id="219", Insight.tv HD
-rtp://239.186.70.75:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="http://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220", kabel eins
-rtp://239.186.64.20:10000
-#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="http://static.epg.best/ch/Kanal9.ch.png" tvg-chno="224" channel-id="224", Kanal9 HD
-rtp://239.186.68.145:10000
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.epg.best/de/Kika.de.png" tvg-chno="226" channel-id="226", KiKA HD
-rtp://239.186.68.28:10000
-##EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.epg.best/de/KTV.de.png" tvg-chno="227" channel-id="227", k-tv
-rtp://239.186.64.133:10000
-#EXTINF:-1 tvg-id="Loly.ch" tvg-name="Loly CH" tvg-logo="http://static.epg.best/ch/Loly.ch.png" tvg-chno="228" channel-id="228", LOLY CH HD
-rtp://239.186.66.231:10000
-#EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="http://static.epg.best/de/MDR.de.png" tvg-chno="230" channel-id="230", mdr HD
-rtp://239.186.68.162:10000
-#EXTINF:-1 tvg-id="MTVGermany.ch" tvg-name="MTV Germany DE" tvg-logo="http://static.epg.best/de/MTVGermany.ch.png" tvg-chno="233" channel-id="233", MTV CH HD
-rtp://239.186.68.174:10000
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="http://static.epg.best/de/N24Doku.de.png" tvg-chno="235" channel-id="235", N24 Doku
-rtp://239.186.66.232:10000
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="http://static.epg.best/de/ndr.de.png" tvg-chno="237" channel-id="237", NDR HD
-rtp://239.186.68.29:10000
-#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="http://static.epg.best/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239", nick schweiz HD
-rtp://239.186.68.175:10000
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.epg.best/de/RTLNitro.de.png" tvg-chno="240" channel-id="240", NITRO.
-rtp://239.186.64.140:10000
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.epg.best/de/ntv.de.png" tvg-chno="242" channel-id="242", ntv HD
-rtp://239.186.68.146:10000
-#EXTINF:-1 ,NRJTV CH HD
-rtp://239.186.68.35:10000
-#EXTINF:-1 ,ORF1 HD
-rtp://239.186.68.12:10000
-#EXTINF:-1 ,ORF2 HD
-rtp://239.186.68.13:10000
-#EXTINF:-1 ,ORF3
-rtp://239.186.64.86:10000
-#EXTINF:-1 ,phoenix HD
-rtp://239.186.68.30:10000
-#EXTINF:-1 ,Puls acht HD / Puls8 HD
-rtp://239.186.68.191:10000
-#EXTINF:-1 ,QS24
-rtp://233.35.254.211:1234
-#EXTINF:-1 ,R9 Oesterreich HD
-rtp://239.186.68.248:10000
-#EXTINF:-1 ,rbb HD
-rtp://239.186.68.157:10000
-#EXTINF:-1 ,regioTVplus HD
-rtp://239.186.70.40:10000
-#EXTINF:-1 ,Rheinwelten HD
-rtp://239.186.70.202:10000
-#EXTINF:-1 ,RTL CH HD
-rtp://233.35.254.237:1234
-#EXTINF:-1 ,RTL2
-rtp://239.186.64.16:10000
-#EXTINF:-1 ,RTLplus
-rtp://239.186.66.201:10000
-#EXTINF:-1 ,S1 HD
-rtp://239.186.68.147:10000
-#EXTINF:-1 ,SAT.1 CH
-rtp://239.186.64.18:10000
-#EXTINF:-1 ,ServusTV Deutschland HD
-rtp://233.35.254.129:1234
-#EXTINF:-1 ,SessionNationalrat HD
-rtp://239.186.70.127:10000
-#EXTINF:-1 ,SessionStaendenrat HD
-rtp://239.186.70.128:10000
-#EXTINF:-1 ,Pressekonferenz des Bundesrates HD
-rtp://239.186.79.27:10000
-#EXTINF:-1 ,SHf HD
-rtp://239.186.68.139:10000
-#EXTINF:-1 ,SIXX CH
-rtp://239.186.64.70:10000
-#EXTINF:-1 ,sky SPORTS NEWS DE HD
-rtp://239.186.70.79:10000
-#EXTINF:-1 ,Sport1 CH HD
-rtp://239.186.68.159:10000
-#EXTINF:-1 ,Star TV HD
-rtp://239.186.68.188:10000
-#EXTINF:-1 ,GAMETV HD
-rtp://239.186.70.10:10000
-#EXTINF:-1 ,SUPER RTL
-rtp://239.186.64.17:10000
-#EXTINF:-1 ,SWR >> HD
-rtp://239.186.68.25:10000
-#EXTINF:-1 ,Tagesschau24 HD
-rtp://239.186.68.161:10000
-#EXTINF:-1 ,Tele1 HD
-rtp://239.186.68.176:10000
-#EXTINF:-1 ,TELE5
-rtp://239.186.64.22:10000
-#EXTINF:-1 ,telebaern.tv HD
-rtp://239.186.68.38:10000
-#EXTINF:-1 ,TELE D HD
-rtp://239.186.68.217:10000
-#EXTINF:-1 ,Tele M1 HD
-rtp://239.186.68.102:10000
-#EXTINF:-1 ,Tele Top HD
-rtp://239.186.68.252:10000
-#EXTINF:-1 ,TELEVISTA HD
-rtp://239.186.70.182:10000
-#EXTINF:-1 ,TELEZ HD
-rtp://239.186.68.205:10000
-#EXTINF:-1 ,Tele Zentralschweiz HD
-rtp://239.186.68.166:10000
-#EXTINF:-1 ,TELE ZURI HD
-rtp://239.186.68.189:10000
-#EXTINF:-1 ,Telebasel HD
-rtp://239.186.68.206:10000
-#EXTINF:-1 ,Teleclub Zoom D HD
-rtp://239.186.68.155:10000
-#EXTINF:-1 ,TLC CH HD
-rtp://239.186.70.67:10000
-#EXTINF:-1 ,TOGGO plus
-rtp://239.186.66.202:10000
-#EXTINF:-1 ,TSO TeleSuedostschweiz HD
-rtp://239.186.68.218:10000
-#EXTINF:-1 ,TV4TNG HD
-rtp://239.186.70.126:10000
-#EXTINF:-1 ,TV Oberwallis HD
-rtp://239.186.70.5:10000
-#EXTINF:-1 ,TV24 HD
-rtp://239.186.68.190:10000
-#EXTINF:-1 ,TV25 HD
-rtp://239.186.70.20:10000
-#EXTINF:-1 ,TV Central HD
-rtp://239.186.70.201:10000
-#EXTINF:-1 ,tvo HD
-rtp://239.186.70.4:10000
-#EXTINF:-1 ,vision tv CH HD
-rtp://239.186.70.65:10000
-#EXTINF:-1 ,Comedy Central Schweiz HD
-rtp://239.186.68.105:10000
-#EXTINF:-1 ,VOX
-rtp://239.186.64.21:10000
-#EXTINF:-1 ,VOXup
-rtp://239.186.74.70:10000
-#EXTINF:-1 ,WDR HD
-rtp://239.186.68.24:10000
-#EXTINF:-1 ,WeLT
-rtp://239.186.64.30:10000
-#EXTINF:-1 ,wetter.tv HD
-rtp://239.186.70.119:10000
-#EXTINF:-1 ,ZDF CH HD
-rtp://239.186.68.10:10000
-#EXTINF:-1 ,zdf info HD
-rtp://239.186.68.32:10000
-#EXTINF:-1 ,zdf_neo HD
-rtp://239.186.68.31:10000
-#EXTINF:-1 ,ZEEONE HD
-rtp://239.186.70.70:10000
-#EXTINF:-1 ,ProSieben
-udp://@239.101.10.213:1234
-#EXTINF:-1 ,ProSieben MAXX
-udp://@239.101.10.222:1234
-#EXTINF:-1 ,Puls24 HD (deu)
-rtp://239.186.70.251:10000
-#EXTINF:-1 ,BlickTV HD
-rtp://@239.186.84.16:10000
-#EXTINF:-1 ,Swiss Sport TV HD
-rtp://@239.186.84.17:10000
-#EXTINF:-1 ,AlpenlandTV HD
-rtp://239.186.70.9:10000
-#EXTINF:-1 ,Welt der Wunder TV HD
-rtp://239.186.68.198:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen
 rtp://239.186.66.118:10000
-#EXTINF:-1 ,Melodie.tv
-rtp://239.186.74.15:10000
-#EXTINF:-1 ,musig24 HD
-rtp://239.186.68.207:10000
-#EXTINF:-1 ,eoTV HD
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
+rtp://239.186.74.26:10000
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
+rtp://239.186.64.116:10000
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.epg.best/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
+rtp://239.186.64.34:10000
+#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="http://static.epg.best/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV HD
 rtp://239.186.70.28:10000
-#EXTINF:-1 ,eoTV RiC
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
-#EXTINF:-1 ,CCone HD
-rtp://239.186.70.8:10000
-#EXTINF:-1 ,Schweiz5 HD / CCONE HD
-rtp://239.186.68.245:10000
-#EXTINF:-1 ,Channel55 D HD
-rtp://239.186.70.103:10000
-#EXTINF:-1 ,Swiss1 HD
-rtp://239.186.68.97:10000
-#EXTINF:-1 ,HSE24
+#EXTINF:-1 tvg-id="ENJY.TV.ch" tvg-name="ENJY.TV CH" tvg-logo="http://static.epg.best/de/ENJY.TV.ch.png" tvg-chno="206" channel-id="206",ENJY.TV HD
+rtp://239.186.68.22:10000
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="129" channel-id="129",HGTV (deu)
+rtp://239.186.74.40:10000
+#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
+rtp://239.186.70.101:10000
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.epg.best/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
+rtp://239.186.64.33:10000
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra DE" tvg-logo="http://static.epg.best/de/Eurosport2Xtra.de.png" tvg-chno="229" channel-id="229",EUROSPORT2 XTRA D HD
+rtp://233.21.50.45:1234
+#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="http://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
+rtp://239.186.64.213:10000
+#EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
+rtp://239.186.64.141:10000
+#EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.epg.best/de/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeTV HD
+rtp://239.186.68.251:10000
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="http://static.epg.best/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
+rtp://239.186.68.156:10000
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="http://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE24
 rtp://239.186.64.123:10000
-#EXTINF:-1 ,MotorVision
+#EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight UK" tvg-logo="http://static.epg.best/uk/Insight.uk.png" tvg-chno="219" channel-id="219",Insight.tv HD
+rtp://239.186.70.75:10000
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="http://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
+rtp://239.186.64.20:10000
+#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="http://static.epg.best/ch/Kanal9.ch.png" tvg-chno="224" channel-id="224",Kanal9 HD
+rtp://239.186.68.145:10000
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.epg.best/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
+rtp://239.186.68.28:10000
+#EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.epg.best/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv
+rtp://239.186.64.133:10000
+#EXTINF:-1 tvg-id="Loly.ch" tvg-name="Loly CH" tvg-logo="http://static.epg.best/ch/Loly.ch.png" tvg-chno="228" channel-id="228",LOLY CH HD
+rtp://239.186.70.211:10000
+#EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="http://static.epg.best/de/MDR.de.png" tvg-chno="230" channel-id="230",mdr HD
+rtp://239.186.68.162:10000
+#EXTINF:-1 tvg-id="melodietv.at" tvg-name="Melodie.tv AT" tvg-logo="http://static.epg.best/at/melodietv.at.png" tvg-chno="231" channel-id="231",Melodie.tv
+rtp://239.186.74.15:10000
+#EXTINF:-1 tvg-id="MTVGermany.ch" tvg-name="MTV Germany DE" tvg-logo="http://static.epg.best/de/MTVGermany.ch.png" tvg-chno="233" channel-id="233",MTV CH HD
+rtp://239.186.68.174:10000
+#EXTINF:-1 tvg-id="Musig24.ch" tvg-name="Musig24 CH" tvg-logo="http://static.epg.best/ch/Musig24.ch.png" tvg-chno="234" channel-id="234",musig24 HD
+rtp://239.186.68.207:10000
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="http://static.epg.best/de/N24Doku.de.png" tvg-chno="235" channel-id="235",N24 Doku
+rtp://239.186.66.232:10000
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="http://static.epg.best/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
+rtp://239.186.68.29:10000
+#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="http://static.epg.best/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239",nick schweiz HD
+rtp://239.186.68.175:10000
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.epg.best/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
+rtp://239.186.64.140:10000
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.epg.best/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
+rtp://239.186.68.146:10000
+#EXTINF:-1 tvg-id="energytv.ch" tvg-name="EnergyTV CH" tvg-logo="http://static.epg.best/ch/energytv.ch.png" tvg-chno="243" channel-id="243",NRJTV CH HD
+rtp://239.186.68.35:10000
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.epg.best/at/ORF1.at.png" tvg-chno="245" channel-id="245",ORF1 HD
+rtp://239.186.68.12:10000
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="http://static.epg.best/at/ORF2.at.png" tvg-chno="247" channel-id="247",ORF2 HD
+rtp://239.186.68.13:10000
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-logo="http://static.epg.best/at/ORF3.at.png" tvg-chno="248" channel-id="248",ORF3
+rtp://239.186.64.86:10000
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.epg.best/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
+rtp://239.186.68.30:10000
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="http://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben
+rtp://239.186.64.19:10000
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX DE" tvg-logo="http://static.epg.best/de/ProSiebenMAXX.de.png" tvg-chno="130" channel-id="130",ProSieben MAXX
+udp://@239.101.10.222:1234
+#EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="http://static.epg.best/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
+rtp://239.186.68.191:10000
+#EXTINF:-1 tvg-id="QS24.ch" tvg-name="QS24 CH" tvg-logo="http://static.epg.best/ch/QS24.ch.png" tvg-chno="131" channel-id="131",QS24 HD
+rtp://233.35.254.211:1234
+#EXTINF:-1 tvg-id="r-9.at" tvg-name="R-9 AT" tvg-logo="http://static.epg.best/at/r-9.at.png" tvg-chno="255" channel-id="255",R9 Oesterreich HD
+rtp://239.186.68.248:10000
+#EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB DE" tvg-logo="http://static.epg.best/de/RBB.de.png" tvg-chno="257" channel-id="257",rbb HD
+rtp://239.186.68.157:10000
+#EXTINF:-1 tvg-id="RegioTVplus.ch" tvg-name="Regio TVplus CH" tvg-logo="http://static.epg.best/de/RegioTVplus.ch.png" tvg-chno="258" channel-id="258",regioTVplus HD
+rtp://239.186.70.40:10000
+#EXTINF:-1 tvg-id="Rheinwelten.ch" tvg-name="Rheinwelten CH" tvg-logo="http://static.epg.best/de/Rheinwelten.ch.png" tvg-chno="132" channel-id="132",Rheinwelten HD
+rtp://239.186.70.202:10000
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.epg.best/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH
+rtp://239.186.64.15:10000
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 DE" tvg-logo="http://static.epg.best/de/RTL2.de.png" tvg-chno="261" channel-id="261",RTLZWEI
+rtp://239.186.64.16:10000
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="http://static.epg.best/de/RTLPlus.de.png" tvg-chno="262" channel-id="262",RTLplus
+rtp://239.186.66.201:10000
+#EXTINF:-1 tvg-id="S1.ch" tvg-name="S1 CH" tvg-logo="http://static.epg.best/ch/S1.ch.png" tvg-chno="263" channel-id="263",S1 HD
+rtp://239.186.68.147:10000
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="http://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
+rtp://239.186.64.18:10000
+#EXTINF:-1 tvg-id="Schweiz5.ch" tvg-name="Schweiz5 CH" tvg-logo="http://static.epg.best/ch/Schweiz5.ch.png" tvg-chno="268" channel-id="268",Schweiz5 HD
+rtp://239.186.68.245:10000
+#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="http://static.epg.best/de/ServusTV.de.png" tvg-chno="270" channel-id="270",ServusTV Deutschland HD
+rtp://233.35.254.129:1234
+#EXTINF:-1 tvg-id="SessionNationalrat.ch" tvg-name="Session Nationalrat CH" tvg-logo="http://static.epg.best/ch/SessionNationalrat.ch.png" tvg-chno="272" channel-id="272",SessionNationalrat HD
+rtp://239.186.70.127:10000
+#EXTINF:-1 tvg-id="SessionStaendenrat.ch" tvg-name="SessionStaendenrat CH" tvg-logo="http://static.epg.best/ch/SessionStaendenrat.ch.png" tvg-chno="274" channel-id="274",SessionStaendenrat HD
+rtp://239.186.70.128:10000
+#EXTINF:-1 tvg-id="Pressekonferenz.ch" tvg-name="Pressekonferenz CH" tvg-logo="http://static.epg.best/ch/Pressekonferenz.ch.png" tvg-chno="275" channel-id="275",Pressekonferenz des Bundesrates HD
+rtp://239.186.79.27:10000
+#EXTINF:-1 tvg-id="SHf.ch" tvg-name="SHf CH" tvg-logo="http://static.epg.best/ch/SHf.ch.png" tvg-chno="277" channel-id="277",SHf HD
+rtp://239.186.68.139:10000
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="http://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
+rtp://239.186.64.70:10000
+#EXTINF:-1 tvg-id="SkySportsNews.de" tvg-name="Sky Sports News DE" tvg-logo="http://static.epg.best/uk/SkySportsNews.de.png" tvg-chno="171" channel-id="171",sky SPORTS NEWS DE HD
+rtp://239.186.70.79:10000
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.epg.best/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
+rtp://239.186.68.159:10000
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
+rtp://239.186.68.188:10000
+#EXTINF:-1 tvg-id="gametv.ch" tvg-name="GameTV CH" tvg-logo="http://static.epg.best/ch/Gametv.ch.png" tvg-chno="289" channel-id="289",GAMETV CH HD
+rtp://239.186.70.10:10000
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="http://static.epg.best/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",SUPER RTL
+rtp://239.186.64.17:10000
+#EXTINF:-1 tvg-id="Swiss1.ch" tvg-name="Swiss1 CH" tvg-logo="http://static.epg.best/ch/Swiss1.ch.png" tvg-chno="292" channel-id="292",Swiss1 HD
+rtp://239.186.68.97:10000
+#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="http://static.epg.best/de/SWRSR.de.png" tvg-chno="294" channel-id="294",SWR >> HD
+rtp://239.186.68.25:10000
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24 DE" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" tvg-chno="296" channel-id="296",Tagesschau24 HD
+rtp://239.186.68.161:10000
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.epg.best/ch/Tele1.ch.png" tvg-chno="298" channel-id="298",Tele1 HD
+rtp://239.186.68.176:10000
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5
+rtp://239.186.64.22:10000
+#EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
+rtp://239.186.68.38:10000
+#EXTINF:-1 tvg-id="teled.ch" tvg-name="TELE D CH" tvg-logo="http://static.epg.best/ch/teled.ch.png" tvg-chno="304" channel-id="304",TELE D HD
+rtp://239.186.68.217:10000
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1 CH" tvg-logo="http://static.epg.best/ch/TeleM1.ch.png" tvg-chno="306" channel-id="306",Tele M1 HD
+rtp://239.186.68.102:10000
+#EXTINF:-1 tvg-id="TeleTop.ch" tvg-name="Tele Top CH" tvg-logo="http://static.epg.best/ch/TeleTop.ch.png" tvg-chno="308" channel-id="308",Tele Top HD
+rtp://239.186.68.252:10000
+#EXTINF:-1 tvg-id="televista.ch" tvg-name="televista CH" tvg-logo="http://static.epg.best/ch/televista.ch.png" tvg-chno="163" channel-id="163",TELEVISTA HD
+rtp://239.186.70.182:10000
+#EXTINF:-1 tvg-id="telez.ch" tvg-name="TELE Z CH" tvg-logo="http://static.epg.best/ch/telez.ch.png" tvg-chno="310" channel-id="310",TELEZ HD
+rtp://239.186.68.205:10000
+#EXTINF:-1 tvg-id="TeleZentral.ch" tvg-name="Tele Zentral CH" tvg-logo="http://static.epg.best/ch/TeleZentral.ch.png" tvg-chno="311" channel-id="311",Tele Zentral CH
+rtp://239.186.68.166:10000
+#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="Tele Zueri CH" tvg-logo="http://static.epg.best/ch/TeleZueri.ch.png" tvg-chno="313" channel-id="313",TELE ZURI HD
+rtp://239.186.68.189:10000
+#EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="http://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="315" channel-id="315",Telebasel HD
+rtp://239.186.68.206:10000
+#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="317" channel-id="317",TELECLUB zoom D HD
+rtp://239.186.68.155:10000
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="319" channel-id="319",TLC CH HD
+rtp://239.186.70.67:10000
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="http://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
+rtp://239.186.66.202:10000
+#EXTINF:-1 tvg-id="TeleSuedostschweiz.ch" tvg-name="Tele Suedostschweiz CH" tvg-logo="http://static.epg.best/ch/TeleSuedostschweiz.ch.png" tvg-chno="322" channel-id="322",TSO TeleSuedostschweiz HD
+rtp://239.186.68.218:10000
+#EXTINF:-1 tvg-id="TV4TNG.ch" tvg-name="TV4TNG CH" tvg-logo="http://static.epg.best/ch/TV4TNG.ch.png" tvg-chno="323" channel-id="323",TV4TNG HD
+rtp://239.186.70.126:10000
+#EXTINF:-1 tvg-id="TVOberwallis.ch" tvg-name="TV Oberwallis CH" tvg-logo="http://static.epg.best/ch/TVOberwallis.ch.png" tvg-chno="324" channel-id="324",TV Oberwallis HD
+rtp://239.186.70.5:10000
+#EXTINF:-1 tvg-id="TV24.ch" tvg-name="TV24 CH" tvg-logo="http://static.epg.best/ch/TV24.ch.png" tvg-chno="326" channel-id="326",TV24 HD
+rtp://239.186.68.190:10000
+#EXTINF:-1 tvg-id="TV25.ch" tvg-name="TV 25 CH" tvg-logo="http://static.epg.best/ch/TV25.ch.png" tvg-chno="327" channel-id="327",TV25 HD
+rtp://239.186.70.20:10000
+#EXTINF:-1 tvg-id="TVcentral.ch" tvg-name="TV Central CH" tvg-logo="http://static.epg.best/ch/TVcentral.ch.png" tvg-chno="133" channel-id="133",TV Central HD
+rtp://239.186.70.201:10000
+#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="http://static.epg.best/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
+rtp://239.186.70.4:10000
+#EXTINF:-1 tvg-id="visiontv.ch" tvg-name="vision tv CH" tvg-logo="http://static.epg.best/ch/visiontv.ch.png" tvg-chno="331" channel-id="331",vision tv CH HD
+rtp://239.186.70.65:10000
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz HD
+rtp://239.186.68.105:10000
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://static.epg.best/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
+rtp://239.186.64.21:10000
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="http://static.epg.best/de/WDR.de.png" tvg-chno="335" channel-id="335",WDR HD
+rtp://239.186.68.24:10000
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="http://static.epg.best/de/Welt.de.png" tvg-chno="336" channel-id="336",WeLT
+rtp://239.186.64.30:10000
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="http://static.epg.best/de/WeltDerWunder.de.png" tvg-chno="337" channel-id="337",Welt der Wunder TV HD
+rtp://239.186.68.198:10000
+#EXTINF:-1 tvg-id="Wettertv.ch" tvg-name="WetterTV CH" tvg-logo="http://static.epg.best/ch/Wettertv.ch.png" tvg-chno="338" channel-id="338",wetter.tv CH HD
+rtp://239.186.70.119:10000
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="http://static.epg.best/de/ZDF.de.png" tvg-chno="340" channel-id="340",ZDF CH HD
+rtp://239.186.68.10:10000
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info DE" tvg-logo="http://static.epg.best/de/ZDFinfo.de.png" tvg-chno="342" channel-id="342",zdf info HD
+rtp://239.186.68.32:10000
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo DE" tvg-logo="http://static.epg.best/de/ZDFneo.de.png" tvg-chno="344" channel-id="344",zdf_neo HD
+rtp://239.186.68.31:10000
+#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.epg.best/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
+rtp://239.186.70.70:10000
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="135" channel-id="135",VOXup
+rtp://239.186.74.70:10000
+#EXTINF:-1 tvg-id="Puls24.ch" tvg-name="Puls24 CH" tvg-logo="http://static.epg.best/ch/puls24.ch.png tvg-chno="136" channel-id="136",Puls24 HD
+rtp://239.186.70.251:10000
+#EXTINF:-1 tvg-id="Blicktv.ch" tvg-name="BlickTV CH" tvg-logo="http://static.epg.best/ch/blicktv.ch.png" tvg-chno="138" channel-id="138",Blick TV HD
+#rtp://@239.186.84.16:10000
+#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
+rtp://@239.186.84.17:10000
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="MotorVision DE" tvg-logo="http://static.epg.best/de/MotorVision.de.png" tvg-chno="" channel-id="",MotorVision
 rtp://239.186.74.101:10000
 
