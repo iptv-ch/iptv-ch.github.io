@@ -389,7 +389,7 @@ rtp://239.186.64.7:10000
 rtp://239.186.64.8:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
-#EXTINF:-1 tvg-id="Alice.it" tvg-name="	Alice IT" tvg-logo="https://static.epg.best/it/Alice.it.png" tvg-chno="347" channel-id="347",ALICE
+#EXTINF:-1 tvg-id="Almatv.it" tvg-name="	Almatv IT" tvg-logo="https://static.epg.best/it/Almatv.it.png" tvg-chno="347" channel-id="347",ALMA TV
 rtp://239.186.66.107:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="348" channel-id="348",ANTENNA3 A3
 rtp://239.186.74.18:10000
