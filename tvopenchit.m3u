@@ -8,7 +8,7 @@ rtp://239.186.68.6:10000
 rtp://239.186.68.201:10000
 #EXTINF:-1 tvg-id="7GTelecity.it" tvg-name="7G Telecity IT" tvg-logo="http://static.epg.best/it/7GTelecity.it.png" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
-#EXTINF:-1 tvg-id="alice.it" tvg-name="ALICE IT" tvg-logo="http://static.epg.best/it/alice.it.png" tvg-chno="347" channel-id="347",ALICE
+#EXTINF:-1 tvg-id="almatv.it" tvg-name="ALMATV IT" tvg-logo="http://static.epg.best/it/almatv.it.png" tvg-chno="347" channel-id="347",ALMA TV
 rtp://239.186.66.107:10000
 #EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.epg.best/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3
 rtp://239.186.74.18:10000
