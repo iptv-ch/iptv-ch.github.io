@@ -253,6 +253,3 @@ rtp://239.186.70.251:10000
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
-#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="MotorVision DE" tvg-logo="http://static.epg.best/de/MotorVision.de.png" tvg-chno="" channel-id="",MotorVision
-rtp://239.186.74.101:10000
-
