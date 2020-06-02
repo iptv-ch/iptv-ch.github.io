@@ -84,8 +84,6 @@ rtp://233.32.39.164:1234
 rtp://233.32.39.169:1234
 #EXTINF:-1 ,RMC Sport 4 HD
 rtp://233.32.39.170:1234
-#EXTINF:-1 ,RMC SPORT NEWS HD > end of life 2 june 2020
-rtp://233.32.39.171:1234
 #EXTINF:-1 ,Sunrise promotion F HD
 rtp://233.32.39.252:1234
 #EXTREM: deutsch
