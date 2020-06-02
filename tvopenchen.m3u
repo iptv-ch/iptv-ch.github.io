@@ -20,6 +20,8 @@ rtp://239.186.64.53:10000
 rtp://239.186.68.40:10000
 #EXTINF:-1 ,Five HD
 rtp://239.186.70.151:10000
+#EXTINF:-1 ,5STAR
+rtp://239.186.74.72:10000
 #EXTINF:-1 ,itv HD
 rtp://239.186.68.42:10000
 #EXTINF:-1 ,itv2
@@ -36,6 +38,8 @@ rtp://239.186.66.58:10000
 rtp://239.186.64.185:10000
 #EXTINF:-1 ,5USA
 rtp://239.186.66.242:10000
+#EXTINF:-1 ,5SELECT
+rtp://239.186.74.88:10000
 #EXTINF:-1 ,PBS America
 rtp://239.186.66.243:10000
 #EXTINF:-1 ,Smithsonian Channel UK HD
@@ -51,7 +55,7 @@ rtp://239.186.70.253:10000
 rtp://233.21.50.45:1234
 #EXTINF:-1 audio-track="eng" ,MotorVision HD
 rtp://233.21.50.27:1234
-#EXTINF:-1 audio-track="eng" ,Nautical HD
+#EXTINF:-1 audio-track="eng" ,Nautical channel HD
 rtp://233.21.50.17:1234
 #EXTREM news
 #EXTINF:-1 ,BBC News HD
@@ -78,8 +82,8 @@ rtp://239.186.70.90:10000
 rtp://239.186.68.140:10000
 #EXTINF:-1 ,NHK World HD
 rtp://239.186.68.172:10000
-#EXTINF:-1 ,Russia Today E
-rtp://239.186.66.139:10000
+#EXTINF:-1 ,Russia Today HD
+rtp://239.186.84.21:10000
 #EXTINF:-1 ,ALJAZEERA E HD
 rtp://239.186.68.171:10000
 #EXTINF:-1 ,TVC News Nigeria
@@ -116,6 +120,8 @@ rtp://@239.186.68.175:10000
 rtp://233.21.50.63:1234
 #EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
+#EXTINF:-1 ,Citv itv Childrens
+rtp://239.186.74.73:10000
 #EXTINF:-1 audio-track="eng" ,Cartoon Network HD
 udp://@239.101.10.29:1234
 #EXTINF:-1 audio-track="eng" ,Disney channel HD
@@ -135,8 +141,6 @@ udp://@239.101.10.9:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 audio-track="eng" ,SyFy HD
 rtp://233.21.50.5:1234
-#EXTINF:-1 ,RETRO MOVIES
-rtp://239.186.74.65:10000
 #EXTINF:-1 audio-track="eng" ,Italia 1
 udp://@239.101.10.109:1234
 #EXTINF:-1 audio-track="eng" ,Iris 
@@ -155,27 +159,17 @@ rtp://233.35.254.175:1234
 rtp://233.21.50.60:1234
 #EXTINF:-1 audio-track="eng" ,OCS Max
 rtp://233.21.50.59:1234
-#EXTINF:-1 ,5STAR
-rtp://239.186.74.72:10000
-#EXTINF:-1 ,Citv itv Childrens
-rtp://239.186.74.73:10000
 #EXTINF:-1 ,DMAX UK
 rtp://239.186.74.74:10000
 #EXTINF:-1 ,Vox africa
 rtp://239.186.74.76:10000
-#EXTINF:-1 ,itv granada
-rtp://239.186.74.80:10000
 #EXTINF:-1 ,travel channel
 rtp://239.186.74.81:10000
 #EXTINF:-1 ,Yesterday
 rtp://239.186.74.87:10000
-#EXTINF:-1 ,5SELECT
-rtp://239.186.74.88:10000
 #EXTINF:-1 ,Channel four seven Channel4 7
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
 #EXTINF:-1 ,Challenge
 rtp://239.186.74.95:10000
-#EXTINF:-1 ,Russia Today HD
-rtp://239.186.84.21:10000
