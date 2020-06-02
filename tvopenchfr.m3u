@@ -192,8 +192,6 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-name="" tvg-logo="" ,Vernier Visions HD
 rtp://239.186.70.203:10000
-#EXTINF:-1 ,Radio Televison Senegal 1
-rtp://239.186.74.96:10000
 #EXTINF:-1 ,ortb Benin
 rtp://239.186.74.97:10000
 #EXTINF:-1 ,Eurochannel F HD
