@@ -110,8 +110,6 @@ udp://@239.101.10.40:1234
 udp://@239.101.10.25:1234
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="Planète+ FR" tvg-logo="https://static.epg.best/fr/PlanetePlus.fr.png" ,PLANETE+ HD
 udp://@239.101.10.32:1234
-#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC Sport News FR" tvg-logo="https://static.epg.best/fr/RMCSportNews.fr.png" ,RMC SPORT NEWS HD
-udp://@239.101.10.14:1234
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL 9 LU" tvg-logo="https://static.epg.best/lu/RTL9.lu.png" ,RTL9 HD
 udp://@239.101.10.20:1234
 #EXTINF:-1 tvg-id="TCM.fr" tvg-name="TCM Cinéma FR" tvg-logo="https://static.epg.best/fr/TCM.fr.png" ,TCM CINEMA HD
