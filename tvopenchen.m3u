@@ -105,8 +105,6 @@ rtp://239.186.66.116:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 ,KERRANG!
 rtp://239.186.64.105:10000
-#EXTINF:-1 ,Stingray Djazz HD
-rtp://@239.186.84.9:10000
 #EXTINF:-1 audio-track="eng" ,MTV Switzerland HD
 rtp://@239.101.11.71:10000
 #EXTREM childreen
@@ -124,10 +122,6 @@ udp://@239.101.10.29:1234
 rtp://233.21.50.11:1234
 #EXTINF:-1 audio-track="eng" ,Disney Junior HD
 rtp://233.21.50.31:1234
-#EXTINF:-1 audio-track="eng" ,Disney XD HD
-rtp://233.21.50.52:1234
-#EXTINF:-1 audio-track="eng" ,Disney Cinema HD
-rtp://233.21.50.70:1234
 #EXTREM movies
 #EXTINF:-1 ,Film4
 rtp://239.186.64.172:10000
