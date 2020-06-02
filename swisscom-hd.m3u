@@ -136,8 +136,6 @@ rtp://233.32.39.164:1234
 rtp://233.32.39.169:1234
 #EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="RMC Sport 4" tvg-logo="http://static.epg.best/fr/RMCSport4.fr.png" tvg-chno="71" channel-id="71",RMC SPORT 4 HD
 rtp://233.32.39.170:1234
-#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC Sport News FR" tvg-logo="http://static.epg.best/fr/rmcsn.fr.png" tvg-chno="72" channel-id="72",RMC Sport News HD
-rtp://233.32.39.171:1234
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
 rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
