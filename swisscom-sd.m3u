@@ -189,8 +189,6 @@ rtp://239.186.74.76:10000
 rtp://239.186.74.81:10000
 #EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
 rtp://239.186.74.84:10000
-#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="TraceLatina FR" tvg-logo="http://static.epg.best/fr/TraceLatina.fr.png" tvg-chno="" channel-id="",TRACE LATINA FR
-rtp://239.186.74.86:10000
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="http://static.epg.best/uk/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
@@ -380,8 +378,6 @@ rtp://239.186.74.40:10000
 rtp://239.186.74.68:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
 rtp://239.186.74.70:10000
-#EXTINF:-1 ,tvg-id="MotorVision.de" tvg-name="MotorVision TV DE" tvg-logo="https://static.epg.best/de/MotorVision.de.png" tvg-chno="" channel-id="", MotorVision D
-rtp://239.186.74.101:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -633,5 +629,3 @@ rtp://239.186.74.89:10000
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,Zico TV (alb)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,first CHANNEL (alb)
-rtp://239.186.74.100:10000
