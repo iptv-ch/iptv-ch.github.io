@@ -25,7 +25,7 @@ special thanks to bendreth for their update for community and customers of CityC
 Many of the channels available on [Netplus TV partners](https://citycable.ch/tv/chaines-tv/tv-numerique/).<br>
 This will only work on your home network if netplus partners like Citycable (old BoisyTV) is your broadband provider.<br>
 This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br>
-EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+EPG information from https://xmltv.ch/ are included.<br>
 [More information](https://www.regardtv.net/t7600-netplus-iptv-gratuit-free).
 
 
@@ -36,7 +36,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
 This file only lists the SD channels.<br>
-EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
 
@@ -47,7 +47,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
 This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br>
-EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
 ## Swisscom TV UHD only
@@ -57,7 +57,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
 This file only lists the UHD channels.<br>
-EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+EPG information from https://xmltv.ch/ is included.<br>
 [More information]( https://www.regardtv.net/t6105p325-flux-iptv-swisscom#77698 ).
 
 
@@ -68,7 +68,7 @@ EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.ph
 Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
 This will only work on your home network if Sunrise/netstream is your broadband provider.<br>
 This file lists the Sunrise TV SD/HD channels.<br>
-EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille).
 
 ## Sunrise Radio
