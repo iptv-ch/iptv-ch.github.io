@@ -118,8 +118,6 @@ udp://@239.101.10.9:1234
 udp://@239.101.10.243:1234
 #EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek FR" tvg-logo="https://static.epg.best/fr/Trek.fr.png" ,TReK HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 tvg-id="M6Boutique.fr" tvg-name="M6 Boutique FR" tvg-logo="https://static.epg.best/fr/M6Boutique.fr.png" ,M6 boutique HD
-udp://@239.101.10.166:1234
 #EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFM TV CH" tvg-logo="https://static.epg.best/ch/LFMTV.ch.png" ,LFM TV HD
 udp://@239.101.10.164:1234
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV CH" tvg-logo="https://static.epg.best/ch/Onetv.ch.png" ,One TV CH HD
@@ -194,5 +192,3 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 ,ortb Benin
 rtp://239.186.74.97:10000
-#EXTINF:-1 ,Eurochannel F HD
-rtp://239.186.84.29:10000
