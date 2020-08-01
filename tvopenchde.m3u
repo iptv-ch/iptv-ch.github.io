@@ -243,8 +243,6 @@ rtp://239.186.68.10:10000
 rtp://239.186.68.32:10000
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo DE" tvg-logo="http://static.epg.best/de/ZDFneo.de.png" tvg-chno="344" channel-id="344",zdf_neo HD
 rtp://239.186.68.31:10000
-#EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.epg.best/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
-rtp://239.186.70.70:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="135" channel-id="135",VOXup
 rtp://239.186.74.70:10000
 #EXTINF:-1 tvg-id="Puls24.ch" tvg-name="Puls24 CH" tvg-logo="http://static.epg.best/ch/puls24.ch.png tvg-chno="136" channel-id="136",Puls24 HD
