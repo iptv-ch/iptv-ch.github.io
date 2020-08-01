@@ -74,8 +74,6 @@ rtp://239.186.64.104:10000
 rtp://239.186.66.94:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="http://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="75" channel-id="75",lemanbleu
 rtp://239.186.64.89:10000
-#EXTINF:-1 tvg-id="M6Boutique.fr" tvg-name="M6 Boutique FR" tvg-logo="http://static.epg.best/fr/M6Boutique.fr.png" tvg-chno="78" channel-id="78",M6 Boutique
-rtp://239.186.64.149:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="81" channel-id="81",maxtv
 rtp://239.186.64.102:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="85" channel-id="85",NRTV
@@ -507,7 +505,7 @@ rtp://239.186.66.108:10000
 rtp://239.186.74.22:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
-#EXTINF:-1 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-Italia HGTV
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-Italia HGTV
 rtp://239.186.74.71:10000
 #EXTINF:-1 ,TOP CALCIO 24
 rtp://239.186.74.79:10000
