@@ -123,8 +123,6 @@ udp://@239.101.10.20:1234
 udp://@239.101.10.9:1234
 #EXTINF:-1 ,Trek HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 ,M6 Boutique HD low quality
-udp://@239.101.10.166:1234
 #EXTINF:-1 ,Booster TV HD
 udp://@239.101.10.81:1234
 #EXTINF:-1 ,TVM3 HD low quality
