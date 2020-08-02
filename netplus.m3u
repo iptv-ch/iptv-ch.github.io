@@ -31,7 +31,7 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 ,LCP Public Senat HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal+ HD plages en clair
+#EXTINF:-1 ,Canal Plus Clair HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
@@ -105,8 +105,6 @@ udp://@239.101.10.42:1234
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
-#EXTINF:-1 ,Nickelodeon Junior F HD
-udp://@239.101.11.53:1234
 #EXTINF:-1 ,NRTV HD
 udp://@239.101.10.251:1234
 #EXTINF:-1 ,One TV CH HD
@@ -115,8 +113,6 @@ udp://@239.101.10.163:1234
 udp://@239.101.10.243:1234
 #EXTINF:-1 ,Planete+ HD
 udp://@239.101.10.32:1234
-#EXTINF:-1 ,RMC Sport News HD
-udp://@239.101.10.14:1234
 #EXTINF:-1 ,RTL9 HD
 udp://@239.101.10.20:1234
 #EXTINF:-1 ,TCM cinema HD
@@ -160,7 +156,7 @@ udp://@239.101.10.142:1234
 udp://@239.101.10.145:1234
 #EXTINF:-1 ,ZDF neo HD
 udp://@239.101.10.143:1234
-#EXTINF:-1 ,MTV Schweiz
+#EXTINF:-1 ,MTV Schweiz / Nick CH
 udp://@239.101.11.71:1234
 #EXTINF:-1 ,Das Erste HD
 udp://@239.101.10.219:1234
@@ -345,8 +341,6 @@ udp://@239.101.10.140:1234
 udp://@239.101.10.231:1234
 #EXTINF:-1 ,Tunisie Nationale
 udp://@239.101.10.233:1234
-#EXTINF:-1 ,RTS1 Senegal
-udp://@239.101.10.168:1234
 #EXTINF:-1 ,Al Arabiya HD
 udp://@239.101.10.232:1234
 #EXTINF:-1 ,Al Maghribia HD
