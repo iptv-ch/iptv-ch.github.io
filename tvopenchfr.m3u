@@ -89,7 +89,7 @@ udp://@239.101.10.29:1234
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J FR" tvg-logo="https://static.epg.best/fr/CanalJ.fr.png" ,Canal J HD
 udp://@239.101.10.30:1234
 #EXTINF:-1 tvg-id="NickJr.fr" tvg-name="Nick Jr FR" tvg-logo="https://static.epg.best/fr/NickJr.fr.png" ,Nickelodeon Junior F HD
-udp://@239.101.11.53:1234
+rtp://233.21.50.63:1234
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1 FR" tvg-logo="https://static.epg.best/fr/AB1.fr.png" ,AB1 HD
 udp://@239.101.10.240:1234
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://static.epg.best/fr/Animaux.fr.png" ,ANIMAUX HD
