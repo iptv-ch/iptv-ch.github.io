@@ -171,8 +171,6 @@ rtp://239.186.74.25:10000
 rtp://239.186.66.243:10000
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="PBS America UK" tvg-logo="https://static.epg.best/gb/dave.uk.png" tvg-chno="" channel-id="",Dave
 rtp://239.186.66.253:10000
-#EXTINF:-1 tvg-id="retromovies.uk" tvg-name="Retro Movies UK" tvg-logo="https://static.epg.best/gb/retro.uk.png" tvg-chno="" channel-id="",RETRO MOVIES
-rtp://239.186.74.65:10000
 #EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star UK" tvg-logo="http://static.epg.best/uk/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
 #EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select UK" tvg-logo="http://static.epg.best/uk/5select.uk.png" tvg-chno="" channel-id="",5SELECT
@@ -372,8 +370,6 @@ rtp://239.186.64.118:10000
 rtp://239.186.64.66:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="" channel-id="",HGTV (deu)
 rtp://239.186.74.40:10000
-#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="nicktoons DE" tvg-logo="http://static.epg.best/de/nicktoons.de.png" tvg-chno="" channel-id="",niCKToons
-rtp://239.186.74.68:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
 rtp://239.186.74.70:10000
 #EXTREM:italian
