@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
 #EXTREM:french
-#EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS un
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
 rtp://239.186.64.5:10000
-#EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS Un HD
 rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS deux
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS Deux
 rtp://239.186.64.6:10000
-#EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS deux HD
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS Deux HD
 rtp://239.186.68.4:10000
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="99" channel-id="99",TF1 CH
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="99" channel-id="99",TF1 CH
 rtp://239.186.64.35:10000
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="100" channel-id="100",TF1 CH HD
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.iptv-epg.com/fr/TF1.fr.png" tvg-chno="100" channel-id="100",TF1 CH HD
 rtp://233.35.254.133:1234
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" tvg-chno="54" channel-id="54",France2
 rtp://239.186.64.36:10000
