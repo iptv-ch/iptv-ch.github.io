@@ -54,8 +54,6 @@ rtp://239.186.64.92:10000
 rtp://239.186.66.26:10000
 #EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews FR" tvg-logo="http://static.epg.best/fr/Euronews.fr.png" tvg-chno="52" channel-id="52",euronews. F
 rtp://239.186.64.151:10000
-#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O FR" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" tvg-chno="61" channel-id="61",FranceO
-rtp://239.186.66.27:10000
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
 #EXTINF:-1 tvg-id="France24F" tvg-name="France 24 FR" tvg-logo="http://static.epg.best/fr/France24.fr.png" tvg-chno="63" channel-id="63",France24
@@ -94,6 +92,8 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
+#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
+rtp://239.186.74.109:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
