@@ -18,8 +18,6 @@ udp://@239.101.10.68:1234
 udp://@239.101.10.66:1234
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" ,arte F HD
 udp://@239.101.10.67:1234
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="https://static.epg.best/de/ARTE.de.png" audio-track="fra" ,arte D HD
-rtp://233.35.254.135:1234
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://static.epg.best/fr/C8.fr.png" ,C8 HD
 udp://@239.101.10.26:1234
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://static.epg.best/fr/W9.fr.png" ,W9 HD
@@ -32,8 +30,8 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP FR" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" ,LCP HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+ programmes en clair HD
-udp://@239.101.10.39:1234
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" ,franceinfo: HD
+udp://@239.101.10.75:1234
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" ,BFM TV HD
 udp://@239.101.10.17:1234
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://static.epg.best/fr/CNews.fr.png" ,CNews HD
@@ -42,8 +40,6 @@ udp://@239.101.10.161:1234
 udp://@239.101.10.27:1234
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" ,Gulli HD
 udp://@239.101.10.31:1234
-#EXTINF:-1 tvg-id="franceo.fr" tvg-name="France Ô FR" tvg-logo="https://static.epg.best/fr/FranceO.fr.png" ,France O
-udp://@239.101.10.38:1234
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1Séries Films FR" tvg-logo="https://static.epg.best/fr/TF1SeriesFilms.fr.png" ,TF1 Series Films HD
 udp://@239.101.10.50:1234
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="L'Equipe 21 FR" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" ,L Equipe HD
@@ -58,8 +54,8 @@ udp://@239.101.10.53:1234
 udp://@239.101.10.55:1234
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://static.epg.best/fr/LCI.fr.png" ,LCI HD
 udp://@239.101.10.162:1234
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info FR" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" ,franceinfo:
-udp://@239.101.10.75:1234
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+ programmes en clair HD
+udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="https://static.epg.best/fr/TV5Monde.fr.png" ,TV5MONDE FBS HD 
 udp://@239.101.10.18:1234
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="https://static.epg.best/fr/KTO.fr.png" ,KtO
@@ -192,3 +188,5 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 ,ortb Benin
 rtp://239.186.74.97:10000
+#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
+rtp://239.186.74.109:10000
