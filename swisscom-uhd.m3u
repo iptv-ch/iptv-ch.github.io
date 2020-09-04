@@ -3,6 +3,8 @@
 rtp://239.186.76.1:10000
 #EXTINF:-1 ,The Explorers UHD
 rtp://239.186.76.2:10000
+#EXTINF:-1 ,Sky demo UHD
+rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
 rtp://239.186.76.4:10000
 #EXTINF:-1 ,Ultra Nature UHD
