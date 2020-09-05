@@ -30,8 +30,8 @@ udp://@239.101.10.23:1234
 rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="LCP2424" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="16" channel-id="16",Canal+ en clair HD
-udp://@239.101.10.39:1234
+#EXTINF:-1 tvg-id="FranceInfo" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
+udp://@239.101.10.75:1234
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
@@ -40,8 +40,8 @@ rtp://239.186.70.30:10000
 rtp://239.186.70.24:10000
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O" tvg-logo="http://static.epg.best/mu/FranceO.mu.png" tvg-chno="21" channel-id="21",FranceO
-rtp://239.186.66.27:10000
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="16" channel-id="16",Canal+ en clair HD
+udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="HD1.fr" tvg-name="TF1 Séries Films" tvg-logo="http://static.epg.best/fr/TF1seriesfilms.fr" tvg-chno="22" channel-id="22",TF1 Series Films HD
 udp://@239.101.10.50:1234
 #EXTINF:-1 tvg-id="equipetv.fr" tvg-name="L'Equipe TV" tvg-logo="http://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
@@ -56,8 +56,6 @@ udp://@239.101.10.53:1234
 udp://@239.101.10.55:1234
 #EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info HD
 udp://@239.101.10.162:1234
-#EXTINF:-1 tvg-id="FranceInfo" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo
-rtp://239.186.66.225:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE France Belgique Suisse" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5MONDE FBS HD
 rtp://239.186.70.41:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5MONDE EUROPE
@@ -190,6 +188,8 @@ rtp://239.186.70.203:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="" channel-id="",ortb
 rtp://239.186.74.97:10000
+#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
+rtp://239.186.74.109:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -311,6 +311,14 @@ rtp://239.186.74.93:10000
 rtp://239.186.74.94:10000
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="http://static.epg.best/uk/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV UK" tvg-logo="http://static.epg.best/uk/HGTV.uk.png" tvg-chno="" channel-id="",HGTV eng
+rtp://239.186.74.103:10000
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",Now 70s
+rtp://239.186.74.108:10000
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s UK" tvg-logo="https://static.epg.best/gb/Now80s.uk.png" tvg-chno="" channel-id="",Now 80s
+rtp://239.186.74.106:10000
+#EXTINF:-1 ,CBS reality TRUE CRIME (eng)
+rtp://239.186.74.107:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -562,6 +570,8 @@ rtp://239.186.70.251:10000
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
+#EXTINF:-1 ,SCHLAGER DELUXE (deu)
+rtp://239.186.74.105:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -703,6 +713,10 @@ rtp://239.186.74.79:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
+#EXTINF:-1 ,HISTORY Italia HD
+rtp://239.186.68.164:10000
+#EXTINF:-1 ,Rtv SAN MARINO HD
+rtp://239.186.84.23:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
@@ -738,14 +752,14 @@ rtp://239.186.64.199:10000
 rtp://239.186.66.121:10000
 #EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="SkyTurk360.tr" tvg-logo="http://static.epg.best/tr/SkyTurk360.tr.png" tvg-chno="420" channel-id="420",360 HD
 rtp://239.186.70.184:10000
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV TR" tvg-logo="http://static.epg.best/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa
-rtp://239.186.64.201:10000
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV TR" tvg-logo="http://static.epg.best/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa HD
+rtp://239.186.84.24:10000
 #EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Powerturk TR" tvg-logo="http://static.epg.best/tr/Powerturk.tr.png" tvg-chno="427" channel-id="427",POWERTURK HD
 rtp://239.186.70.122:10000
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="Showmax TR" tvg-logo="http://static.epg.best/tr/Showmax.tr.png" tvg-chno="428" channel-id="428",SHOW MAX
 rtp://239.186.64.209:10000
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.epg.best/tr/ShowTV.tr.png" tvg-chno="429" channel-id="429",SHOW TURK
-rtp://239.186.64.200:10000
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.epg.best/tr/ShowTV.tr.png" tvg-chno="429" channel-id="429",SHOW TURK HD
+rtp://239.186.84.36:10000
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU TR" tvg-logo="http://static.epg.best/tr/TGRTEU.tr.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.epg.best/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
@@ -764,6 +778,8 @@ rtp://239.186.70.187:10000
 rtp://239.186.70.198:10000
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk TR" tvg-logo="http://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="" channel-id="",CNN Turk
 rtp://239.186.74.75:10000
+#EXTINF:-1 tvg-id="T7.tr" tvg-name="T7 TR" tvg-logo="http://static.epg.best/tr/T7.tr.png" tvg-chno="" channel-id="",T7 HD
+rtp://239.186.70.123:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="alalmaghribia.ma" tvg-name="Al Almaghribia MA" tvg-logo="http://static.epg.best/ma/almaghribia.ma.png" tvg-chno="150" channel-id="150",Al Maghribia HD
 udp://@239.101.10.176:1234
@@ -863,3 +879,11 @@ rtp://239.186.70.254:10000
 rtp://239.186.84.20:10000
 #EXTINF:-1 ,bn music HD (bos)
 rtp://239.186.84.34:10000
+#EXTINF:-1 ,RTSH3 (alb)
+rtp://239.186.74.90:10000
+#EXTINF:-1 ,PINK WORLD (srp)
+rtp://239.186.74.102:10000
+#EXTINF:-1 ,unknown name HD (ara)
+rtp://239.186.68.167:10000
+#EXTINF:-1 ,unknown 24 HD (cze)
+rtp://239.186.70.18:10000
