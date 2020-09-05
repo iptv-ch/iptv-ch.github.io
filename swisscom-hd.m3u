@@ -317,7 +317,7 @@ rtp://239.186.74.103:10000
 rtp://239.186.74.108:10000
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s UK" tvg-logo="https://static.epg.best/gb/Now80s.uk.png" tvg-chno="" channel-id="",Now 80s
 rtp://239.186.74.106:10000
-#EXTINF:-1 ,CBS reality TRUE CRIME (eng)
+#EXTINF:-1 ,CBS reality
 rtp://239.186.74.107:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
