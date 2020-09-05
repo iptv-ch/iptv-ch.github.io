@@ -279,10 +279,8 @@ rtp://239.186.66.243:10000
 rtp://239.186.68.171:10000
 #EXTINF:-1 tvg-id="Smithsonian.uk" tvg-name="Smithsonian UK" tvg-logo="http://static.epg.best/uk/Smithsonian.uk.png" tvg-chno="117" channel-id="117",Smithsonian Channel UK HD
 rtp://239.186.70.189:10000
-#EXTINF:-1 tvg-id="tvcnews.uk" tvg-name="tvc news NG" tvg-logo="http://static.epg.best/ng/travelchannel.ng.png" tvg-chno="118" channel-id="118",TVC News Nigeria
+#EXTINF:-1 tvg-id="tvcnews.uk" tvg-name="tvc news NG" tvg-logo="http://static.epg.best/ng/tvcnews.ng.png" tvg-chno="118" channel-id="118",TVC News Nigeria
 udp://@239.101.10.234:1234
-#EXTINF:-1 tvg-id="travelchannel.uk" tvg-name="Travel Channel UK" tvg-logo="http://static.epg.best/uk/travelchannel.uk.png" tvg-chno="119" channel-id="119",Travel Channel
-udp://@239.101.10.237:1234
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave UK" tvg-logo="http://static.epg.best/uk/dave.uk.png" tvg-chno="120" channel-id="120",Dave
 rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Free Sports UK" tvg-logo="http://static.epg.best/uk/freesports.uk.png" tvg-chno="121" channel-id="121",FREE SPORTS HD
@@ -301,8 +299,6 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.74:10000
 #EXTINF:-1 tvg-id="voxafrica.uk" tvg-name="vox africa UK" tvg-logo="http://static.epg.best/uk/voxafrica.uk.png" tvg-chno="" channel-id="",vox africa
 rtp://239.186.74.76:10000
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel UK" tvg-logo="http://static.epg.best/uk/TravelChannel.uk.png" tvg-chno="" channel-id="",travel channel
-rtp://239.186.74.81:10000
 #EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
 rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
@@ -588,9 +584,7 @@ rtp://239.186.74.111:10000
 rtp://239.186.74.61:10000
 #EXTINF:-1 ,eSport1 LIVE demo / sport1 demo (eng)
 rtp://239.186.74.62:10000
-#EXTINF:-1 ,eX eXtreme (deu)
-rtp://239.186.74.63:10000
-sky sport1 HD
+#EXTINF:-1 ,sky sport1 HD
 rtp://239.186.70.244:10000
 #EXTINF:-1 ,eSports1 live HD demo / Sport1 HD demo  (deu)
 rtp://239.186.68.49:10000
@@ -907,7 +901,7 @@ rtp://239.186.84.34:10000
 rtp://239.186.74.90:10000
 #EXTINF:-1 ,PINK WORLD (srp)
 rtp://239.186.74.102:10000
-#EXTINF:-1 ,unknown name HD (ara)
+#EXTINF:-1 ,Oman TV HD (ara)
 rtp://239.186.68.167:10000
-#EXTINF:-1 ,unknown 24 HD (cze)
+#EXTINF:-1 ,CT24 HD (cze)
 rtp://239.186.70.18:10000
