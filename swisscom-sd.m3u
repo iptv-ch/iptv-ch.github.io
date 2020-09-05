@@ -201,7 +201,7 @@ rtp://239.186.74.94:10000
 rtp://239.186.74.95:10000
 #EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV UK" tvg-logo="http://static.epg.best/uk/HGTV.uk.png" tvg-chno="" channel-id="",HGTV eng
 rtp://239.186.74.103:10000
-#EXTINF:-1 ,CBS reality TRUE CRIME (eng)
+#EXTINF:-1 ,CBS reality
 rtp://239.186.74.107:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
