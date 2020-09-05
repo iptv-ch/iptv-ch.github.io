@@ -44,16 +44,18 @@ rtp://239.186.74.88:10000
 rtp://239.186.66.243:10000
 #EXTINF:-1 ,Smithsonian Channel UK HD
 rtp://239.186.70.189:10000
-#EXTINF:-1 ,Travel Channel
-udp://@239.101.10.237:1234
 #EXTINF:-1 ,Quest HD
 rtp://@239.186.84.2:10000
+#EXTINF:-1 ,Challenge
+rtp://239.186.74.95:10000
+#EXTINF:-1 ,CBS reality
+rtp://239.186.74.107:10000
 #EXTREM Sports
 #EXTINF:-1 ,FREE SPORTS HD
 rtp://239.186.70.253:10000
 #EXTINF:-1 ,EUROSPORT2 XTRA
 rtp://233.21.50.45:1234
-#EXTINF:-1 audio-track="eng" ,MotorVision HD
+#EXTINF:-1 audio-track="eng" ,MotorVision E HD
 rtp://233.21.50.27:1234
 #EXTINF:-1 audio-track="eng" ,Nautical channel HD
 rtp://233.21.50.17:1234
@@ -66,8 +68,6 @@ rtp://239.186.68.214:10000
 rtp://239.186.68.125:10000
 #EXTINF:-1 ,CNBC EU HD
 rtp://239.186.70.224:10000
-#EXTINF:-1 ,CNN Money Switzerland HD
-rtp://239.186.70.118:10000
 #EXTINF:-1 ,CNN International HD
 rtp://239.186.70.23:10000
 #EXTINF:-1 ,euronews E HD
@@ -94,9 +94,7 @@ rtp://239.186.74.25:10000
 rtp://239.186.84.31:10000
 #EXTINF:-1 ,Voice of America HD
 rtp://239.186.84.32:10000
-#EXTINF:-1 audio-track="eng" ,Animaux HD
-udp://@239.101.10.241:1234
-#EXTINF:-1 ,HGTV (eng)
+#EXTINF:-1 ,HGTV E
 rtp://239.186.74.103:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
@@ -120,8 +118,6 @@ udp://@239.101.11.71:1234
 #EXTREM childreen
 #EXTINF:-1 audio-track="eng" ,MTV CH Nick CH HD
 rtp://@239.186.68.175:10000
-#EXTINF:-1 audio-track="eng" ,Nickelodeon Junior HD
-rtp://233.21.50.63:1234
 #EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
 #EXTINF:-1 ,Citv itv Childrens
@@ -145,20 +141,6 @@ udp://@239.101.10.9:1234
 rtp://233.21.50.4:1234
 #EXTINF:-1 audio-track="eng" ,SyFy HD
 rtp://233.21.50.5:1234
-#EXTINF:-1 audio-track="eng" ,Italia 1
-udp://@239.101.10.109:1234
-#EXTINF:-1 audio-track="eng" ,Iris 
-rtp://233.35.254.77:1234
-#EXTINF:-1 audio-track="eng" ,Top Crime
-rtp://233.35.254.82:1234
-#EXTINF:-1 audio-track="eng" ,Rai Movie
-rtp://233.35.254.94:1234
-#EXTINF:-1 audio-track="eng" ,Rai Premium
-rtp://233.35.254.95:1234
-#EXTINF:-1 audio-track="eng" ,Rai 4
-rtp://233.35.254.96:1234
-#EXTINF:-1 audio-track="eng" ,Mediaset LA 5
-rtp://233.35.254.175:1234
 #EXTINF:-1 audio-track="eng" ,OCS City HBO
 rtp://233.21.50.60:1234
 #EXTINF:-1 audio-track="eng" ,OCS Max
@@ -167,15 +149,9 @@ rtp://233.21.50.59:1234
 rtp://239.186.74.74:10000
 #EXTINF:-1 ,Vox africa
 rtp://239.186.74.76:10000
-#EXTINF:-1 ,travel channel
-rtp://239.186.74.81:10000
 #EXTINF:-1 ,Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 ,Channel four seven Channel4 7
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
-#EXTINF:-1 ,Challenge
-rtp://239.186.74.95:10000
-#EXTINF:-1 ,CBS reality
-rtp://239.186.74.107:10000
