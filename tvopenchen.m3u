@@ -96,11 +96,17 @@ rtp://239.186.84.31:10000
 rtp://239.186.84.32:10000
 #EXTINF:-1 audio-track="eng" ,Animaux HD
 udp://@239.101.10.241:1234
+#EXTINF:-1 ,HGTV (eng)
+rtp://239.186.74.103:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
 #EXTINF:-1 ,TRACE URBAN
 rtp://239.186.66.115:10000
+#EXTINF:-1 ,NOW 70s (eng)
+rtp://239.186.74.108:10000
+#EXTINF:-1 ,NOW 80s (eng)
+rtp://239.186.74.106:10000
 #EXTINF:-1 ,Now 90s
 rtp://239.186.66.133:10000
 #EXTINF:-1 ,Clubland TV
@@ -171,3 +177,5 @@ rtp://239.186.74.93:10000
 rtp://239.186.74.94:10000
 #EXTINF:-1 ,Challenge
 rtp://239.186.74.95:10000
+#EXTINF:-1 ,CBS reality TRUE CRIME (eng)
+rtp://239.186.74.107:10000
