@@ -128,7 +128,7 @@ rtp://239.186.66.240:10000
 udp://@239.101.10.181:1234
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
-#EXTINF:-1 ,Espansione TV
+#EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="http://static.epg.best/it/Espansione.it.png" tvg-chno="415" channel-id="415",Espansione TV
 rtp://239.186.74.22:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
@@ -140,7 +140,7 @@ rtp://239.186.74.79:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 ,HISTORY Italia HD
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="HistoryChannel IT" tvg-logo="http://static.epg.best/it/Historychannel.it.png" tvg-chno="" channel-id="",HISTORY Italia HD
 rtp://239.186.68.164:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
