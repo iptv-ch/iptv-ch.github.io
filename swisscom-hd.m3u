@@ -731,7 +731,7 @@ rtp://239.186.74.79:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 ,HISTORY Italia HD
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="HistoryChannel IT" tvg-logo="http://static.epg.best/it/Historychannel.it.png" tvg-chno="" channel-id="",HISTORY Italia HD
 rtp://239.186.68.164:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
@@ -899,6 +899,8 @@ rtp://239.186.84.20:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
+#EXTINF:-1 ,pink SERIJE (srp)
+rtp://239.186.74.20:10000
 #EXTINF:-1 ,PINK WORLD (srp)
 rtp://239.186.74.102:10000
 #EXTINF:-1 ,Oman TV HD (ara)
