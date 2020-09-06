@@ -94,7 +94,7 @@ rtp://239.186.66.130:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
-#EXTINF:-1 ,MySports one demo F
+#EXTINF:-1 ,MY SPORTS one demo F
 rtp://239.186.74.59:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
@@ -386,7 +386,7 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="TV25.ch" tvg-name="TV 25 CH" tvg-logo="http://static.epg.best/ch/TV25.ch.png" tvg-chno="327" channel-id="327",TV25
 rtp://239.186.74.20:10000
-#EXTINF:-1 ,MySports one demo D
+#EXTINF:-1 ,MY SPORTS one demo D
 rtp://239.186.74.58:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
