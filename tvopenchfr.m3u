@@ -132,8 +132,8 @@ rtp://233.21.50.4:1234
 rtp://233.21.50.5:1234
 #EXTINF:-1 audio-track="fra" tvg-id="NauticalChannel.uk" tvg-name="Nautical Channel UK" tvg-logo="https://static.epg.best/gb/NauticalChannel.uk.png" ,Nautical CHANNEL HD
 rtp://233.21.50.17:1234
-#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorovision TV DE" tvg-logo="https://static.epg.best/de/MotorVision.de.png" ,motorvision.tv HD french
-rtp://233.21.50.27:1234
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision DE" tvg-logo="https://static.epg.best/de/MotorVision.de.png" ,motorvision.tv HD french
+rtp://239.186.84.26:10000
 #EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="Disney Junior FR" tvg-logo="https://static.epg.best/fr/DisneyJunior.fr.png" ,Disney Junior HD french
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel FR" tvg-logo="https://static.epg.best/fr/DisneyChannel.fr.png" ,Disney Channel HD french
@@ -190,3 +190,5 @@ rtp://239.186.70.203:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
+#EXTINF:-1 ,MY SPORTS demo F HD
+rtp://239.186.70.219:10000
