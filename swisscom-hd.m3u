@@ -190,8 +190,10 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
-#EXTINF:-1 ,MotorVision F
+#EXTINF:-1 ,MotorVision F HD
 rtp://239.186.84.26:10000
+#EXTINF:-1 ,MY SPORTS demo F HD (fra)
+rtp://239.186.70.219:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -317,12 +319,6 @@ rtp://239.186.74.108:10000
 rtp://239.186.74.106:10000
 #EXTINF:-1 ,CBS reality
 rtp://239.186.74.107:10000
-#EXTINF:-1 ,sport1+ HD (eng)
-rtp://239.186.70.220:10000
-#EXTINF:-1 ,Australian League A-League (eng)
-rtp://239.186.70.221:10000
-#EXTINF:-1 ,EDGE SPORT HD (eng)
-rtp://239.186.84.25:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -576,17 +572,17 @@ rtp://239.186.70.251:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE (deu)
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,sky sport (deu)
-rtp://239.186.74.110:10000
-#EXTINF:-1 ,EDGE SPORT (eng)
-rtp://239.186.74.111:10000
-#EXTINF:-1 ,?MySports ? (deu)
-rtp://239.186.74.61:10000
-#EXTINF:-1 ,eSport1 LIVE demo / sport1 demo (eng)
-rtp://239.186.74.62:10000
+#EXTINF:-1 ,MY SPORTS demo D HD (deu)
+rtp://239.186.70.218:10000
+#EXTINF:-1 ,sky SPORT1 HD (deu)
+rtp://239.186.70.244:10000
+#EXTINF:-1 ,EDGE SPORT HD (deu)
+rtp://239.186.84.25:10000
+#EXTINF:-1 ,SPORTDIGITAL FUSSBALL HD(deu)
+rtp://239.186.70.221:10000
 #EXTINF:-1 ,sky sport1 HD
 rtp://239.186.70.244:10000
-#EXTINF:-1 ,eSports1 live HD demo / Sport1 HD demo  (deu)
+#EXTINF:-1 ,eSports1 LIVE HD (deu)
 rtp://239.186.68.49:10000
 #EXTINF:-1 ,eX eXtreme HD (deu)
 rtp://239.186.68.243:10000
