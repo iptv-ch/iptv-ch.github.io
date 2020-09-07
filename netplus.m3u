@@ -31,8 +31,8 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 ,LCP Public Senat HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 ,Canal Plus Clair HD
-udp://@239.101.10.39:1234
+#EXTINF:-1 ,franceinfo HD
+udp://@239.101.10.75:1234
 #EXTINF:-1 ,BFM TV HD
 udp://@239.101.10.17:1234
 #EXTINF:-1 ,CNews HD
@@ -55,8 +55,8 @@ udp://@239.101.10.53:1234
 udp://@239.101.10.55:1234
 #EXTINF:-1 ,LCI HD low quality
 udp://@239.101.10.162:1234
-#EXTINF:-1 ,franceinfo HD
-udp://@239.101.10.75:1234
+#EXTINF:-1 ,Canal Plus Clair HD
+udp://@239.101.10.39:1234
 #EXTINF:-1 ,TV5MONDE FBS HD 
 udp://@239.101.10.18:1234
 #EXTINF:-1 ,KtO
@@ -103,7 +103,7 @@ udp://@239.101.10.42:1234
 udp://@239.101.10.40:1234
 #EXTINF:-1 ,MTV France HD
 udp://@239.101.10.25:1234
-#EXTINF:-1 ,NRTV HD
+#EXTINF:-1 ,nrtv HD
 udp://@239.101.10.251:1234
 #EXTINF:-1 ,One TV CH HD
 udp://@239.101.10.163:1234
@@ -206,7 +206,7 @@ udp://@239.101.10.209:1234
 udp://@239.101.11.74:1234
 #EXTINF:-1 ,Sixx
 udp://@239.101.10.160:1234
-#EXTINF:-1 ,Sky Sport News HD
+#EXTINF:-1 ,sky sport news HD
 udp://@239.101.10.71:1234
 #EXTINF:-1 ,sport1 HD
 udp://@239.101.10.216:1234
@@ -280,8 +280,6 @@ udp://@239.101.11.81:1234
 udp://@239.101.10.126:1234
 #EXTINF:-1 ,CNN
 udp://@239.101.10.124:1234
-#EXTINF:-1 ,CNN Money CH HD
-udp://@239.101.10.83:1234
 #EXTINF:-1 ,Fashion TV
 udp://@239.101.10.128:1234
 #EXTINF:-1 ,Film 4
@@ -300,8 +298,6 @@ udp://@239.101.10.122:1234
 udp://@239.101.10.236:1234
 #EXTINF:-1 ,TVC News Nigeria
 udp://@239.101.10.234:1234
-#EXTINF:-1 ,Travel Channel
-udp://@239.101.10.237:1234
 #EXTINF:-1 ,CGTN english
 udp://@239.101.10.238:1234
 #EXTINF:-1 ,sky news
@@ -310,7 +306,7 @@ udp://@239.101.10.123:1234
 udp://@239.101.10.125:1234
 #EXTINF:-1 ,NHK WORLD HD
 udp://@239.101.10.239:1234
-#EXTINF:-1 ,Russia Today
+#EXTINF:-1 ,Russia Today HD
 udp://@239.101.10.229:1234
 #EXTREM spanish
 #EXTINF:-1 ,Andalucia TV HD low
@@ -319,7 +315,7 @@ udp://@239.101.11.84:1234
 udp://@239.101.10.133:1234
 #EXTINF:-1 ,Canal 24 Horas HD
 udp://@239.101.10.132:1234
-#EXTINF:-1 ,Canal Extremadura HD?
+#EXTINF:-1 ,Canal Extremadura qHD
 udp://@239.101.10.167:1234
 #EXTINF:-1 ,TVE Internacional HD
 udp://@239.101.10.131:1234
@@ -359,7 +355,7 @@ udp://@239.101.10.172:1234
 udp://@239.101.10.174:1234
 #EXTINF:-1 ,DM SAT
 udp://@239.101.11.100:1234
-#EXTINF:-1 ,Duna HD
+#EXTINF:-1 ,Duna1 HD
 udp://@239.101.10.230:1234
 #EXTINF:-1 ,ERT world
 udp://@239.101.10.173:1234
@@ -367,7 +363,7 @@ udp://@239.101.10.173:1234
 udp://@239.101.10.171:1234
 #EXTINF:-1 ,HRT int.
 udp://@239.101.11.96:1234
-#EXTINF:-1 ,TV Polonia
+#EXTINF:-1 ,TVP Polonia
 udp://@239.101.11.99:1234
 #EXTINF:-1 ,RTCG sat HD
 udp://@239.101.10.137:1234
