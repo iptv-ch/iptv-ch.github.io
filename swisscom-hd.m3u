@@ -1,144 +1,144 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS1 CH" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS Un HD
 rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS2 CH" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS Deux HD
 rtp://239.186.68.4:10000
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF 1 FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
 udp://@239.101.10.63:1234
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="4" channel-id="4",France2 HD
+#EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-name="France 2" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="4" channel-id="4",France2 HD
 rtp://239.186.68.19:10000
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="5" channel-id="5",France3 HD
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-name="France 3" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="5" channel-id="5",France3 HD
 rtp://239.186.70.25:10000
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="http://static.epg.best/fr/France4.fr.png" tvg-chno="6" channel-id="6",France4 HD
+#EXTINF:-1 tvg-id="C78.api.telerama.fr" tvg-name="France 4" tvg-logo="http://static.epg.best/fr/France4.fr.png" tvg-chno="6" channel-id="6",France4 HD
 rtp://239.186.70.26:10000
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="http://static.epg.best/fr/France5.fr.png" tvg-chno="7" channel-id="7",France5 HD
+#EXTINF:-1 tvg-id="C47.api.telerama.fr" tvg-name="France 5" tvg-logo="http://static.epg.best/fr/France5.fr.png" tvg-chno="7" channel-id="7",France5 HD
 rtp://239.186.70.27:10000
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://static.epg.best/fr/M6.fr.png" tvg-chno="8" channel-id="8",M6 CH HD
+#EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-name="M6" tvg-logo="http://static.epg.best/fr/M6.fr.png" tvg-chno="8" channel-id="8",M6 CH HD
 rtp://233.35.254.130:1234
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="http://static.epg.best/fr/ARTE.fr.png" tvg-chno="9" channel-id="9",arte F HD
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="Arte" tvg-logo="http://static.epg.best/fr/ARTE.fr.png" tvg-chno="9" channel-id="9",arte F HD
 rtp://239.186.68.18:10000
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="http://static.epg.best/fr/C8.fr.png" tvg-chno="10" channel-id="10",C8 CH HD
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="C8" tvg-logo="http://static.epg.best/fr/C8.fr.png" tvg-chno="10" channel-id="10",C8 CH HD
 rtp://239.186.68.215:10000
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://static.epg.best/fr/W9.fr.png" tvg-chno="11" channel-id="11",W9 CH HD
+#EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-name="W9" tvg-logo="http://static.epg.best/fr/W9.fr.png" tvg-chno="11" channel-id="11",W9 CH HD
 rtp://239.186.70.38:10000
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://static.epg.best/fr/TMC.fr.png" tvg-chno="12" channel-id="12",TMC CH HD
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-name="TMC" tvg-logo="http://static.epg.best/fr/TMC.fr.png" tvg-chno="12" channel-id="12",TMC CH HD
 rtp://239.186.70.37:10000
-#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX" tvg-logo="http://static.epg.best/fr/TFX.fr.png" tvg-chno="13" channel-id="13",TFX CH HD
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="TFX" tvg-logo="http://static.epg.best/fr/TFX.fr.png" tvg-chno="13" channel-id="13",TFX CH HD
 udp://@239.101.10.23:1234
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="14" channel-id="14",NRJ12 CH HD
+#EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="14" channel-id="14",NRJ12 CH HD
 rtp://239.186.70.33:10000
-#EXTINF:-1 tvg-id="LCP2424" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 udp://@239.101.10.180:1234
-#EXTINF:-1 tvg-id="FranceInfo" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
+#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
 udp://@239.101.10.75:1234
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
 rtp://239.186.68.196:10000
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
 rtp://239.186.70.30:10000
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="http://static.epg.best/fr/CStar.fr.png" tvg-chno="19" channel-id="19",CSTAR HD
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="CStar" tvg-logo="http://static.epg.best/fr/CStar.fr.png" tvg-chno="19" channel-id="19",CSTAR HD
 rtp://239.186.70.24:10000
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
+#EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="16" channel-id="16",Canal+ en clair HD
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="16" channel-id="16",Canal+ en clair HD
 udp://@239.101.10.39:1234
-#EXTINF:-1 tvg-id="HD1.fr" tvg-name="TF1 Séries Films" tvg-logo="http://static.epg.best/fr/TF1seriesfilms.fr" tvg-chno="22" channel-id="22",TF1 Series Films HD
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 Séries Films" tvg-logo="http://static.epg.best/fr/TF1seriesfilms.fr" tvg-chno="22" channel-id="22",TF1 Series Films HD
 udp://@239.101.10.50:1234
-#EXTINF:-1 tvg-id="equipetv.fr" tvg-name="L'Equipe TV" tvg-logo="http://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="L'Equipe TV" tvg-logo="http://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
 udp://@239.101.10.54:1234
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="24" channel-id="24",6ter HD
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="24" channel-id="24",6ter HD
 rtp://239.186.68.134:10000
-#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC Story FR" tvg-logo="http://static.epg.best/fr/rmcstory.fr.png" tvg-chno="25" channel-id="25",RMC Story HD
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="RMC Story FR" tvg-logo="http://static.epg.best/fr/rmcstory.fr.png" tvg-chno="25" channel-id="25",RMC Story HD
 udp://@239.101.10.52:1234
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="26" channel-id="26",RMC Decouverte HD
+#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="26" channel-id="26",RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="http://static.epg.best/fr/cherie25.fr.png" tvg-chno="27" channel-id="27",Cherie 25 HD
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="Cherie 25 FR" tvg-logo="http://static.epg.best/fr/cherie25.fr.png" tvg-chno="27" channel-id="27",Cherie 25 HD
 udp://@239.101.10.55:1234
-#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info HD
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info HD
 udp://@239.101.10.162:1234
-#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE France Belgique Suisse" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5MONDE FBS HD
+#EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5MONDE FBS HD
 rtp://239.186.70.41:10000
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5MONDE EUROPE
+#EXTINF:-1 tvg-id="C232.api.telerama.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
-#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO FR" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="32" channel-id="32",KtO
+#EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-name="KTO FR" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="32" channel-id="32",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://static.epg.best/lu/RTL9.lu.png" tvg-chno="33" channel-id="33",RTL9 CH HD
+#EXTINF:-1 tvg-id="C115.api.telerama.fr" tvg-name="RTL9" tvg-logo="http://static.epg.best/lu/RTL9.lu.png" tvg-chno="33" channel-id="33",RTL9 CH HD
 udp://@239.101.10.20:1234
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://static.epg.best/fr/AB1.fr.png" tvg-chno="34" channel-id="34",AB1 CH HD
+#EXTINF:-1 tvg-id="C5.api.telerama.fr" tvg-name="AB1" tvg-logo="http://static.epg.best/fr/AB1.fr.png" tvg-chno="34" channel-id="34",AB1 CH HD
 udp://@239.101.10.240:1234
-#EXTINF:-1 tvg-id="AB3" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
 rtp://239.186.68.33:10000
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="http://static.epg.best/fr/CartoonNetwork.fr.png" tvg-chno="36" channel-id="36",Cartoon Network F HD
+#EXTINF:-1 tvg-id="C36.api.telerama.fr" tvg-name="Cartoon Network" tvg-logo="http://static.epg.best/fr/CartoonNetwork.fr.png" tvg-chno="36" channel-id="36",Cartoon Network F HD
 udp://@239.101.10.29:1234
-#EXTINF:-1 tvg-id="canalj.fr" tvg-name="Canal J FR" tvg-logo="http://static.epg.best/fr/canalj.fr.png" tvg-chno="37" channel-id="37",Canal J HD
+#EXTINF:-1 tvg-id="C32.api.telerama.fr" tvg-name="Canal J FR" tvg-logo="http://static.epg.best/fr/canalj.fr.png" tvg-chno="37" channel-id="37",Canal J HD
 udp://@239.101.10.30:1234
-#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One FR" tvg-logo="http://static.epg.best/fr/gameone.fr.png" tvg-chno="38" channel-id="38",Game One HD
+#EXTINF:-1 tvg-id="C87.api.telerama.fr" tvg-name="Game One FR" tvg-logo="http://static.epg.best/fr/gameone.fr.png" tvg-chno="38" channel-id="38",Game One HD
 udp://@239.101.10.244:1234
-#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM Top FR" tvg-logo="http://static.epg.best/fr/mcmtop.fr.png" tvg-chno="39" channel-id="39",MCM Top HD
+#EXTINF:-1 tvg-id="C343.api.telerama.fr" tvg-name="MCM Top FR" tvg-logo="http://static.epg.best/fr/mcmtop.fr.png" tvg-chno="39" channel-id="39",MCM Top HD
 udp://@239.101.10.42:1234
-#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FR" tvg-logo="http://static.epg.best/fr/mezzo.fr.png" tvg-chno="40" channel-id="40",mezzo HD
+#EXTINF:-1 tvg-id="C125.api.telerama.fr" tvg-name="Mezzo FR" tvg-logo="http://static.epg.best/fr/mezzo.fr.png" tvg-chno="40" channel-id="40",mezzo HD
 udp://@239.101.10.40:1234
-#EXTINF:-1 tvg-id="MTVF" tvg-name="MTV France" tvg-logo="http://static.epg.best/fr/mtv.fr.png" tvg-chno="41" channel-id="41",MTV France HD
+#EXTINF:-1 tvg-id="C128.api.telerama.fr" tvg-name="MTV France" tvg-logo="http://static.epg.best/fr/mtv.fr.png" tvg-chno="41" channel-id="41",MTV France HD
 udp://@239.101.10.25:1234
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux FR" tvg-logo="http://static.epg.best/fr/animaux.fr.png" tvg-chno="42" channel-id="42",Animaux HD
+#EXTINF:-1 tvg-id="C12.api.telerama.fr" tvg-name="Animaux FR" tvg-logo="http://static.epg.best/fr/animaux.fr.png" tvg-chno="42" channel-id="42",Animaux HD
 udp://@239.101.10.241:1234
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="Planeteplus FR" tvg-logo="http://static.epg.best/fr/planeteplus.fr.png" tvg-chno="43" channel-id="43",Planete+ HD
+#EXTINF:-1 tvg-id="C147.api.telerama.fr" tvg-name="Planeteplus FR" tvg-logo="http://static.epg.best/fr/planeteplus.fr.png" tvg-chno="43" channel-id="43",Planete+ HD
 udp://@239.101.10.32:1234
-#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FR" tvg-logo="http://static.epg.best/fr/trek.fr.png" tvg-chno="44" channel-id="44",Trek HD
+#EXTINF:-1 tvg-id="C1776.api.telerama.fr" tvg-name="Trek FR" tvg-logo="http://static.epg.best/fr/trek.fr.png" tvg-chno="44" channel-id="44",Trek HD
 udp://@239.101.10.242:1234
-#EXTINF:-1 tvg-id="OCSMax" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
+#EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
 rtp://233.21.50.59:1234
-#EXTINF:-1 tvg-id="OCSCity" tvg-name="OCS City" tvg-logo="https://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HD
+#EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="https://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HD
 rtp://233.21.50.60:1234
-#EXTINF:-1 tvg-id="OCSChoc" tvg-name="OCS Choc" tvg-logo="https://static.epg.best/fr/OCSChoc.fr.png" tvg-chno="47" channel-id="74",OCS choc HD
+#EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="OCS Choc" tvg-logo="https://static.epg.best/fr/OCSChoc.fr.png" tvg-chno="47" channel-id="74",OCS choc HD
 rtp://233.21.50.61:1234
-#EXTINF:-1 tvg-id="OCSGeants" tvg-name="OCS Geants" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" tvg-chno="48" channel-id="48",OCS geants HD
+#EXTINF:-1 tvg-id="C734.api.telerama.fr" tvg-name="OCS Geants" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" tvg-chno="48" channel-id="48",OCS geants HD
 rtp://233.21.50.62:1234
-#EXTINF:-1 tvg-id="13eRue" tvg-name="13ème Rue" tvg-logo="http://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
+#EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="13ème Rue" tvg-logo="http://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
 rtp://233.21.50.4:1234
-#EXTINF:-1 tvg-id="SyFyF" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SyFy HD French
+#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SyFy HD French
 rtp://233.21.50.5:1234
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel FR" tvg-logo="http://static.epg.best/fr/DisneyChannel.fr.png" tvg-chno="51" channel-id="51",Disney Channel HD french
+#EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="Disney Channel FR" tvg-logo="http://static.epg.best/fr/DisneyChannel.fr.png" tvg-chno="51" channel-id="51",Disney Channel HD french
 rtp://233.21.50.11:1234
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="Disney Junior FR" tvg-logo="http://static.epg.best/fr/DisneyJunior.fr.png" tvg-chno="52" channel-id="52",Disney Junior HD french
+#EXTINF:-1 tvg-id="C300.api.telerama.fr" tvg-name="Disney Junior FR" tvg-logo="http://static.epg.best/fr/DisneyJunior.fr.png" tvg-chno="52" channel-id="52",Disney Junior HD french
 rtp://233.21.50.31:1234
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
+#EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://233.21.50.2:1234
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV FR" tvg-logo="http://static.epg.best/de/MotorVision.de.png" tvg-chno="56" channel-id="56",motorvision.tv HD
 rtp://233.21.50.27:1234
-#EXTINF:-1 tvg-id="NationalGeographicChannelFrance" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD French
+#EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD French
 rtp://233.21.50.54:1234
-#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
+#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
 rtp://233.21.50.55:1234
-#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="Voyage FR" tvg-logo="http://static.epg.best/fr/Voyage.fr.png" tvg-chno="59" channel-id="59",Voyage HD
+#EXTINF:-1 tvg-id="C212.api.telerama.fr" tvg-name="Voyage FR" tvg-logo="http://static.epg.best/fr/Voyage.fr.png" tvg-chno="59" channel-id="59",Voyage HD
 rtp://233.21.50.56:1234
-#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="Tv Breizh FR" tvg-logo="http://static.epg.best/fr/TvBreizh.fr.png" tvg-chno="60" channel-id="60",TV Breizh HD
+#EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="Tv Breizh FR" tvg-logo="http://static.epg.best/fr/TvBreizh.fr.png" tvg-chno="60" channel-id="60",TV Breizh HD
 rtp://233.21.50.57:1234
-#EXTINF:-1 tvg-id="Ushuaia" tvg-name="Ushuaïa TV" tvg-logo="http://static.epg.best/fr/UshuaiaTV.fr.png" tvg-chno="61" channel-id="61",Ushuaia TV HD
+#EXTINF:-1 tvg-id="C451.api.telerama.fr" tvg-name="Ushuaïa TV" tvg-logo="http://static.epg.best/fr/UshuaiaTV.fr.png" tvg-chno="61" channel-id="61",Ushuaia TV HD
 rtp://233.21.50.58:1234
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount HD
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount HD
 udp://@239.101.10.243:1234
-#EXTINF:-1 tvg-id="TCMCinema.fr" tvg-name="TCM Cinema FR" tvg-logo="http://static.epg.best/fr/tcmcinema.fr.png" tvg-chno="63" channel-id="63",TCM cinema HD
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-name="TCM Cinema FR" tvg-logo="http://static.epg.best/fr/tcmcinema.fr.png" tvg-chno="63" channel-id="63",TCM cinema HD
 udp://@239.101.10.9:1234
-#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="Equidia FR" tvg-logo="http://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
+#EXTINF:-1 tvg-id="C64.api.telerama.fr" tvg-name="Equidia FR" tvg-logo="http://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
 rtp://233.32.39.142:1234
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse Peche FR" tvg-logo="http://static.epg.best/fr/ChassePeche.fr.png" tvg-chno="66" channel-id="66",Chasse & Peche HD
+#EXTINF:-1 tvg-id="C38.api.telerama.fr" tvg-name="Chasse Peche FR" tvg-logo="http://static.epg.best/fr/ChassePeche.fr.png" tvg-chno="66" channel-id="66",Chasse & Peche HD
 rtp://233.32.39.143:1234
-#EXTINF:-1 tvg-id="Golf.fr" tvg-name="Golf FR" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
+#EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 tvg-id="NauticalChannel" tvg-name="Nautical Channel FR" tvg-logo="http://static.epg.best/fr/NauticalChannel.fr.png" tvg-chno="68" channel-id="68",Nautical Channel HD
+#EXTINF:-1 tvg-id="C415.api.telerama.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.epg.best/fr/NauticalChannel.fr.png" tvg-chno="68" channel-id="68",Nautical Channel HD
 rtp://233.21.50.17:1234
-#EXTINF:-1 tvg-id="RMCSportAccess2" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="69" channel-id="69",RMC SPORT Access 2 HD
+#EXTINF:-1 tvg-id="C675.api.telerama.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="69" channel-id="69",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
 #EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="RMC Sport Access 3 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="70" channel-id="70",RMC SPORT Access 3 HD
 rtp://233.32.39.169:1234
-#EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="RMC Sport 4" tvg-logo="http://static.epg.best/fr/RMCSport4.fr.png" tvg-chno="71" channel-id="71",RMC SPORT 4 HD
+#EXTINF:-1 tvg-id="C1382.api.telerama.fr" tvg-name="RMC Sport 4" tvg-logo="http://static.epg.best/fr/RMCSport4.fr.png" tvg-chno="71" channel-id="71",RMC SPORT 4 HD
 rtp://233.32.39.170:1234
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
+#EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
 rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
-#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8Mont-Blanc HD
+#EXTINF:-1 tvg-id="C421.api.telerama.fr" tvg-name="8 Mont-Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
 #EXTINF:-1 tvg-id="Valtv.ch" tvg-name="Val TV CH" tvg-logo="http://static.epg.best/ch/valtv.ch.png" tvg-chno="76" channel-id="76",Val TV HD
 udp://@239.101.10.178:1234
@@ -148,11 +148,11 @@ rtp://239.186.68.144:10000
 rtp://239.186.68.193:10000
 #EXTINF:-1 tvg-id="CanalAlphaNE.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="79" channel-id="79",Canal Alpha NE HD
 rtp://239.186.68.194:10000
-#EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews" tvg-logo="http://static.epg.best/fr/Euronews.fr.png" tvg-chno="80" channel-id="80",euronews. F HD
+#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-name="Euronews" tvg-logo="http://static.epg.best/fr/Euronews.fr.png" tvg-chno="80" channel-id="80",euronews. F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1 tvg-id="France24F" tvg-name="France 24" tvg-logo="http://static.epg.best/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24 HD
+#EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-name="France 24" tvg-logo="http://static.epg.best/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24 HD
 rtp://239.186.70.125:10000
-#EXTINF:-1 tvg-id="i24News.il" tvg-name="" tvg-logo="http://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
+#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="" tvg-logo="http://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="http://static.epg.best/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
 rtp://239.186.70.133:10000
@@ -188,16 +188,16 @@ rtp://239.186.70.203:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="" channel-id="",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
 #EXTINF:-1 ,MotorVision F HD
 rtp://239.186.84.26:10000
 #EXTINF:-1 ,MY SPORTS demo F HD (fra)
 rtp://239.186.70.219:10000
 #EXTREM:english
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.epg.best/uk/BBC2.uk.png" tvg-chno="91" channel-id="91",BBC Two HD
+#EXTINF:-1 tvg-id="C17.api.telerama.fr" tvg-name="BBC2 UK" tvg-logo="http://static.epg.best/uk/BBC2.uk.png" tvg-chno="91" channel-id="91",BBC Two HD
 rtp://239.186.68.41:10000
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="http://static.epg.best/uk/CBBC.uk.png" tvg-chno="92" channel-id="92",BBC CBBC HD
 rtp://239.186.68.153:10000
@@ -205,9 +205,9 @@ rtp://239.186.68.153:10000
 rtp://239.186.68.158:10000
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="http://static.epg.best/uk/CBeebies.uk.png" tvg-chno="94" channel-id="94",BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News UK" tvg-logo="http://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC News HD
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News UK" tvg-logo="http://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC News HD
 rtp://239.186.68.160:10000
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News UK" tvg-logo="http://static.epg.best/uk/BBCWorldNews.uk.png" tvg-chno="96" channel-id="96",BBC World News HD
+#EXTINF:-1 tvg-id="C19.api.telerama.fr" tvg-name="BBC World News UK" tvg-logo="http://static.epg.best/uk/BBCWorldNews.uk.png" tvg-chno="96" channel-id="96",BBC World News HD
 rtp://239.186.68.214:10000
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="http://static.epg.best/uk/BBCParliament.uk.png" tvg-chno="97" channel-id="97",BBC Parliament
 rtp://239.186.74.25:10000
