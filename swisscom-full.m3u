@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
+#EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
 rtp://239.186.64.5:10000
