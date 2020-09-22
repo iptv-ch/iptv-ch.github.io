@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
+#EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM netplus + sunrise + swisscom iptv network open french language in Switzerland
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" ,RTS Un HD
 udp://@239.101.10.46:1234
@@ -188,7 +188,7 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 ,ortb Benin
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace 20" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
 #EXTINF:-1 ,MY SPORTS demo F HD
 rtp://239.186.70.219:10000
