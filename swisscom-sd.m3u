@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="0",TELECLUB zoom F
+#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
 rtp://239.186.64.5:10000
@@ -94,8 +94,6 @@ rtp://239.186.66.130:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
-#EXTINF:-1 ,MY SPORTS one demo F
-rtp://239.186.74.59:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -187,8 +185,6 @@ rtp://239.186.74.73:10000
 rtp://239.186.74.74:10000
 #EXTINF:-1 tvg-id="voxafrica.uk" tvg-name="vox africa UK" tvg-logo="http://static.epg.best/uk/voxafrica.uk.png" tvg-chno="" channel-id="",vox africa
 rtp://239.186.74.76:10000
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel UK" tvg-logo="http://static.epg.best/uk/TravelChannel.uk.png" tvg-chno="" channel-id="",travel channel
-rtp://239.186.74.81:10000
 #EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
 rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
@@ -201,7 +197,7 @@ rtp://239.186.74.94:10000
 rtp://239.186.74.95:10000
 #EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV UK" tvg-logo="http://static.epg.best/uk/HGTV.uk.png" tvg-chno="" channel-id="",HGTV eng
 rtp://239.186.74.103:10000
-#EXTINF:-1 ,CBS reality
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality UK
 rtp://239.186.74.107:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
@@ -378,16 +374,12 @@ rtp://239.186.64.12:10000
 rtp://239.186.64.118:10000
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo DE" tvg-logo="http://static.epg.best/de/ZDFneo.de.png" tvg-chno="343" channel-id="343",zdf_neo
 rtp://239.186.64.66:10000
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="" channel-id="",HGTV (deu)
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="" channel-id="",HGTV DE
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
 rtp://239.186.74.70:10000
-#EXTINF:-1 ,SCHLAGER DELUXE (deu)
+#EXTINF:-1 tvg-id="schkagerdeluxe.de" tvg-name="schlager deluxe DE" tvg-logo="http://static.epg.best/de/schlagerdeluxe.de.png" tvg-chno="" channel-id="",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 tvg-id="TV25.ch" tvg-name="TV 25 CH" tvg-logo="http://static.epg.best/ch/TV25.ch.png" tvg-chno="327" channel-id="327",TV25
-rtp://239.186.74.20:10000
-#EXTINF:-1 ,MY SPORTS one demo D
-rtp://239.186.74.58:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -641,7 +633,3 @@ rtp://239.186.74.91:10000
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
-#EXTINF:-1 ,pink SERIJE (srp)
-rtp://239.186.74.20:10000
-#EXTINF:-1 ,PINK WORLD (srp)
-rtp://239.186.74.102:10000
