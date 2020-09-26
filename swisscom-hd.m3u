@@ -190,10 +190,6 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
-#EXTINF:-1 ,MotorVision F HD
-rtp://239.186.84.26:10000
-#EXTINF:-1 ,MY SPORTS demo F HD (fra)
-rtp://239.186.70.219:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -572,18 +568,6 @@ rtp://239.186.70.251:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE (deu)
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,MY SPORTS demo D HD (deu)
-rtp://239.186.70.218:10000
-#EXTINF:-1 ,sky SPORT1 HD (deu)
-rtp://239.186.70.244:10000
-#EXTINF:-1 ,EDGE SPORT HD (deu)
-rtp://239.186.84.25:10000
-#EXTINF:-1 ,SPORTDIGITAL FUSSBALL HD(deu)
-rtp://239.186.70.221:10000
-#EXTINF:-1 ,sky sport1 HD
-rtp://239.186.70.244:10000
-#EXTINF:-1 ,eSports1 LIVE HD (deu)
-rtp://239.186.68.49:10000
 #EXTINF:-1 ,eX eXtreme HD (deu)
 rtp://239.186.68.243:10000
 #EXTREM:italian
@@ -727,8 +711,6 @@ rtp://239.186.74.79:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="HistoryChannel IT" tvg-logo="http://static.epg.best/it/Historychannel.it.png" tvg-chno="" channel-id="",HISTORY Italia HD
-rtp://239.186.68.164:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
 #EXTREM:portuguese
@@ -792,12 +774,10 @@ rtp://239.186.70.187:10000
 rtp://239.186.70.198:10000
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk TR" tvg-logo="http://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="" channel-id="",CNN Turk
 rtp://239.186.74.75:10000
-#EXTINF:-1 tvg-id="T7.tr" tvg-name="T7 TR" tvg-logo="http://static.epg.best/tr/T7.tr.png" tvg-chno="" channel-id="",T7 HD
-rtp://239.186.70.123:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="alalmaghribia.ma" tvg-name="Al Almaghribia MA" tvg-logo="http://static.epg.best/ma/almaghribia.ma.png" tvg-chno="150" channel-id="150",Al Maghribia HD
 udp://@239.101.10.176:1234
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al Arabiya HD
 udp://@239.101.10.232:1234
@@ -885,8 +865,6 @@ rtp://239.186.74.83:10000
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,Zico TV (alb)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,first CHANNEL (alb)
-rtp://239.186.74.100:10000
 #EXTINF:-1 ,Dubai Sports HD (ara)
 rtp://239.186.70.254:10000
 #EXTINF:-1 ,Kuwait TV HD (ara)
@@ -895,10 +873,6 @@ rtp://239.186.84.20:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
-#EXTINF:-1 ,pink SERIJE (srp)
-rtp://239.186.74.20:10000
-#EXTINF:-1 ,PINK WORLD (srp)
-rtp://239.186.74.102:10000
 #EXTINF:-1 ,Oman TV HD (ara)
 rtp://239.186.68.167:10000
 #EXTINF:-1 ,CT24 HD (cze)
