@@ -115,8 +115,6 @@ rtp://239.186.68.175:10000
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.epg.best/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
 rtp://239.186.68.146:10000
-#EXTINF:-1 tvg-id="energytv.ch" tvg-name="EnergyTV CH" tvg-logo="http://static.epg.best/ch/energytv.ch.png" tvg-chno="243" channel-id="243",NRJTV CH HD
-rtp://239.186.68.35:10000
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="http://static.epg.best/at/ORF1.at.png" tvg-chno="245" channel-id="245",ORF1 HD
 rtp://239.186.68.12:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="http://static.epg.best/at/ORF2.at.png" tvg-chno="247" channel-id="247",ORF2 HD
@@ -203,7 +201,7 @@ rtp://239.186.68.166:10000
 rtp://239.186.68.189:10000
 #EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="http://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="315" channel-id="315",Telebasel HD
 rtp://239.186.68.206:10000
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="317" channel-id="317",TELECLUB zoom D HD
+#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="317" channel-id="317",Blue zoom D HD
 rtp://239.186.68.155:10000
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="319" channel-id="319",TLC CH HD
 rtp://239.186.70.67:10000
@@ -245,25 +243,9 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="135" channel-id="135",VOXup
 rtp://239.186.74.70:10000
-#EXTINF:-1 tvg-id="Puls24.ch" tvg-name="Puls24 CH" tvg-logo="http://static.epg.best/ch/puls24.ch.png tvg-chno="136" channel-id="136",Puls24 HD
-rtp://239.186.70.251:10000
-#EXTINF:-1 tvg-id="Blicktv.ch" tvg-name="BlickTV CH" tvg-logo="http://static.epg.best/ch/blicktv.ch.png" tvg-chno="138" channel-id="138",Blick TV HD
-#rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,MY SPORTS demo D HD
-rtp://239.186.70.218:10000
-#EXTINF:-1 ,sport1+ HD (deu)
-rtp://239.186.70.220:10000
-#EXTINF:-1 ,SPORTDIGITAL FUSSBALL HD (deu/eng)
-rtp://239.186.70.221:10000
-#EXTINF:-1 ,EDGE SPORT HD (deu)
-rtp://239.186.84.25:10000
-#EXTINF:-1 ,sky SPORT1 HD (deu)
-rtp://239.186.70.244:10000
-#EXTINF:-1 ,eSports1 LIVE HD
-rtp://239.186.68.49:10000
 #EXTINF:-1 ,eX eXtreme HD (deu)
 rtp://239.186.68.243:10000
