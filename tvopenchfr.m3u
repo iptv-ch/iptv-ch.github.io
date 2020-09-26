@@ -63,7 +63,7 @@ udp://@239.101.10.43:1234
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal 9 CH" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" ,Canal 9
 udp://@239.101.10.57:1234
 #EXTINF:-1 tvg-name="" tvg-logo="" ,TeleSWIZz HD
-udp://@239.101.10.179:1234
+rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé CH" tvg-logo="https://static.epg.best/ch/latele.ch.png" ,LA TELE HD
 udp://@239.101.10.250:1234
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://static.epg.best/ch/LemanBleu.ch.png" ,Leman Bleu HD
@@ -78,7 +78,7 @@ udp://@239.101.10.178:1234
 udp://@239.101.10.183:1234
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="https://static.epg.best/ch/CanalAlpha.ch.png" ,Canal Alpha NE HD
 udp://@239.101.10.182:1234
-#EXTINF:-1 tvg-name="" tvg-logo="" ,NyonRegionTV HD
+#EXTINF:-1 tvg-name="" tvg-logo="" ,nrtv NyonRegionTV HD
 udp://@239.101.10.251:1234
 #EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network FR" tvg-logo="https://static.epg.best/fr/CartoonNetwork.fr.png" ,CARTOON NETWORK HD
 udp://@239.101.10.29:1234
@@ -176,7 +176,7 @@ rtp://239.186.70.102:10000
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-name="" tvg-logo="" ,GeneveRegionTV HD
 rtp://239.186.70.155:10000
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" ,Teleclub Zoom F HD
+#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" ,blue zoom F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="https://static.epg.best/fr/TV5MondeEurope.fr.png" ,TV5MONDE EUROPE
 rtp://239.186.64.71:10000
@@ -190,5 +190,4 @@ rtp://239.186.70.203:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace 20" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
-#EXTINF:-1 ,MY SPORTS demo F HD
-rtp://239.186.70.219:10000
+
