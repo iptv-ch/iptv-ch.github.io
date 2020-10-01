@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/SRF1HD_300x300px.png" tvg-name="SRF1.ch" group-title="chde", SRF1 HD
+udp://@239.77.0.77:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/srf-zwei-hd-neu.png" tvg-name="SRF2.ch" group-title="chde", SRFzwei HD
+udp://@239.77.0.78:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/srf-info-hd-neu.png" tvg-name="SRFInfo.ch" group-title="chde", SRF Info HD
+udp://@239.77.0.5:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/TC-Zoom.png" tvg-name="TeleclubZoom.ch" group-title="chde", Teleclub Zoom
+udp://@239.77.0.4:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/Tv24HD_300x300px_cfiCzD8.png" tvg-name="TV24.ch" group-title="chde", TV24 HD
+udp://@239.77.0.183:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/Tv25HD_300x300px.png" tvg-name="TV25.ch" group-title="chde", TV25 HD
+udp://@239.77.0.184:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/3plus_HD.png" tvg-name="3Plus.ch" group-title="chde", 3+ HD
+udp://@239.77.0.117:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/4plus_HD.png" tvg-name="4Plus.ch" group-title="chde", 4+ HD
+udp://@239.77.0.118:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/5plus_hd.png" tvg-name="5Plus.ch" group-title="chde", 5+ HD
+udp://@239.77.0.179:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/6HD_300x300px.jpg" tvg-name="f-6plusHD" group-title="chde", 6+ HD
+udp://@239.77.0.226:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/telezueri.png" tvg-name="TeleZueri.ch" group-title="chde", Tele Züri HD
+udp://@239.77.0.203:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/teletop.png" tvg-name="TeleTop.ch" group-title="chde", TELE TOP HD
+udp://@239.77.0.206:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/TelebarnHD_300x300px.png" tvg-name="TeleBaern.ch" group-title="chde", TeleBärn HD
+udp://@239.77.0.201:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tvo.png" tvg-name="TVO.ch" group-title="chde", TVO HD
+udp://@239.77.0.209:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/TeleM1HD_300x300px_ssCIfrz.png" tvg-name="TeleM1.ch" group-title="chde", Tele M1 HD
+udp://@239.77.0.214:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/Telebasel_300x300px.jpg" tvg-name="TeleBasel.ch" group-title="chde", TeleBasel HD
+udp://@239.77.0.202:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/TeleZHD_300x300px.png" tvg-name="f-TeleZHD" group-title="chde", Tele Z HD
+udp://@239.77.0.213:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tele1hd.png" tvg-name="Tele1.ch" group-title="chde", Tele1 HD
+udp://@239.77.0.204:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tso.png" tvg-name="TeleSuedostschweiz.ch" group-title="chde", TV Südostschweiz HD
+udp://@239.77.0.222:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/telebielingue.png" tvg-name="f-TeleBielingueHD" group-title="chde", Tele Bielingue HD
+udp://@239.77.1.42:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/star_tv_hd.png" tvg-name="StarTV.ch" group-title="chde", Star TV HD
+udp://@239.77.0.191:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/puls8_hd.png" tvg-name="PULSacht.ch" group-title="chde", Puls 8 HD
+udp://@239.77.0.180:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/schweiz_5.png" tvg-name="f-Schweiz5" group-title="chde", Schweiz 5
+udp://@239.77.0.21:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tele_d.png" tvg-name="f-TeleDHD" group-title="chde", TeleD HD
+udp://@239.77.0.208:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/logo_s1_hd.png" tvg-name="S1.ch" group-title="chde", S1 HD
+udp://@239.77.0.217:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/swiss1.png" tvg-name="f-SWISS1HD" group-title="chde", SWISS1 HD
+udp://@239.77.0.76:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/meteonewstv.png" tvg-name="Wetterfernsehen.de" group-title="chde", wetter.tv
+udp://@239.77.0.224:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/mysports.png" tvg-name="MySports1.ch" group-title="chde", MySports HD D
+udp://@239.77.0.12:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/arte_hd.png" tvg-name="ARTE.de" group-title="de", Arte HD
+udp://@239.77.0.82:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/3sat_hd.png" tvg-name="3sat.at" group-title="de", 3Sat HD
+udp://@239.77.0.106:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/orf1_hd.png" tvg-name="ORF1.at" group-title="de", ORF1 HD
+udp://@239.77.0.109:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/orf_2_hd.png" tvg-name="ORF2.at" group-title="de", ORF2 HD
+udp://@239.77.0.110:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/servus_tv_hd.png" tvg-name="ServusTV.at" group-title="de", Servus TV HD
+udp://@239.77.0.84:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/das_erste_hd.png" tvg-name="ARD.de" group-title="de", Das Erste HD
+udp://@239.77.0.80:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/zdf_hd.png" tvg-name="ZDF.de" group-title="de", ZDF HD
+udp://@239.77.0.79:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rtl.png" tvg-name="RTL.de" group-title="de", RTL CH
+udp://@239.77.0.190:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/RTL2.png" tvg-name="RTL2.de" group-title="de", RTL 2 (Schweiz)
+udp://@239.77.0.14:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/super_rtl.png" tvg-name="SuperRTL.de" group-title="de", Super RTL (Schweiz)
+udp://@239.77.0.29:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rtl-nitro.png" tvg-name="RTLNitro.de" group-title="de", RTL Nitro
+udp://@239.77.0.88:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/prosieben.png" tvg-name="Pro7.de" group-title="de", ProSieben (Schweiz)
+udp://@239.77.0.15:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/prosiebenmaxx.png" tvg-name="ProSiebenMaxx.de" group-title="de", ProSieben Maxx
+udp://@239.77.0.119:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sat_1.png" tvg-name="Sat1.de" group-title="de", Sat.1 (Schweiz)
+udp://@239.77.0.11:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sat1-gold.png" tvg-name="Sat1Gold.de" group-title="de", Sat1 Gold
+udp://@239.77.0.99:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/vox.png" tvg-name="Vox.de" group-title="de", VOX (Schweiz)
+udp://@239.77.0.17:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sixx.png" tvg-name="sixx.de" group-title="de", SIXX
+udp://@239.77.0.69:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/kabel_eins.png" tvg-name="Kabel1.de" group-title="de", Kabel1 (Schweiz)
+udp://@239.77.0.18:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/kika_hd.png" tvg-name="Kika.de" group-title="de", Kika HD
+udp://@239.77.0.108:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/nickelodeon_comedy_central.png" tvg-name="Nickelodeon.de" group-title="de", Nickelodeon CH HD
+udp://@239.77.0.197:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/disney_channel.png" tvg-name="DisneyChannel.de" group-title="de", Disney Channel
+udp://@239.77.0.44:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/comedy_central.png" tvg-name="ComedyCentral.de" group-title="de", Comedy Central CH HD
+udp://@239.77.0.192:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/mtv.png" tvg-name="MTVGermany.de" group-title="de", MTV Schweiz HD
+udp://@239.77.0.196:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/eurosport.png" tvg-name="Eurosport1.de" group-title="de", Eurosport
+udp://@239.77.0.34:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sport1.png" tvg-name="Sport1.de" group-title="de", SPORT1 HD CH
+udp://@239.77.0.193:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/dmax.png" tvg-name="DMax.de" group-title="de", DMAX HD
+udp://@239.77.0.195:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tlc.png" tvg-name="TLC.de" group-title="de", TLC
+udp://@239.77.0.132:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/anixe_hd.png" tvg-name="Anixe.de" group-title="de", Anixe HD
+udp://@239.77.0.83:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/onetv.png" tvg-name="One.de" group-title="de", one HD
+udp://@239.77.0.111:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/zdfinfo_hd.png" tvg-name="ZDFinfo.de" group-title="de", ZDF Info HD
+udp://@239.77.0.102:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/zdf_neo_hd.png" tvg-name="ZDFneo.de" group-title="de", ZDF Neo HD
+udp://@239.77.0.100:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/wdw.png" tvg-name="WeltDerWunder.de" group-title="de", Welt der Wunder
+udp://@239.77.0.46:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/welt.png" tvg-name="Welt.de" group-title="de", Welt HD
+udp://@239.77.0.194:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/br-alpha.png" tvg-name="ARDalpha.de" group-title="de", ARD Alpha
+udp://@239.77.0.51:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/phoenix_hd.png" tvg-name="Phoenix.de" group-title="de", Phoenix HD
+udp://@239.77.0.105:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tagesschau24_hd.png" tvg-name="Tagesschau24.de" group-title="de", tagesschau24 HD
+udp://@239.77.0.129:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/n-tv.png" tvg-name="ntv.de" group-title="de", n-tv
+udp://@239.77.0.24:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/euronews.png" tvg-name="Euronews.de" group-title="de", EuroNews
+udp://@239.77.0.43:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/dw_europe.png" tvg-name="DeutscheWelle.de" group-title="de", DW Europe
+udp://@239.77.0.66:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/swr_bw_hd.png" tvg-name="SWRSR.de" group-title="de", SWR BW HD
+udp://@239.77.0.81:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/br_sued_hd.png" tvg-name="BR.de" group-title="de", BR HD
+udp://@239.77.0.107:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/wdr_hd.png" tvg-name="WDR.de" group-title="de", WDR HD Köln
+udp://@239.77.0.215:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/ndr_fernsehen_hd.png" tvg-name="ndr.de" group-title="de", NDR HD
+udp://@239.77.0.103:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/mdr_sachsen.png" tvg-name="MDR.de" group-title="de", MDR Sachsen HD
+udp://@239.77.0.124:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rbb_hd.png" tvg-name="RBB.de" group-title="de", rbb Berlin HD
+udp://@239.77.0.123:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/hr-fernsehen_hd.png" tvg-name="HR.de" group-title="de", hr-fernsehen HD
+udp://@239.77.0.122:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tele5.png" tvg-name="Tele5.de" group-title="de", Tele 5
+udp://@239.77.0.64:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/die_neue_zeit.png" tvg-name="f-DieNeueZeitTV" group-title="de", Die Neue Zeit TV
+udp://@239.77.0.60:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bibel_tv_hd.png" tvg-name="BibelTV.de" group-title="de", Bibel TV HD
+udp://@239.77.0.127:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/hse24.png" tvg-name="HSE24.de" group-title="de", HSE24
+udp://@239.77.0.63:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/hse24_trend.png" tvg-name="f-HSE24TREND" group-title="de", HSE24 TREND
+udp://@239.77.0.216:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/channel55.png" tvg-name="f-Channel55" group-title="de", Channel 55
+udp://@239.77.0.223:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/gotv.png" tvg-name="GoTV.at" group-title="de", GoTV
+udp://@239.77.0.97:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rts1-300x300.png" tvg-name="RTS1.ch" group-title="fr", RTS 1 HD
+udp://@239.77.1.28:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rts2-300x300.png" tvg-name="RTS2.ch" group-title="fr", RTS 2 HD
+udp://@239.77.1.29:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/latele.png" tvg-name="f-lateleHD" group-title="fr", la télé HD
+udp://@239.77.1.39:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/canalalphajuhd.png" tvg-name="f-CanalAlphaJUHD" group-title="fr", Canal Alpha JU HD
+udp://@239.77.1.53:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/canal_alpha.png" tvg-name="CanalAlpha.ch" group-title="fr", Canal Alpha HD
+udp://@239.77.1.37:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/televersoix.png" tvg-name="f-TeleVersoix" group-title="fr", Télé Versoix
+udp://@239.77.1.55:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/mysports.png" tvg-name="f-MySportsHDF" group-title="fr", MySports HD F
+udp://@239.77.1.56:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tf1_hd.png" tvg-name="TF1.fr" group-title="fr", TF1 HD
+udp://@239.77.1.3:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/france_2_hd.png" tvg-name="France2.fr" group-title="fr", France 2 HD
+udp://@239.77.1.4:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/france_3.png" tvg-name="France3.fr" group-title="fr", France 3
+udp://@239.77.1.5:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/france_4.png" tvg-name="France4.fr" group-title="fr", France 4
+udp://@239.77.1.6:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/france_5.png" tvg-name="France5.fr" group-title="fr", France 5
+udp://@239.77.1.7:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/m6_music_hits_hd.png" tvg-name="M6.fr" group-title="fr", M6 HD
+udp://@239.77.1.10:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/canal8hd.png" tvg-name="C8.fr" group-title="fr", C8 HD CH
+udp://@239.77.1.54:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/w9.png" tvg-name="W9.fr" group-title="fr", W9 HD
+udp://@239.77.1.13:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rtl9hd.png" tvg-name="RTL9.lu" group-title="fr", RTL 9 HD
+udp://@239.77.1.36:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/nrj_12.png" tvg-name="NRJ12.fr" group-title="fr", NRJ12
+udp://@239.77.1.16:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/artefhd.png" tvg-name="ARTE.fr" group-title="fr", Arte F HD
+udp://@239.77.1.47:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tfx_logo_l.jpeg" tvg-name="TFX.fr" group-title="fr", TFX
+udp://@239.77.1.20:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/gulli.png" tvg-name="Gulli.fr" group-title="fr", Gulli
+udp://@239.77.1.23:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tmc.png" tvg-name="TMC.fr" group-title="fr", TMC
+udp://@239.77.1.15:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bfm_tv.png" tvg-name="BFMTV.fr" group-title="fr", BFM TV
+udp://@239.77.1.24:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tvm3.png" tvg-name="TVMEurope.nl" group-title="fr", TVM3
+udp://@239.77.1.38:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rougetvhd.png" tvg-name="RougeTV.ch" group-title="fr", Rouge TV HD
+udp://@239.77.1.40:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/6ter.png" tvg-name="6ter.fr" group-title="fr", 6ter
+udp://@239.77.1.46:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/2mmaroc.png" tvg-name="2M.ma" group-title="fr", 2M Maroc
+udp://@239.77.1.45:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/numero23.png" tvg-name="Numero23.fr" group-title="fr", Numéro 23
+udp://@239.77.1.50:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/lfmtv.png" tvg-name="f-LFMTV" group-title="fr", LFM TV
+udp://@239.77.1.51:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/onetv_fr.png" tvg-name="f-One.tv" group-title="fr", One TV
+udp://@239.77.1.52:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/euronews.png" tvg-name="Euronews.fr" group-title="fr", Euronews F
+udp://@239.77.1.41:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/france24.png" tvg-name="France24.fr" group-title="fr", France 24
+udp://@239.77.1.43:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tv5monde_europe.png" tvg-name="TV5Monde.fr" group-title="fr", TV5MONDE EUROPE
+udp://@239.77.1.49:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/alsace20.png" tvg-name="Alsace20.fr" group-title="fr", Alsace 20
+udp://@239.77.1.25:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/boostertv.png" tvg-name="f-BoosterTV" group-title="fr", Booster TV
+udp://@239.77.0.225:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rsi_la_1_hd.png" tvg-name="RSILA1.ch" group-title="it", RSI LA 1 HD
+udp://@239.77.2.17:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rsi_la_2_hd.png" tvg-name="RSILA2.ch" group-title="it", RSI LA 2 HD
+udp://@239.77.2.18:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/teleticino.png" tvg-name="f-TeleTicinoHD" group-title="it", Tele Ticino HD
+udp://@239.77.2.73:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_uno.png" tvg-name="RaiUno.it" group-title="it", Rai 1 HD
+udp://@239.77.2.19:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai2.png" tvg-name="RaiDue.it" group-title="it", Rai Due
+udp://@239.77.2.4:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai3.png" tvg-name="RaiTre.it" group-title="it", Rai Tre
+udp://@239.77.2.5:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai4.png" tvg-name="Rai4.it" group-title="it", Rai 4
+udp://@239.77.2.6:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/canale-5-logo.png" tvg-name="Canale5.it" group-title="it", Canale5 HD
+udp://@239.77.2.22:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/italia_1.png" tvg-name="Italia1.it" group-title="it", Italia 1 HD
+udp://@239.77.2.20:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/la7.png" tvg-name="La7.it" group-title="it", LA 7
+udp://@239.77.2.15:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/iris-italia.png" tvg-name="Iris.it" group-title="it", IRIS
+udp://@239.77.2.14:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_sport_hd.png" tvg-name="RaiSportPlus.it" group-title="it", Rai Sport+ HD
+udp://@239.77.2.10:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_storia.png" tvg-name="RaiStoria.it" group-title="it", Rai Storia
+udp://@239.77.2.31:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_news.png" tvg-name="RaiNews.it" group-title="it", Rai News
+udp://@239.77.2.32:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_premium.png" tvg-name="RaiPremium.it" group-title="it", Rai Premium
+udp://@239.77.2.33:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_yoyo.png" tvg-name="RaiYoyo.it" group-title="it", Rai Yoyo
+udp://@239.77.2.34:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rai_movie.png" tvg-name="RaiMovie.it" group-title="it", Rai Movie
+udp://@239.77.2.36:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/real_time_italy.png" tvg-name="RealTime.it" group-title="it", Real Time
+udp://@239.77.2.63:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bbc_one_hd.png" tvg-name="BBC1.uk" group-title="en", BBC One HD
+udp://@239.77.3.30:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bbc_2_england.png" tvg-name="BBC2.uk" group-title="en", BBC Two HD
+udp://@239.77.3.29:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/itv1_hd.png" tvg-name="ITV1Anglia.uk" group-title="en", ITV 1 HD
+udp://@239.77.3.31:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/channel_4_hd.png" tvg-name="Channel4.uk" group-title="en", Channel 4 HD
+udp://@239.77.3.32:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/channel_uk_5_black.png" tvg-name="Channel5.uk" group-title="en", Channel 5 HD
+udp://@239.77.3.57:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/cbbc_hd.png" tvg-name="CBBC.uk" group-title="en", CBBC HD
+udp://@239.77.3.54:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/citv.png" tvg-name="CITV.uk" group-title="en", CITV
+udp://@239.77.3.17:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/itv2.png" tvg-name="ITV2.uk" group-title="en", ITV 2
+udp://@239.77.3.14:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/itv3.png" tvg-name="ITV3.uk" group-title="en", ITV 3
+udp://@239.77.3.15:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/itv4.png" tvg-name="ITV4.uk" group-title="en", ITV 4
+udp://@239.77.3.16:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bbc_4.png" tvg-name="BBC4.uk" group-title="en", BBC Four HD
+udp://@239.77.3.62:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/e4.png" tvg-name="E4.uk" group-title="en", E4
+udp://@239.77.3.8:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/film4.png" tvg-name="Film4.uk" group-title="en", Film 4
+udp://@239.77.3.21:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/701-bbc-worldnews-hd.png" tvg-name="BBCWorldNews.uk" group-title="en", BBC World News Europe HD
+udp://@239.77.3.53:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bbc_news.png" tvg-name="BBCNews.uk" group-title="en", BBC NEWS HD
+udp://@239.77.3.52:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/cnn_int.png" tvg-name="CNN.uk" group-title="en", CNN International
+udp://@239.77.3.23:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/cnbc_europe.png" tvg-name="CNBC.uk" group-title="en", CNBC Europe
+udp://@239.77.3.26:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bloomberg.png" tvg-name="BloombergTV.uk" group-title="en", Bloomberg
+udp://@239.77.3.27:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sky_news.png" tvg-name="SkyNews.uk" group-title="en", Sky News
+udp://@239.77.3.25:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/russia_today.png" tvg-name="f-RussiaToday" group-title="en", Russia Today
+udp://@239.77.5.51:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/aj_english_hd.png" tvg-name="AlJazeeraEnglish.qa" group-title="en", Al Jazeera English HD
+udp://@239.77.5.153:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/france24.png" tvg-name="France24English.fr" group-title="en", France 24 E
+udp://@239.77.1.44:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/channel_5_usa.png" tvg-name="FiveUSA.uk" group-title="en", 5 USA
+udp://@239.77.3.59:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/channel_5_star.png" tvg-name="5star.uk" group-title="en", 5STAR
+udp://@239.77.3.60:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/travel-channel.png" tvg-name="TravelChannel.uk" group-title="en", Travel
+udp://@239.77.3.50:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/more4plus1_300x300px_eMoIEaZ.png" tvg-name="More4.uk" group-title="en", More4+1
+udp://@239.77.3.9:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/fashion_tv.png" tvg-name="FashionTV.fr" group-title="en", Fashion TV
+udp://@239.77.3.28:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tvr_international.png" tvg-name="TVRijnmond.nl" group-title="ro", TVR International
+udp://@239.77.5.112:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tve_int.png" tvg-name="TVEIntEu.es" group-title="es", TVE Internacional
+udp://@239.77.4.1:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/canal_24_horas.png" tvg-name="24Horas.es" group-title="es", Canal 24 Horas
+udp://@239.77.4.2:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rtpi.png" tvg-name="Rtp1.pt" group-title="pt", RTP 1
+udp://@239.77.4.11:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/tv_polonia.png" tvg-name="TVPPolonia.pl" group-title="pl", TVP Polonia
+udp://@239.77.5.21:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/dunatv.png" tvg-name="DunaTV.hu" group-title="hu", Duna TV
+udp://@239.77.5.157:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bn.png" tvg-name="BN.ba" group-title="ba", BN
+udp://@239.77.5.163:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/4e_tv_logo.png" tvg-name="f-4E" group-title="gr", 4E
+udp://@239.77.5.138:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/c1r_europe.png" tvg-name="f-C1REurope" group-title="ru", C1R Europe
+udp://@239.77.5.136:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rtk1.png" tvg-name="RTK.al" group-title="xk", RTK 1
+udp://@239.77.5.38:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/RTSH3_xPmiv6p.png" tvg-name="TVShipBuilding.kr" group-title="al", RTSH 3
+udp://@239.77.5.167:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/RTSH-Sat_NEW.png" tvg-name="f-TVShqiptar" group-title="al", RTSH Sat
+udp://@239.77.5.142:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/rtrs_plus.png" tvg-name="RTRSPlus.ba" group-title="sh", RTRS plus
+udp://@239.77.5.148:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sterk-tv.png" tvg-name="f-STERKTV" group-title="ae", STERK TV
+udp://@239.77.5.151:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/bvn-tv.png" tvg-name="BVN.nl" group-title="nl", BVN TV
+udp://@239.77.5.18:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/arirang_tv.png" tvg-name="ArirangTV.kr" group-title="ko", Arirang World
+udp://@239.77.5.70:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/CCTV4_300x300px_ppALoD0.png" tvg-name="f-CCTV4" group-title="cn", CCTV4
+udp://@239.77.5.66:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/pcne_chinese.png" tvg-name="f-PCNEChinese" group-title="cn", PCNE Chinese
+udp://@239.77.5.149:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/TGNHD_300x300px.png" tvg-name="f-ThaiGlobalNetwork" group-title="tw", Thai Global Network
+udp://@239.77.5.69:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/trt_turk.png" tvg-name="TRTTurk.tr" group-title="tr", TRT TURK
+udp://@239.77.5.132:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/kanal7_avrupa.png" tvg-name="Kanal7.tr" group-title="tr", KANAL 7 AVRUPA
+udp://@239.77.5.131:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/haberturk.png" tvg-name="Haberturk.tr" group-title="tr", HABERTURK
+udp://@239.77.5.133:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/trt_3_spor.png" tvg-name="TRTSpor.tr" group-title="tr", TRT 3-SPOR
+udp://@239.77.5.130:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/fb_tv.png" tvg-name="FBTV.tr" group-title="tr", FB TV
+udp://@239.77.5.135:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/ttn.png" tvg-name="f-TTN" group-title="ae", TTN
+udp://@239.77.5.160:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/Rotana-Drama.png" tvg-name="RotanaMasriyah.eg" group-title="ae", Rotana Drama
+udp://@239.77.5.165:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/samadubai.png" tvg-name="samadubai.ae" group-title="ae", Sama Dubai
+udp://@239.77.5.168:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/MBCTV_300x300px.jpg" tvg-name="MBC1En.ae" group-title="ae", MBC Europe
+udp://@239.77.5.169:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/saudi1.png" tvg-name="f-Saudi1" group-title="ae", Saudi 1
+udp://@239.77.5.171:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/Dubai_Sports_3HD_300x300px.png" tvg-name="DubaiSports1.ae" group-title="ae", Dubai Sports 1
+udp://@239.77.5.172:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/jordantv.png" tvg-name="f-JordanTV" group-title="ae", Jordan TV
+udp://@239.77.5.173:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/kuwaittv.png" tvg-name="f-KuwaitTV" group-title="ae", Kuwait TV
+udp://@239.77.5.174:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/omantv.png" tvg-name="f-OmanTV" group-title="ae", Oman TV
+udp://@239.77.5.175:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/qatartv.png" tvg-name="QatarTV.qa" group-title="ae", Qatar TV
+udp://@239.77.5.176:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/sharjahtv.png" tvg-name="f-SharjahTV" group-title="ae", Sharjah TV
+udp://@239.77.5.178:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/dubai_tv.png" tvg-name="DubaiTV.ae" group-title="ae", Dubai TV
+udp://@239.77.5.179:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/abudhabitv.png" tvg-name="AbuDhabi.ae" group-title="ae", Abu Dhabi TV
+udp://@239.77.5.180:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/al_sharqiya.png" tvg-name="AlSharqiya.iq" group-title="ae", Al Sharqiya
+udp://@239.77.5.181:5000
+#EXTINF:0 tvg-logo="https://api.tv.init7.net/media/logos/al_arabiya.png" tvg-name="f-al-Arabya" group-title="ae", al-Arabiya
+udp://@239.77.5.170:5000
