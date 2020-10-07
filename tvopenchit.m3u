@@ -140,7 +140,5 @@ rtp://239.186.74.79:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="HistoryChannel IT" tvg-logo="http://static.epg.best/it/Historychannel.it.png" tvg-chno="" channel-id="",HISTORY Italia HD
-rtp://239.186.68.164:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
