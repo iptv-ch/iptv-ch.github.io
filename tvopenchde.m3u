@@ -47,8 +47,6 @@ rtp://239.186.68.143:10000
 rtp://239.186.68.26:10000
 #EXTINF:-1 tvg-id="CCone.ch" tvg-name="CCone CH" tvg-logo="http://static.epg.best/ch/CCone.ch.png" tvg-chno="197" channel-id="197",CCone CH HD
 rtp://239.186.70.8:10000
-#EXTINF:-1 tvg-id="Channel55.de" tvg-name="Channel55 DE" tvg-logo="http://static.epg.best/de/channel55.de.png" tvg-chno="199" channel-id="199",Channel55 D HD
-rtp://239.186.70.103:10000
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="http://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
 rtp://239.186.68.216:10000
 #EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="http://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201",DELUXE MUSIC
