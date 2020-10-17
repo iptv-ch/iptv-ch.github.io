@@ -537,6 +537,8 @@ rtp://239.186.64.197:10000
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="tve.es" tvg-name="tve ES" tvg-logo="https://static.epg.best/es/tve.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
+#EXTINF:-1 ,Teledeporte Sports
+rtp://239.186.74.65:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="420" channel-id="420",360
 rtp://239.186.64.204:10000
