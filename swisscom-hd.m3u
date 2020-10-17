@@ -190,6 +190,12 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
 rtp://239.186.74.109:10000
+#EXTINF:-1 ,Bet Star HD
+rtp://239.186.70.109:10000
+#EXTINF:-1 ,Novelas TV HD
+rtp://239.186.70.120:10000
+#EXTINF:-1 ,Olympia TV HD
+rtp://239.186.70.158:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -741,6 +747,8 @@ rtp://239.186.68.178:10000
 rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur ES" tvg-logo="http://static.epg.best/es/Telesur.es.png" tvg-chno="" channel-id="",teleSUR HD (spa)
 rtp://239.186.84.19:10000
+#EXTINF:-1 ,Teledeporte Sports
+rtp://239.186.74.65:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="http://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
 rtp://239.186.64.199:10000
