@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
 #EXTREM netplus iptv open
 #EXTREM french
-#EXTINF:-1 ,RTS1 HD
+#EXTINF:-1 ,RTS Un HD
 udp://@239.101.10.46:1234
-#EXTINF:-1 ,RTS2 HD
+#EXTINF:-1 ,RTS Deux HD
 udp://@239.101.10.47:1234
-#EXTINF:-1 ,TF1 CH HD
+#EXTINF:-1 ,TF1 HD
 udp://@239.101.10.63:1234
 #EXTINF:-1 ,France 2 HD
 udp://@239.101.10.64:1234
@@ -15,7 +15,7 @@ udp://@239.101.10.65:1234
 udp://@239.101.10.56:1234
 #EXTINF:-1 ,France 5 HD
 udp://@239.101.10.68:1234
-#EXTINF:-1 ,M6 CH HD
+#EXTINF:-1 ,M6 HD
 udp://@239.101.10.66:1234
 #EXTINF:-1 ,arte HD
 udp://@239.101.10.67:1234
@@ -27,13 +27,13 @@ udp://@239.101.10.22:1234
 udp://@239.101.10.21:1234
 #EXTINF:-1 ,TFX HD
 udp://@239.101.10.23:1234
-#EXTINF:-1 ,NRJ12 HD
+#EXTINF:-1 ,NRJ 12 HD
 udp://@239.101.10.24:1234
-#EXTINF:-1 ,LCP Public Senat HD
+#EXTINF:-1 ,La Chaîne parlementaire HD
 udp://@239.101.10.180:1234
 #EXTINF:-1 ,franceinfo HD
 udp://@239.101.10.75:1234
-#EXTINF:-1 ,BFM TV HD
+#EXTINF:-1 ,BFMTV HD
 udp://@239.101.10.17:1234
 #EXTINF:-1 ,CNews HD
 udp://@239.101.10.161:1234
@@ -41,9 +41,9 @@ udp://@239.101.10.161:1234
 udp://@239.101.10.27:1234
 #EXTINF:-1 ,Gulli HD
 udp://@239.101.10.31:1234
-#EXTINF:-1 ,TF1 Series Films HD
+#EXTINF:-1 ,TF1 Séries Films HD
 udp://@239.101.10.50:1234
-#EXTINF:-1 ,Equipe HD
+#EXTINF:-1 ,L'Equipe HD
 udp://@239.101.10.54:1234
 #EXTINF:-1 ,6ter HD
 udp://@239.101.10.51:1234
@@ -51,11 +51,11 @@ udp://@239.101.10.51:1234
 udp://@239.101.10.52:1234
 #EXTINF:-1 ,RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 ,Cherie 25 HD
+#EXTINF:-1 ,Chérie 25 HD
 udp://@239.101.10.55:1234
-#EXTINF:-1 ,LCI HD low quality
+#EXTINF:-1 ,LCI HD
 udp://@239.101.10.162:1234
-#EXTINF:-1 ,Canal Plus Clair HD
+#EXTINF:-1 ,Canal+ HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 ,TV5MONDE FBS HD 
 udp://@239.101.10.18:1234
@@ -71,7 +71,7 @@ udp://@239.101.10.241:1234
 udp://@239.101.10.245:1234
 #EXTINF:-1 ,Canal 9 HD
 udp://@239.101.10.57:1234
-#EXTINF:-1 ,La Tele HD
+#EXTINF:-1 ,La Télé HD
 udp://@239.101.10.250:1234
 #EXTINF:-1 ,lemanbleu HD
 udp://@239.101.10.11:1234
@@ -87,7 +87,7 @@ udp://@239.101.10.178:1234
 udp://@239.101.10.30:1234
 #EXTINF:-1 ,Canal Alpha NE HD
 udp://@239.101.10.182:1234
-#EXTINF:-1 ,Cartoon Network France HD
+#EXTINF:-1 ,Cartoon Network HD
 udp://@239.101.10.29:1234
 #EXTINF:-1 ,Euronews. F HD
 udp://@239.101.10.15:1234
@@ -124,7 +124,7 @@ udp://@239.101.10.85:1234
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
 udp://@239.101.10.48:1234
-#EXTINF:-1 ,SRF zwei HD
+#EXTINF:-1 ,SRF 2 HD
 udp://@239.101.10.49:1234
 #EXTINF:-1 ,SRF info HD
 udp://@239.101.10.203:1234
