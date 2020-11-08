@@ -291,7 +291,7 @@ rtp://239.186.66.133:10000
 rtp://239.186.66.116:10000
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.iptv-epg.com/uk/CNBC.uk.png" tvg-chno="142" channel-id="142",CNBC EU
 rtp://239.186.64.167:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="143" channel-id="143",CNN Money Switzerland HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="143" channel-id="143",J-One
 rtp://239.186.70.118:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="http://static.iptv-epg.com/uk/CNN.uk.png" tvg-chno="144" channel-id="144",CNN International
 rtp://239.186.64.175:10000
