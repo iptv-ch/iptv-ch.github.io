@@ -191,7 +191,7 @@ rtp://239.186.66.133:10000
 rtp://239.186.66.116:10000
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.epg.best/uk/CNBC.uk.png" tvg-chno="105" channel-id="105",CNBC EU HD
 rtp://239.186.70.224:10000
-#EXTINF:-1 tvg-id="CNNMoney.ch" tvg-name="CNN Money CH" tvg-logo="http://static.epg.best/uk/CNNMoney.ch.png" tvg-chno="106" channel-id="106",CNN Money Switzerland HD
+#EXTINF:-1 tvg-id="C1585.api.telerama.fr" tvg-name="J-One" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1585.png" tvg-chno="106" channel-id="106",J-One HD
 rtp://239.186.70.118:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="http://static.epg.best/uk/CNN.uk.png" tvg-chno="107" channel-id="107",CNN International HD
 rtp://239.186.70.23:10000
