@@ -31,7 +31,7 @@ rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 rtp://239.186.84.35:10000
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
-rtp://239.186.68.111:10000
+rtp://239.186.68.121:10000
 #EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
