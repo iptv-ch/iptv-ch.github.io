@@ -30,8 +30,8 @@ udp://@239.101.10.23:1234
 rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 rtp://@239.186.84.35
-#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo
-rtp://239.186.66.225:10000
+#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
+rtp://239.186.68.121:10000
 #EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
@@ -154,5 +154,13 @@ rtp://239.186.70.203:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="" channel-id="",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
-rtp://239.186.74.109:10000
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20 HD
+rtp://239.186.68.111:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="Lachainemeteo FR" tvg-logo="https://static.epg.best/fr/lachainemeteo.fr.png" ,La chaîne météo HD
+rtp://239.186.84.38:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="Melody FR" tvg-logo="https://static.epg.best/fr/melody.fr.png" ,Melody HD
+rtp://239.186.84.39:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="NonStopPeople FR" tvg-logo="https://static.epg.best/fr/nonstoppeople.fr.png" ,Non Stop People HD
+rtp://239.186.84.40:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="CliqueTV FR" tvg-logo="https://static.epg.best/fr/cliquetv.fr.png" ,Clique TV HD
+rtp://239.186.84.39:10000
