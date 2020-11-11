@@ -29,7 +29,7 @@ udp://@239.101.10.23:1234
 #EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="14" channel-id="14",NRJ12 CH HD
 rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
-rtp://@239.186.84.35
+rtp://239.186.84.35:10000
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
 rtp://239.186.68.121:10000
 #EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
@@ -110,8 +110,6 @@ rtp://239.186.70.74:10000
 rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="C421.api.telerama.fr" tvg-name="8 Mont-Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
-#EXTINF:-1 tvg-id="Valtv.ch" tvg-name="Val TV CH" tvg-logo="http://static.epg.best/ch/valtv.ch.png" tvg-chno="76" channel-id="76",Val TV HD
-udp://@239.101.10.178:1234
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="http://static.epg.best/ch/Canal9.ch.png" tvg-chno="77" channel-id="77",Canal9 HD
 rtp://239.186.68.144:10000
 #EXTINF:-1 tvg-id="CanalAlphaJU.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="78" channel-id="78",CanalAlpha JU HD
@@ -134,7 +132,7 @@ rtp://239.186.70.82:10000
 rtp://239.186.70.39:10000
 #EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFMTV CH" tvg-logo="http://static.epg.best/ch/lfmtv.ch.png" tvg-chno="77" channel-id="77",LFM TV HD
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="http://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD
+#EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="http://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD/DieuTV HD
 rtp://239.186.68.199:10000
 #EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="http://static.epg.best/ch/nrtv.ch.png" tvg-chno="82" channel-id="82",NRTV HD
 rtp://239.186.70.66:10000
