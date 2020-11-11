@@ -245,5 +245,7 @@ rtp://239.186.74.70:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,eX eXtreme HD (deu)
+#EXTINF:-1 ,eX eXtreme HD
 rtp://239.186.68.243:10000
+#EXTINF:-1 ,volksmusik.tv
+rtp://239.186.68.121:10000
