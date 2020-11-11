@@ -30,8 +30,8 @@ udp://@239.101.10.23:1234
 rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 rtp://@239.186.84.35
-#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo
-rtp://239.186.66.225:10000
+#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
+rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
@@ -156,8 +156,16 @@ rtp://239.186.70.203:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="" channel-id="",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
-rtp://239.186.74.109:10000
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20 HD
+rtp://239.186.68.111:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="Lachainemeteo FR" tvg-logo="https://static.epg.best/fr/lachainemeteo.fr.png" ,La chaîne météo HD
+rtp://239.186.84.38:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="Melody FR" tvg-logo="https://static.epg.best/fr/melody.fr.png" ,Melody HD
+rtp://239.186.84.39:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="NonStopPeople FR" tvg-logo="https://static.epg.best/fr/nonstoppeople.fr.png" ,Non Stop People HD
+rtp://239.186.84.40:10000
+#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="CliqueTV FR" tvg-logo="https://static.epg.best/fr/cliquetv.fr.png" ,Clique TV HD
+rtp://239.186.84.42:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -534,10 +542,12 @@ rtp://239.186.70.251:10000
 #rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
-#EXTINF:-1 ,SCHLAGER DELUXE (deu)
+#EXTINF:-1 ,SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,eX eXtreme HD (deu)
+#EXTINF:-1 ,eX eXtreme HD
 rtp://239.186.68.243:10000
+#EXTINF:-1 ,volksmusik.tv
+rtp://239.186.68.121:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -681,6 +691,8 @@ rtp://239.186.74.85:10000
 rtp://239.186.70.152:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
+#EXTINF:-1 ,Si Plus HD
+rtp://239.186.84.41:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
