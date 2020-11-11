@@ -163,4 +163,4 @@ rtp://239.186.84.39:10000
 #EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="NonStopPeople FR" tvg-logo="https://static.epg.best/fr/nonstoppeople.fr.png" ,Non Stop People HD
 rtp://239.186.84.40:10000
 #EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="CliqueTV FR" tvg-logo="https://static.epg.best/fr/cliquetv.fr.png" ,Clique TV HD
-rtp://239.186.84.39:10000
+rtp://239.186.84.42:10000
