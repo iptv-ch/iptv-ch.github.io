@@ -106,8 +106,8 @@ rtp://239.186.70.181:10000
 rtp://239.186.66.177:10000
 #EXTINF:-1 tvg-id="SpikeTV.it" tvg-name="SpikeTV IT" tvg-logo="http://static.epg.best/it/SpikeTV.it.png" tvg-chno="407" channel-id="407",Spike
 rtp://239.186.66.178:10000
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport Italia SI
-rtp://239.186.74.24:10000
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport italia HD
+rtp://239.186.84.41:10000
 #EXTINF:-1 tvg-id="super.it" tvg-name="super! IT" tvg-logo="http://static.epg.best/it/Super.it.png" tvg-chno="291" channel-id="291",SUPER!
 rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis IT" tvg-logo="http://static.epg.best/it/SuperTennis.it.png" tvg-chno="409" channel-id="409",SuperTennis HD
@@ -130,18 +130,16 @@ udp://@239.101.10.181:1234
 rtp://239.186.66.108:10000
 #EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="http://static.epg.best/it/Espansione.it.png" tvg-chno="415" channel-id="415",Espansione TV
 rtp://239.186.74.22:10000
-#EXTINF:-1 ,Italian Fishing TV
-rtp://239.186.74.69:10000
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
+rtp://239.186.70.152:10000
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-italia HGTV
 rtp://239.186.74.71:10000
+#EXTINF:-1 ,Italian Fishing TV
+rtp://239.186.74.69:10000
 #EXTINF:-1 ,TOP CALCIO 24
 rtp://239.186.74.79:10000
 #EXTINF:-1 ,senato italiano tv
 rtp://239.186.74.85:10000
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
-rtp://239.186.70.152:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
-#EXTINF:-1 ,Si Plus HD
-rtp://239.186.84.41:10000
 
