@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
-#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS Un HD
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
 rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS Deux HD
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
 udp://@239.101.10.63:1234
@@ -88,7 +88,7 @@ rtp://233.21.50.56:1234
 rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="C451.api.telerama.fr" tvg-name="Ushuaïa TV" tvg-logo="http://static.epg.best/fr/UshuaiaTV.fr.png" tvg-chno="61" channel-id="61",Ushuaia TV HD
 rtp://233.21.50.58:1234
-#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount HD
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount channel HD
 rtp://233.21.50.126:1234
 #EXTINF:-1 tvg-id="C64.api.telerama.fr" tvg-name="Equidia FR" tvg-logo="http://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
 rtp://233.32.39.142:1234
@@ -158,14 +158,6 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20 HD
 rtp://239.186.68.111:10000
-#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="Lachainemeteo FR" tvg-logo="https://static.epg.best/fr/lachainemeteo.fr.png" ,La chaîne météo HD
-rtp://239.186.84.38:10000
-#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="Melody FR" tvg-logo="https://static.epg.best/fr/melody.fr.png" ,Melody HD
-rtp://239.186.84.39:10000
-#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="NonStopPeople FR" tvg-logo="https://static.epg.best/fr/nonstoppeople.fr.png" ,Non Stop People HD
-rtp://239.186.84.40:10000
-#EXTINF:-1 tvg-id="C?.api.telerama.fr" tvg-name="CliqueTV FR" tvg-logo="https://static.epg.best/fr/cliquetv.fr.png" ,Clique TV HD
-rtp://239.186.84.42:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -193,8 +185,6 @@ rtp://239.186.70.90:10000
 rtp://239.186.68.40:10000
 #EXTINF:-1 tvg-id="Traceurban.uk" tvg-name="Trace Urban UK" tvg-logo="http://static.epg.best/uk/traceurban.uk.png" tvg-chno="102" channel-id="102",TRACE URBAN
 rtp://239.186.66.115:10000
-#EXTINF:-1 tvg-id="NOW90s.uk" tvg-name="Now 90s UK" tvg-logo="http://static.epg.best/uk/NOW90s.uk.png" tvg-chno="103" channel-id="103",Now 90s
-rtp://239.186.66.133:10000
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="http://static.epg.best/uk/ClublandTV.uk.png" tvg-chno="104" channel-id="104",Clubland TV
 rtp://239.186.66.116:10000
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.epg.best/uk/CNBC.uk.png" tvg-chno="105" channel-id="105",CNBC EU HD
@@ -289,7 +279,9 @@ rtp://239.186.74.103:10000
 rtp://239.186.74.108:10000
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s UK" tvg-logo="https://static.epg.best/gb/Now80s.uk.png" tvg-chno="" channel-id="",Now 80s
 rtp://239.186.74.106:10000
-#EXTINF:-1 ,CBS reality
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-name="Now 90s UK" tvg-logo="https://static.epg.best/gb/Now90s.uk.png" tvg-chno="" channel-id="",Now 90s
+rtp://239.186.66.133:10000
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality
 rtp://239.186.74.107:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
@@ -514,7 +506,7 @@ rtp://239.186.70.20:10000
 rtp://239.186.70.201:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="http://static.epg.best/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
 rtp://239.186.70.4:10000
-#EXTINF:-1 tvg-id="visiontv.ch" tvg-name="vision tv CH" tvg-logo="http://static.epg.best/ch/visiontv.ch.png" tvg-chno="331" channel-id="331",vision tv CH HD
+#EXTINF:-1 tvg-id="visiontv.ch" tvg-name="vision tv CH" tvg-logo="http://static.epg.best/ch/visiontv.ch.png" tvg-chno="331" channel-id="331",blue vision tv CH HD
 rtp://239.186.70.65:10000
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz HD
 rtp://239.186.68.105:10000
@@ -544,7 +536,7 @@ rtp://239.186.70.251:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,eX eXtreme HD
+#EXTINF:-1 ,eX eXtreme sports HD
 rtp://239.186.68.243:10000
 #EXTINF:-1 ,volksmusik.tv
 rtp://239.186.74.113:10000
@@ -691,7 +683,7 @@ rtp://239.186.74.85:10000
 rtp://239.186.70.152:10000
 #EXTINF:-1 ,Rtv SAN MARINO HD
 rtp://239.186.84.23:10000
-#EXTINF:-1 ,Si Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Sport italia IT" tvg-chno="http://static.epg.best/it/Sportitalia.it.png" channel-id="",Sport italia HD
 rtp://239.186.84.41:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
@@ -721,7 +713,7 @@ rtp://239.186.68.178:10000
 rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur ES" tvg-logo="http://static.epg.best/es/Telesur.es.png" tvg-chno="" channel-id="",teleSUR HD (spa)
 rtp://239.186.84.19:10000
-#EXTINF:-1 ,Teledeporte Sports
+#EXTINF:-1 tvg-id="Telesur.es" tvg-name="Teledeporte ES" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" tvg-chno="" channel-id="",Teledeporte Sports
 rtp://239.186.74.65:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="http://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
@@ -837,13 +829,13 @@ rtp://239.186.70.191:10000
 rtp://239.186.70.195:10000
 #EXTINF:-1 tvg-id="hayatmusic.ba" tvg-name="Hayat Music BA" tvg-logo="http://static.epg.best/ba/hayatmusic.ba.png" tvg-chno="162" channel-id="162",Hayat Music
 rtp://239.186.66.246:10000
-#EXTINF:-1 ,Digi 24 (rum)
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 RO" tvg-logo="http://static.epg.best/ro/digi24.ro.png" tvg-chno="" channel-id="",Digi 24 (ro)
 rtp://239.186.74.64:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
 #EXTINF:-1 ,HRT int. (hrv)
 rtp://239.186.74.83:10000
-#EXTINF:-1 ,Karusel Int. (rus)
+#EXTINF:-1 tvg-id="karusel.ru" tvg-name="Karusel RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" tvg-chno="" channel-id="",Karusel Int. (rus)
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,Zico TV (alb)
 rtp://239.186.74.98:10000
@@ -857,5 +849,5 @@ rtp://239.186.84.34:10000
 rtp://239.186.74.90:10000
 #EXTINF:-1 ,Oman TV HD (ara)
 rtp://239.186.68.167:10000
-#EXTINF:-1 ,CT24 HD (cze)
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24 CZ" tvg-logo="https://static.epg.best/cz/CT24.cz.png" tvg-chno="" channel-id="",CT24 HD (cze)
 rtp://239.186.70.18:10000
