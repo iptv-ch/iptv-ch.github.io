@@ -55,8 +55,6 @@ rtp://239.186.74.103:10000
 #EXTREM Sports
 #EXTINF:-1 ,FREE SPORTS HD
 rtp://239.186.70.253:10000
-#EXTINF:-1 ,EUROSPORT2 XTRA
-rtp://233.21.50.45:1234
 #EXTINF:-1 audio-track="eng" ,MotorVision E HD
 rtp://233.21.50.27:1234
 #EXTINF:-1 audio-track="eng" ,Nautical channel HD
@@ -88,8 +86,6 @@ rtp://239.186.68.172:10000
 rtp://239.186.84.21:10000
 #EXTINF:-1 ,ALJAZEERA E HD
 rtp://239.186.68.171:10000
-#EXTINF:-1 ,TVC News Nigeria
-udp://@239.101.10.234:1234
 #EXTINF:-1 ,BBC Parliament
 rtp://239.186.74.25:10000
 #EXTINF:-1 ,France 24 E HD
@@ -99,7 +95,7 @@ rtp://239.186.84.32:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
-#EXTINF:-1 ,TRACE URBAN
+#EXTINF:-1 ,TRACE XMAS / TRACE URBAN
 rtp://239.186.66.115:10000
 #EXTINF:-1 ,NOW 70s (eng)
 rtp://239.186.74.108:10000
@@ -113,17 +109,13 @@ rtp://239.186.66.116:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 ,KERRANG!
 rtp://239.186.64.105:10000
-#EXTINF:-1 audio-track="eng" ,MTV Switzerland HD
-udp://@239.101.11.71:1234
 #EXTREM childreen
-#EXTINF:-1 audio-track="eng" ,MTV CH Nick CH HD
+#EXTINF:-1 audio-track="eng" ,Nick CH HD
 rtp://@239.186.68.175:10000
 #EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
 #EXTINF:-1 ,Citv itv Childrens
 rtp://239.186.74.73:10000
-#EXTINF:-1 audio-track="eng" ,Cartoon Network HD
-udp://@239.101.10.29:1234
 #EXTINF:-1 audio-track="eng" ,Disney channel HD
 rtp://233.21.50.11:1234
 #EXTINF:-1 audio-track="eng" ,Disney Junior HD
@@ -135,8 +127,6 @@ rtp://239.186.64.172:10000
 rtp://239.186.64.213:10000
 #EXTINF:-1 ,Paramount network UK
 rtp://239.186.74.84:10000
-#EXTINF:-1 audio-track="eng" ,TCM CINEMA HD
-udp://@239.101.10.9:1234
 #EXTINF:-1 audio-track="eng" ,13th STREET HD
 rtp://233.21.50.4:1234
 #EXTINF:-1 audio-track="eng" ,SyFy HD
