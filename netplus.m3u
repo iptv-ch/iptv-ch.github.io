@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
 #EXTREM netplus iptv open
 #EXTREM french
-#EXTINF:-1 ,RTS Un HD
+#EXTINF:-1 ,RTS1 HD
 udp://@239.101.10.46:1234
-#EXTINF:-1 ,RTS Deux HD
+#EXTINF:-1 ,RTS2 HD
 udp://@239.101.10.47:1234
 #EXTINF:-1 ,TF1 HD
 udp://@239.101.10.63:1234
@@ -27,36 +27,10 @@ udp://@239.101.10.21:1234
 udp://@239.101.10.23:1234
 #EXTINF:-1 ,NRJ 12 HD
 udp://@239.101.10.24:1234
-#EXTINF:-1 ,BFMTV HD
-udp://@239.101.10.17:1234
-#EXTINF:-1 ,CNews HD
-udp://@239.101.10.161:1234
-#EXTINF:-1 ,CSTAR HD
-udp://@239.101.10.27:1234
-#EXTINF:-1 ,Gulli HD
-udp://@239.101.10.31:1234
-#EXTINF:-1 ,TF1 Séries Films HD
-udp://@239.101.10.50:1234
-#EXTINF:-1 ,L'Equipe HD
-udp://@239.101.10.54:1234
-#EXTINF:-1 ,6ter HD
-udp://@239.101.10.51:1234
-#EXTINF:-1 ,RMC Story HD
-udp://@239.101.10.52:1234
 #EXTINF:-1 ,RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 ,Chérie 25 HD
-udp://@239.101.10.55:1234
-#EXTINF:-1 ,LCI HD
-udp://@239.101.10.162:1234
 #EXTINF:-1 ,Canal+ HD
 udp://@239.101.10.39:1234
-#EXTINF:-1 ,TV5MONDE FBS HD 
-udp://@239.101.10.18:1234
-#EXTINF:-1 ,KtO
-udp://@239.101.10.43:1234
-#EXTINF:-1 ,8MontBlanc HD low quality
-udp://@239.101.10.36:1234
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
 udp://@239.101.10.48:1234
@@ -64,8 +38,6 @@ udp://@239.101.10.48:1234
 udp://@239.101.10.49:1234
 #EXTINF:-1 ,SRF info HD
 udp://@239.101.10.203:1234
-#EXTINF:-1 ,3Sat HD
-udp://@239.101.10.149:1234
 #EXTREM italian
 #EXTINF:-1 ,RSI LA 1 HD
 udp://@239.101.10.44:1234
