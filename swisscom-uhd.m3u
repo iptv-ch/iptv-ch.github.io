@@ -7,7 +7,7 @@ rtp://239.186.76.2:10000
 rtp://239.186.76.4:10000
 #EXTINF:-1 ,Ultra Nature UHD
 rtp://239.186.76.6:10000
-#EXTINF:-1 ,vision tv UHD
+#EXTINF:-1 ,blue vision tv UHD
 rtp://239.186.76.11:10000
 #EXTINF:-1 ,FashionTV UHD
 rtp://239.186.76.21:10000
@@ -27,7 +27,7 @@ rtp://239.186.79.25:10000
 rtp://239.186.79.26:10000
 #EXTINF:-1 ,blue vision tv UHD
 rtp://239.186.79.27:10000
-#EXTINF:-1 ,Ulra Nature UHD
+#EXTINF:-1 ,Ultra Nature UHD
 rtp://239.186.79.28:10000
 #EXTINF:-1 ,Stingray festival4k UHD
 rtp://239.186.79.29:10000
