@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Astra UHD
 rtp://239.186.76.1:10000
-#EXTINF:-1 ,The Explorers UHD
+#EXTINF:-1 ,HotBird 4k1 UHD
 rtp://239.186.76.2:10000
-#EXTINF:-1 ,Sky demo UHD
-rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
 rtp://239.186.76.4:10000
 #EXTINF:-1 ,Ultra Nature UHD
@@ -13,23 +11,33 @@ rtp://239.186.76.6:10000
 rtp://239.186.76.11:10000
 #EXTINF:-1 ,FashionTV UHD
 rtp://239.186.76.21:10000
+#EXTINF:-1 ,RTL UHD
+rtp://239.186.76.22:10000
 #EXTINF:-1 ,NASA UHD
 rtp://239.186.76.29:10000
 #EXTINF:-1 ,Sky Blackout UHD
 rtp://239.186.79.23:10000
-#EXTINF:-1 , vision tv UHD
+#EXTINF:-1 , blue vision tv UHD
 rtp://239.186.79.24:10000
 #EXTINF:-1 ,FunBox UHD
 rtp://239.186.79.25:10000
 #EXTINF:-1 ,NASA TV UHD
+rtp://239.186.79.25:10000
+#EXTINF:-1 ,Insight UHD
 rtp://239.186.79.26:10000
-#EXTINF:-1 ,WOW! 4K
+#EXTINF:-1 ,blue vision tv UHD
+rtp://239.186.79.27:10000
+#EXTINF:-1 ,Ulra Nature UHD
 rtp://239.186.79.28:10000
 #EXTINF:-1 ,Stingray festival4k UHD
 rtp://239.186.79.29:10000
-#EXTINF:-1 ,vision tv UHD
+#EXTINF:-1 ,FashionTV 4K UHD Demo
+rtp://239.186.79.97:10000
+#EXTINF:-1 ,Insight UHD
+rtp://239.186.79.98:10000
+#EXTINF:-1 ,blue vision tv UHD
 rtp://239.186.79.100:10000
-#EXTINF:-1 ,The Explorers UHD
+#EXTINF:-1 ,HotBird 4k1 UHD
 rtp://239.186.79.102:10000
 #EXTINF:-1 ,TC Sport UHD
 rtp://239.186.79.112:10000
