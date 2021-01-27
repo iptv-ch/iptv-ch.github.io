@@ -115,7 +115,7 @@ rtp://239.186.66.142:10000
 rtp://239.186.66.114:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.epg.best/uk/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
 rtp://239.186.64.183:10000
-#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="TRACE URBAN UK" tvg-logo="http://static.epg.best/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE URBAN
+#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="TRACE URBAN UK" tvg-logo="http://static.epg.best/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE HITS
 rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",Now 70s
 rtp://239.186.74.108:10000
@@ -533,10 +533,10 @@ rtp://239.186.64.197:10000
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="tve.es" tvg-name="tve ES" tvg-logo="https://static.epg.best/es/tve.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
-#EXTINF:-1 ,Teledeporte Sports
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="teledeporte ES" tvg-logo="https://static.epg.best/es/teledeporte.es.png" tvg-chno="" channel-id="",Teledeporte Sports
 rtp://239.186.74.65:10000
 #EXTREM:turkish
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="420" channel-id="420",360
+#EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="http://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk
 rtp://239.186.64.204:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="421" channel-id="421",atv avrupa
 rtp://239.186.64.201:10000
@@ -583,7 +583,7 @@ rtp://239.186.66.120:10000
 rtp://239.186.66.85:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="443" channel-id="443",ESC1 (Al Masriya)
 rtp://239.186.64.193:10000
-#EXTINF:-1 tvg-id="ERTWorld.ca" tvg-name="ERT World CA" tvg-logo="http://static.epg.best/ca/ERTWorld.ca.png" tvg-chno="444" channel-id="444",ERT world
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World GR" tvg-logo="http://static.epg.best/gr/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world
 rtp://239.186.66.227:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="446" channel-id="446",HRT1
 rtp://239.186.66.125:10000
