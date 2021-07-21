@@ -30,8 +30,6 @@ udp://@239.101.10.23:1234
 rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 rtp://239.186.84.35:10000
-#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
-rtp://239.186.68.121:10000
 #EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="BFM TV" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="17" channel-id="17",BFMTV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
@@ -76,14 +74,10 @@ rtp://233.21.50.11:1234
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV FR" tvg-logo="http://static.epg.best/de/MotorVision.de.png" tvg-chno="56" channel-id="56",motorvision.tv HD
-rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD French
 rtp://233.21.50.54:1234
 #EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
 rtp://233.21.50.55:1234
-#EXTINF:-1 tvg-id="C212.api.telerama.fr" tvg-name="Voyage FR" tvg-logo="http://static.epg.best/fr/Voyage.fr.png" tvg-chno="59" channel-id="59",Voyage HD
-rtp://233.21.50.56:1234
 #EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="Tv Breizh FR" tvg-logo="http://static.epg.best/fr/TvBreizh.fr.png" tvg-chno="60" channel-id="60",TV Breizh HD
 rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="C451.api.telerama.fr" tvg-name="Ushuaïa TV" tvg-logo="http://static.epg.best/fr/UshuaiaTV.fr.png" tvg-chno="61" channel-id="61",Ushuaia TV HD
@@ -96,14 +90,8 @@ rtp://233.32.39.142:1234
 rtp://233.32.39.143:1234
 #EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 tvg-id="C415.api.telerama.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.epg.best/fr/NauticalChannel.fr.png" tvg-chno="68" channel-id="68",Nautical Channel HD
-rtp://233.21.50.17:1234
 #EXTINF:-1 tvg-id="C675.api.telerama.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="69" channel-id="69",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
-#EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="RMC Sport Access 3 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="70" channel-id="70",RMC SPORT Access 3 HD
-rtp://233.32.39.169:1234
-#EXTINF:-1 tvg-id="C1382.api.telerama.fr" tvg-name="RMC Sport 4" tvg-logo="http://static.epg.best/fr/RMCSport4.fr.png" tvg-chno="71" channel-id="71",RMC SPORT 4 HD
-rtp://233.32.39.170:1234
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
 rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
