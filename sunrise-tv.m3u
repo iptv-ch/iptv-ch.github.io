@@ -44,18 +44,12 @@ rtp://233.21.50.4:1234
 rtp://233.21.50.5:1234
 #EXTINF:-1 ,Disney Channel HD french
 rtp://233.21.50.11:1234
-#EXTINF:-1 audio-track="fra" ,Nautical HD
-rtp://233.21.50.17:1234
-#EXTINF:-1 ,motorvision.tv HD
-rtp://233.21.50.27:1234
 #EXTINF:-1 ,Disney Junior HD french
 rtp://233.21.50.31:1234
 #EXTINF:-1 ,National Geographic HD french
 rtp://233.21.50.54:1234
-#EXTINF:-1 ,Nat Geo Wild HD french
+#EXTINF:-1 ,National Geographic Wild HD french
 rtp://233.21.50.55:1234
-#EXTINF:-1 ,Voyage HD
-rtp://233.21.50.56:1234
 #EXTINF:-1 ,TV Breizh HD
 rtp://233.21.50.57:1234
 #EXTINF:-1 ,Ushuaia TV HD
@@ -80,10 +74,6 @@ rtp://233.32.39.143:1234
 rtp://233.32.39.154:1234
 #EXTINF:-1 ,RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
-#EXTINF:-1 ,RMC SPORT Access 3 HD
-rtp://233.32.39.169:1234
-#EXTINF:-1 ,RMC Sport 4 HD
-rtp://233.32.39.170:1234
 #EXTINF:-1 ,Sunrise promotion F HD
 rtp://233.32.39.252:1234
 #EXTREM: deutsch
@@ -93,7 +83,7 @@ rtp://233.35.254.125:1234
 rtp://233.35.254.126:1234
 #EXTINF:-1 ,3sat HD
 rtp://233.35.254.209:1234
-#EXTINF:-1 ,ANIXE HD
+#EXTINF:-1 ,ANIXE SERIE HD
 rtp://233.35.254.46:1234
 #EXTINF:-1 ,arte D HD
 rtp://233.35.254.30:1234
@@ -103,8 +93,6 @@ rtp://233.35.254.204:1234
 rtp://233.35.254.33:1234
 #EXTINF:-1 ,euronews D
 rtp://233.35.254.20:1234
-#EXTINF:-1 ,Eurosport2 XTRA HD
-rtp://233.21.50.45:1234
 #EXTINF:-1 ,hr
 rtp://233.35.254.75:1234
 #EXTINF:-1 ,HSE24
@@ -121,7 +109,7 @@ rtp://233.35.254.127:1234
 rtp://233.35.254.128:1234
 #EXTINF:-1 ,Phoenix HD
 rtp://233.35.254.213:1234
-#EXTINF:-1 ,QS24
+#EXTINF:-1 ,QS24 HD
 rtp://233.35.254.211:1234
 #EXTINF:-1 ,Servus TV deutschland HD
 rtp://233.35.254.129:1234
