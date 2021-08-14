@@ -552,6 +552,8 @@ rtp://239.186.68.243:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,More Than Sports TV HD
 rtp://239.186.70.28:10000
+#EXTINF:-1 ,Hit Express TV HD HD
+rtp://239.186.84.22:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
