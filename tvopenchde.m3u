@@ -243,3 +243,9 @@ rtp://239.186.74.113:10000
 rtp://239.186.70.28:10000
 #EXTINF:-1 ,Hit Express TV HD HD
 rtp://239.186.84.22:10000
+#EXTINF:-1 ,ZWEI 2 Music TV HD (deu) (open, libre)
+rtp://239.186.70.204:10000
+#EXTINF:-1 ,ONE 1 Music TV HD (deu) (open, libre)
+rtp://239.186.70.214:10000
+#EXTINF:-1 ,Folx HD
+rtp://239.186.68.121:10000/
