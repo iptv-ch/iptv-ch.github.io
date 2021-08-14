@@ -146,3 +146,7 @@ rtp://239.186.84.23:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,GO-TV
 rtp://239.186.74.81:10000
+#EXTINF:-1 ,Radio Ticino channel HD
+rtp://239.186.68.192:10000
+#EXTINF:-1 ,Telepace HD
+rtp://239.186.84.15:10000
