@@ -111,8 +111,8 @@ rtp://239.186.68.146:10000
 rtp://239.186.68.12:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="http://static.epg.best/at/ORF2.at.png" tvg-chno="247" channel-id="247",ORF2 HD
 rtp://239.186.68.13:10000
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-logo="http://static.epg.best/at/ORF3.at.png" tvg-chno="248" channel-id="248",ORF3
-rtp://239.186.64.86:10000
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-logo="http://static.epg.best/at/ORF3.at.png" tvg-chno="248" channel-id="248",ORF3 HD
+rtp://239.186.70.122:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.epg.best/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="http://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben
@@ -235,7 +235,9 @@ rtp://239.186.74.70:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,eX eXtreme HD
+#EXTINF:-1 ,rro HD
 rtp://239.186.68.243:10000
 #EXTINF:-1 ,volksmusik.tv
 rtp://239.186.74.113:10000
+#EXTINF:-1 ,More Than Sports TV HD
+rtp://239.186.70.28:10000
