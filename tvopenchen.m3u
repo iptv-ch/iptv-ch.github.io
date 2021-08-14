@@ -96,6 +96,8 @@ rtp://239.186.74.25:10000
 rtp://239.186.84.31:10000
 #EXTINF:-1 ,Voice of America HD
 rtp://239.186.84.32:10000
+#EXTINF:-1 ,GBNews.uk HD
+rtp://239.186.84.57:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
@@ -131,8 +133,6 @@ rtp://239.186.64.172:10000
 rtp://239.186.64.213:10000
 #EXTINF:-1 ,Paramount network UK
 rtp://239.186.74.84:10000
-#EXTINF:-1 audio-track="eng" ,13th STREET HD
-rtp://233.21.50.4:1234
 #EXTINF:-1 audio-track="eng" ,SyFy HD
 rtp://233.21.50.5:1234
 #EXTINF:-1 audio-track="eng" ,OCS City HBO
@@ -149,3 +149,13 @@ rtp://239.186.74.87:10000
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
+#EXTINF:-1 ,CRACTION HD
+rtp://239.186.70.26:10000
+#EXTINF:-1 ,ESR eSports Revolution HD
+rtp://239.186.70.84:10000
+#EXTINF:-1 ,Great movies classic
+rtp://239.186.74.53:10000
+#EXTINF:-1 ,Great movies
+rtp://239.186.74.55:10000
+#EXTINF:-1 ,Great movies action
+rtp://239.186.74.58:10000
