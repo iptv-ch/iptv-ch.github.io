@@ -199,6 +199,12 @@ rtp://239.186.74.95:10000
 rtp://239.186.74.103:10000
 #EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality UK
 rtp://239.186.74.107:10000
+#EXTINF:-1 ,Great movies classic
+rtp://239.186.74.53:10000
+#EXTINF:-1 ,Great movies
+rtp://239.186.74.55:10000
+#EXTINF:-1 ,Great movies action
+rtp://239.186.74.58:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -378,6 +384,8 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="volksmusik.de" tvg-name="volksmusik DE" tvg-logo="http://static.epg.best/de/volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv
 rtp://239.186.74.113:10000
+#EXTINF:-1 ,More Than Sports TV
+rtp://239.186.66.241:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -513,6 +521,10 @@ rtp://239.186.74.71:10000
 rtp://239.186.74.79:10000
 #EXTINF:-1 ,senato italiano tv
 rtp://239.186.74.85:10000
+#EXTINF:-1 ,camera dei deputati
+rtp://239.186.74.59:10000
+#EXTINF:-1 ,GO-TV
+rtp://239.186.74.81:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
