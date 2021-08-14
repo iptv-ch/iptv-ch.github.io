@@ -241,3 +241,5 @@ rtp://239.186.68.243:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,More Than Sports TV HD
 rtp://239.186.70.28:10000
+#EXTINF:-1 ,Hit Express TV HD HD
+rtp://239.186.84.22:10000
