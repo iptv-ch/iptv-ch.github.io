@@ -817,6 +817,8 @@ rtp://239.186.70.209:10000
 rtp://239.186.70.80:10000
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT1 HR" tvg-logo="http://static.epg.best/hr/HRT1.hr" tvg-chno="446" channel-id="446",HRT1 HD
 rtp://239.186.70.183:10000
+#EXTINF:-1 tvg-id="HRTint.hr" tvg-name="HRTint HR" tvg-logo="http://static.epg.best/hr/HRTint.hr" tvg-chno="446" channel-id="446",HRT int HD
+rtp://239.186.70.153:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="http://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
 rtp://239.186.66.141:10000
 #EXTINF:-1 tvg-id="Kurdistantv.iq" tvg-name="KurdistanTV IQ" tvg-logo="http://static.epg.best/iq/Kurdistantv.iq.png" tvg-chno="449" channel-id="449",Kurdistan TV HD
