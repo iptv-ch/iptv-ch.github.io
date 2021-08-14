@@ -671,8 +671,8 @@ rtp://239.186.70.154:10000
 rtp://239.186.64.154:10000
 #EXTINF:-1 tvg-id="telenova.it" tvg-name="telenova IT" tvg-logo="http://static.epg.best/it/telenova.it.png" tvg-chno="413" channel-id="413",TELENOVA
 rtp://239.186.64.152:10000
-#EXTINF:-1 tvg-id="telepace.it" tvg-name="telepace IT" tvg-logo="http://static.epg.best/it/telepace.it.png" tvg-chno="414" channel-id="414",TELEPACE
-rtp://239.186.64.163:10000
+#EXTINF:-1 tvg-id="telepace.it" tvg-name="telepace IT" tvg-logo="http://static.epg.best/it/telepace.it.png" tvg-chno="414" channel-id="414",TELEPACE HD
+rtp://239.186.84.15:10000
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://static.epg.best/it/TV8.it.png" tvg-chno="416" channel-id="416",TV8 Italia
 rtp://239.186.64.161:10000
 #EXTINF:-1 tvg-id="uninettuno.it" tvg-name="Uninettuno IT" tvg-logo="http://static.epg.best/it/uninettuno.it" tvg-chno="417" channel-id="417",UNINETTUNO.tv
@@ -703,6 +703,8 @@ rtp://239.186.84.41:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,GO-TV
 rtp://239.186.74.81:10000
+#EXTINF:-1 ,Radio Ticino channel HD (ouvert)
+rtp://239.186.68.192:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
