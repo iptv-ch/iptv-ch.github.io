@@ -116,16 +116,14 @@ rtp://239.186.70.154:10000
 rtp://239.186.64.154:10000
 #EXTINF:-1 tvg-id="telenova.it" tvg-name="telenova IT" tvg-logo="http://static.epg.best/it/telenova.it.png" tvg-chno="413" channel-id="413",TELENOVA
 rtp://239.186.64.152:10000
-#EXTINF:-1 tvg-id="telepace.it" tvg-name="telepace IT" tvg-logo="http://static.epg.best/it/telepace.it.png" tvg-chno="414" channel-id="414",TELEPACE
-rtp://239.186.64.163:10000
+#EXTINF:-1 tvg-id="telepace.it" tvg-name="telepace IT" tvg-logo="http://static.epg.best/it/telepace.it.png" tvg-chno="414" channel-id="414",TELEPACE HD
+rtp://239.186.84.15:10000
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://static.epg.best/it/TV8.it.png" tvg-chno="416" channel-id="416",TV8 Italia
 rtp://239.186.64.161:10000
 #EXTINF:-1 tvg-id="uninettuno.it" tvg-name="Uninettuno IT" tvg-logo="http://static.epg.best/it/uninettuno.it" tvg-chno="417" channel-id="417",UNINETTUNO.tv
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.epg.best/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
-#EXTINF:-1 tvg-id="videoitalia.it" tvg-name="Video Italia IT" tvg-logo="http://static.epg.best/it/videoitalia.it.png" tvg-chno="142" channel-id="142",Video Italia HD
-udp://@239.101.10.181:1234
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
 #EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="http://static.epg.best/it/Espansione.it.png" tvg-chno="415" channel-id="415",Espansione TV
@@ -148,5 +146,3 @@ rtp://239.186.74.59:10000
 rtp://239.186.74.81:10000
 #EXTINF:-1 ,Radio Ticino channel HD
 rtp://239.186.68.192:10000
-#EXTINF:-1 ,Telepace HD
-rtp://239.186.84.15:10000
