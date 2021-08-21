@@ -55,14 +55,6 @@ rtp://239.186.74.103:10000
 #EXTREM Sports
 #EXTINF:-1 ,FREE SPORTS HD
 rtp://239.186.70.253:10000
-#EXTINF:-1 audio-track="eng" ,MotorVision E HD
-rtp://233.21.50.27:1234
-#EXTINF:-1 audio-track="eng" ,Nautical channel HD
-rtp://233.21.50.17:1234
-#EXTINF:-1 audio-track="eng" ,Eurosport1
-rtp://239.186.64.33:10000
-#EXTINF:-1 audio-track="eng" ,Extreme sports ex HD
-rtp://239.186.68.243:10000
 #EXTREM news
 #EXTINF:-1 ,BBC News HD
 rtp://239.186.68.160:10000
