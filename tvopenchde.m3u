@@ -59,14 +59,12 @@ rtp://239.186.64.34:10000
 rtp://239.186.70.28:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
-#EXTINF:-1 tvg-id="ENJY.TV.ch" tvg-name="ENJY.TV CH" tvg-logo="http://static.epg.best/de/ENJY.TV.ch.png" tvg-chno="206" channel-id="206",ENJY.TV HD
+#EXTINF:-1 tvg-id="enjoystmoritz.ch" tvg-name="enjoystmoritz CH" tvg-logo="http://static.epg.best/de/enjoystmoritz.ch.png" tvg-chno="206" channel-id="206",enjoy st.moritz.tv HD
 rtp://239.186.68.22:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="129" channel-id="129",HGTV (deu)
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.epg.best/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
-rtp://239.186.64.33:10000
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="http://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
 rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
@@ -145,8 +143,6 @@ rtp://233.35.254.129:1234
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="SessionStaendenrat.ch" tvg-name="SessionStaendenrat CH" tvg-logo="http://static.epg.best/ch/SessionStaendenrat.ch.png" tvg-chno="274" channel-id="274",SessionStaendenrat HD
 rtp://239.186.70.128:10000
-#EXTINF:-1 tvg-id="Pressekonferenz.ch" tvg-name="Pressekonferenz CH" tvg-logo="http://static.epg.best/ch/Pressekonferenz.ch.png" tvg-chno="275" channel-id="275",Pressekonferenz des Bundesrates HD
-rtp://239.186.79.27:10000
 #EXTINF:-1 tvg-id="SHf.ch" tvg-name="SHf CH" tvg-logo="http://static.epg.best/ch/SHf.ch.png" tvg-chno="277" channel-id="277",SHf HD
 rtp://239.186.68.139:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="http://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
@@ -235,7 +231,7 @@ rtp://239.186.74.70:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,rro HD
+#EXTINF:-1 ,rro tv radio rottu oberwallis HD
 rtp://239.186.68.243:10000
 #EXTINF:-1 ,volksmusik.tv
 rtp://239.186.74.113:10000
@@ -243,9 +239,9 @@ rtp://239.186.74.113:10000
 rtp://239.186.70.28:10000
 #EXTINF:-1 ,Hit Express TV HD HD
 rtp://239.186.84.22:10000
-#EXTINF:-1 ,ZWEI 2 Music TV HD (deu) (open, libre)
-rtp://239.186.70.204:10000
-#EXTINF:-1 ,ONE 1 Music TV HD (deu) (open, libre)
+#EXTINF:-1 ,ONE 1 Music TV HD
 rtp://239.186.70.214:10000
+#EXTINF:-1 ,ZWEI 2 Music TV HD
+rtp://239.186.70.204:10000
 #EXTINF:-1 ,Folx HD
 rtp://239.186.68.121:10000/
