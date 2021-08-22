@@ -76,8 +76,6 @@ rtp://233.21.50.11:1234
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV FR" tvg-logo="http://static.epg.best/de/MotorVision.de.png" tvg-chno="56" channel-id="56",motorvision.tv HD
-rtp://233.21.50.27:1234
 #EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD French
 rtp://233.21.50.54:1234
 #EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
@@ -96,8 +94,6 @@ rtp://233.32.39.142:1234
 rtp://233.32.39.143:1234
 #EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 tvg-id="C415.api.telerama.fr" tvg-name="Nautical Channel FR" tvg-logo="http://static.epg.best/fr/NauticalChannel.fr.png" tvg-chno="68" channel-id="68",Nautical Channel HD
-rtp://233.21.50.17:1234
 #EXTINF:-1 tvg-id="C675.api.telerama.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="69" channel-id="69",RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
 #EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="RMC Sport Access 3 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="70" channel-id="70",RMC SPORT Access 3 HD
@@ -364,10 +360,6 @@ rtp://239.186.68.22:10000
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.epg.best/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
-rtp://239.186.64.33:10000
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra DE" tvg-logo="http://static.epg.best/de/Eurosport2Xtra.de.png" tvg-chno="229" channel-id="229",EUROSPORT2 XTRA D HD
-rtp://233.21.50.45:1234
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="http://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
 rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
@@ -540,8 +532,6 @@ rtp://239.186.68.31:10000
 rtp://239.186.74.70:10000
 #EXTINF:-1 tvg-id="Puls24.ch" tvg-name="Puls24 CH" tvg-logo="http://static.epg.best/ch/puls24.ch.png tvg-chno="136" channel-id="136",Puls24 HD
 rtp://239.186.70.251:10000
-#EXTINF:-1 tvg-id="Blicktv.ch" tvg-name="BlickTV CH" tvg-logo="http://static.epg.best/ch/blicktv.ch.png" tvg-chno="138" channel-id="138",Blick TV HD
-#rtp://@239.186.84.16:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
 #EXTINF:-1 ,SCHLAGER DELUXE
@@ -865,15 +855,15 @@ rtp://239.186.74.83:10000
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,Zico TV (alb)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,Dubai Sports HD (ara)
+#EXTINF:-1 ,Dubai Sports HD
 rtp://239.186.70.254:10000
-#EXTINF:-1 ,Kuwait TV HD (ara)
+#EXTINF:-1 ,Kuwait TV HD
 rtp://239.186.84.20:10000
-#EXTINF:-1 ,bn music HD (bos)
+#EXTINF:-1 ,bn music HD
 rtp://239.186.84.34:10000
-#EXTINF:-1 ,RTSH3 (alb)
+#EXTINF:-1 ,RTSH3
 rtp://239.186.74.90:10000
-#EXTINF:-1 ,Oman TV HD (ara)
+#EXTINF:-1 ,Oman TV HD
 rtp://239.186.68.167:10000
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24 CZ" tvg-logo="https://static.epg.best/cz/CT24.cz.png" tvg-chno="" channel-id="",CT24 HD
 rtp://239.186.70.18:10000
