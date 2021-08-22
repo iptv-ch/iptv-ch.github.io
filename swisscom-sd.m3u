@@ -252,8 +252,6 @@ rtp://239.186.66.241:10000
 rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="208" channel-id="208",euronews. D
 rtp://239.186.64.137:10000
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.epg.best/de/Eurosport1.de.png" tvg-chno="210" channel-id="210",EUROSPORT1 D
-rtp://239.186.64.33:10000
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="https://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX D
 rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
