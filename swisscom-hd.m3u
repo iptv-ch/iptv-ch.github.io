@@ -550,6 +550,8 @@ rtp://239.186.68.121:10000
 rtp://239.186.70.214:10000
 #EXTINF:-1 ,ZWEI 2 Music TV HD
 rtp://239.186.70.204:10000
+#EXTINF:-1 ,Sony AXN 
+rtp://239.186.79.63:10000/
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
