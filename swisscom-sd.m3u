@@ -384,6 +384,8 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,More Than Sports TV
 rtp://239.186.66.241:10000
+#EXTINF:-1 ,Fix Foxi
+rtp://239.186.79.6:10000/
 #EXTINF:-1 ,Sony AXN 
 rtp://239.186.79.63:10000/
 #EXTREM:italian
