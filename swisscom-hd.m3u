@@ -556,6 +556,8 @@ rtp://239.186.79.63:10000/
 rtp://239.186.79.6:10000/
 #EXTINF:-1 ,Bild HD
 rtp://239.186.84.67:10000
+#EXTINF:-1 ,Marco Polo TV HD
+rtp://239.186.84.60:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -707,8 +709,6 @@ rtp://239.186.74.59:10000
 rtp://239.186.74.81:10000
 #EXTINF:-1 ,Radio Ticino channel
 rtp://239.186.68.192:10000
-#EXTINF:-1 ,Marco Polo TV HD
-rtp://239.186.84.60:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
