@@ -165,8 +165,8 @@ rtp://239.186.68.25:10000
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.epg.best/ch/Tele1.ch.png" tvg-chno="298" channel-id="298",Tele1 HD
 rtp://239.186.68.176:10000
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5
-rtp://239.186.64.22:10000
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5 HD
+rtp://239.186.84.59:10000
 #EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
 rtp://239.186.68.38:10000
 #EXTINF:-1 tvg-id="teled.ch" tvg-name="TELE D CH" tvg-logo="http://static.epg.best/ch/teled.ch.png" tvg-chno="304" channel-id="304",TELE D HD
@@ -249,3 +249,6 @@ rtp://239.186.68.121:10000/
 rtp://239.186.79.63:10000/
 #EXTINF:-1 ,Fix Foxi
 rtp://239.186.79.6:10000/
+#EXTINF:-1 ,Bild HD
+rtp://239.186.84.67:10000
+
