@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Astra UHD
 rtp://239.186.76.1:10000
-#EXTINF:-1 ,HotBird 4k1 UHD
-rtp://239.186.76.2:10000
 #EXTINF:-1 ,SRF1 FullHD UHD
 rtp://239.186.76.3:10000
 #EXTINF:-1 ,Insight UHD 
