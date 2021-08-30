@@ -468,8 +468,8 @@ rtp://239.186.68.25:10000
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.epg.best/ch/Tele1.ch.png" tvg-chno="298" channel-id="298",Tele1 HD
 rtp://239.186.68.176:10000
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5
-rtp://239.186.64.22:10000
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5 HD
+rtp://239.186.84.59:10000
 #EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
 rtp://239.186.68.38:10000
 #EXTINF:-1 tvg-id="teled.ch" tvg-name="TELE D CH" tvg-logo="http://static.epg.best/ch/teled.ch.png" tvg-chno="304" channel-id="304",TELE D HD
@@ -550,10 +550,12 @@ rtp://239.186.68.121:10000
 rtp://239.186.70.214:10000
 #EXTINF:-1 ,ZWEI 2 Music TV HD
 rtp://239.186.70.204:10000
-#EXTINF:-1 ,Sony AXN 
+#EXTINF:-1 ,Sony AXN
 rtp://239.186.79.63:10000/
 #EXTINF:-1 ,Fix & Foxi
 rtp://239.186.79.6:10000/
+#EXTINF:-1 ,Bild HD
+rtp://239.186.84.67:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -703,8 +705,10 @@ rtp://239.186.84.41:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,GO-TV
 rtp://239.186.74.81:10000
-#EXTINF:-1 ,Radio Ticino channel HD (ouvert)
+#EXTINF:-1 ,Radio Ticino channel
 rtp://239.186.68.192:10000
+#EXTINF:-1 ,Marco Polo TV HD
+rtp://239.186.84.60:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="KuriakosTv.pt" tvg-name="Kuriakos Tv PT" tvg-logo="http://static.epg.best/pt/KuriakosTv.pt.png" tvg-chno="450" channel-id="450",KURIAKOS TV HD
 rtp://239.186.70.149:10000
@@ -750,7 +754,7 @@ rtp://239.186.68.226:10000
 rtp://239.186.84.36:10000
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU TR" tvg-logo="http://static.epg.best/tr/TGRTEU.tr.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.epg.best/tr/TV8.tr.png" tvg-chno="431" channel-id="431",TV8int Turkey
+#EXTINF:-1 tvg-id="TV8int.tr" tvg-name="TV8int TR" tvg-logo="http://static.epg.best/tr/TV8int.tr.png" tvg-chno="431" channel-id="431",TV8int Turk HD
 rtp://239.186.64.205:10000
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.epg.best/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk HD
 rtp://239.186.70.210:10000
