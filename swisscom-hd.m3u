@@ -755,7 +755,7 @@ rtp://239.186.84.36:10000
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU TR" tvg-logo="http://static.epg.best/tr/TGRTEU.tr.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
 #EXTINF:-1 tvg-id="TV8int.tr" tvg-name="TV8int TR" tvg-logo="http://static.epg.best/tr/TV8int.tr.png" tvg-chno="431" channel-id="431",TV8int Turk HD
-rtp://239.186.64.205:10000
+rtp://239.186.84.73:10000
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.epg.best/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk HD
 rtp://239.186.70.210:10000
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRT BELGESEL TR" tvg-logo="http://static.epg.best/tr/TRTBELGESEL.tr.png" tvg-chno="146" channel-id="146",TRT Belgesel HD
