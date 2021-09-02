@@ -50,8 +50,6 @@ rtp://@239.186.84.2:10000
 rtp://239.186.74.95:10000
 #EXTINF:-1 ,CBS reality
 rtp://239.186.74.107:10000
-#EXTINF:-1 ,HGTV E
-rtp://239.186.74.103:10000
 #EXTREM Sports
 #EXTINF:-1 ,FREE SPORTS HD
 rtp://239.186.70.253:10000
@@ -133,8 +131,6 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.59:1234
 #EXTINF:-1 ,DMAX UK
 rtp://239.186.74.74:10000
-#EXTINF:-1 ,Vox africa
-rtp://239.186.74.76:10000
 #EXTINF:-1 ,Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 ,Channel four seven Channel4 7
