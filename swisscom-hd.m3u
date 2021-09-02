@@ -444,8 +444,6 @@ rtp://233.35.254.129:1234
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="SessionStaendenrat.ch" tvg-name="SessionStaendenrat CH" tvg-logo="http://static.epg.best/ch/SessionStaendenrat.ch.png" tvg-chno="274" channel-id="274",SessionStaendenrat HD
 rtp://239.186.70.128:10000
-#EXTINF:-1 tvg-id="Pressekonferenz.ch" tvg-name="Pressekonferenz CH" tvg-logo="http://static.epg.best/ch/Pressekonferenz.ch.png" tvg-chno="275" channel-id="275",Pressekonferenz des Bundesrates HD
-rtp://239.186.79.27:10000
 #EXTINF:-1 tvg-id="SHf.ch" tvg-name="SHf CH" tvg-logo="http://static.epg.best/ch/SHf.ch.png" tvg-chno="277" channel-id="277",SHf HD
 rtp://239.186.68.139:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="http://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
@@ -550,6 +548,8 @@ rtp://239.186.68.121:10000
 rtp://239.186.70.214:10000
 #EXTINF:-1 ,ZWEI 2 Music TV HD
 rtp://239.186.70.204:10000
+#EXTINF:-1 ,MAINTIME.TV HD
+rtp://239.186.70.244:10000
 #EXTINF:-1 ,Sony AXN
 rtp://239.186.79.63:10000/
 #EXTINF:-1 ,Fix & Foxi
