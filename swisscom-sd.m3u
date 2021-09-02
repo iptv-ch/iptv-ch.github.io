@@ -42,8 +42,6 @@ rtp://239.186.64.146:10000
 rtp://239.186.64.72:10000
 #EXTINF:-1 tvg-id="BoosterTV.ch" tvg-name="Booster TV CH" tvg-logo="http://static.epg.best/ch/BoosterTV.ch.png" tvg-chno="39" channel-id="39",tv suisse plus
 rtp://239.186.66.239:10000
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="Canal+ FR" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="41" channel-id="41",Canal+ programmes en clair
-rtp://239.186.79.5:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9 CH" tvg-logo="http://static.epg.best/ch/Canal9.ch.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
 #EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="44" channel-id="44",Canal Alpha JU
