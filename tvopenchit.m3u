@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTREM:IPTV open Swisscom + open Sunrise only italian language
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -6,13 +5,15 @@ rtp://239.186.68.5:10000
 rtp://239.186.68.6:10000
 #EXTINF:-1 tvg-id="teleticino.ch" tvg-name="teleticino CH" tvg-logo="http://static.epg.best/ch/teleticino.ch.png" tvg-chno="411" channel-id="411",teleticino HD
 rtp://239.186.68.201:10000
+#EXTINF:-1 ,Radio Ticino channel HD
+rtp://239.186.68.192:10000
 #EXTINF:-1 tvg-id="7GTelecity.it" tvg-name="7G Telecity IT" tvg-logo="http://static.epg.best/it/7GTelecity.it.png" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="almatv.it" tvg-name="ALMATV IT" tvg-logo="http://static.epg.best/it/almatv.it.png" tvg-chno="347" channel-id="347",ALMA TV
 rtp://239.186.66.107:10000
 #EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.epg.best/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3
 rtp://239.186.74.18:10000
-#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
+#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia 83
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
@@ -30,13 +31,15 @@ rtp://239.186.66.187:10000
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="http://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Discovery-italia food network I
 rtp://239.186.66.122:10000
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia Frisbee /FAMILY CLUB
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia Frisbee
 rtp://239.186.66.188:10000
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-italia HGTV
+rtp://239.186.74.71:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
-#EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-name="Italia Channel IT" tvg-logo="http://static.epg.best/it/ItaliaChannel.it.png" tvg-chno="365" channel-id="365",Italia Channel
+#EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-name="Italia Channel IT" tvg-logo="http://static.epg.best/it/ItaliaChannel.it.png" tvg-chno="365" channel-id="365",ITALIA CHANNEL 123
 rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.epg.best/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
 rtp://239.186.70.7:10000
@@ -116,8 +119,6 @@ rtp://239.186.70.154:10000
 rtp://239.186.64.154:10000
 #EXTINF:-1 tvg-id="telenova.it" tvg-name="telenova IT" tvg-logo="http://static.epg.best/it/telenova.it.png" tvg-chno="413" channel-id="413",TELENOVA
 rtp://239.186.64.152:10000
-#EXTINF:-1 tvg-id="telepace.it" tvg-name="telepace IT" tvg-logo="http://static.epg.best/it/telepace.it.png" tvg-chno="414" channel-id="414",TELEPACE HD
-rtp://239.186.84.15:10000
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://static.epg.best/it/TV8.it.png" tvg-chno="416" channel-id="416",TV8 Italia
 rtp://239.186.64.161:10000
 #EXTINF:-1 tvg-id="uninettuno.it" tvg-name="Uninettuno IT" tvg-logo="http://static.epg.best/it/uninettuno.it" tvg-chno="417" channel-id="417",UNINETTUNO.tv
@@ -130,8 +131,6 @@ rtp://239.186.66.108:10000
 rtp://239.186.74.22:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-italia HGTV
-rtp://239.186.74.71:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
 #EXTINF:-1 ,TOP CALCIO 24
@@ -144,5 +143,3 @@ rtp://239.186.84.23:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,GO-TV
 rtp://239.186.74.81:10000
-#EXTINF:-1 ,Radio Ticino channel HD
-rtp://239.186.68.192:10000
