@@ -228,6 +228,8 @@ rtp://239.186.64.111:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.iptv-epg.com/fr/TV5MondeEurope.fr.png" tvg-chno="" channel-id="",TV5MONDE EUROPE HD
+rtp://239.186.84.54:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5MONDE FRANCE BELGIQUE SUISSE
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.iptv-epg.com/fr/TV5Monde.fr.png" tvg-chno="109" channel-id="109",TV5MONDE FRANCE BELGIQUE SUISSE HD
@@ -289,10 +291,8 @@ rtp://239.186.66.115:10000
 rtp://239.186.66.133:10000
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="http://static.iptv-epg.com/uk/ClublandTV.uk.png" tvg-chno="141" channel-id="141",clubland
 rtp://239.186.66.116:10000
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.iptv-epg.com/uk/CNBC.uk.png" tvg-chno="142" channel-id="142",CNBC EU
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.iptv-epg.com/uk/CNBC.uk.png" tvg-chno="142" channel-id="142",CNBC UK
 rtp://239.186.64.167:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="143" channel-id="143",J-One
-rtp://239.186.70.118:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="http://static.iptv-epg.com/uk/CNN.uk.png" tvg-chno="144" channel-id="144",CNN International
 rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="http://static.iptv-epg.com/uk/CNN.uk.png" tvg-chno="145" channel-id="145",CNN International HD
