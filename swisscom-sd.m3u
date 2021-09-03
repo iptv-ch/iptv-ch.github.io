@@ -90,8 +90,6 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20
-rtp://239.186.74.109:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -181,8 +179,6 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.73:10000
 #EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DiscoveryDMAX UK" tvg-logo="http://static.epg.best/uk/DiscoveryDMAX.uk.png" tvg-chno="" channel-id="",DMAX UK
 rtp://239.186.74.74:10000
-#EXTINF:-1 tvg-id="voxafrica.uk" tvg-name="vox africa UK" tvg-logo="http://static.epg.best/uk/voxafrica.uk.png" tvg-chno="" channel-id="",vox africa
-rtp://239.186.74.76:10000
 #EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
 rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
@@ -193,8 +189,6 @@ rtp://239.186.74.93:10000
 rtp://239.186.74.94:10000
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="http://static.epg.best/uk/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
-#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV UK" tvg-logo="http://static.epg.best/uk/HGTV.uk.png" tvg-chno="" channel-id="",HGTV Home & Garden
-rtp://239.186.74.103:10000
 #EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality UK
 rtp://239.186.74.107:10000
 #EXTINF:-1 ,Great movies classic
@@ -230,8 +224,6 @@ rtp://239.186.64.23:10000
 rtp://239.186.64.131:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="http://static.epg.best/de/BR.de.png" tvg-chno="194" channel-id="194",BR
 rtp://239.186.64.26:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="196" channel-id="196",CCone
-rtp://239.186.64.107:10000
 #EXTINF:-1 tvg-id="Channel55.ch" tvg-name="Channel55 CH" tvg-logo="https://static.epg.best/ch/Channel55.ch.png" tvg-chno="198" channel-id="198",Channel55 D
 rtp://239.186.66.238:10000
 #EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="http://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201",DELUXE MUSIC
@@ -399,7 +391,7 @@ rtp://239.186.66.107:10000
 rtp://239.186.74.18:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
 rtp://239.186.64.74:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="350" channel-id="350",CANALE Italia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="350" channel-id="350",CANALE Italia 83
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",Cartoonito
 rtp://239.186.66.176:10000
@@ -409,11 +401,11 @@ rtp://239.186.64.76:10000
 rtp://239.186.66.189:10000
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.epg.best/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
 rtp://239.186.66.110:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia FRISBEE /FAMILY CLUB
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia FRISBEE
 rtp://239.186.66.188:10000
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Discovery-italia Giallo
 rtp://239.186.66.187:10000
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2
 rtp://239.186.66.186:10000
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend IT" tvg-logo="https://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359", Discovery-italia MOTOR TREND
 rtp://239.186.74.21:10000
@@ -425,7 +417,7 @@ rtp://239.186.64.158:10000
 rtp://239.186.66.43:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="365" channel-id="365",ITALIA CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="365" channel-id="365",ITALIA CHANNEL 123
 rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.epg.best/it/La7.it.png" tvg-chno="366" channel-id="366",LA7
 rtp://239.186.64.49:10000
@@ -501,8 +493,6 @@ rtp://239.186.64.99:10000
 rtp://239.186.64.154:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="413" channel-id="413",TELENOVA
 rtp://239.186.64.152:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="414" channel-id="414",TELEPACE
-rtp://239.186.64.163:10000
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://static.epg.best/it/TV8.it.png" tvg-chno="416" channel-id="416",tv8 Italia
 rtp://239.186.64.161:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="417" channel-id="417",UNINETTUNO.TV
@@ -530,8 +520,6 @@ rtp://239.186.74.81:10000
 rtp://239.186.64.83:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 tvg-id="TpaInternational.pt" tvg-name="Tpa International PT" tvg-logo="http://static.epg.best/pt/TpaInternational.pt.png" tvg-chno="" channel-id="",tpa internacional Angola
-rtp://239.186.74.99:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="Aragontv.es" tvg-name="aragon TV ES" tvg-logo="http://static.epg.best/es/aragontv.es.png" tvg-chno="" channel-id="",Aragon int
 rtp://239.186.66.62:10000
@@ -552,8 +540,6 @@ rtp://239.186.74.65:10000
 rtp://239.186.64.204:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="421" channel-id="421",atv avrupa
 rtp://239.186.64.201:10000
-#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="Powerturk TR" tvg-logo="http://static.epg.best/tr/Powerturk.tr.png" tvg-chno="426" channel-id="426",POWERTURK
-rtp://239.186.66.134:10000
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="Showmax TR" tvg-logo="http://static.epg.best/tr/Showmax.tr.png" tvg-chno="428" channel-id="428",SHOW MAX
 rtp://239.186.64.209:10000
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.epg.best/tr/ShowTV.tr.png" tvg-chno="429" channel-id="429",SHOW TURK
@@ -607,10 +593,6 @@ rtp://239.186.66.203:10000
 rtp://239.186.66.132:10000
 #EXTINF:-1 tvg-id="PlanetaRTR.ru" tvg-name="Planeta RTR " tvg-logo="http://static.epg.best/tr/PlanetaRTR.ru.png" tvg-chno="452" channel-id="452",PLANETA RTR
 rtp://239.186.66.138:10000
-#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="RTRS BA" tvg-logo="https://static.epg.best/ba/RTRS.ba.png" tvg-chno="454" channel-id="454",PTPC
-rtp://239.186.66.136:10000
-#EXTINF:-1 tvg-id="RTRSPlus.ba" tvg-name="RTRS Plus BA" tvg-logo="https://static.epg.best/ba/RTRSPlus.ba.png" tvg-chno="" channel-id="",PTPC plus
-rtp://239.186.74.92:10000
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="http://static.epg.best/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV INTERNATIONAL
 rtp://239.186.66.135:10000
 #EXTINF:-1 tvg-id="RiK.sk" tvg-name="RiK SK" tvg-logo="http://static.epg.best/sk/RiK.sk.png" tvg-chno="456" channel-id="456",RiK Sat
@@ -627,9 +609,7 @@ rtp://239.186.66.148:10000
 rtp://239.186.66.149:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AlJazeeraArabic.qa" tvg-logo="http://static.epg.best/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
 rtp://239.186.64.173:10000
-#EXTINF:-1 tvg-id="HayatMusic.ba" tvg-name="Hayat Music BA" tvg-logo="https://static.epg.best/ba/HayatMusic.ba.png" tvg-chno="" channel-id="",Hayat Music
-rtp://239.186.66.246:10000
-#EXTINF:-1 ,Digi 24 (rum)
+#EXTINF:-1 ,Digi 24
 rtp://239.186.74.64:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
