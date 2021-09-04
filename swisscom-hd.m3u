@@ -122,7 +122,7 @@ rtp://239.186.70.82:10000
 rtp://239.186.70.39:10000
 #EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFMTV CH" tvg-logo="http://static.epg.best/ch/lfmtv.ch.png" tvg-chno="77" channel-id="77",LFM TV HD
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="booster.ch" tvg-name="Booster CH" tvg-logo="http://static.epg.best/ch/booster.ch.png" tvg-chno="79" channel-id="79",booster HD
+#EXTINF:-1 tvg-id="tvsuisseplus.ch" tvg-name="tvsuisseplus CH" tvg-logo="http://static.epg.best/ch/tvsuisseplus.ch.png" tvg-chno="79" channel-id="79",TV SUISSE PLUS HD
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="80" channel-id="80",tvm3 HD
 rtp://239.186.70.21:10000
@@ -173,11 +173,11 @@ rtp://239.186.66.142:10000
 rtp://239.186.70.90:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.epg.best/uk/Channel4.uk.png" tvg-chno="101" channel-id="101",Channel4 HD
 rtp://239.186.68.40:10000
-#EXTINF:-1 tvg-id="Traceurban.uk" tvg-name="Trace Urban UK" tvg-logo="http://static.epg.best/uk/traceurban.uk.png" tvg-chno="102" channel-id="102",TRACE URBAN
+#EXTINF:-1 tvg-id="Tracehits.uk" tvg-name="Trace Hits UK" tvg-logo="http://static.epg.best/uk/tracehits.uk.png" tvg-chno="102" channel-id="102",TRACE Hits
 rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="http://static.epg.best/uk/ClublandTV.uk.png" tvg-chno="104" channel-id="104",Clubland TV
 rtp://239.186.66.116:10000
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.epg.best/uk/CNBC.uk.png" tvg-chno="105" channel-id="105",CNBC EU HD
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="http://static.epg.best/uk/CNBC.uk.png" tvg-chno="105" channel-id="105",CNBC UK HD
 rtp://239.186.70.224:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="http://static.epg.best/uk/CNN.uk.png" tvg-chno="107" channel-id="107",CNN International HD
 rtp://239.186.70.23:10000
@@ -563,10 +563,12 @@ rtp://239.186.66.187:10000
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="http://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Discovery-italia food network I
 rtp://239.186.66.122:10000
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 /Family club
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia Frisbee
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia Frisbee / /Family club
 rtp://239.186.66.188:10000
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-italia HGTV
+rtp://239.186.74.71:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
 #EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-name="Italia Channel IT" tvg-logo="http://static.epg.best/it/ItaliaChannel.it.png" tvg-chno="365" channel-id="365",Italia Channel 123
@@ -661,8 +663,6 @@ rtp://239.186.66.108:10000
 rtp://239.186.74.22:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-italia HGTV
-rtp://239.186.74.71:10000
 #EXTINF:-1 ,TOP CALCIO 24
 rtp://239.186.74.79:10000
 #EXTINF:-1 ,senato italiano tv
