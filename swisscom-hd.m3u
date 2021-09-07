@@ -803,8 +803,6 @@ rtp://239.186.70.191:10000
 rtp://239.186.74.64:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 ,HRT int. (hrv)
-rtp://239.186.74.83:10000
 #EXTINF:-1 tvg-id="karusel.ru" tvg-name="Karusel RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" tvg-chno="" channel-id="",Karusel Int. (rus)
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,Zico TV (alb)
