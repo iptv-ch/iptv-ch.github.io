@@ -532,6 +532,8 @@ rtp://239.186.79.6:10000/
 rtp://239.186.84.67:10000
 #EXTINF:-1 ,Marco Polo TV HD
 rtp://239.186.84.60:10000
+#EXTINF:-1 ,lilo TV
+rtp://239.186.74.82:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
