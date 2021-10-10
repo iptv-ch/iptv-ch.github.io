@@ -578,7 +578,7 @@ rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.epg.best/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",DUBAI TV
 rtp://239.186.66.119:10000
 #EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA
-rtp://239.186.66.120:10000
+rtp://239.186.74.52:10000
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD
 rtp://239.186.66.85:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="443" channel-id="443",ESC1 (Al Masriya)
