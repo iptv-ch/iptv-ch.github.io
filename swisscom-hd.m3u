@@ -633,8 +633,8 @@ rtp://239.186.66.34:10000
 rtp://239.186.64.156:10000
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
 rtp://239.186.70.2:10000
-#EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",radionorba TV
-rtp://239.186.66.247:10000
+#EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",radionorba TV HD
+rtp://239.186.84.20:10000
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5TV IT" tvg-logo="http://static.epg.best/it/RTL1025TV.it.png" tvg-chno="141" channel-id="141",RTL 102.5 TV HD
 rtp://239.186.70.181:10000
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="http://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
@@ -677,7 +677,7 @@ rtp://239.186.84.41:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,GO-TV
 rtp://239.186.74.81:10000
-#EXTINF:-1 ,Radio Ticino channel
+#EXTINF:-1 ,Radio Ticino channel HD
 rtp://239.186.68.192:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
