@@ -532,6 +532,10 @@ rtp://239.186.84.60:10000
 rtp://239.186.74.82:10000
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.epg.best/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH HD
 rtp://239.186.79.20:10000
+#EXTINF:-1 ,ORF SPORT+ HD
+rtp://239.186.84.71:10000
+#EXTINF:-1 ,BaernSPORT HD
+rtp://239.186.84.95:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -819,14 +823,15 @@ rtp://239.186.70.8:10000
 rtp://239.186.84.4:10000
 #EXTINF:-1 ,SYRI (alb)
 rtp://239.186.84.6:10000
+#EXTINF:-1 ,euronews. A HD (alb)
+rtp://239.186.84.79:10000
 #EXTINF:-1 ,Al Arabiya HD (ara)
 rtp://239.186.84.11:10000
 #EXTINF:-1 ,A TV HD (alb)
 rtp://239.186.84.12:10000
-#EXTINF:-1 ,ORF SPORT+ HD (deu)
-rtp://239.186.84.71:10000
 #EXTINF:-1 ,21 Macedonia TV HD (mkd)
 rtp://239.186.84.77:10000
 #EXTINF:-1 ,oranews tv HD
 rtp://239.186.70.254:10000
-
+#EXTINF:-1 ,FOX NEWS HD (alb)
+rtp://239.186.84.93:10000
