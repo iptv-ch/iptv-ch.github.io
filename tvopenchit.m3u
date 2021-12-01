@@ -51,8 +51,8 @@ rtp://239.186.68.163:10000
 rtp://239.186.68.165:10000
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="http://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",MEDIASET Rete4 HD
 rtp://239.186.70.188:10000
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",MEDIASET 20
-rtp://239.186.74.67:10000
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",MEDIASET 20 HD
+rtp://239.186.68.46:10000
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
 rtp://239.186.64.73:10000
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.epg.best/it/Italia2.it.png" tvg-chno="377" channel-id="377",MEDIASET ITALIA2
