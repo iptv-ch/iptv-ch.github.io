@@ -738,6 +738,38 @@ rtp://239.186.70.187:10000
 rtp://239.186.70.198:10000
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk TR" tvg-logo="http://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="" channel-id="",CNN Turk
 rtp://239.186.74.75:10000
+#EXTREM:albania
+#EXTINF:-1 ,RTSH3
+rtp://239.186.74.90:10000
+#EXTINF:-1 ,Zico TV (alb)
+rtp://239.186.74.98:10000
+#EXTINF:-1 ,abc HD (alb)
+rtp://239.186.70.8:10000
+#EXTINF:-1 ,TOP Channel (alb)
+rtp://239.186.84.4:10000
+#EXTINF:-1 ,SYRI (alb)
+rtp://239.186.84.6:10000
+#EXTINF:-1 ,euronews. A HD (alb)
+rtp://239.186.84.79:10000
+#EXTINF:-1 ,A TV HD (alb)
+rtp://239.186.84.12:10000
+#EXTINF:-1 ,21 Macedonia TV HD (mkd)
+rtp://239.186.84.77:10000
+#EXTINF:-1 ,oranews tv HD
+rtp://239.186.70.254:10000
+#EXTINF:-1 ,Fax NEWS HD (alb)
+rtp://239.186.84.93:10000
+#EXTREM:hungaria
+#EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
+rtp://239.186.70.205:10000
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD
+rtp://239.186.66.85:10000
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1 HU" tvg-logo="http://static.epg.best/hu/M1.hu.png" tvg-chno="156" channel-id="156",M1 HD
+rtp://239.186.70.206:10000
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2 HU" tvg-logo="http://static.epg.best/hu/M2.hu.png" tvg-chno="157" channel-id="157",M2 HD
+rtp://239.186.70.207:10000
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5 HU" tvg-logo="http://static.epg.best/hu/M5.hu.png" tvg-chno="159" channel-id="159",M5 HD
+rtp://239.186.70.209:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
@@ -759,16 +791,6 @@ rtp://239.186.64.82:10000
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.epg.best/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",Dubai international TV HD
 rtp://239.186.70.246:10000
-#EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
-rtp://239.186.70.205:10000
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD
-rtp://239.186.66.85:10000
-#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1 HU" tvg-logo="http://static.epg.best/hu/M1.hu.png" tvg-chno="156" channel-id="156",M1 HD
-rtp://239.186.70.206:10000
-#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2 HU" tvg-logo="http://static.epg.best/hu/M2.hu.png" tvg-chno="157" channel-id="157",M2 HD
-rtp://239.186.70.207:10000
-#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5 HU" tvg-logo="http://static.epg.best/hu/M5.hu.png" tvg-chno="159" channel-id="159",M5 HD
-rtp://239.186.70.209:10000
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World GR" tvg-logo="http://static.epg.best/ca/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world HD
 rtp://239.186.70.80:10000
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT1 HR" tvg-logo="http://static.epg.best/hr/HRT1.hr" tvg-chno="446" channel-id="446",HRT1 HD
@@ -809,29 +831,9 @@ rtp://239.186.74.64:10000
 rtp://239.186.74.77:10000
 #EXTINF:-1 tvg-id="karusel.ru" tvg-name="Karusel RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" tvg-chno="" channel-id="",Karusel Int. (rus)
 rtp://239.186.74.91:10000
-#EXTINF:-1 ,Zico TV (alb)
-rtp://239.186.74.98:10000
-#EXTINF:-1 ,bn music HD
+#EXTINF:-1 ,bn music HD (bos)
 rtp://239.186.84.34:10000
-#EXTINF:-1 ,RTSH3
-rtp://239.186.74.90:10000
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24 CZ" tvg-logo="https://static.epg.best/cz/CT24.cz.png" tvg-chno="" channel-id="",CT24 HD
 rtp://239.186.70.18:10000
-#EXTINF:-1 ,abc HD (alb)
-rtp://239.186.70.8:10000
-#EXTINF:-1 ,TOP Channel (alb)
-rtp://239.186.84.4:10000
-#EXTINF:-1 ,SYRI (alb)
-rtp://239.186.84.6:10000
-#EXTINF:-1 ,euronews. A HD (alb)
-rtp://239.186.84.79:10000
 #EXTINF:-1 ,Al Arabiya HD (ara)
 rtp://239.186.84.11:10000
-#EXTINF:-1 ,A TV HD (alb)
-rtp://239.186.84.12:10000
-#EXTINF:-1 ,21 Macedonia TV HD (mkd)
-rtp://239.186.84.77:10000
-#EXTINF:-1 ,oranews tv HD
-rtp://239.186.70.254:10000
-#EXTINF:-1 ,FOX NEWS HD (alb)
-rtp://239.186.84.93:10000
