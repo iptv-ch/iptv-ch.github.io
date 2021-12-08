@@ -835,5 +835,5 @@ rtp://239.186.74.91:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24 CZ" tvg-logo="https://static.epg.best/cz/CT24.cz.png" tvg-chno="" channel-id="",CT24 HD
 rtp://239.186.70.18:10000
-#EXTINF:-1 ,Al Arabiya HD (ara)
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al arabiya HD (ara)
 rtp://239.186.84.11:10000
