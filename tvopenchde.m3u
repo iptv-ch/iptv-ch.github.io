@@ -253,3 +253,15 @@ rtp://239.186.74.82:10000
 rtp://239.186.84.71:10000
 #EXTINF:-1 ,BaernSPORT HD
 rtp://239.186.84.95:10000
+#EXTINF:-1 ,WEF Feed 2 HD (deu)
+rtp://239.186.84.82:10000
+#EXTINF:-1 ,WEF Feed 3 HD (deu)
+rtp://239.186.84.83:10000
+#EXTINF:-1 ,WEF Feed 4 HD (deu)
+rtp://239.186.84.84:10000
+#EXTINF:-1 ,WEF Feed 5 HD (deu)
+rtp://239.186.84.86:10000
+#EXTINF:-1 ,WEF Feed 6 HD (deu)
+rtp://239.186.84.87:10000
+#EXTINF:-1 ,WEF Feed 7 HD (deu)
+rtp://239.186.84.88:10000
