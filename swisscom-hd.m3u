@@ -536,6 +536,18 @@ rtp://239.186.79.20:10000
 rtp://239.186.84.71:10000
 #EXTINF:-1 ,BaernSPORT HD
 rtp://239.186.84.95:10000
+#EXTINF:-1 ,WEF Feed 2 (deu)
+rtp://239.186.84.82:10000
+#EXTINF:-1 ,WEF Feed 3 (deu)
+rtp://239.186.84.83:10000
+#EXTINF:-1 ,WEF Feed 4 (deu)
+rtp://239.186.84.84:10000
+#EXTINF:-1 ,WEF Feed 5 (deu)
+rtp://239.186.84.86:10000
+#EXTINF:-1 ,WEF Feed 6 (deu)
+rtp://239.186.84.87:10000
+#EXTINF:-1 ,WEF Feed 7 (deu)
+rtp://239.186.84.88:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
