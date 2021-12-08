@@ -745,9 +745,9 @@ rtp://239.186.74.90:10000
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,abc HD (alb)
 rtp://239.186.70.8:10000
-#EXTINF:-1 ,TOP Channel (alb)
+#EXTINF:-1 ,TOP Channel HD (alb)
 rtp://239.186.84.4:10000
-#EXTINF:-1 ,SYRI (alb)
+#EXTINF:-1 ,SYRI HD (alb)
 rtp://239.186.84.6:10000
 #EXTINF:-1 ,euronews. A HD (alb)
 rtp://239.186.84.79:10000
