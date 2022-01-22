@@ -749,8 +749,8 @@ rtp://239.186.74.75:10000
 #EXTREM:hungaria
 #EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="http://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
 rtp://239.186.70.205:10000
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD
-rtp://239.186.66.85:10000
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="http://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD HD
+rtp://239.186.68.47:10000
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1 HU" tvg-logo="http://static.epg.best/hu/M1.hu.png" tvg-chno="156" channel-id="156",M1 HD
 rtp://239.186.70.206:10000
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2 HU" tvg-logo="http://static.epg.best/hu/M2.hu.png" tvg-chno="157" channel-id="157",M2 HD
@@ -766,8 +766,8 @@ rtp://239.186.70.199:10000
 rtp://239.186.64.193:10000
 #EXTINF:-1 tvg-id="tunisienationale.tn" tvg-name="Tunisie Nationale TN" tvg-logo="http://static.epg.best/tn/tunisienationale.tn.png" tvg-chno="153" channel-id="153",Tunisie Nationale
 rtp://239.186.74.89:10000
-#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="http://static.epg.best/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1 TV
-rtp://239.186.66.111:10000
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="http://static.epg.best/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1 TV HD
+rtp://239.186.84.94:10000
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="http://static.epg.best/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV 4 Europe CN" tvg-logo="http://static.epg.best/cn/CCTV4Europe.cn.png" tvg-chno="436" channel-id="436",CCTV4 HD
@@ -802,8 +802,8 @@ rtp://239.186.64.81:10000
 rtp://239.186.68.247:10000
 #EXTINF:-1 tvg-id="tgn.th" tvg-name="TGN TH" tvg-logo="http://static.epg.best/th/tgn.th.png" tvg-chno="461" channel-id="461",TGN Thai Global Network
 rtp://239.186.64.198:10000
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="http://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
-rtp://239.186.66.147:10000
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="http://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA HD
+rtp://239.186.84.96:10000
 #EXTINF:-1 tvg-id="tvri.ro" tvg-name="TVRomania RO" tvg-logo="http://static.epg.best/ro/tvri.ro.png" tvg-chno="465" channel-id="465",TVRi TV Romania International
 rtp://239.186.66.148:10000
 #EXTINF:-1 tvg-id="z1.hr" tvg-name="Z1 HR" tvg-logo="http://static.epg.best/hr/z1.hr.png" tvg-chno="466" channel-id="466",Z1 TV
