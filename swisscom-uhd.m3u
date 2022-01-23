@@ -23,25 +23,23 @@ rtp://239.186.76.6:10000
 rtp://239.186.76.11:10000
 #EXTINF:-1 ,NASA UHD
 rtp://239.186.76.29:10000
+#EXTINF:-1 ,H156 output1
+rtp://239.186.76.32:10000
 #EXTINF:-1 ,Sky demo UHD
 rtp://239.186.79.23:10000
-#EXTINF:-1 , blue vision tv UHD
+#EXTINF:-1 , SRF1 FullHD
 rtp://239.186.79.24:10000
 #EXTINF:-1 ,FunBox UHD
 rtp://239.186.79.25:10000
-#EXTINF:-1 ,NASA TV UHD
+#EXTINF:-1 ,Dolby Vision Atmos UHD
 rtp://239.186.79.25:10000
 #EXTINF:-1 ,Insight TV UHD
 rtp://239.186.79.26:10000
 #EXTINF:-1 ,blue vision tv UHD
 rtp://239.186.79.27:10000
-#EXTINF:-1 ,Ultra Nature UHD
-rtp://239.186.79.28:10000
 #EXTINF:-1 ,Stingray festival4k UHD
 rtp://239.186.79.29:10000
 #EXTINF:-1 ,Insight TV UHD
 rtp://239.186.79.98:10000
 #EXTINF:-1 ,blue vision tv UHD
 rtp://239.186.79.100:10000
-#EXTINF:-1 ,blue SPORT 1 LIVE UHD
-rtp://239.186.79.112:10000
