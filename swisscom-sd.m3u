@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="0",blue zoom F
+#EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
 rtp://239.186.64.5:10000
@@ -82,7 +82,7 @@ rtp://239.186.64.145:10000
 rtp://239.186.64.69:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
-#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5MONDE FRANCE BELGIQUE SUISSE
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV 5 Monde F-Be-Ch FR" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5 MONDE FRANCE BELGIQUE SUISSE MONACO
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="https://static.epg.best/ch/TVM3.ch.png" tvg-chno="110" channel-id="110",tvm3
 rtp://239.186.64.98:10000
@@ -298,8 +298,6 @@ rtp://239.186.64.16:10000
 rtp://239.186.66.201:10000
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="http://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
 rtp://239.186.64.18:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="267" channel-id="267",Schweiz5
-rtp://239.186.64.101:10000
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="Servus TV" tvg-logo="http://static.epg.best/at/ServusTV.at.png" tvg-chno="269" channel-id="269",ServusTV Deutschland CH
 rtp://239.186.64.136:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="271" channel-id="271",SessionNationalrat
@@ -334,7 +332,7 @@ rtp://239.186.64.103:10000
 rtp://239.186.64.9:10000
 #EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="http://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="314" channel-id="314",Telebasel
 rtp://239.186.64.88:10000
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="316" channel-id="316",blue zoom D
+#EXTINF:-1 tvg-id="BlueZoomD.ch" tvg-name="Blue Zoom D CH" tvg-logo="http://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="316" channel-id="316",blue zoom D
 rtp://239.186.66.129:10000
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="318" channel-id="318",TLC CH
 rtp://239.186.66.175:10000
@@ -372,12 +370,6 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,More Than Sports TV
 rtp://239.186.66.241:10000
-#EXTINF:-1 ,Fix Foxi
-rtp://239.186.79.6:10000/
-#EXTINF:-1 ,Sony AXN 
-rtp://239.186.79.63:10000/
-#EXTINF:-1 ,lilo TV
-rtp://239.186.74.82:10000/
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
