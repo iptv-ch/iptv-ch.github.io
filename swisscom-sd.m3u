@@ -179,7 +179,7 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.73:10000
 #EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DiscoveryDMAX UK" tvg-logo="http://static.epg.best/uk/DiscoveryDMAX.uk.png" tvg-chno="" channel-id="",DMAX UK
 rtp://239.186.74.74:10000
-#EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-name="5ACTION UK" tvg-logo="http://static.epg.best/uk/5ACTION.uk.png" tvg-chno="" channel-id="",5ACTION
 rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
 rtp://239.186.74.87:10000
