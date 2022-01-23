@@ -243,10 +243,10 @@ rtp://239.186.84.32:10000
 rtp://239.186.74.72:10000
 #EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select UK" tvg-logo="http://static.epg.best/uk/5select.uk.png" tvg-chno="" channel-id="",5SELECT
 rtp://239.186.74.88:10000
+#EXTINF:-1 tvg-id="5action.uk" tvg-name="5ACTION UK" tvg-logo="http://static.epg.best/uk/5action.uk.png" tvg-chno="" channel-id="",5ACTION
+rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DiscoveryDMAX UK" tvg-logo="http://static.epg.best/uk/DiscoveryDMAX.uk.png" tvg-chno="" channel-id="",DMAX UK
 rtp://239.186.74.74:10000
-#EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="ParamountChannel UK" tvg-logo="http://static.epg.best/uk/ParamountChannel.uk.png" tvg-chno="" channel-id="",Paramount network UK
-rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="http://static.epg.best/uk/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
@@ -265,8 +265,6 @@ rtp://239.186.66.133:10000
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="craction.uk" tvg-name="Craction UK" tvg-logo="https://static.epg.best/gb/craction.uk.png" tvg-chno="" channel-id="",craction HD
 rtp://239.186.70.26:10000
-#EXTINF:-1 tvg-id="ESR.uk" tvg-name="ESR UK" tvg-logo="https://static.epg.best/gb/esr.uk.png" tvg.chno="" channel-id="" ,ESR.TV HD eSports Network HD
-rtp://239.186.70.84:10000
 #EXTINF:-1 ,Great movies classic
 rtp://239.186.74.53:10000
 #EXTINF:-1 ,Great movies
@@ -292,6 +290,8 @@ rtp://239.186.68.142:10000
 rtp://239.186.68.195:10000
 #EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="http://static.epg.best/ch/6Plus.ch.png" tvg-chno="179" channel-id="179",6+ HD
 rtp://239.186.70.116:10000
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="http://static.epg.best/ch/7Plus.ch.png" tvg-chno="239" channel-id="239",7+ HD
+rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="http://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
 #EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="http://static.epg.best/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
@@ -334,14 +334,10 @@ rtp://239.186.64.116:10000
 rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
-#EXTINF:-1 tvg-id="ENJY.TV.ch" tvg-name="ENJY.TV CH" tvg-logo="http://static.epg.best/de/ENJY.TV.ch.png" tvg-chno="206" channel-id="206",enjoy st.moritz.tv HD
-rtp://239.186.68.22:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="129" channel-id="129",HGTV (deu)
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="http://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
-rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
 rtp://239.186.64.141:10000
 #EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.epg.best/de/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeTV HD
@@ -374,8 +370,6 @@ rtp://239.186.68.207:10000
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="http://static.epg.best/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
 rtp://239.186.68.29:10000
-#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="http://static.epg.best/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239",7+ /nick schweiz HD
-rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.epg.best/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.epg.best/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
@@ -522,10 +516,6 @@ rtp://239.186.70.204:10000
 rtp://239.186.84.67:10000
 #EXTINF:-1 ,Marco Polo TV HD
 rtp://239.186.84.60:10000
-#EXTINF:-1 ,lilo TV
-rtp://239.186.74.82:10000
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.epg.best/de/RTL.de.png" tvg-chno="260" channel-id="260",RTL CH HD
-rtp://239.186.79.20:10000
 #EXTINF:-1 tvg-id="ORFsport.at" tvg-name="ORF 3" tvg-logo="https://static.epg.best/at/ORFSport.at.png" tvg-chno="249" channel-id="249",ORF SPORT+ HD
 rtp://239.186.84.80:10000
 #EXTINF:-1 ,BaernSPORT HD
@@ -649,8 +639,6 @@ rtp://239.186.84.20:10000
 rtp://239.186.70.181:10000
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="http://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
 rtp://239.186.66.177:10000
-#EXTINF:-1 tvg-id="SpikeTV.it" tvg-name="SpikeTV IT" tvg-logo="http://static.epg.best/it/SpikeTV.it.png" tvg-chno="407" channel-id="407",Spike
-rtp://239.186.66.178:10000
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport Italia SI
 rtp://239.186.74.24:10000
 #EXTINF:-1 tvg-id="super.it" tvg-name="super! IT" tvg-logo="http://static.epg.best/it/Super.it.png" tvg-chno="291" channel-id="291",SUPER!
@@ -728,8 +716,6 @@ rtp://239.186.68.226:10000
 rtp://239.186.84.36:10000
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRTEU TR" tvg-logo="http://static.epg.best/tr/TGRTEU.tr.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
-#EXTINF:-1 tvg-id="TV8int.tr" tvg-name="TV8int TR" tvg-logo="http://static.epg.best/tr/TV8int.tr.png" tvg-chno="431" channel-id="431",TV8int Turk HD
-rtp://239.186.84.73:10000
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.epg.best/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT Turk HD
 rtp://239.186.70.210:10000
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-name="TRT BELGESEL TR" tvg-logo="http://static.epg.best/tr/TRTBELGESEL.tr.png" tvg-chno="146" channel-id="146",TRT Belgesel HD
