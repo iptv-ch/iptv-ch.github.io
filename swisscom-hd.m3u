@@ -290,7 +290,7 @@ rtp://239.186.68.142:10000
 rtp://239.186.68.195:10000
 #EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="http://static.epg.best/ch/6Plus.ch.png" tvg-chno="179" channel-id="179",6+ HD
 rtp://239.186.70.116:10000
-#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="http://static.epg.best/ch/7Plus.ch.png" tvg-chno="239" channel-id="239",7+ HD
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="http://static.epg.best/ch/7Plus.ch.png" tvg-chno="239" channel-id="239",7+ HD / Nick D CH HD
 rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="http://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
