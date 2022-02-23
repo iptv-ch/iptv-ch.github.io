@@ -83,7 +83,15 @@ This file lists only radio channels.<br>
 
 ## Init7 TV7
 
-**https://iptv-ch.github.io/init7-tv7.m3u**
+**https://api.init7.net/tvchannels.m3u**
+**https://api.init7.net/tvchannels.xspf**
+
+Apple TV (tvOS) Apple TV 4 and 5 and above, olders are not supported.
+https://www.init7.net/en/support/faq/tv-apple-geraete/
+
+Android TV Android 7.0 onwards.
+https://www.init7.net/en/support/faq/tv-android-geraete/
+
 
 All channels available (198) if Init7 is your broadband provider<br>
 This file lists SD (108) and HD (90) channels.<br>
