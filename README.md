@@ -1,3 +1,5 @@
+## Still waiting iptv stream multicast from upc (now: sunrise upc) **
+
 # IPTV m3u Playlists for Swiss Providers
 
 This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:
@@ -86,4 +88,4 @@ This file lists only radio channels.<br>
 
 All channels available (198) if Init7 is your broadband provider<br>
 This file lists SD (108) and HD (90) channels.<br>
-[More information](https://www.init7.net/en/tv/offer/)
+[More information](https://www.init7.net/en/tv/offer/
