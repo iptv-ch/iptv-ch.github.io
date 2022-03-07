@@ -137,7 +137,7 @@ rtp://239.186.74.69:10000
 rtp://239.186.74.79:10000
 #EXTINF:-1 ,senato italiano tv
 rtp://239.186.74.85:10000
-#EXTINF:-1 ,Rtv SAN MARINO HD
+#EXTINF:-1 tvg-id="SMtvSanMarino.it" tvg-name="SMtv San Marino IT" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="" channel-id="",Rtv San Marino HD
 rtp://239.186.84.23:10000
 #EXTINF:-1 ,camera dei deputati
 rtp://239.186.74.59:10000
