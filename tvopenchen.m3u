@@ -137,8 +137,6 @@ rtp://239.186.74.93:10000
 rtp://239.186.74.94:10000
 #EXTINF:-1 ,CRACTION HD
 rtp://239.186.70.26:10000
-#EXTINF:-1 ,
-rtp://239.186.70.84:10000
 #EXTINF:-1 ,Great movies classic
 rtp://239.186.74.53:10000
 #EXTINF:-1 ,Great movies
