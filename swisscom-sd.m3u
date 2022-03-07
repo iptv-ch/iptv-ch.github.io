@@ -191,11 +191,11 @@ rtp://239.186.74.94:10000
 rtp://239.186.74.95:10000
 #EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality UK
 rtp://239.186.74.107:10000
-#EXTINF:-1 ,Great movies classic
+#EXTINF:-1 tvg-id="GreatClassic.uk" tvg-name="Great! Classic UK" tvg-logo="https://static.epg.best/gb/GreatClassic.uk.png" tvg-chno="" channel-id="",GREAT! movies classic
 rtp://239.186.74.53:10000
-#EXTINF:-1 ,Great movies
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies UK" tvg-logo="https://static.epg.best/gb/GreatMovies.uk.png" tvg-chno="" channel-id="",GREAT! movies
 rtp://239.186.74.55:10000
-#EXTINF:-1 ,Great movies action
+#EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
 rtp://239.186.74.58:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
@@ -364,7 +364,7 @@ rtp://239.186.64.66:10000
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="" channel-id="",VOXup
 rtp://239.186.74.70:10000
-#EXTINF:-1 tvg-id="schkagerdeluxe.de" tvg-name="schlager deluxe DE" tvg-logo="http://static.epg.best/de/schlagerdeluxe.de.png" tvg-chno="" channel-id="",SCHLAGER DELUXE
+#EXTINF:-1 tvg-id="schlagerdeluxe.de" tvg-name="schlager deluxe DE" tvg-logo="http://static.epg.best/de/schlagerdeluxe.de.png" tvg-chno="" channel-id="",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="volksmusik.de" tvg-name="volksmusik DE" tvg-logo="http://static.epg.best/de/volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv
 rtp://239.186.74.113:10000
@@ -611,7 +611,5 @@ rtp://239.186.74.83:10000
 rtp://239.186.74.89:10000
 #EXTINF:-1 ,Karusel Int. (rus)
 rtp://239.186.74.91:10000
-#EXTINF:-1 ,Zico TV (alb)
-rtp://239.186.74.98:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
