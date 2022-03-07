@@ -17,6 +17,8 @@ rtp://239.186.68.142:10000
 rtp://239.186.68.195:10000
 #EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="http://static.epg.best/ch/6Plus.ch.png" tvg-chno="179" channel-id="179",6+ HD
 rtp://239.186.70.116:10000
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="http://static.epg.best/de/7Plus.ch.png" tvg-chno="239" channel-id="239",7+ HD / nick schweiz HD
+rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="http://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
 #EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="http://static.epg.best/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
@@ -57,8 +59,6 @@ rtp://239.186.64.116:10000
 rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
-#EXTINF:-1 tvg-id="enjoystmoritz.ch" tvg-name="enjoystmoritz CH" tvg-logo="http://static.epg.best/de/enjoystmoritz.ch.png" tvg-chno="206" channel-id="206",enjoy st.moritz.tv HD
-rtp://239.186.68.22:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="http://static.epg.best/de/HGTV.de.png" tvg-chno="129" channel-id="129",HGTV (deu)
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
@@ -97,8 +97,6 @@ rtp://239.186.68.207:10000
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="http://static.epg.best/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
 rtp://239.186.68.29:10000
-#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="http://static.epg.best/de/Nickelodeon.de.png" tvg-chno="239" channel-id="239",7+ / nick schweiz HD
-rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.epg.best/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="http://static.epg.best/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
@@ -109,6 +107,8 @@ rtp://239.186.68.12:10000
 rtp://239.186.68.13:10000
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-logo="http://static.epg.best/at/ORF3.at.png" tvg-chno="248" channel-id="248",ORF3 HD
 rtp://239.186.70.122:10000
+#EXTINF:-1 tvg-id="ORFsport.at" tvg-name="ORF 3" tvg-logo="https://static.epg.best/at/ORFSport.at.png" tvg-chno="249" channel-id="249",ORF SPORT+ HD
+rtp://239.186.84.80:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.epg.best/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="http://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben
@@ -165,6 +165,8 @@ rtp://239.186.68.176:10000
 rtp://239.186.84.59:10000
 #EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
 rtp://239.186.68.38:10000
+#EXTINF:-1 tvg-id="BlueZoomD.ch" tvg-name="Blue Zoom D CH" tvg-logo="http://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="317" channel-id="317",blue ZOOM D HD
+rtp://239.186.68.155:10000
 #EXTINF:-1 tvg-id="teled.ch" tvg-name="TELE D CH" tvg-logo="http://static.epg.best/ch/teled.ch.png" tvg-chno="304" channel-id="304",TELE D HD
 rtp://239.186.68.217:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1 CH" tvg-logo="http://static.epg.best/ch/TeleM1.ch.png" tvg-chno="306" channel-id="306",Tele M1 HD
@@ -181,8 +183,6 @@ rtp://239.186.68.166:10000
 rtp://239.186.68.189:10000
 #EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="http://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="315" channel-id="315",Telebasel HD
 rtp://239.186.68.206:10000
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="317" channel-id="317",Blue zoom D HD
-rtp://239.186.68.155:10000
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="319" channel-id="319",TLC CH HD
 rtp://239.186.70.67:10000
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="http://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
@@ -225,14 +225,12 @@ rtp://239.186.68.31:10000
 rtp://239.186.74.70:10000
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="SwissSportTV CH" tvg-logo="http://static.epg.best/ch/swisssporttv.ch.png" tvg-chno="139" channel-id="139",Swiss Sport TV HD
 rtp://@239.186.84.17:10000
-#EXTINF:-1 ,SCHLAGER DELUXE
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="https://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="121" channel-id="121",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
 #EXTINF:-1 ,rro tv radio rottu oberwallis HD
 rtp://239.186.68.243:10000
-#EXTINF:-1 ,volksmusik.tv
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv
 rtp://239.186.74.113:10000
-#EXTINF:-1 ,More Than Sports TV HD
-rtp://239.186.70.28:10000
 #EXTINF:-1 ,Hit Express TV HD
 rtp://239.186.84.22:10000
 #EXTINF:-1 ,ONE 1 Music TV HD
@@ -241,14 +239,12 @@ rtp://239.186.70.214:10000
 rtp://239.186.70.204:10000
 #EXTINF:-1 ,Folx HD
 rtp://239.186.68.121:10000/
-#EXTINF:-1 ,Marco Polo TV HD
+#EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="Marco Polo TV DE" tvg-logo="https://static.epg.best/de/MarcoPoloTV.de.png" tvg-chno="" channel-id="",MARCO POLO TV HD
 rtp://239.186.84.60:10000
-#EXTINF:-1 ,Bild HD
+#EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild TV DE" tvg-logo="https://static.epg.best/de/BildTV.de.png" tvg-chno="" channel-id="",Bild HD
 rtp://239.186.84.67:10000
 #EXTINF:-1 ,lilo TV
 rtp://239.186.74.82:10000
-#EXTINF:-1 ,ORF SPORT+ HD (deu)
-rtp://239.186.84.80:10000
 #EXTINF:-1 ,BaernSPORT HD
 rtp://239.186.84.95:10000
 #EXTINF:-1 ,WEF Feed 2 HD (deu)
