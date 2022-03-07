@@ -91,7 +91,7 @@ rtp://239.186.84.57:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
-#EXTINF:-1 ,TRACE XMAS / TRACE URBAN
+#EXTINF:-1 ,TRACE HITS
 rtp://239.186.66.115:10000
 #EXTINF:-1 ,NOW 70s (eng)
 rtp://239.186.74.108:10000
@@ -119,8 +119,6 @@ rtp://233.21.50.31:1234
 #EXTREM movies
 #EXTINF:-1 ,Film4
 rtp://239.186.64.172:10000
-#EXTINF:-1 audio-track="eng" ,Fox
-rtp://239.186.64.213:10000
 #EXTINF:-1 ,Paramount network UK
 rtp://239.186.74.84:10000
 #EXTINF:-1 audio-track="eng" ,SyFy HD
@@ -139,7 +137,7 @@ rtp://239.186.74.93:10000
 rtp://239.186.74.94:10000
 #EXTINF:-1 ,CRACTION HD
 rtp://239.186.70.26:10000
-#EXTINF:-1 ,ESR eSports Revolution HD
+#EXTINF:-1 ,
 rtp://239.186.70.84:10000
 #EXTINF:-1 ,Great movies classic
 rtp://239.186.74.53:10000
