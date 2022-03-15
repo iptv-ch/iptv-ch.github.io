@@ -72,7 +72,7 @@ rtp://233.32.39.142:1234
 rtp://233.32.39.154:1234
 #EXTINF:-1 ,RMC SPORT Access 2 HD
 rtp://233.32.39.164:1234
-#EXTINF:-1 ,Sunrise promotion F HD
+#EXTINF:-1 ,Sunrise TV FR promotion HD
 rtp://233.32.39.252:1234
 #EXTREM: deutsch
 #EXTINF:-1 ,SRF1 HD
@@ -85,6 +85,8 @@ rtp://233.35.254.209:1234
 rtp://233.35.254.46:1234
 #EXTINF:-1 ,arte D HD
 rtp://233.35.254.30:1234
+#EXTINF:-1 ,blue ZOOM D HD
+rtp://233.32.39.228:1234
 #EXTINF:-1 ,BR HD
 rtp://233.35.254.204:1234
 #EXTINF:-1 ,Das Erste HD
@@ -97,7 +99,7 @@ rtp://233.35.254.75:1234
 rtp://233.35.254.76:1234
 #EXTINF:-1 ,KiKA HD
 rtp://233.35.254.208:1234
-#EXTINF:-1 ,MDR S-Anhalt
+#EXTINF:-1 ,mdr
 rtp://233.35.254.86:1234
 #EXTINF:-1 ,NDR HD
 rtp://233.35.254.207:1234
@@ -127,7 +129,7 @@ rtp://233.35.254.34:1234
 rtp://233.35.254.212:1234
 #EXTINF:-1 ,ZDF info HD
 rtp://233.35.254.210:1234
-#EXTINF:-1 ,Sunrise werbung HD
+#EXTINF:-1 ,Sunrise TV DE werbung HD
 rtp://233.32.39.251:1234
 #EXTREM: italiano
 #EXTINF:-1 ,RSI LA 1 HD
@@ -194,7 +196,7 @@ rtp://233.35.254.175:1234
 rtp://233.35.254.83:1234
 #EXTINF:-1 ,TELELOMBARDIA
 rtp://233.35.254.114:1234
-#EXTINF:-1 ,Sunrise pubblicita I HD
+#EXTINF:-1 ,Sunrise TV IT pubblicita HD
 rtp://233.32.39.253:1234
 #EXTREM: english
 #EXTINF:-1 ,BBC One HD
