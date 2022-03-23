@@ -496,6 +496,8 @@ rtp://239.186.74.70:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="https://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="" channel-id="",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
+#EXTINF:-1 tvg-id="SchlagerParadies.de" tvg-name="Schlager Paradies DE" tvg-logo="http://static.epg.best/de/SchlagerParadies.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES.TV HD / Sonnenklar.tv HD
+rtp://239.186.84.37:10000
 #EXTINF:-1 ,rro tv HD
 rtp://239.186.68.243:10000
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv
@@ -627,8 +629,8 @@ rtp://239.186.66.182:10000
 rtp://239.186.64.162:10000
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://static.epg.best/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola
 rtp://239.186.66.34:10000
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://static.epg.best/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24
-rtp://239.186.64.156:10000
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://static.epg.best/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24 HD
+rtp://239.186.70.84:10000
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
 rtp://239.186.70.2:10000
 #EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",radionorba TV HD
@@ -744,7 +746,7 @@ rtp://239.186.70.209:10000
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="http://static.epg.best/qa/AlJazeeraArabic.qa.png" tvg-chno="151" channel-id="151",ALJAZEERA Arabic HD
 rtp://239.186.70.199:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="443" channel-id="443",ESC1 (Al Masriya)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="443" channel-id="443",Al Masriya
 rtp://239.186.64.193:10000
 #EXTINF:-1 tvg-id="tunisienationale.tn" tvg-name="Tunisie Nationale TN" tvg-logo="http://static.epg.best/tn/tunisienationale.tn.png" tvg-chno="153" channel-id="153",Tunisie Nationale
 rtp://239.186.74.89:10000
@@ -808,3 +810,9 @@ rtp://239.186.74.90:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
+#EXTINF:-1 tvg-id="zicotv.al" tvg-name="zicotv AL" tvg-logo="http://static.epg.best/al/zicotv.al.png" tvg-chno="" channel-id="",zico.tv HD
+rtp://239.186.68.22:10000
+#EXTINF:-1 tvg-id="firstchannel.al" tvg-name="first channel AL" tvg-logo="http://static.epg.best/al/firstchannel.al.png" tvg-chno="" channel-id="",first channel HD
+rtp://239.186.70.244:10000
+#EXTINF:-1 tvg-id="bn2.ba" tvg-name="BN2 BA" tvg-logo="http://static.epg.best/ba/bn2.ba.png" tvg-chno="" channel-id="",BN2 HD
+rtp://239.186.70.252:10000
