@@ -227,6 +227,8 @@ rtp://239.186.74.70:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="https://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="121" channel-id="121",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
+#EXTINF:-1 tvg-id="SCHLAGERPARADIES.de" tvg-name="SCHLAGER PARADIES DE" tvg-logo="https://static.epg.best/de/SCHLAGERPARADIES.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES TV HD / Sonnenklar.tv HD
+rtp://239.186.84.37:10000
 #EXTINF:-1 ,rro tv radio rottu oberwallis HD
 rtp://239.186.68.243:10000
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv
