@@ -74,7 +74,7 @@ rtp://239.186.64.89:10000
 rtp://239.186.64.102:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="85" channel-id="85",nrtv
 rtp://239.186.66.198:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="302" channel-id="302",TeleBielingue
+#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",rougeTV
 rtp://239.186.64.145:10000
