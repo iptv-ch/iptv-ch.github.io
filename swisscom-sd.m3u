@@ -575,7 +575,7 @@ rtp://239.186.66.85:10000
 rtp://239.186.64.193:10000
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World GR" tvg-logo="http://static.epg.best/gr/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world
 rtp://239.186.66.227:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="446" channel-id="446",HRT1
+#EXTINF:-1 tvg-id="Htv1.hr" tvg-name="HTV 1 HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" tvg-chno="446" channel-id="446",HRT1
 rtp://239.186.66.125:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="http://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
 rtp://239.186.66.141:10000
@@ -595,13 +595,13 @@ rtp://239.186.64.81:10000
 rtp://239.186.64.198:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="http://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
 rtp://239.186.66.147:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="465" channel-id="465",TVRi TV Romania International
+#EXTINF:-1 tvg-id="TVRi.ro" tvg-name="TVRi RO" tvg-logo="https://static.epg.best/ro/TVRi.ro.png" tvg-chno="465" channel-id="465",TVRi TV Romania International
 rtp://239.186.66.148:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="466" channel-id="466",Z1
+#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1 HR" tvg-logo="https://static.epg.best/hr/Z1.hr.png" tvg-chno="466" channel-id="466",Z1
 rtp://239.186.66.149:10000
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AlJazeeraArabic.qa" tvg-logo="http://static.epg.best/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AlJazeeraArabic QA" tvg-logo="http://static.epg.best/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
 rtp://239.186.64.173:10000
-#EXTINF:-1 ,Digi 24
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24 RO" tvg-logo="https://static.epg.best/ro/Digi24.ro.png" tvg-chno="" channel-id="", Digi 24
 rtp://239.186.74.64:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
