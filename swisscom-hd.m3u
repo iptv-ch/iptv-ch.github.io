@@ -810,9 +810,3 @@ rtp://239.186.74.90:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 tvg-id="zicotv.al" tvg-name="zicotv AL" tvg-logo="http://static.epg.best/al/zicotv.al.png" tvg-chno="" channel-id="",zico.tv HD
-rtp://239.186.68.22:10000
-#EXTINF:-1 tvg-id="firstchannel.al" tvg-name="first channel AL" tvg-logo="http://static.epg.best/al/firstchannel.al.png" tvg-chno="" channel-id="",first channel HD
-rtp://239.186.70.244:10000
-#EXTINF:-1 tvg-id="bn2.ba" tvg-name="BN2 BA" tvg-logo="http://static.epg.best/ba/bn2.ba.png" tvg-chno="" channel-id="",BN2 HD
-rtp://239.186.70.252:10000
