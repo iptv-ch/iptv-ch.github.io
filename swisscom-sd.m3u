@@ -90,6 +90,44 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
+#EXTINF:-1 ,Equidia Live (fra)
+rtp://239.186.66.71:10000
+#EXTINF:-1 , 13ème Rue (fra)
+rtp://239.186.66.74:1000
+#EXTINF:-1 ,SyFy F (fra)
+rtp://239.186.66.75:10000
+#EXTINF:-1 ,tv breizh (fra)
+rtp://239.186.66.77:10000
+#EXTINF:-1 ,Discovery F (fra)
+rtp://239.186.66.78:10000
+#EXTINF:-1 ,National Geographic F (fra)
+rtp://239.186.66.79:10000
+#EXTINF:-1 ,National Geographic Wild F (fra)
+rtp://239.186.66.80:10000
+#EXTINF:-1 ,Ushuaïa TV (fra)
+rtp://239.186.66.82:10000
+#EXTINF:-1 ,HISTOIRE TV (fra)
+rtp://239.186.66.83:10000
+#EXTINF:-1 ,Disney Channel F (fra)
+rtp://239.186.66.87:10000
+#EXTINF:-1 ,Disney Junior F (fra)
+rtp://239.186.66.90:10000
+#EXTINF:-1 ,nickelodeon junior F (fra)
+rtp://239.186.66.91:10000
+#EXTINF:-1 ,MANGAS F (fra)
+rtp://239.186.66.92:10000
+#EXTINF:-1 ,Boing F (fra)
+rtp://239.186.66.93:10000
+#EXTINF:-1 ,Science channel F (fra)
+rtp://239.186.66.102:10000
+#EXTINF:-1 ,TRACE CARIBBEAN (fra)
+rtp://239.186.66.144:10000
+#EXTINF:-1 ,TRACE URBAN (fra)
+rtp://239.186.66.145:10000
+#EXTINF:-1 ,RMC Sport Access 1 (fra)
+rtp://239.186.66.228:10000
+#EXTINF:-1 ,CRIME DISTRICT (fra)
+rtp://239.186.66.233:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -370,6 +408,16 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,More Than Sports TV
 rtp://239.186.66.241:10000
+#EXTINF:-1 ,blue max (sky cinema) (deu)
+rtp://239.186.74.80:10000
+#EXTINF:-1 ,RTL CRIME (deu)
+rtp://239.186.66.103:10000
+#EXTINF:-1 ,RTL PASSION (deu)
+rtp://239.186.66.104:10000
+#EXTINF:-1 ,RTL LIVING (deu)
+rtp://239.186.66.105:10000
+#EXTINF:-1 ,7MAXX (deu)
+rtp://239.186.66.109:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -512,6 +560,10 @@ rtp://239.186.74.81:10000
 rtp://239.186.64.83:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
+#EXTINF:-1 ,RTP 3 (por)
+rtp://239.186.66.252:10000
+#EXTINF:-1 ,SIC int. (por)
+rtp://239.186.66.95:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="Aragontv.es" tvg-name="aragon TV ES" tvg-logo="http://static.epg.best/es/aragontv.es.png" tvg-chno="" channel-id="",Aragon int
 rtp://239.186.66.62:10000
@@ -613,3 +665,18 @@ rtp://239.186.74.89:10000
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
+#EXTINF:-1 ,The Israeli Network 13 (heb)
+rtp://239.186.66.251:10000
+#EXTINF:-1 ,pink  plus (srp)
+rtp://239.186.66.97:10000
+#EXTINF:-1 ,pink  extra (srp)
+rtp://239.186.66.98:10000
+#EXTINF:-1 ,Pink  FILM (srp)
+rtp://239.186.66.99:10000
+#EXTINF:-1 ,Pink  kids (srp)
+rtp://239.186.66.101:10000
+#EXTINF:-1 ,pink FOLK1 (srp)
+rtp://239.186.66.131:10000
+#EXTINF:-1 ,pink  REALITY (srp)
+rtp://239.186.74.39:10000
+
