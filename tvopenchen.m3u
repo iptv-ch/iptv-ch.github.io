@@ -119,7 +119,7 @@ rtp://233.21.50.31:1234
 #EXTREM movies
 #EXTINF:-1 ,Film4
 rtp://239.186.64.172:10000
-#EXTINF:-1 ,Paramount network UK
+#EXTINF:-1 ,5 ACTION
 rtp://239.186.74.84:10000
 #EXTINF:-1 audio-track="eng" ,SyFy HD
 rtp://233.21.50.5:1234
