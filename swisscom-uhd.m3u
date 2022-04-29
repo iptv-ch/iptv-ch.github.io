@@ -27,6 +27,10 @@ rtp://239.186.76.8:10000
 rtp://239.186.76.12:10000
 #EXTINF:-1 ,4+ UHD
 rtp://239.186.76.19:10000
+#EXTINF:-1 ,STINGRAY festival4k UHD
+rtp://239.186.76.17:10000
+#EXTINF:-1 ,FUNBOX UHD
+rtp://239.186.76.18:10000
 #EXTINF:-1 ,blue VISION TV UHD
 rtp://239.186.76.11:10000
 #EXTINF:-1 ,NASA UHD
@@ -55,3 +59,23 @@ rtp://239.186.79.100:10000
 rtp://239.186.79.115:10000
 #EXTINF:-1 ,SRF ZWEI FullHD UHD
 rtp://239.186.79.116:10000
+#EXTINF:-1 ,blue SPORTS 1 live (fra)
+rtp://239.186.76.10:10000
+#EXTINF:-1 ,blue SPORTS 2 live (fra)
+rtp://239.186.76.15:10000
+#EXTINF:-1 ,blue SPORTS 3 live (fra)
+rtp://239.186.76.16:10000
+#EXTINF:-1 ,blue SPORTS 4 live (fra)
+rtp://239.186.76.30:10000
+#EXTINF:-1 ,blue SPORT 1 live (deu)
+rtp://239.186.76.9:10000
+#EXTINF:-1 ,blue SPORT 2 live (deu)
+rtp://239.186.76.13:10000
+#EXTINF:-1 ,blue SPORT 3 live (deu)
+rtp://239.186.76.14:10000
+#EXTINF:-1 ,blue SPORT 4 live (deu)
+rtp://239.186.76.31:10000
+#EXTINF:-1 ,auto motor sport channel UHD (deu)
+rtp://239.186.76.20:10000
+#EXTINF:-1 ,LOVe NATURe UHD (eng)
+rtp://239.186.76.28:10000
