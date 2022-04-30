@@ -418,6 +418,10 @@ rtp://239.186.66.104:10000
 rtp://239.186.66.105:10000
 #EXTINF:-1 ,7MAXX (deu)
 rtp://239.186.66.109:10000
+#EXTINF:-1 ,nickToons(deu)
+rtp://239.186.74.68:10000
+#EXTINF:-1 ,Bon Gusto
+rtp://239.186.74.66:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
