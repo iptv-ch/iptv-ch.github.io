@@ -303,3 +303,5 @@ rtp://239.186.70.163:10000
 rtp://239.186.70.165:10000
 #EXTINF:-1 ,blue max HD (sky cinema HD)
 rtp://239.186.84.100:10000
+#EXTINF:-1 ,nickToons
+rtp://239.186.74.68:10000
