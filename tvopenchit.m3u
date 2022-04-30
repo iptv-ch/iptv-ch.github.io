@@ -73,8 +73,6 @@ rtp://239.186.66.176:10000
 rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="http://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
 rtp://239.186.74.78:10000
-#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.epg.best/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount NETWORK I
-rtp://239.186.64.122:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
 #EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="http://static.epg.best/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
