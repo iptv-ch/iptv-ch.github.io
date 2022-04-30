@@ -76,7 +76,7 @@ rtp://239.186.70.110:10000
 rtp://239.186.70.112:10000
 #EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="13ème Rue" tvg-logo="http://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
 rtp://239.186.68.123:10000
-#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SyFy HD French
+#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SYFY HD French
 rtp://239.186.68.124:10000
 #EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="Disney Channel FR" tvg-logo="http://static.epg.best/fr/DisneyChannel.fr.png" tvg-chno="51" channel-id="51",Disney Channel HD french
 rtp://239.186.68.120:10000
@@ -132,9 +132,9 @@ rtp://239.186.70.39:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="http://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD/DieuTV HD
 rtp://239.186.68.199:10000
-#EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="http://static.epg.best/ch/nrtv.ch.png" tvg-chno="82" channel-id="82",NRTV HD
+#EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="http://static.epg.best/ch/nrtv.ch.png" tvg-chno="82" channel-id="82",nrtv HD
 rtp://239.186.70.66:10000
-#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="OneTV CH" tvg-logo="http://static.epg.best/ch/OneTV.ch.png" tvg-chno="83" channel-id="83",One tv CH HD
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="OneTV CH" tvg-logo="http://static.epg.best/ch/OneTV.ch.png" tvg-chno="83" channel-id="83",one.tv CH HD
 rtp://239.186.70.12:10000
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="84" channel-id="84",rouge TV HD
 rtp://239.186.68.253:10000
