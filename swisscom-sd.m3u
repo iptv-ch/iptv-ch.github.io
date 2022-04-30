@@ -90,44 +90,46 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 ,Equidia Live (fra)
+#EXTINF:-1 ,Equidia Live
 rtp://239.186.66.71:10000
-#EXTINF:-1 , 13ème Rue (fra)
+#EXTINF:-1 , 13ème Rue
 rtp://239.186.66.74:1000
-#EXTINF:-1 ,SyFy F (fra)
+#EXTINF:-1 ,SYFY F
 rtp://239.186.66.75:10000
-#EXTINF:-1 ,tv breizh (fra)
+#EXTINF:-1 ,tv breizh
 rtp://239.186.66.77:10000
-#EXTINF:-1 ,Discovery F (fra)
+#EXTINF:-1 ,Discovery F
 rtp://239.186.66.78:10000
-#EXTINF:-1 ,National Geographic F (fra)
+#EXTINF:-1 ,National Geographic F
 rtp://239.186.66.79:10000
-#EXTINF:-1 ,National Geographic Wild F (fra)
+#EXTINF:-1 ,National Geographic Wild F
 rtp://239.186.66.80:10000
-#EXTINF:-1 ,Ushuaïa TV (fra)
+#EXTINF:-1 ,Ushuaïa TV
 rtp://239.186.66.82:10000
-#EXTINF:-1 ,HISTOIRE TV (fra)
+#EXTINF:-1 ,HISTOIRE TV
 rtp://239.186.66.83:10000
-#EXTINF:-1 ,Disney Channel F (fra)
+#EXTINF:-1 ,Disney Channel F
 rtp://239.186.66.87:10000
-#EXTINF:-1 ,Disney Junior F (fra)
+#EXTINF:-1 ,Disney Junior F
 rtp://239.186.66.90:10000
-#EXTINF:-1 ,nickelodeon junior F (fra)
+#EXTINF:-1 ,nickelodeon junior F
 rtp://239.186.66.91:10000
-#EXTINF:-1 ,MANGAS F (fra)
+#EXTINF:-1 ,MANGAS F
 rtp://239.186.66.92:10000
-#EXTINF:-1 ,Boing F (fra)
+#EXTINF:-1 ,Boing F
 rtp://239.186.66.93:10000
-#EXTINF:-1 ,Science channel F (fra)
+#EXTINF:-1 ,Science channel F
 rtp://239.186.66.102:10000
-#EXTINF:-1 ,TRACE CARIBBEAN (fra)
+#EXTINF:-1 ,TRACE CARIBBEAN
 rtp://239.186.66.144:10000
-#EXTINF:-1 ,TRACE URBAN (fra)
+#EXTINF:-1 ,TRACE URBAN
 rtp://239.186.66.145:10000
-#EXTINF:-1 ,RMC Sport Access 1 (fra)
+#EXTINF:-1 ,RMC Sport Access 1
 rtp://239.186.66.228:10000
-#EXTINF:-1 ,CRIME DISTRICT (fra)
+#EXTINF:-1 ,CRIME DISTRICT
 rtp://239.186.66.233:10000
+#EXTINF:-1 ,Mezzo live
+rtp://239.186.64.128:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -408,17 +410,17 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,More Than Sports TV
 rtp://239.186.66.241:10000
-#EXTINF:-1 ,blue max (sky cinema) (deu)
+#EXTINF:-1 ,blue max (sky cinema)
 rtp://239.186.74.80:10000
 #EXTINF:-1 ,RTL CRIME (deu)
 rtp://239.186.66.103:10000
-#EXTINF:-1 ,RTL PASSION (deu)
+#EXTINF:-1 ,RTL PASSION
 rtp://239.186.66.104:10000
-#EXTINF:-1 ,RTL LIVING (deu)
+#EXTINF:-1 ,RTL LIVING
 rtp://239.186.66.105:10000
-#EXTINF:-1 ,7MAXX (deu)
+#EXTINF:-1 ,7MAXX
 rtp://239.186.66.109:10000
-#EXTINF:-1 ,nickToons(deu)
+#EXTINF:-1 ,nickToons
 rtp://239.186.74.68:10000
 #EXTINF:-1 ,Bon Gusto
 rtp://239.186.74.66:10000
