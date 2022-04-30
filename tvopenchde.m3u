@@ -63,8 +63,6 @@ rtp://239.186.64.129:10000
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="http://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="http://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX DE
-rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
 rtp://239.186.64.141:10000
 #EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel DE" tvg-logo="http://static.epg.best/de/HopeChannel.de.png" tvg-chno="215" channel-id="215",HopeTV HD
@@ -161,8 +159,6 @@ rtp://239.186.68.25:10000
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.epg.best/ch/Tele1.ch.png" tvg-chno="298" channel-id="298",Tele1 HD
 rtp://239.186.68.176:10000
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="299" channel-id="299",TELE5 HD
-rtp://239.186.84.59:10000
 #EXTINF:-1 tvg-id="TeleBaern.ch" tvg-name="Tele Baern CH" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",telebaern.tv HD
 rtp://239.186.68.38:10000
 #EXTINF:-1 tvg-id="BlueZoomD.ch" tvg-name="Blue Zoom D CH" tvg-logo="http://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="317" channel-id="317",blue ZOOM D HD
@@ -249,20 +245,6 @@ rtp://239.186.84.67:10000
 rtp://239.186.74.82:10000
 #EXTINF:-1 ,BaernSPORT HD
 rtp://239.186.84.95:10000
-#EXTINF:-1 ,WEF Feed 2 HD (deu)
-rtp://239.186.84.82:10000
-#EXTINF:-1 ,WEF Feed 3 HD (deu)
-rtp://239.186.84.83:10000
-#EXTINF:-1 ,WEF Feed 4 HD (deu)
-rtp://239.186.84.84:10000
-#EXTINF:-1 ,WEF Feed 5 HD (deu)
-rtp://239.186.84.85:10000
-#EXTINF:-1 ,WEF Feed 6 HD (deu)
-rtp://239.186.84.86:10000
-#EXTINF:-1 ,WEF Feed 7 HD (deu)
-rtp://239.186.84.87:10000
-#EXTINF:-1 ,WEF TV HD (deu)
-rtp://239.186.84.88:10000
 #EXTINF:-1 ,RTL CRIME HD
 rtp://239.186.68.136:10000
 #EXTINF:-1 ,RTL PASSION HD
@@ -273,7 +255,7 @@ rtp://239.186.68.138:10000
 rtp://239.186.70.13:10000
 #EXTINF:-1 ,ROMANCE TV HD
 rtp://239.186.70.22:10000
-#EXTINF:-1 ,UNIVERSAL HD (deu)
+#EXTINF:-1 ,UNIVERSAL TV HD
 rtp://239.186.70.83:10000
 #EXTINF:-1 ,SONY CHANNEL HD
 rtp://239.186.70.85:10000
