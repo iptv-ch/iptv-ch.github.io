@@ -41,22 +41,24 @@ rtp://239.186.70.24:10000
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="Equipe" tvg-logo="http://static.epg.best/fr/Equipe21.fr.png" tvg-chno="20" channel-id="21",l'Equipe HD
-rtp://239.186.70.29:10000
+rtp://239.186.68.132:10000
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS FR" tvg-logo="http://static.epg.best/fr/tf1seriesfilms.fr.png" tvg-chno="22" channel-id="22",TF1 SERIES FILMS HD
+rtp://239.186.68.133:10000
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="16" channel-id="16",Canal+ en clair HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="24" channel-id="24",6ter HD
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="RMC Story FR" tvg-logo="http://static.epg.best/fr/rmcstory.fr.png" tvg-chno="25" channel-id="25",RMC Story HD
-rtp://239.186.68.130:10000
+rtp://239.186.68.135:10000
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="26" channel-id="26",RMC Decouverte HD
 rtp://239.186.68.130:10000
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="Cherie 25 FR" tvg-logo="http://static.epg.best/fr/cherie25.fr.png" tvg-chno="27" channel-id="27",Cherie 25 HD
 rtp://239.186.68.131:10000
 #EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info HD
 rtp://239.186.68.68:10000
-#EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5MONDE FBS HD
+#EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse Monaco" tvg-logo="http://static.epg.best/fr/TV5MondeFBSM.fr.png" tvg-chno="30" channel-id="30",TV5 MONDE FBSM HD
 rtp://239.186.70.41:10000
-#EXTINF:-1 tvg-id="C232.api.telerama.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5MONDE EUROPE HD
+#EXTINF:-1 tvg-id="C232.api.telerama.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5 MONDE EUROPE HD
 rtp://239.186.84.54:10000
 #EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-name="KTO FR" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="32" channel-id="32",KtO
 rtp://239.186.64.148:10000
@@ -74,7 +76,7 @@ rtp://239.186.70.110:10000
 rtp://239.186.70.112:10000
 #EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="13ème Rue" tvg-logo="http://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
 rtp://239.186.68.123:10000
-#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SyFy HD French
+#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SYFY HD French
 rtp://239.186.68.124:10000
 #EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="Disney Channel FR" tvg-logo="http://static.epg.best/fr/DisneyChannel.fr.png" tvg-chno="51" channel-id="51",Disney Channel HD french
 rtp://239.186.68.120:10000
@@ -97,7 +99,7 @@ rtp://233.32.39.142:1234
 #EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
 rtp://239.186.70.68:10000
 #EXTINF:-1 tvg-id="C2095.api.telerama.fr" tvg-name="RMC Sport Access 1 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess1.fr.png" tvg-chno="68" channel-id="68",RMC SPORT Access 1 HD
-rtp://239.186.68.117:10000
+rtp://239.186.70.73:10000
 #EXTINF:-1 tvg-id="C675.api.telerama.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="69" channel-id="69",RMC SPORT Access 2 HD
 rtp://239.186.68.117:10000
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
@@ -154,6 +156,54 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20 HD
 rtp://239.186.68.111:10000
+#EXTINF:-1 ,CANAL+ CH HD
+rtp://239.186.68.108:10000
+EXTINF:-1 ,EUROSPORT1 F HD
+rtp://239.186.68.112:10000
+#EXTINF:-1 ,C premier HD
+rtp://239.186.68.114:10000
+#EXTINF:-1 ,PLANETE+ HD
+rtp://239.186.68.115:10000
+#EXTINF:-1 ,Discovery Science F HD
+rtp://239.186.68.116:10000
+#EXTINF:-1 ,Discovery F HD
+rtp://239.186.68.118:10000
+#EXTINF:-1 ,CANAL+ Cinéma HD
+rtp://239.186.68.126:10000
+#EXTINF:-1 ,+SPORT HD
+rtp://239.186.68.127:10000
+#EXTINF:-1 ,+DECALE HD
+rtp://239.186.68.128:10000
+#EXTINF:-1 ,+KIDS HD
+rtp://239.186.68.129:10000
+#EXTINF:-1 ,E! F HD
+rtp://239.186.70.14:10000
+#EXTINF:-1 ,MCM TOP HD
+rtp://239.186.70.31:10000
+#EXTINF:-1 ,meZZO HD
+rtp://239.186.70.32:10000
+#EXTINF:-1 ,Boing F HD
+rtp://239.186.70.62:10000
+#EXTINF:-1 ,IS+ HD
+rtp://239.186.70.63:10000
+#EXTINF:-1 ,Comédie+ HD
+rtp://239.186.70.69:10000
+#EXTINF:-1 ,CRIME DISTRICT HD
+rtp://239.186.70.81:10000
+#EXTINF:-1 ,POLAR+ HD
+rtp://239.186.70.124:10000
+#EXTINF:-1 ,TOONAMI HD
+rtp://239.186.70.130:10000
+#EXTINF:-1 ,WB TV F HD
+rtp://239.186.70.131:10000
+#EXTINF:-1 ,BOOMERANG F HD
+rtp://239.186.70.159:10000
+#EXTINF:-1 ,MGGTV HD
+rtp://239.186.70.160:10000
+#EXTINF:-1 ,meZZO Live HD
+rtp://239.186.70.212:10000
+#EXTINF:-1 ,MCM HD
+rtp://239.186.70.213:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -281,6 +331,18 @@ rtp://239.186.74.55:10000
 rtp://239.186.74.58:10000
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News UK" tvg-logo="https://static.epg.best/uk/GBNews.uk.png" tvg-chno="" channel-id="",GB News
 rtp://239.186.84.57:10000
+#EXTINF:-1 ,GiNX ESPORTS HD
+rtp://239.186.70.156:10000
+#EXTINF:-1 ,English Club HD
+rtp://239.186.70.157:10000
+#EXTINF:-1 ,EUROSPORT1 E HD
+rtp://239.186.70.193:10000
+#EXTINF:-1 ,FOX NEWS HD (eng)
+rtp://239.186.70.222:10000
+#EXTINF:-1 ,STINGRAY djazz HD
+rtp://239.186.84.9:10000
+#EXTINF:-1 ,STINGRAY Classica HD
+rtp://239.186.68.113:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -540,6 +602,50 @@ rtp://239.186.84.86:10000
 rtp://239.186.84.87:10000
 #EXTINF:-1 ,WEF TV HD (deu)
 rtp://239.186.84.88:10000
+#EXTINF:-1 ,nickToons
+rtp://239.186.74.68:10000
+#EXTINF:-1 ,RTL CRIME HD
+rtp://239.186.68.136:10000
+#EXTINF:-1 ,RTL PASSION HD
+rtp://239.186.68.137:10000
+#EXTINF:-1 ,RTL LIVING HD
+rtp://239.186.68.138:10000
+#EXTINF:-1 ,E! D HD
+rtp://239.186.70.13:10000
+#EXTINF:-1 ,ROMANCE TV HD
+rtp://239.186.70.22:10000
+#EXTINF:-1 ,UNIVERSAL HD
+rtp://239.186.70.83:10000
+#EXTINF:-1 ,SONY CHANNEL HD
+rtp://239.186.70.85:10000
+#EXTINF:-1 ,Kabel eins Doku CH HD
+rtp://239.186.70.86:10000
+#EXTINF:-1 ,7MAXX CH HD
+rtp://239.186.70.87:10000
+#EXTINF:-1 ,SAT1 Gold CH HD
+rtp://239.186.70.88:10000
+#EXTINF:-1 ,blue CITY HD
+rtp://239.186.70.114:10000
+#EXTINF:-1 ,blue RETRO HD
+rtp://239.186.70.115:10000
+#EXTINF:-1 ,GEO HD
+rtp://239.186.70.144:10000
+#EXTINF:-1 ,Crime+ Investigation HD
+rtp://239.186.70.145:10000
+#EXTINF:-1 ,Kabel eins CLASSICS CH HD
+rtp://239.186.70.146:10000
+#EXTINF:-1 ,7FUN HD
+rtp://239.186.84.8:10000
+#EXTINF:-1 ,BERGBLICK HD
+rtp://239.186.70.162:10000
+#EXTINF:-1 ,KINOWELT TELEVISION HD
+rtp://239.186.70.163:10000
+#EXTINF:-1 ,SPIEGEL GESCHICHTE HD
+rtp://239.186.70.165:10000
+#EXTINF:-1 ,Bon Gusto HD
+rtp://239.186.84.5:10000
+#EXTINF:-1 ,blue max HD (sky cinema HD)
+rtp://239.186.84.100:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -685,11 +791,17 @@ rtp://239.186.74.59:10000
 rtp://239.186.74.81:10000
 #EXTINF:-1 ,Radio Ticino channel HD
 rtp://239.186.68.192:10000
+#EXTINF:-1 ,EUROSPORT2 I HD
+rtp://239.186.70.192:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="http://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
+#EXTINF:-1 ,SIC int.
+rtp://239.186.66.95:10000
+#EXTINF:-1 ,RTP 3
+rtp://239.186.66.252:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="Aragonint.es" tvg-name="Aragon int ES" tvg-logo="http://static.epg.best/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int
 rtp://239.186.66.62:10000
@@ -818,3 +930,25 @@ rtp://239.186.74.90:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
+#EXTINF:-1 ,The Israeli Network 13 (heb)
+rtp://239.186.66.251:10000
+#EXTINF:-1 ,pink  plus (srp)
+rtp://239.186.66.97:10000
+#EXTINF:-1 ,pink  extra (srp)
+rtp://239.186.66.98:10000
+#EXTINF:-1 ,pink  FILM
+rtp://239.186.66.99:10000
+#EXTINF:-1 ,Pink  kids
+rtp://239.186.66.101:10000
+#EXTINF:-1 ,pink FOLK1
+rtp://239.186.66.131:10000
+#EXTINF:-1 ,pink  REALITY
+rtp://239.186.74.39:10000
+#EXTINF:-1 ,BN SAT HD (srp)
+rtp://239.186.70.147:10000
+#EXTINF:-1 ,RTV 21 HD (alb)
+rtp://239.186.68.230:10000
+#EXTINF:-1 ,KTV KOHAVISION HD
+rtp://239.186.70.15:10000
+#EXTINF:-1 ,TV Dukagini HD
+rtp://239.186.70.178:10000
