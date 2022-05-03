@@ -90,9 +90,9 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 ,Equidia Live
+#EXTINF:-1 ,Equidia
 rtp://239.186.66.71:10000
-#EXTINF:-1 , 13ème Rue
+#EXTINF:-1 , 13EME RUE
 rtp://239.186.66.74:1000
 #EXTINF:-1 ,SYFY F
 rtp://239.186.66.75:10000
@@ -118,7 +118,7 @@ rtp://239.186.66.91:10000
 rtp://239.186.66.92:10000
 #EXTINF:-1 ,Boing F
 rtp://239.186.66.93:10000
-#EXTINF:-1 ,Science channel F
+#EXTINF:-1 ,Discovery Science channel F
 rtp://239.186.66.102:10000
 #EXTINF:-1 ,TRACE CARIBBEAN
 rtp://239.186.66.144:10000
@@ -505,8 +505,6 @@ rtp://239.186.64.214:10000
 rtp://239.186.66.180:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
 rtp://239.186.74.78:10000
-#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.epg.best/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount network I
-rtp://239.186.64.122:10000
 #EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.epg.best/it/Radionorba.it.png" tvg-chno="" channel-id="",radionorba TV
 rtp://239.186.66.247:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.epg.best/it/RaiUno.it.png" tvg-chno="384" channel-id="384",Rai1
