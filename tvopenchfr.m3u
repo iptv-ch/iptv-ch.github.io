@@ -142,7 +142,7 @@ rtp://239.186.68.253:10000
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
 rtp://239.186.70.132:10000
-#EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie HD
+#EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie TV HD
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="http://static.epg.best/ch/verniervisions.ch.png" tvg-chno="88" channel-id="88",Vernier Visions HD
 rtp://239.186.70.203:10000
@@ -216,4 +216,3 @@ rtp://239.186.70.213:10000
 rtp://239.186.68.113:10000
 #EXTINF:-1 ,STINGRAY djazz HD
 rtp://239.186.84.9:10000
-
