@@ -146,8 +146,6 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="http://static.epg.best/ch/verniervisions.ch.png" tvg-chno="88" channel-id="88",Vernier Visions HD
 rtp://239.186.70.203:10000
-#EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
-rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="90" channel-id="90",ortb
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" tvg-chno="91" channel-id="91",ALSACE 20 HD
@@ -155,6 +153,8 @@ rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="C88.api.telerama.fr" tvg-name=Histoire FR" tvg-logo="https://static.epg.best/fr/Histoire.fr.png" tvg-chno="92 channel-id="92",HISTOIRE TV HD
 rtp://239.186.66.83:10000
 #EXTREM:Sport
+#EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
+rtp://239.186.68.244:10000
 #EXTINF:-1 ,EUROSPORT1 F HD
 rtp://239.186.68.112:10000
 #EXTINF:-1 ,+SPORT HD
