@@ -154,7 +154,7 @@ rtp://239.186.74.97:10000
 rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="C88.api.telerama.fr" tvg-name=Histoire FR" tvg-logo="https://static.epg.best/fr/Histoire.fr.png" tvg-chno="92 channel-id="92",HISTOIRE TV HD
 rtp://239.186.66.83:10000
-#EXTREM Sport
+#EXTREM:Sport
 #EXTINF:-1 ,EUROSPORT1 F HD
 rtp://239.186.68.112:10000
 #EXTINF:-1 ,+SPORT HD
@@ -189,6 +189,7 @@ rtp://239.186.70.81:10000
 rtp://239.186.70.124:10000
 #EXTINF:-1 ,WB TV F HD 
 rtp://239.186.70.131:10000
+#EXTREM:Musique
 #EXTINF:-1 ,TRACE CARIBBEAN
 rtp://239.186.66.144:10000
 #EXTINF:-1 ,TRACE URBAN
