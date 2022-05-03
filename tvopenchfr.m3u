@@ -40,22 +40,22 @@ rtp://239.186.70.30:10000
 rtp://239.186.70.24:10000
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="21" channel-id="21",6ter HD
-rtp://239.186.68.134:10000
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS FR" tvg-logo="http://static.epg.best/fr/tf1seriesfilms.fr.png" tvg-chno="26" channel-id="26",TF1 SERIES FILMS HD
+rtp://239.186.68.133:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="l-equipe" tvg-logo="http://static.epg.best/fr/lequipe21.fr.png" tvg-chno="22" channel-id="22",L'équipe HD
 rtp://239.186.68.132:10000
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="21" channel-id="21",6ter HD
+rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="RMC Story FR" tvg-logo="http://static.epg.best/fr/rmcstory.fr.png" tvg-chno="23" channel-id="23",RMC Story HD
 rtp://239.186.68.135:10000
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
 rtp://239.186.68.130:10000
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="Chérie 25 FR" tvg-logo="http://static.epg.best/fr/cherie25.fr.png" tvg-chno="25" channel-id="25",Chérie 25 HD
 rtp://239.186.68.131:10000
-#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS FR" tvg-logo="http://static.epg.best/fr/tf1seriesfilms.fr.png" tvg-chno="26" channel-id="26",TF1 SERIES FILMS HD
-rtp://239.186.68.133:10000
-#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
-udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info HD
 rtp://239.186.68.68:10000
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
+udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse Monaco" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5MONDE FBSM HD
 rtp://239.186.70.41:10000
 #EXTINF:-1 tvg-id="C232.api.telerama.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="http://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5MONDE EUROPE HD
@@ -152,7 +152,7 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" tvg-chno="91" channel-id="91",ALSACE 20 HD
 rtp://239.186.68.111:10000
-#EXTINF:-1 ,HISTOIRE TV
+#EXTINF:-1 tvg-id="C88.api.telerama.fr" tvg-name=Histoire FR" tvg-logo="https://static.epg.best/fr/Histoire.fr.png" tvg-chno="92 channel-id="92",HISTOIRE TV HD
 rtp://239.186.66.83:10000
 #EXTINF:-1 ,nickelodeon junior F
 rtp://239.186.66.91:10000
@@ -168,7 +168,7 @@ rtp://239.186.68.112:10000
 rtp://239.186.68.113:10000
 #EXTINF:-1 ,STINGRAY djazz HD
 rtp://239.186.84.9:10000
-#EXTINF:-1 ,C premier HD
+#EXTINF:-1 ,CINE+ premier HD
 rtp://239.186.68.114:10000
 #EXTINF:-1 ,PLANETE+ HD
 rtp://239.186.68.115:10000
@@ -212,3 +212,8 @@ rtp://239.186.70.160:10000
 rtp://239.186.70.212:10000
 #EXTINF:-1 ,MCM HD
 rtp://239.186.70.213:10000
+#EXTINF:-1 ,STINGRAY classica F HD
+rtp://239.186.68.113:10000
+#EXTINF:-1 ,STINGRAY djazz HD
+rtp://239.186.84.9:10000
+
