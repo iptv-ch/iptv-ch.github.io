@@ -48,7 +48,7 @@ rtp://239.186.64.148:10000
 rtp://239.186.68.242:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="90" channel-id="90",ortb
 rtp://239.186.74.97:10000
-#EXTREM:Cinema Series Comédies F
+#EXTREM:Cinema Series Films Comédies
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
@@ -164,8 +164,8 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="http://static.epg.best/ch/verniervisions.ch.png" tvg-chno="88" channel-id="88",vernier visions HD
 rtp://239.186.70.203:10000
-#EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
-rtp://239.186.68.208:10000
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
+rtp://239.186.70.21:10000
 #EXTREM:Sports / Esports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
@@ -202,7 +202,7 @@ rtp://239.186.70.31:10000
 rtp://239.186.68.113:10000
 #EXTINF:-1 ,STINGRAY djazz HD
 rtp://239.186.84.9:10000
-#EXTREM Animations enfants / adolescents
+#EXTREM:Animations enfants / adolescents
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="Disney Channel FR" tvg-logo="http://static.epg.best/fr/DisneyChannel.fr.png" tvg-chno="51" channel-id="51",Disney Channel HD french
@@ -223,3 +223,10 @@ rtp://239.186.70.159:10000
 rtp://239.186.70.36:10000
 #EXTINF:-1 ,+kids HD
 rtp://239.186.68.129:10000
+#EXTREM: Voyances / jeux ruinant / arnaques publicitaires
+#EXTINF:-1 ,Suisseplus / premiumshopping.tv/fr
+rtp://239.186.70.104:10000
+#EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
+rtp://239.186.68.208:10000
+
+
