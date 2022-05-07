@@ -31,16 +31,12 @@ rtp://239.186.70.34:10000
 rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="CStar" tvg-logo="http://static.epg.best/fr/CStar.fr.png" tvg-chno="19" channel-id="19",CSTAR HD
 rtp://239.186.70.24:10000
-#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS FR" tvg-logo="http://static.epg.best/fr/tf1seriesfilms.fr.png" tvg-chno="26" channel-id="26",TF1 SERIES FILMS HD
-rtp://239.186.68.133:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="l-equipe" tvg-logo="http://static.epg.best/fr/lequipe21.fr.png" tvg-chno="22" channel-id="22",L'équipe HD
 rtp://239.186.68.132:10000
 #EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="21" channel-id="21",6ter HD
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="Chérie 25 FR" tvg-logo="http://static.epg.best/fr/cherie25.fr.png" tvg-chno="25" channel-id="25",Chérie 25 HD
 rtp://239.186.68.131:10000
-#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
-udp://@239.101.10.39:1234
 #EXTREM:Extra Generaliste francophonie
 #EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse Monaco" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5 MONDE FBSM HD
 rtp://239.186.70.41:10000
@@ -53,8 +49,8 @@ rtp://239.186.68.242:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="90" channel-id="90",ortb
 rtp://239.186.74.97:10000
 #EXTREM:Cinema Series Comédies F
-#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
-rtp://239.186.68.33:10000
+#EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
+udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
 rtp://239.186.70.113:10000
 #EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="https://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HBO HD
@@ -71,6 +67,10 @@ rtp://239.186.68.124:10000
 rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount HD
 rtp://233.21.50.126:1234
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
+rtp://239.186.68.33:10000
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 SERIES FILMS FR" tvg-logo="http://static.epg.best/fr/tf1seriesfilms.fr.png" tvg-chno="26" channel-id="26",TF1 SERIES FILMS HD
+rtp://239.186.68.133:10000
 #EXTINF:-1 ,CANAL+ CH HD
 rtp://239.186.68.108:10000
 #EXTINF:-1 ,CINE+ premier HD
@@ -106,7 +106,7 @@ rtp://239.186.66.83:10000
 rtp://239.186.68.115:10000
 #EXTINF:-1 ,SCI Discovery Science F HD
 rtp://239.186.68.116:10000
-#EXTINF:-1 ,Discovery F HD
+#EXTINF:-1 ,Discovery F HD / voyages
 rtp://239.186.68.118:10000
 #EXTREM:Informations/Nouvelles non stop
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="Franceinfo" tvg-logo="http://static.epg.best/fr/Franceinfo.fr.png" tvg-chno="16" channel-id="16",Franceinfo HD
