@@ -106,7 +106,7 @@ rtp://239.186.66.83:10000
 rtp://239.186.68.115:10000
 #EXTINF:-1 ,SCI Discovery Science F HD
 rtp://239.186.68.116:10000
-#EXTINF:-1 ,Discovery F HD / voyages
+#EXTINF:-1 ,Discovery F HD
 rtp://239.186.68.118:10000
 #EXTREM:Informations/Nouvelles non stop
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="Franceinfo" tvg-logo="http://static.epg.best/fr/Franceinfo.fr.png" tvg-chno="16" channel-id="16",Franceinfo HD
