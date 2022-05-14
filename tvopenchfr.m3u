@@ -36,7 +36,7 @@ rtp://239.186.68.132:10000
 #EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="21" channel-id="21",6ter HD
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="Chérie 25 FR" tvg-logo="http://static.epg.best/fr/cherie25.fr.png" tvg-chno="25" channel-id="25",Chérie 25 HD
-rtp://239.186.68.131:10000
+#EXTREM:rtp://239.186.68.131:10000
 #EXTREM:Extra Generaliste francophonie
 #EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse Monaco" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="30" channel-id="30",TV5 MONDE FBSM HD
 rtp://239.186.70.41:10000
@@ -52,17 +52,17 @@ rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
 udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
-rtp://239.186.70.113:10000
+rtp://233.21.50.59:1234
 #EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="https://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HBO HD
-rtp://239.186.70.111:10000
+rtp://233.21.50.60:1234
 #EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="OCS Choc" tvg-logo="https://static.epg.best/fr/OCSChoc.fr.png" tvg-chno="47" channel-id="74",OCS choc HD
-rtp://239.186.70.110:10000
+rtp://233.21.50.61:1234
 #EXTINF:-1 tvg-id="C734.api.telerama.fr" tvg-name="OCS Geants" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" tvg-chno="48" channel-id="48",OCS geants HD
-rtp://239.186.70.112:10000
+rtp://233.21.50.62:1234
 #EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="13ème Rue" tvg-logo="http://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
-rtp://239.186.68.123:10000
+rtp://233.21.50.4:1234
 #EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="http://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SYFY HD French
-rtp://239.186.68.124:10000
+rtp://233.21.50.5:1234
 #EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="Tv Breizh FR" tvg-logo="http://static.epg.best/fr/TvBreizh.fr.png" tvg-chno="60" channel-id="60",TV Breizh HD
 rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="http://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount HD
@@ -87,8 +87,6 @@ rtp://239.186.70.14:10000
 rtp://239.186.70.81:10000
 #EXTINF:-1 ,POLAR+ HD
 rtp://239.186.70.124:10000
-#EXTINF:-1 ,WB TV Warner Bros TV F HD
-rtp://239.186.70.131:10000
 #EXTREM:Découvertes / Sciences / Voyages / Histoires
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="RMC Story FR" tvg-logo="http://static.epg.best/fr/rmcstory.fr.png" tvg-chno="23" channel-id="23",RMC Story HD
 rtp://239.186.68.135:10000
@@ -212,7 +210,7 @@ rtp://239.186.68.122:10000
 #EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://239.186.70.64:10000
 #EXTINF:-1 ,nickelodeon junior F
-rtp://239.186.66.91:10000
+rtp://233.21.50.63:1234
 #EXTINF:-1 ,Boing F HD
 rtp://239.186.70.62:10000
 #EXTINF:-1 ,TOONAMI HD
@@ -228,5 +226,3 @@ rtp://239.186.68.129:10000
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
-
-
