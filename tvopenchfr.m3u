@@ -150,6 +150,8 @@ rtp://233.21.50.11:1234
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://233.21.50.2:1234
+#EXTINF:-1 tvg-id="C888.api.telerama.fr" tvg-name="Nick Jr FR" tvg-logo="https://static.epg.best/fr/NickJr.fr.png" tvg-chno="" channel-id="",Nickelodeon Junior F HD
+rtp://233.21.50.63:1234
 #EXTREM: Voyances / jeux ruinant / arnaques publicitaires
 #EXTINF:-1 ,Suisseplus / premiumshopping.tv/fr
 rtp://239.186.70.104:10000
