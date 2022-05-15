@@ -45,7 +45,7 @@ rtp://239.186.66.243:10000
 #EXTINF:-1 ,Smithsonian Channel UK HD
 rtp://239.186.70.189:10000
 #EXTINF:-1 ,Quest HD
-rtp://@239.186.84.2:10000
+rtp://239.186.84.2:10000
 #EXTINF:-1 ,Challenge
 rtp://239.186.74.95:10000
 #EXTINF:-1 ,CBS reality
@@ -53,10 +53,6 @@ rtp://239.186.74.107:10000
 #EXTREM Sports
 #EXTINF:-1 ,FREE SPORTS HD
 rtp://239.186.70.253:10000
-#EXTINF:-1 ,GiNX ESPORTSTV HD
-rtp://239.186.70.156:10000
-#EXTINF:-1 ,EUROSPORT1 E HD
-rtp://239.186.70.193:10000
 #EXTREM news
 #EXTINF:-1 ,BBC News HD
 rtp://239.186.68.160:10000
@@ -112,18 +108,10 @@ rtp://239.186.66.128:10000
 #EXTINF:-1 ,KERRANG!
 rtp://239.186.64.105:10000
 #EXTREM childreen
-#EXTINF:-1 audio-track="eng" ,Nick CH HD
-rtp://@239.186.68.175:10000
 #EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
 #EXTINF:-1 ,Citv itv Childrens
 rtp://239.186.74.73:10000
-#EXTINF:-1 audio-track="eng" ,Disney channel HD
-rtp://233.21.50.11:1234
-#EXTINF:-1 audio-track="eng" ,Disney Junior HD
-rtp://233.21.50.31:1234
-#EXTINF:-1 ,English Club HD
-rtp://239.186.70.157:10000
 #EXTREM movies
 #EXTINF:-1 ,Film4
 rtp://239.186.64.172:10000
@@ -145,7 +133,3 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 ,Great movies action
 rtp://239.186.74.58:10000
-#EXTINF:-1 ,Utsav Plus HD (hin/eng)
-rtp://239.186.70.196:10000
-#EXTINF:-1 ,Utsav Gold HD (hin/eng)
-rtp://239.186.70.197:10000
