@@ -132,7 +132,9 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
 rtp://239.186.70.21:10000
-#EXTREM:Sports / Esports
+#EXTINF:-1 ,ALTAMEGA PLUS HD
+rtp://239.186.84.106:10000
+#EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="C64.api.telerama.fr" tvg-name="Equidia FR" tvg-logo="http://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
