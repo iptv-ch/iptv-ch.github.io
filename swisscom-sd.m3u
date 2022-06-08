@@ -12,7 +12,7 @@ rtp://239.186.64.35:10000
 rtp://239.186.64.36:10000
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="56" channel-id="56",France3
 rtp://239.186.64.37:10000
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.epg.best/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.epg.best/fr/France4.fr.png" tvg-chno="58" channel-id="58",France4 / culturebox
 rtp://239.186.64.38:10000
 #EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.epg.best/fr/France5.fr.png" tvg-chno="59" channel-id="59",France5
 rtp://239.186.64.39:10000
@@ -95,7 +95,7 @@ rtp://239.186.74.97:10000
 rtp://239.186.64.51:10000
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.epg.best/uk/BBC2.uk.png" tvg-chno="120" channel-id="120",BBC Two
 rtp://239.186.64.165:10000
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="http://static.epg.best/uk/CBBC.uk.png" tvg-chno="122" channel-id="122",BBC CBBC
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="http://static.epg.best/uk/CBBC.uk.png" tvg-chno="122" channel-id="122",BBC CBBC / BBC Three
 rtp://239.186.64.166:10000
 #EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="http://static.epg.best/uk/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC Four/ BBC CBeebies
 rtp://239.186.64.52:10000
@@ -244,8 +244,6 @@ rtp://239.186.64.129:10000
 rtp://239.186.64.137:10000
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="https://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX D
 rtp://239.186.64.213:10000
-#EXTINF:-1 tvg-id="GoTV.at" tvg-name="Go TV" tvg-logo="http://static.epg.best/at/GoTV.at.png" tvg-chno="213" channel-id="213",gotv
-rtp://239.186.64.141:10000
 #EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel Int. DE" tvg-logo="http://static.epg.best/de/HopeChannelInt.de.png" tvg-chno="214" channel-id="214",HopeTV
 rtp://239.186.64.115:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="http://static.epg.best/de/HR.de.png" tvg-chno="216" channel-id="216",hr
@@ -503,8 +501,6 @@ rtp://239.186.74.79:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 ,camera dei deputati
 rtp://239.186.74.59:10000
-#EXTINF:-1 ,GO-TV
-rtp://239.186.74.81:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="http://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
@@ -528,7 +524,7 @@ rtp://239.186.74.65:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="http://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk
 rtp://239.186.64.204:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="421" channel-id="421",atv avrupa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="421" channel-id="421",atv turk
 rtp://239.186.64.201:10000
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="Showmax TR" tvg-logo="http://static.epg.best/tr/Showmax.tr.png" tvg-chno="428" channel-id="428",SHOW MAX
 rtp://239.186.64.209:10000
@@ -611,3 +607,7 @@ rtp://239.186.74.89:10000
 rtp://239.186.74.91:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
+#EXTINF:-1 ,YKPAÏHA 24  / FREEDOM UA (ukr)
+rtp://239.186.74.98:10000
+#EXTINF:-1 ,nickelodeon YKPAÏHA (ukr)
+rtp://239.186.74.103:10000
