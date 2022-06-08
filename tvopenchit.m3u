@@ -51,7 +51,7 @@ rtp://239.186.68.163:10000
 rtp://239.186.68.165:10000
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="http://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",MEDIASET Rete4 HD
 rtp://239.186.70.188:10000
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",MEDIASET 20 HD
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET HD
 rtp://239.186.68.46:10000
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
 rtp://239.186.64.73:10000
@@ -137,8 +137,6 @@ rtp://239.186.74.85:10000
 rtp://239.186.84.23:10000
 #EXTINF:-1 ,camera dei deputati
 rtp://239.186.74.59:10000
-#EXTINF:-1 ,GO-TV
-rtp://239.186.74.81:10000
 #EXTINF:-1 ,ANTENNA 3 HD
 rtp://239.186.70.79:10000
 #EXTINF:-1 ,Rai Gulp HD
@@ -147,19 +145,19 @@ rtp://239.186.84.18:10000
 rtp://239.186.84.28:10000
 #EXTINF:-1 ,TV2000 HD
 rtp://239.186.84.73:10000
-#EXTINF:-1 ,Discovery DMAX HD
+#EXTINF:-1 ,Warner Bros. Discovery DMAX I HD
 rtp://239.186.84.89:10000
 #EXTINF:-1 ,Espansione TV HD
 rtp://239.186.84.90:10000
-#EXTINF:-1 ,Discovery food HD
+#EXTINF:-1 ,Warner Bros. Discovery food channel I HD
 rtp://239.186.84.91:10000
-#EXTINF:-1 ,Discovery Giallo HD
+#EXTINF:-1 ,Warner Bros. Discovery Giallo HD
 rtp://239.186.84.99:10000
-#EXTINF:-1 ,Discovery HGTV HD
+#EXTINF:-1 ,Warner Bros. Discovery HGTV I HD
 rtp://239.186.84.101:10000
-#EXTINF:-1 ,Discovery MOTORTREND HD
+#EXTINF:-1 ,Warner Bros. Discovery MOTORTREND HD
 rtp://239.186.84.102:10000
-#EXTINF:-1 ,Discovery RealTime HD
+#EXTINF:-1 ,Warner Bros. Discovery RealTime HD
 rtp://239.186.84.103:10000
 #EXTINF:-1 ,TELELOMBARDIA HD
 rtp://239.186.84.104:10000
