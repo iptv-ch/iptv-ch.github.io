@@ -11,7 +11,7 @@ udp://@239.101.10.63:1234
 udp://@239.101.10.64:1234
 #EXTINF:-1 ,France 3 HD
 udp://@239.101.10.65:1234
-#EXTINF:-1 ,France 4 HD
+#EXTINF:-1 ,France 4 HD / culturebox
 udp://@239.101.10.56:1234
 #EXTINF:-1 ,France 5 HD
 udp://@239.101.10.68:1234
@@ -29,8 +29,10 @@ udp://@239.101.10.23:1234
 udp://@239.101.10.24:1234
 #EXTINF:-1 ,RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 ,Canal+ HD
+#EXTINF:-1 ,Canal+ HD programmes plage en clair
 udp://@239.101.10.39:1234
+#EXTINF:-1 ,MySports F HD promotion
+udp://@239.101.10.85
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
 udp://@239.101.10.48:1234
