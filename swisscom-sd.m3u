@@ -98,7 +98,7 @@ rtp://239.186.64.51:10000
 rtp://239.186.64.165:10000
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" tvg-chno="122" channel-id="122",BBC CBBC / BBC Three
 rtp://239.186.64.166:10000
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC Four/ BBC CBeebies
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC Four /Cbeebies
 rtp://239.186.64.52:10000
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="126" channel-id="126",BBC CBeebies / BBC Four
 rtp://239.186.64.113:10000
@@ -160,8 +160,8 @@ rtp://239.186.64.105:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
-#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.epg.best/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int.
-rtp://239.186.66.139:10000
+#EXTREM #EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.epg.best/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int.
+#EXTREM rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
 rtp://239.186.64.179:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.epg.best/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
@@ -243,8 +243,6 @@ rtp://239.186.66.241:10000
 rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="208" channel-id="208",euronews. D
 rtp://239.186.64.137:10000
-#EXTINF:-1 tvg-id="fox.de" tvg-name="FOX DE" tvg-logo="https://static.epg.best/de/Fox.de.png" tvg-chno="209" channel-id="209",FOX D
-rtp://239.186.64.213:10000
 #EXTINF:-1 tvg-id="HopeChannelInt.de" tvg-name="Hope Channel Int. DE" tvg-logo="https://static.epg.best/de/HopeChannelInt.de.png" tvg-chno="214" channel-id="214",HopeTV
 rtp://239.186.64.115:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="https://static.epg.best/de/HR.de.png" tvg-chno="216" channel-id="216",hr
@@ -293,7 +291,7 @@ rtp://239.186.64.126:10000
 rtp://239.186.64.15:10000
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 DE" tvg-logo="https://static.epg.best/de/RTL2.de.png" tvg-chno="261" channel-id="261",RTL ZWEI CH
 rtp://239.186.64.16:10000
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://static.epg.best/de/RTLPlus.de.png" tvg-chno="262" channel-id="262",RTLplus
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTL Up DE" tvg-logo="https://static.epg.best/de/RTLUp.de.png" tvg-chno="262" channel-id="262",RTLup
 rtp://239.186.66.201:10000
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
 rtp://239.186.64.18:10000
@@ -339,8 +337,6 @@ rtp://239.186.66.175:10000
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="321" channel-id="321",TSO
 rtp://239.186.64.100:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="325" channel-id="325",TV Rheintal
-rtp://239.186.64.93:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="328" channel-id="328",tvo
 rtp://239.186.64.94:10000
 #EXTINF:-1 tvg-id="visiontv.ch" tvg-name="visiontv CH" tvg-logo="https://rcp.scsstatic.ch/etc/swisscom/servlets/public/channellist.ldqV53.png/logos/vision_tv_116x62_msblack_png.png" tvg-chno="330" channel-id="330",blue vision tv CH
@@ -470,8 +466,6 @@ rtp://239.186.64.162:10000
 rtp://239.186.66.182:10000
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="https://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
 rtp://239.186.66.177:10000
-#EXTINF:-1 tvg-id="SpikeTV.it" tvg-name="SpikeTV IT" tvg-logo="https://static.epg.best/it/SpikeTV.it.png" tvg-chno="407" channel-id="407",Spike
-rtp://239.186.66.178:10000
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="https://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport Italia SI
 rtp://239.186.74.24:10000
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super IT" tvg-logo="https://static.epg.best/it/Super.it.png" tvg-chno="291" channel-id="291",SUPER!
@@ -612,4 +606,3 @@ rtp://239.186.74.90:10000
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,nickelodeon YKPAÏHA (ukr)
 rtp://239.186.74.103:10000
-
