@@ -125,7 +125,7 @@ rtp://239.186.70.202:10000
 rtp://239.186.64.15:10000
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 DE" tvg-logo="http://static.epg.best/de/RTL2.de.png" tvg-chno="261" channel-id="261",RTLZWEI
 rtp://239.186.64.16:10000
-#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTL Plus DE" tvg-logo="http://static.epg.best/de/RTLup.de.png" tvg-chno="262" channel-id="262",RTLup
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTL Up DE" tvg-logo="http://static.epg.best/de/RTLup.de.png" tvg-chno="262" channel-id="262",RTLup
 rtp://239.186.66.201:10000
 #EXTINF:-1 tvg-id="S1.ch" tvg-name="S1 CH" tvg-logo="http://static.epg.best/ch/S1.ch.png" tvg-chno="263" channel-id="263",S1 HD
 rtp://239.186.68.147:10000
