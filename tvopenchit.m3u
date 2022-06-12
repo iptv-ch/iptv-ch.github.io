@@ -13,7 +13,7 @@ rtp://239.186.84.109:10000
 rtp://239.186.66.107:10000
 #EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.epg.best/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3 HD
 rtp://239.186.70.79:10000
-#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia 83
+#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
@@ -25,6 +25,8 @@ rtp://239.186.84.103:10000
 rtp://239.186.64.158:10000
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.epg.best/it/DMAX.it.png" tvg-chno="355" channel-id="355",DMAX HD
 rtp://239.186.84.89:10000
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Frisbee
+rtp://239.186.66.188:10000
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Giallo HD
 rtp://239.186.84.99:10000
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend IT" tvg-logo="http://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359",MOTOR TREND HD
@@ -33,9 +35,7 @@ rtp://239.186.84.102:10000
 rtp://239.186.84.91:10000
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",K2
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="http://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Frisbee
-rtp://239.186.66.188:10000
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",HGTV HD
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",HGTV Home & Garden I HD
 rtp://239.186.84.101:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
@@ -49,14 +49,14 @@ rtp://239.186.70.6:10000
 rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.epg.best/it/Italia1.it.png" tvg-chno="376" channel-id="376",ITALIA1 HD
 rtp://239.186.68.165:10000
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.epg.best/it/Italia2.it.png" tvg-chno="377" channel-id="377",ITALIA2
+rtp://239.186.66.44:10000
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="http://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",Rete4 HD
 rtp://239.186.70.188:10000
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET HD
 rtp://239.186.68.46:10000
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",LA5
 rtp://239.186.64.73:10000
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.epg.best/it/Italia2.it.png" tvg-chno="377" channel-id="377",ITALIA2
-rtp://239.186.66.44:10000
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.epg.best/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
 rtp://239.186.66.37:10000
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.epg.best/it/FocusTv.it.png" tvg-chno="374" channel-id="374",Focus
@@ -99,7 +99,7 @@ rtp://239.186.66.34:10000
 rtp://239.186.70.84:10000
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
 rtp://239.186.70.2:10000
-#EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",radionorba TV HD
+#EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="http://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",RADIO NORBA TV HD
 rtp://239.186.84.20:10000
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5TV IT" tvg-logo="http://static.epg.best/it/RTL1025TV.it.png" tvg-chno="141" channel-id="141",RTL 102.5 TV HD
 rtp://239.186.70.181:10000
@@ -115,21 +115,21 @@ rtp://239.186.70.154:10000
 rtp://239.186.84.104:10000
 #EXTINF:-1 tvg-id="telenova.it" tvg-name="telenova IT" tvg-logo="http://static.epg.best/it/telenova.it.png" tvg-chno="413" channel-id="413",TELENOVA
 rtp://239.186.64.152:10000
+#EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="http://static.epg.best/it/Espansione.it.png" tvg-chno="414" channel-id="414",Espansione TV HD
+rtp://239.186.84.90:10000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000 HD
+rtp://239.186.84.73:10000
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://static.epg.best/it/TV8.it.png" tvg-chno="416" channel-id="416",TV8 Italia HD
 rtp://239.186.84.28:10000
 #EXTINF:-1 tvg-id="uninettuno.it" tvg-name="Uninettuno IT" tvg-logo="http://static.epg.best/it/uninettuno.it" tvg-chno="417" channel-id="417",UNINETTUNO.tv
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.epg.best/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000 HD
-rtp://239.186.84.73:10000
-#EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="http://static.epg.best/it/Espansione.it.png" tvg-chno="415" channel-id="415",Espansione TV HD
-rtp://239.186.84.90:10000
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="http://static.epg.best/it/Deejay.it.png" tvg-chno="419" channel-id="419",Deejay TV HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 tvg-id="Topcalcio24.it" tvg-name="Topcalcio24 IT" tvg-logo="http://static.epg.best/it/Topcalcio24.it.png" tvg-chno="" channel-id="",TOP CALCIO 24 HD
+#EXTINF:-1 tvg-id="Topcalcio24.it" tvg-name="Topcalcio24 IT" tvg-logo="http://static.epg.best/it/Topcalcio24.it.png" tvg-chno="420" channel-id="420",TOP CALCIO 24 HD
 rtp://239.186.84.105:10000
-#EXTINF:-1 tvg-id="SMtvSanMarino.it" tvg-name="SMtv San Marino IT" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="" channel-id="",Rtv San Marino HD
+#EXTINF:-1 tvg-id="SMtvSanMarino.it" tvg-name="SMtv San Marino IT" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="421" channel-id="421",Rtv San Marino HD
 rtp://239.186.84.23:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
