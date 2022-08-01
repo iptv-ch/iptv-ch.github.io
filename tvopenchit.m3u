@@ -113,8 +113,8 @@ rtp://239.186.66.181:10000
 rtp://239.186.70.154:10000
 #EXTINF:-1 tvg-id="telelombardia.it" tvg-name="telelombardia IT" tvg-logo="http://static.epg.best/it/telelombardia.it.png" tvg-chno="412" channel-id="412",TELELOMBARDIA HD
 rtp://239.186.84.104:10000
-#EXTINF:-1 tvg-id="telenova.it" tvg-name="telenova IT" tvg-logo="http://static.epg.best/it/telenova.it.png" tvg-chno="413" channel-id="413",TELENOVA
-rtp://239.186.64.152:10000
+#EXTINF:-1 tvg-id="telenova.it" tvg-name="telenova IT" tvg-logo="http://static.epg.best/it/telenova.it.png" tvg-chno="413" channel-id="413",TELENOVA HD
+rtp://239.186.84.113:10000
 #EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="http://static.epg.best/it/Espansione.it.png" tvg-chno="414" channel-id="414",Espansione TV HD
 rtp://239.186.84.90:10000
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000 HD
