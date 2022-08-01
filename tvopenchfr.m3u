@@ -98,7 +98,7 @@ rtp://239.186.70.74:10000
 rtp://239.186.70.39:10000
 #EXTINF:-1 tvg-id="C421.api.telerama.fr" tvg-name="8 Mont-Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
-#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" tvg-chno="91" channel-id="91",ALSACE 20 HD
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="BFM ALSACE FR" tvg-logo="https://static.epg.best/fr/bfmalsace.fr.png" tvg-chno="91" channel-id="91",BFM ALSACE HD
 rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="http://static.epg.best/ch/Canal9.ch.png" tvg-chno="77" channel-id="77",Canal9 HD
 rtp://239.186.68.144:10000
@@ -132,8 +132,6 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
 rtp://239.186.70.21:10000
-#EXTINF:-1 ,BFM ALSACE HD
-rtp://239.186.68.111:10000
 #EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
