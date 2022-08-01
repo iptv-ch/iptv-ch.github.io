@@ -46,8 +46,8 @@ udp://@239.101.10.39:1234
 rtp://239.186.68.134:10000
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="https://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="26" channel-id="26",RMC Decouverte HD
 udp://@239.101.10.53:1234
-#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="https://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info HD
-rtp://239.186.68.68:10000
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="https://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info
+rtp://239.186.66.94:10000
 #EXTINF:-1 tvg-id="C205.api.telerama.fr" tvg-name="TV5MONDE France Belgique Suisse Monaco" tvg-logo="https://static.epg.best/fr/TV5MondeFBSM.fr.png" tvg-chno="30" channel-id="30",TV5 MONDE FBSM HD
 rtp://239.186.70.41:10000
 #EXTINF:-1 tvg-id="C232.api.telerama.fr" tvg-name="TV5MONDE EUROPE" tvg-logo="https://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="31" channel-id="31",TV5 MONDE EUROPE HD
@@ -146,7 +146,7 @@ rtp://239.186.70.203:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="" channel-id="",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="Alsace20 FR" tvg-logo="https://static.epg.best/fr/Alsace20.fr.png" ,ALSACE 20 HD
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="BFM ALSACE FR" tvg-logo="https://static.epg.best/fr/BFMAlsace.fr.png" ,BFM ALSACE HD
 rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
@@ -346,7 +346,7 @@ rtp://239.186.68.251:10000
 rtp://239.186.68.156:10000
 #EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE24
 rtp://239.186.64.123:10000
-#EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight UK" tvg-logo="https://static.epg.best/uk/Insight.uk.png" tvg-chno="219" channel-id="219",Insight.tv HD
+#EXTINF:-1 tvg-id="Inplus.uk" tvg-name="INPLUS UK" tvg-logo="https://static.epg.best/uk/Inplus.uk.png" tvg-chno="219" channel-id="219",INPLUS HD
 rtp://239.186.70.75:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
 rtp://239.186.64.20:10000
@@ -543,8 +543,8 @@ rtp://239.186.64.76:10000
 rtp://239.186.66.189:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="https://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Warner Bros. Discovery Real Time HD
 rtp://239.186.84.103:10000
-#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="https://static.epg.best/it/NOVE.it.png" tvg-chno="361" channel-id="361",Warner Bros. Discovery NOVE
-rtp://239.186.64.158:10000
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="https://static.epg.best/it/NOVE.it.png" tvg-chno="361" channel-id="361",Warner Bros. Discovery NOVE HD
+rtp://239.186.70.233:10000
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="https://static.epg.best/it/DMAX.it.png" tvg-chno="355" channel-id="355",Warner Bros. Discovery DMAX I HD
 rtp://239.186.84.89:10000
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="https://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Warner Bros. Discovery Giallo HD
@@ -595,6 +595,8 @@ rtp://239.186.66.176:10000
 rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
 rtp://239.186.74.78:10000
+#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
+rtp://239.186.74.114:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="https://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
 #EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="https://static.epg.best/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
@@ -804,3 +806,5 @@ rtp://239.186.74.98:10000
 rtp://239.186.74.103:10000
 #EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
+#EXTINF:-1 ,ADRIA Music Television HD (hrv)
+rtp://239.186.68.184:10000
