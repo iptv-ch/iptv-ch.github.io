@@ -47,13 +47,13 @@ rtp://239.186.74.97:10000
 #EXTREM:Cinema Series Films Comédies
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
 udp://@239.101.10.39:1234
-#EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
+#EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="http://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
 rtp://233.21.50.59:1234
-#EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="https://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HBO HD
+#EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="http://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HBO HD
 rtp://233.21.50.60:1234
-#EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="OCS Choc" tvg-logo="https://static.epg.best/fr/OCSChoc.fr.png" tvg-chno="47" channel-id="74",OCS choc HD
+#EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="OCS Choc" tvg-logo="http://static.epg.best/fr/OCSChoc.fr.png" tvg-chno="47" channel-id="74",OCS choc HD
 rtp://233.21.50.61:1234
-#EXTINF:-1 tvg-id="C734.api.telerama.fr" tvg-name="OCS Geants" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" tvg-chno="48" channel-id="48",OCS geants HD
+#EXTINF:-1 tvg-id="C734.api.telerama.fr" tvg-name="OCS Geants" tvg-logo="http://static.epg.best/fr/OCSGeants.fr.png" tvg-chno="48" channel-id="48",OCS geants HD
 rtp://233.21.50.62:1234
 #EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="13ème Rue" tvg-logo="http://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
 rtp://233.21.50.4:1234
@@ -98,7 +98,7 @@ rtp://239.186.70.74:10000
 rtp://239.186.70.39:10000
 #EXTINF:-1 tvg-id="C421.api.telerama.fr" tvg-name="8 Mont-Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
-#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="BFM ALSACE FR" tvg-logo="https://static.epg.best/fr/bfmalsace.fr.png" tvg-chno="91" channel-id="91",BFM ALSACE HD
+#EXTINF:-1 tvg-id="C524.api.telerama.fr" tvg-name="BFM ALSACE FR" tvg-logo="http://static.epg.best/fr/bfmalsace.fr.png" tvg-chno="91" channel-id="91",BFM ALSACE HD
 rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="http://static.epg.best/ch/Canal9.ch.png" tvg-chno="77" channel-id="77",Canal9 HD
 rtp://239.186.68.144:10000
@@ -139,8 +139,6 @@ rtp://239.186.68.244:10000
 rtp://233.32.39.142:1234
 #EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",CNBC Golf HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 tvg-id="C675.api.telerama.fr" tvg-name="RMC Sport Access 2 FR" tvg-logo="http://static.epg.best/fr/RMCSportAccess2.fr.png" tvg-chno="69" channel-id="69",RMC SPORT Access 2 HD
-rtp://233.32.39.164:1234
 #EXTREM:Animations enfants / adolescents
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
@@ -150,7 +148,7 @@ rtp://233.21.50.11:1234
 rtp://233.21.50.31:1234
 #EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="http://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
 rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="C888.api.telerama.fr" tvg-name="Nick Jr FR" tvg-logo="https://static.epg.best/fr/NickJr.fr.png" tvg-chno="" channel-id="",Nickelodeon Junior F HD
+#EXTINF:-1 tvg-id="C888.api.telerama.fr" tvg-name="Nick Jr FR" tvg-logo="http://static.epg.best/fr/NickJr.fr.png" tvg-chno="" channel-id="",Nickelodeon Junior F HD
 rtp://233.21.50.63:1234
 #EXTREM: Voyances / jeux ruinant / arnaques publicitaires
 #EXTINF:-1 ,Suisseplus / premiumshopping.tv/fr
