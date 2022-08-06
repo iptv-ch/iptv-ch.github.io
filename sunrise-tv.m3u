@@ -34,7 +34,7 @@ rtp://233.35.254.60:1234
 rtp://233.35.254.147:1234
 #EXTINF:-1 ,W9 Suisse HD
 rtp://233.35.254.121:1234
-#EXTINF:-1 ,TV5MONDE FBS
+#EXTINF:-1 ,TV5MONDE FBSM HD
 rtp://233.35.254.181:1234
 #EXTINF:-1 ,Mangas HD
 rtp://233.21.50.2:1234
@@ -62,17 +62,15 @@ rtp://233.21.50.60:1234
 rtp://233.21.50.61:1234
 #EXTINF:-1 ,OCS Geants HD
 rtp://233.21.50.62:1234
-#EXTINF:-1 ,Nickelodeon Junior HD French
+#EXTINF:-1 ,Nickelodeon Junior F HD
 rtp://233.21.50.63:1234
-#EXTINF:-1 ,Paramount Channel HD
+#EXTINF:-1 ,Paramount Channel F HD
 rtp://233.21.50.126:1234
 #EXTINF:-1 ,Equidia HD
 rtp://233.32.39.142:1234
 #EXTINF:-1 ,Golf Channel HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 ,RMC SPORT Access 2 HD
-rtp://233.32.39.164:1234
-#EXTINF:-1 ,Sunrise TV FR promotion HD
+#EXTINF:-1 ,
 rtp://233.32.39.252:1234
 #EXTREM: deutsch
 #EXTINF:-1 ,SRF1 HD
@@ -129,8 +127,6 @@ rtp://233.35.254.34:1234
 rtp://233.35.254.212:1234
 #EXTINF:-1 ,ZDF info HD
 rtp://233.35.254.210:1234
-#EXTINF:-1 ,Sunrise TV DE werbung HD
-rtp://233.32.39.251:1234
 #EXTREM: italiano
 #EXTINF:-1 ,RSI LA 1 HD
 rtp://233.35.254.151:1234
@@ -176,13 +172,13 @@ rtp://233.35.254.36:1234
 rtp://233.35.254.37:1234
 #EXTINF:-1 ,Super!
 rtp://233.35.254.42:1234
-#EXTINF:-1 ,Real Time
+#EXTINF:-1 ,Real Time HD
 rtp://233.35.254.56:1234
-#EXTINF:-1 ,Giallo
+#EXTINF:-1 ,Giallo HD
 rtp://233.35.254.57:1234
 #EXTINF:-1 ,Top Crime
 rtp://233.35.254.82:1234
-#EXTINF:-1 ,Nove (ita)
+#EXTINF:-1 ,Nove HD
 rtp://233.35.254.85:1234
 #EXTINF:-1 ,Sky TG24
 rtp://233.35.254.115:1234
@@ -194,10 +190,8 @@ rtp://233.35.254.163:1234
 rtp://233.35.254.175:1234
 #EXTINF:-1 ,LA7
 rtp://233.35.254.83:1234
-#EXTINF:-1 ,TELELOMBARDIA
+#EXTINF:-1 ,TELELOMBARDIA HD
 rtp://233.35.254.114:1234
-#EXTINF:-1 ,Sunrise TV IT pubblicita HD
-rtp://233.32.39.253:1234
 #EXTREM: english
 #EXTINF:-1 ,BBC One HD
 rtp://233.35.254.131:1234
