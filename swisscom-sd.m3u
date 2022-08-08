@@ -447,7 +447,7 @@ rtp://239.186.64.50:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="https://static.epg.best/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="https://static.epg.best/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp
-rtp://233.35.254.98:1234
+rtp://239.186.66.35:10000
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="https://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie
 rtp://239.186.66.185:10000
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="https://static.epg.best/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24
