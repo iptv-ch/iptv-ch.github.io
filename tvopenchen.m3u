@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTREM:IPTV channels open in Switzerland (CH) english language Swisscom network and multicast IPTV partners layer3
-#EXTINF:-1 ,BBC One HD
+#EXTINF:-1 ,BBC ONE HD
 rtp://239.186.68.43:10000
-#EXTINF:-1 ,BBC Two HD
+#EXTINF:-1 ,BBC TWO HD
 rtp://239.186.68.41:10000
-#EXTINF:-1 ,BBC CBBC HD
+#EXTINF:-1 ,BBC THREE HD/ CBBC HD
 rtp://239.186.68.153:10000
-#EXTINF:-1 ,BBC Four HD / BBC CBeebies HD
+#EXTINF:-1 ,BBC FOUR HD / BBC CBeebies HD
 rtp://239.186.68.158:10000
 #EXTINF:-1 ,Dave
 rtp://239.186.66.253:10000
