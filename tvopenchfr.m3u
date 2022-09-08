@@ -6,7 +6,7 @@ rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS 2" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS Deux HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
-udp://@239.101.10.63:1234
+rtp://233.35.254.133:1234
 #EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-name="France 2" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="4" channel-id="4",France2 HD
 rtp://239.186.68.19:10000
 #EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-name="France 3" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="5" channel-id="5",France3 HD
@@ -46,7 +46,7 @@ rtp://239.186.68.242:10000
 rtp://239.186.74.97:10000
 #EXTREM:Cinema Series Films Comédies
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
-udp://@239.101.10.39:1234
+#udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="http://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
 rtp://233.21.50.59:1234
 #EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="http://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HBO HD
@@ -67,7 +67,7 @@ rtp://233.21.50.126:1234
 rtp://239.186.68.33:10000
 #EXTREM:Découvertes / Sciences / Voyages / Histoires
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
-udp://@239.101.10.53:1234
+#udp://@239.101.10.53:1234
 #EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD F /voyage
 rtp://233.21.50.54:1234
 #EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
