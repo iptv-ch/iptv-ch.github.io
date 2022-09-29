@@ -680,7 +680,7 @@ rtp://239.186.74.59:10000
 rtp://239.186.68.192:10000
 #EXTINF:-1 ,Parole di vita
 rtp://239.186.74.115:10000
-#EXTINF:-1 tvg-id="citv.it" tvg-name="citv IT" tvg-logo="https://static.epg.best/it/citv.it.png" tvg-chno="" channel-id="",CRIME+INVESTIGASTION I HD
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="CI Crime+ Investigation IT" tvg-logo="https://static.epg.best/it/CrimeInvestigation.it.png" tvg-chno="426" channel-id="426",CRIME+INVESTIGASTION HD
 rtp://239.186.84.127:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
