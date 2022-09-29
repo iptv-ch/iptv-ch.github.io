@@ -94,6 +94,6 @@ Android TV Android 7.0 onwards.
 https://www.init7.net/en/support/faq/tv-android-geraete/
 
 
-All channels available (198) if Init7 is your broadband provider<br>
-This file lists SD (108) and HD (90) channels.<br>
+All channels available (195) if Init7 is your broadband provider<br>
+This file lists SD (104) and HD (91) channels.<br>
 [More information](https://www.init7.net/en/tv/offer/
