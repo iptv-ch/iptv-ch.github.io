@@ -498,6 +498,8 @@ rtp://239.186.74.85:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
 rtp://239.186.74.114:10000
+#EXTINF:-1 ,Parole di vita
+rtp://239.186.74.115:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
@@ -608,3 +610,5 @@ rtp://239.186.74.90:10000
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,nickelodeon YKPAÏHA (ukr)
 rtp://239.186.74.103:10000
+#EXTINF:-1 ,HAYATOVCi (bos)
+rtp://239.186.74.116:10000
