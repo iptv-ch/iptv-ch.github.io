@@ -6,7 +6,7 @@ rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS 2" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS Deux HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
-rtp://233.35.254.133:1234
+udp://@239.101.10.63:1234
 #EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-name="France 2" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="4" channel-id="4",France2 HD
 rtp://239.186.68.19:10000
 #EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-name="France 3" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="5" channel-id="5",France3 HD
@@ -16,7 +16,7 @@ rtp://239.186.84.55:10000
 #EXTINF:-1 tvg-id="C47.api.telerama.fr" tvg-name="France 5" tvg-logo="http://static.epg.best/fr/France5.fr.png" tvg-chno="7" channel-id="7",France5 HD
 rtp://239.186.70.27:10000
 #EXTINF:-1 tvg-id="C118.api.telerama.fr" tvg-name="M6" tvg-logo="http://static.epg.best/fr/M6.fr.png" tvg-chno="8" channel-id="8",M6 CH HD
-rtp://233.35.254.130:1234
+udp://@239.101.10.66:1234
 #EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="Arte" tvg-logo="http://static.epg.best/fr/ARTE.fr.png" tvg-chno="9" channel-id="9",arte F HD
 rtp://239.186.68.18:10000
 #EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="C8" tvg-logo="http://static.epg.best/fr/C8.fr.png" tvg-chno="10" channel-id="10",C8 CH HD
@@ -46,7 +46,7 @@ rtp://239.186.68.242:10000
 rtp://239.186.74.97:10000
 #EXTREM:Cinema Series Films Comédies
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
-#udp://@239.101.10.39:1234
+udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="http://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
 rtp://233.21.50.59:1234
 #EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="http://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HBO HD
@@ -66,8 +66,8 @@ rtp://233.21.50.126:1234
 #EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
 rtp://239.186.68.33:10000
 #EXTREM:Découvertes / Sciences / Voyages / Histoires
-#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
-#udp://@239.101.10.53:1234
+EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
+udp://@239.101.10.53:1234
 #EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD F /voyage
 rtp://233.21.50.54:1234
 #EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="Nat Geo Wild FR" tvg-logo="http://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
@@ -89,7 +89,7 @@ rtp://239.186.84.35:10000
 rtp://239.186.70.148:10000
 #EXTINF:-1 tvg-id="C529.api.telerama.fr" tvg-name="France 24" tvg-logo="http://static.epg.best/fr/France24f.fr.png" tvg-chno="63" channel-id="63",France24 HD
 rtp://239.186.70.125:10000
-#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="" tvg-logo="http://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
+#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="I24news" tvg-logo="http://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
 rtp://239.186.70.74:10000
@@ -155,3 +155,19 @@ rtp://233.21.50.63:1234
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
+#EXTINF:-1 ,CANAL+ SPORT 360 HD (fra) abonnement
+rtp://239.186.84.44:10000
+#EXTINF:-1 ,CANAL+ FOOT HD (fra) abonnement
+rtp://239.186.84.49:10000
+#EXTINF:-1 ,CANAL+ DOCS HD (fra) abonnement
+rtp://239.186.84.120:10000
+#EXTINF:-1 ,MUSEUM TV HD (fra) abonnement
+rtp://239.186.84.121:10000
+#EXTINF:-1 ,nickelodeon+1 HD (fra) abonnement
+rtp://239.186.84.123:10000
+#EXTINF:-1 ,MTV France HD (fra) abonnement
+rtp://239.186.84.124:10000
+#EXTINF:-1 ,DISNEY CHANNEL+1 HD (fra) abonnement
+rtp://239.186.84.125:10000
+#EXTINF:-1 ,téléToON+1 HD (fra) abonnement
+rtp://239.186.84.128:10000
