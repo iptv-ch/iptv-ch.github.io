@@ -155,6 +155,7 @@ rtp://233.21.50.63:1234
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
+#EXTREM: Promotions temporaires
 #EXTINF:-1 ,CANAL+ SPORT 360 HD (fra) abonnement
 rtp://239.186.84.44:10000
 #EXTINF:-1 ,CANAL+ FOOT HD (fra) abonnement
