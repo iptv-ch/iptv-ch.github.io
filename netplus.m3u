@@ -31,8 +31,6 @@ udp://@239.101.10.24:1234
 udp://@239.101.10.53:1234
 #EXTINF:-1 ,Canal+ HD programmes plage en clair
 udp://@239.101.10.39:1234
-#EXTINF:-1 ,MySports F HD promotion
-udp://@239.101.10.85
 #EXTREM deutsch
 #EXTINF:-1 ,SRF 1 HD
 udp://@239.101.10.48:1234
@@ -43,4 +41,3 @@ udp://@239.101.10.49:1234
 udp://@239.101.10.44:1234
 #EXTINF:-1 ,RSI LA 2 HD
 udp://@239.101.10.45:1234
-
