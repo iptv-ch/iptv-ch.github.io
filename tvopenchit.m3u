@@ -53,11 +53,11 @@ rtp://239.186.68.165:10000
 rtp://239.186.66.44:10000
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="http://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",Rete4 HD
 rtp://239.186.70.188:10000
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET HD
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 HD
 rtp://239.186.68.46:10000
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",LA5
 rtp://239.186.64.73:10000
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.epg.best/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.epg.best/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",EXTRA
 rtp://239.186.66.37:10000
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.epg.best/it/FocusTv.it.png" tvg-chno="374" channel-id="374",Focus
 rtp://239.186.66.69:10000
@@ -105,8 +105,8 @@ rtp://239.186.84.20:10000
 rtp://239.186.70.181:10000
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="http://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
 rtp://239.186.66.177:10000
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport italia HD
-rtp://239.186.84.41:10000
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport italia
+rtp://239.186.74.24:10000
 #EXTINF:-1 tvg-id="super.it" tvg-name="super! IT" tvg-logo="http://static.epg.best/it/Super.it.png" tvg-chno="291" channel-id="291",SUPER!
 rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis IT" tvg-logo="http://static.epg.best/it/SuperTennis.it.png" tvg-chno="409" channel-id="409",SuperTennis HD
