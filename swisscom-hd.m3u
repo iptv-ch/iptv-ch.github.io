@@ -712,6 +712,8 @@ rtp://239.186.74.65:10000
 rtp://239.186.84.106:10000
 #EXTINF:-1 ,A3SeriesInt HD
 rtp://239.186.84.47:10000
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional ES" tvg-logo="https://static.epg.best/es/Antena3Internacional.es.png" tvg-chno="" channel-id="",Antena3Int HD
+rtp://239.186.84.48:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
 rtp://239.186.64.199:10000
