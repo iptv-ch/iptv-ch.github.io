@@ -66,7 +66,7 @@ rtp://233.21.50.126:1234
 #EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
 rtp://239.186.68.33:10000
 #EXTREM:Découvertes / Sciences / Voyages / Histoires
-EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
+#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
 udp://@239.101.10.53:1234
 #EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD F /voyage
 rtp://233.21.50.54:1234
