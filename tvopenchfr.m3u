@@ -156,19 +156,3 @@ rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTREM: Promotions temporaires
-#EXTINF:-1 ,CANAL+ SPORT 360 HD (fra) abonnement
-rtp://239.186.84.44:10000
-#EXTINF:-1 ,CANAL+ FOOT HD (fra) abonnement
-rtp://239.186.84.49:10000
-#EXTINF:-1 ,CANAL+ DOCS HD (fra) abonnement
-rtp://239.186.84.120:10000
-#EXTINF:-1 ,MUSEUM TV HD (fra) abonnement
-rtp://239.186.84.121:10000
-#EXTINF:-1 ,nickelodeon+1 HD (fra) abonnement
-rtp://239.186.84.123:10000
-#EXTINF:-1 ,MTV France HD (fra) abonnement
-rtp://239.186.84.124:10000
-#EXTINF:-1 ,DISNEY CHANNEL+1 HD (fra) abonnement
-rtp://239.186.84.125:10000
-#EXTINF:-1 ,téléToON+1 HD (fra) abonnement
-rtp://239.186.84.128:10000
