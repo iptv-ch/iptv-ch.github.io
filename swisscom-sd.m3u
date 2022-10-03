@@ -378,7 +378,7 @@ rtp://239.186.66.107:10000
 rtp://239.186.74.18:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="https://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
 rtp://239.186.64.74:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="350" channel-id="350",CANALE Italia 83
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",Cartoonito
 rtp://239.186.66.176:10000
