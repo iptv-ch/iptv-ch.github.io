@@ -70,8 +70,6 @@ rtp://233.21.50.126:1234
 rtp://233.32.39.142:1234
 #EXTINF:-1 ,Golf Channel HD
 rtp://233.32.39.154:1234
-#EXTINF:-1 ,
-rtp://233.32.39.252:1234
 #EXTREM: deutsch
 #EXTINF:-1 ,SRF1 HD
 rtp://233.35.254.125:1234
