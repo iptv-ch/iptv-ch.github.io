@@ -532,7 +532,7 @@ rtp://239.186.84.109:10000
 rtp://239.186.66.107:10000
 #EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="https://static.epg.best/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3 HD
 rtp://239.186.70.79:10000
-#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="https://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia 83
+#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="https://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="https://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
@@ -656,8 +656,6 @@ rtp://239.186.74.85:10000
 rtp://239.186.70.152:10000
 #EXTINF:-1 tvg-id="SMtvSanMarino.it" tvg-name="SMtv San Marino IT" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="" channel-id="",Rtv San Marino HD
 rtp://239.186.84.23:10000
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="https://static.epg.best/it/Sportitalia.it.png" tvg-chno="" channel-id="",Sport italia HD
-rtp://239.186.84.41:10000
 #EXTINF:-1 ,camera dei deputati
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,Radio Ticino channel HD
@@ -799,8 +797,6 @@ rtp://239.186.74.90:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 ,HAYATOVCi (bos)
-rtp://239.186.74.116:10000
 #EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,nickelodeon YKPAÏHA Pluto TV (ukr)
