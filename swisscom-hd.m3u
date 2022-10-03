@@ -147,22 +147,6 @@ rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" tvg-chno="92" channel-id="92" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
 #EXTREM: Promotions temporaires
-#EXTINF:-1 ,CANAL+ SPORT 360 HD
-rtp://239.186.84.44:10000
-#EXTINF:-1 ,CANAL+ FOOT HD
-rtp://239.186.84.49:10000
-#EXTINF:-1 ,CANAL+ DOCS HD
-rtp://239.186.84.120:10000
-#EXTINF:-1 ,MUSEUM TV HD
-rtp://239.186.84.121:10000
-#EXTINF:-1 ,nickelodeon+1 HD
-rtp://239.186.84.123:10000
-#EXTINF:-1 ,MTV France HD
-rtp://239.186.84.124:10000
-#EXTINF:-1 ,DISNEY CHANNEL+1 HD
-rtp://239.186.84.125:10000
-#EXTINF:-1 ,téléToON+1 HD
-rtp://239.186.84.128:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -680,15 +664,11 @@ rtp://239.186.74.59:10000
 rtp://239.186.68.192:10000
 #EXTINF:-1 ,Parole di vita
 rtp://239.186.74.115:10000
-#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="CI Crime+ Investigation IT" tvg-logo="https://static.epg.best/it/CrimeInvestigation.it.png" tvg-chno="426" channel-id="426",CRIME+INVESTIGASTION HD
-rtp://239.186.84.127:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTINF:-1 ,Canal 11 internacional HD
-rtp://239.186.84.122:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="Aragonint.es" tvg-name="Aragon int ES" tvg-logo="https://static.epg.best/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int
 rtp://239.186.66.62:10000
@@ -710,10 +690,6 @@ rtp://239.186.84.19:10000
 rtp://239.186.74.65:10000
 #EXTINF:-1 ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
-#EXTINF:-1 ,A3SeriesInt HD
-rtp://239.186.84.47:10000
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional ES" tvg-logo="https://static.epg.best/es/Antena3Internacional.es.png" tvg-chno="" channel-id="",Antena3Int HD
-rtp://239.186.84.48:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
 rtp://239.186.64.199:10000
