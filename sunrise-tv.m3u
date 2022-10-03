@@ -81,8 +81,6 @@ rtp://233.35.254.209:1234
 rtp://233.35.254.46:1234
 #EXTINF:-1 ,arte D HD
 rtp://233.35.254.30:1234
-#EXTINF:-1 ,blue ZOOM D HD
-rtp://233.32.39.228:1234
 #EXTINF:-1 ,BR HD
 rtp://233.35.254.204:1234
 #EXTINF:-1 ,Das Erste HD
@@ -142,7 +140,7 @@ rtp://233.35.254.96:1234
 rtp://233.35.254.113:1234
 #EXTINF:-1 ,Rai Gulp
 rtp://233.35.254.98:1234
-#EXTINF:-1 ,Rai Sport+
+#EXTINF:-1 ,Rai Sport
 rtp://233.35.254.173:1234
 #EXTINF:-1 ,Rai Sport+ HD
 rtp://233.35.254.102:1234
