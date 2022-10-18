@@ -243,5 +243,5 @@ rtp://239.186.84.67:10000
 rtp://239.186.74.82:10000
 #EXTINF:-1 ,BaernSPORT HD
 rtp://239.186.84.95:10000
-#EXTINF:-1 ,ARCADIA WORLD TV HD
+#EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="http://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
