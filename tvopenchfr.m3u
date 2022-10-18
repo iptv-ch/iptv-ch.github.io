@@ -151,7 +151,7 @@ rtp://233.21.50.2:1234
 #EXTINF:-1 tvg-id="C888.api.telerama.fr" tvg-name="Nick Jr FR" tvg-logo="http://static.epg.best/fr/NickJr.fr.png" tvg-chno="" channel-id="",Nickelodeon Junior F HD
 rtp://233.21.50.63:1234
 #EXTREM: Voyances / jeux ruinant / arnaques publicitaires
-#EXTINF:-1 ,Suisseplus / premiumshopping.tv/fr
+#EXTINF:-1 tvg-id="Suisseplus.ch" tvg-name="SuissePlus CH" tvg-logo="http://static.epg.best/ch/suisseplus.ch.png" tvg-chno="" channel-id="",TV SUISSE PLUS
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
