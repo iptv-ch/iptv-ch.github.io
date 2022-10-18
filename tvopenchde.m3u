@@ -29,7 +29,7 @@ rtp://239.186.68.7:10000
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD Alpha DE" tvg-logo="http://static.epg.best/de/ARDalpha.de.png" tvg-chno="184" channel-id="184",ARD alpha HD
 rtp://239.186.70.194:10000
-#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.epg.best/de/ARDOne.de.png" tvg-chno="186" channel-id="186",ARD ONE HD
+#EXTINF:-1 tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.epg.best/de/ARDOne.de.png" tvg-chno="186" channel-id="186",ARD one HD
 rtp://239.186.68.154:10000
 #EXTINF:-1 tvg-id="SRfernsehen.de" tvg-name="SR fernsehen DE" tvg-logo="http://static.epg.best/de/SRfernsehen.de.png" tvg-chno="128" channel-id="128",SR fernsehen HD
 rtp://239.186.70.190:10000
@@ -229,9 +229,9 @@ rtp://239.186.68.243:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 ,Hit Express TV HD
 rtp://239.186.84.22:10000
-#EXTINF:-1 ,ONE 1 Music TV HD
+#EXTINF:-1 tvg-id="ONEmusic.de" tvg-name="One Music DE" tvg-logo="http://static.epg.best/de/onemusic.de.png" tvg-chno="" channel-id="",ONE 1 Music TV HD
 rtp://239.186.70.214:10000
-#EXTINF:-1 ,ZWEI 2 Music TV HD
+#EXTINF:-1 tvg-id="ZWEImusic.de" tvg-name="Zwei Music DE" tvg-logo="http://static.epg.best/de/zweimusic.de.png" tvg-chno="" channel-id="",ZWEI 2 Music TV HD
 rtp://239.186.70.204:10000
 #EXTINF:-1 ,Folx HD
 rtp://239.186.68.121:10000/
