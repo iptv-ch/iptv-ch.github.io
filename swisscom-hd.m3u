@@ -505,9 +505,9 @@ rtp://239.186.70.28:10000
 rtp://239.186.84.22:10000
 #EXTINF:-1 ,Folx HD
 rtp://239.186.68.121:10000
-#EXTINF:-1 tvg-id="ONEmusic.de" tvg-name="One Music DE" tvg-logo="http://static.epg.best/de/onemusic.de.png" tvg-chno="" channel-id="",ONE 1 Music TV HD
+#EXTINF:-1 tvg-id="ONEmusic.de" tvg-name="One Music DE" tvg-logo="https://static.epg.best/de/onemusic.de.png" tvg-chno="" channel-id="",ONE 1 Music TV HD
 rtp://239.186.70.214:10000
-#EXTINF:-1 tvg-id="ZWEImusic.de" tvg-name="Zwei Music DE" tvg-logo="http://static.epg.best/de/zweimusic.de.png" tvg-chno="" channel-id="",ZWEI 2 Music TV HD
+#EXTINF:-1 tvg-id="ZWEImusic.de" tvg-name="Zwei Music DE" tvg-logo="https://static.epg.best/de/zweimusic.de.png" tvg-chno="" channel-id="",ZWEI 2 Music TV HD
 rtp://239.186.70.204:10000
 #EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild TV DE" tvg-logo="https://static.epg.best/de/BildTV.de.png" tvg-chno="" channel-id="",Bild HD
 rtp://239.186.84.67:10000
@@ -517,7 +517,7 @@ rtp://239.186.84.60:10000
 rtp://239.186.84.80:10000
 #EXTINF:-1 ,BaernSPORT HD
 rtp://239.186.84.95:10000
-#EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="http://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
+#EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
@@ -592,7 +592,7 @@ rtp://239.186.66.176:10000
 rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
 rtp://239.186.74.78:10000
-#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
+#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27
 rtp://239.186.74.114:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="https://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
@@ -644,11 +644,11 @@ rtp://239.186.66.184:10000
 rtp://239.186.66.240:10000
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="https://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000 HD
 rtp://239.186.84.73:10000
-#EXTINF:-1 ,Espansione TV HD
+#EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="https://static.epg.best/it/Espansione.it.png" tvg-chno="414" channel-id="414",Espansione TV HD
 rtp://239.186.84.90:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
-#EXTINF:-1 ,TOP CALCIO 24 HD
+#EXTINF:-1 tvg-id="Topcalcio24.it" tvg-name="Topcalcio24 IT" tvg-logo="https://static.epg.best/it/Topcalcio24.it.png" tvg-chno="420" channel-id="420",TOP CALCIO 24 HD
 rtp://239.186.84.105:10000
 #EXTINF:-1 ,senato italiano tv
 rtp://239.186.74.85:10000
@@ -801,5 +801,5 @@ rtp://239.186.74.98:10000
 rtp://239.186.74.103:10000
 #EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
-#EXTINF:-1 ,ADRIA Music Television HD (svn)
+#EXTINF:-1 tvg-id="Adria.de" tvg-name="Adria SI" tvg-logo="https://static.epg.best/si/adria.si.png" tvg-chno="" channel-id="",ADRIA Music Television HD (svn)
 rtp://239.186.68.184:10000
