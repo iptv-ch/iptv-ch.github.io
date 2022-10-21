@@ -19,7 +19,7 @@ https://iptv-ch.github.io/tvopenchfr.m3u
 
 special thanks to bendreth for their update for community and customers of CityCable TV Lausanne over ftth date 2019-12-18
 
-## Netplus TV HD + SD
+## Netplus TV HD + SD (codec video h264)
 
 **https://iptv-ch.github.io/netplus.m3u**
 
@@ -30,7 +30,7 @@ EPG information from https://xmltv.ch/ are included.<br>
 [More information](https://www.regardtv.net/t7600-netplus-iptv-gratuit-free).
 
 
-## Swisscom TV SD only
+## Swisscom TV SD only (codec video h264)
 
 **https://iptv-ch.github.io/swisscom-sd.m3u**
 
@@ -41,7 +41,7 @@ EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
 
-## Swisscom TV HD + SD
+## Swisscom TV HD + SD (codec video h264)
 
 **https://iptv-ch.github.io/swisscom-hd.m3u**
 
@@ -51,7 +51,7 @@ This file only lists the HD channels in the case where a channel is available on
 EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
-## Swisscom TV UHD only
+## Swisscom TV UHD only (required codec video h265)
 
 **https://iptv-ch.github.io/swisscom-uhd.m3u**
 
@@ -62,7 +62,7 @@ EPG information from https://xmltv.ch/ is included.<br>
 [More information]( https://www.regardtv.net/t6105p325-flux-iptv-swisscom#77698 ).
 
 
-## Sunrise TV SD/HD
+## Sunrise TV SD/HD (codec video h264)
 
 **https://iptv-ch.github.io/sunrise-tv.m3u**
 
@@ -72,7 +72,7 @@ This file lists the Sunrise TV SD/HD channels.<br>
 EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille).
 
-## Sunrise Radio
+## Sunrise Radio (mpeg1-layer2 mpg-audio, datarate=256kbit/s sampling=48khz 32bit)
 
 **https://iptv-ch.github.io/sunrise-radio.m3u**
 
