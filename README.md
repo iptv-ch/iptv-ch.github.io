@@ -72,7 +72,8 @@ This file lists the Sunrise TV SD/HD channels.<br>
 EPG information from https://xmltv.ch/ is included.<br>
 [More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille).
 
-## Sunrise Radio (mpeg1-layer2 mpg-audio, datarate=256kbit/s sampling=48khz 32bit)
+## Sunrise Radio 
+(mpeg1-layer2 mpg-audio, datarate=256kbit/s sampling=48khz 32bit)
 
 **https://iptv-ch.github.io/sunrise-radio.m3u**
 
