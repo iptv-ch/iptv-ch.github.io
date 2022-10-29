@@ -108,7 +108,7 @@ rtp://239.186.84.80:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="http://static.epg.best/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="http://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben HD
-rtp://233.32.39.222:1234
+rtp://239.186.64.19:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="http://static.epg.best/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
 rtp://239.186.68.191:10000
 #EXTINF:-1 tvg-id="QS24.ch" tvg-name="QS24 CH" tvg-logo="http://static.epg.best/ch/QS24.ch.png" tvg-chno="131" channel-id="131",qs24.tv HD
@@ -141,8 +141,8 @@ rtp://239.186.70.128:10000
 rtp://239.186.68.139:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="http://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
 rtp://239.186.64.70:10000
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.epg.best/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
-rtp://233.32.39.228:1234
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="http://static.epg.best/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH
+rtp://239.186.64.64:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
 rtp://239.186.68.188:10000
 #EXTINF:-1 tvg-id="gametv.ch" tvg-name="GameTV CH" tvg-logo="http://static.epg.best/ch/Gametv.ch.png" tvg-chno="289" channel-id="289",GAMETV CH HD
