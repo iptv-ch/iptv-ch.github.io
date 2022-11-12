@@ -147,6 +147,22 @@ rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" tvg-chno="92" channel-id="92" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
 #EXTREM: Promotions temporaires
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina FR" tvg-logo="https://static.epg.best/fr/tracelatina.fr.png" tvg-chno="" channel-id="" ,TRACE LATINA HD
+rtp://239.186.68.117:10000
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/mtv.fr.png" tvg-chno="" channel-id="" ,MTV France HD
+rtp://239.186.84.124:10000
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="MUSEUM FR" tvg-logo="https://static.epg.best/fr/museum.fr.png" tvg-chno="" channel-id="" ,MUSEUM HD
+rtp://239.186.84.121:10000
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central FR" tvg-logo="https://static.epg.best/fr/comedycentral.fr.png" tvg-chno="" channel-id="" ,COMEDY CENTRAL F HD
+rtp://239.186.84.40:10000
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CanalPlus Docs FR" tvg-logo="https://static.epg.best/fr/CanalPlusDocs.fr.png" tvg-chno="" channel-id="" ,CANAL+ Docs HD
+rtp://239.186.84.120:10000
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot FR" tvg-logo="https://static.epg.best/fr/CanalPlusFoot.fr.png" tvg-chno="" channel-id="" ,CANAL+ Foot HD
+rtp://239.186.84.49:10000
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360 FR" tvg-logo="https://static.epg.best/fr/CanalPlusSport360.fr.png" tvg-chno="" channel-id="" ,CANAL+ Sport360 HD
+rtp://239.186.84.44:10000
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="	Chasse et pêche FR" tvg-logo="https://static.epg.best/ch/ChassePeche.fr.png" tvg-chno="92" channel-id="92" ,Chasse Peche HD
+rtp://239.186.68.68:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
