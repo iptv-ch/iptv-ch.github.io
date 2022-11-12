@@ -128,7 +128,7 @@ rtp://239.186.66.142:10000
 rtp://239.186.66.114:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
 rtp://239.186.64.183:10000
-#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="TRACE URBAN UK" tvg-logo="https://static.epg.best/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE HITS
+#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="TRACE URBAN UK" tvg-logo="https://static.epg.best/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE XMAS
 rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",Now 70s
 rtp://239.186.74.108:10000
@@ -214,6 +214,8 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
 rtp://239.186.74.58:10000
+#EXTINF:-1 tvg-id="morethansports.uk" tvg-name="More Than Sports UK" tvg-logo="https://static.epg.best/uk/morethansports.uk.png" tvg-chno="205" channel-id="205",More Than Sports
+rtp://239.186.66.241:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -253,8 +255,6 @@ rtp://239.186.74.26:10000
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="https://static.epg.best/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
 rtp://239.186.64.34:10000
-#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV DE" tvg-logo="https://static.epg.best/de/eoTV.de.png" tvg-chno="205" channel-id="205",eoTV
-rtp://239.186.66.241:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="https://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
 rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="208" channel-id="208",euronews. D
@@ -379,8 +379,6 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="volksmusik.de" tvg-name="volksmusik DE" tvg-logo="https://static.epg.best/de/volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv
 rtp://239.186.74.113:10000
-#EXTINF:-1 ,More Than Sports TV
-rtp://239.186.66.241:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
