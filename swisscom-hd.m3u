@@ -813,8 +813,6 @@ rtp://239.186.84.34:10000
 rtp://239.186.74.77:10000
 #EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,nickelodeon YKPAÏHA Pluto TV (ukr)
-rtp://239.186.74.103:10000
 #EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
 #EXTINF:-1 tvg-id="Adria.de" tvg-name="Adria SI" tvg-logo="https://static.epg.best/si/adria.si.png" tvg-chno="" channel-id="",ADRIA Music Television HD (svn)
