@@ -161,7 +161,7 @@ rtp://239.186.84.120:10000
 rtp://239.186.84.49:10000
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360 FR" tvg-logo="https://static.epg.best/fr/CanalPlusSport360.fr.png" tvg-chno="" channel-id="" ,CANAL+ Sport360 HD
 rtp://239.186.84.44:10000
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://static.epg.best/ch/ChassePeche.fr.png" tvg-chno="92" channel-id="92" ,Chasse Peche HD
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="https://static.epg.best/ch/ChassePeche.fr.png" tvg-chno="" channel-id="" ,Chasse Peche HD
 rtp://239.186.68.68:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
