@@ -105,8 +105,6 @@ rtp://239.186.74.120:10000
 rtp://239.186.74.121:10000
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport360 FR" tvg-logo="https://static.epg.best/fr/CanalPlusFoot.fr.png" tvg-chno="" channel-id="" ,CANAL+ Sport360
 rtp://239.186.74.119:10000
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="	Chasse et pêche FR" tvg-logo="https://static.epg.best/ch/ChassePeche.fr.png" tvg-chno="92" channel-id="92" ,Chasse Peche
-rtp://239.186.74.123:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
