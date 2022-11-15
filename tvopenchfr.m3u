@@ -168,6 +168,6 @@ rtp://239.186.84.40:10000
 rtp://239.186.74.120:10000
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot FR" tvg-logo="https://static.epg.best/fr/CanalPlusFoot.fr.png" tvg-chno="" channel-id="" ,CANAL+ Foot
 rtp://239.186.74.121:10000
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360 FR" tvg-logo="https://static.epg.best/fr/CanalPlusSport360.fr.png" tvg-chno="" channel-id="" ,CANAL+ Sport360 HD
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360 FR" tvg-logo="https://static.epg.best/fr/CanalPlusSport360.fr.png" tvg-chno="" channel-id="" ,CANAL+ Sport360
 rtp://239.186.74.119:10000
 
