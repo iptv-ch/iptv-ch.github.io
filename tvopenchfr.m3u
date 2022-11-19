@@ -156,7 +156,3 @@ rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTREM: Promotions temporaires
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/mtv.fr.png" tvg-chno="" channel-id="" ,MTV France
-rtp://239.186.74.118:10000
-#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central FR" tvg-logo="https://static.epg.best/fr/comedycentral.fr.png" tvg-chno="" channel-id="" ,COMEDY CENTRAL F HD
-rtp://239.186.74.81:10000
