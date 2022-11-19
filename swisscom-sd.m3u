@@ -91,10 +91,6 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/mtv.fr.png" tvg-chno="" channel-id="" ,MTV France
-rtp://239.186.74.118:10000
-#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central FR" tvg-logo="https://static.epg.best/fr/comedycentral.fr.png" tvg-chno="" channel-id="" ,COMEDY CENTRAL F
-rtp://239.186.74.81:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -610,3 +606,5 @@ rtp://239.186.74.91:10000
 rtp://239.186.74.90:10000
 #EXTINF:-1 ,YKPAÏHA 24  / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
+#EXTINF:-1 ,nickelodeon YKPAÏHA (ukr)
+rtp://239.186.74.103:10000
