@@ -73,11 +73,11 @@ rtp://239.186.66.176:10000
 rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="http://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",Cine34
 rtp://239.186.74.78:10000
-#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 IT" tvg-logo="http://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
-#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="http://static.epg.best/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 IT" tvg-logo="http://static.epg.best/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
 rtp://239.186.70.77:10000
-#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="Rai Tre IT" tvg-logo="http://static.epg.best/it/RaiTre.it.png" tvg-chno="389" channel-id="389",Rai3 HD
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 IT" tvg-logo="http://static.epg.best/it/RaiTre.it.png" tvg-chno="389" channel-id="389",Rai3 HD
 rtp://239.186.70.78:10000
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="http://static.epg.best/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4
 rtp://239.186.64.50:10000
