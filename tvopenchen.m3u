@@ -22,7 +22,7 @@ rtp://239.186.68.40:10000
 rtp://239.186.70.151:10000
 #EXTINF:-1 ,5STAR
 rtp://239.186.74.72:10000
-#EXTINF:-1 ,itv HD
+#EXTINF:-1 ,itv1 HD
 rtp://239.186.68.42:10000
 #EXTINF:-1 ,itv2
 rtp://239.186.64.170:10000
@@ -44,7 +44,7 @@ rtp://239.186.74.88:10000
 rtp://239.186.66.243:10000
 #EXTINF:-1 ,Smithsonian Channel UK HD
 rtp://239.186.70.189:10000
-#EXTINF:-1 ,Quest HD
+#EXTINF:-1 ,QUEST HD
 rtp://239.186.84.2:10000
 #EXTINF:-1 ,Challenge
 rtp://239.186.74.95:10000
@@ -66,7 +66,7 @@ rtp://239.186.68.125:10000
 rtp://239.186.70.224:10000
 #EXTINF:-1 ,CNN International HD
 rtp://239.186.70.23:10000
-#EXTINF:-1 ,euronews E HD
+#EXTINF:-1 ,euronews. E HD
 rtp://239.186.70.105:10000
 #EXTINF:-1 ,sky NEWS
 rtp://239.186.64.179:10000
