@@ -61,6 +61,12 @@ This file only lists the UHD channels.<br>
 EPG information from https://xmltv.ch/ is included.<br>
 [More information]( https://www.regardtv.net/t6105p325-flux-iptv-swisscom#77698 ).
 
+**https://iptv-ch.github.io/SwisscomIPTVscan.m3u**
+
+Many of the channels available on [Swisscom blue TV](https://www.swisscom.ch/en/residential/tv/channel-lists.html).<br>
+This will only work on your home network if Swisscom is your broadband provider or partner sharing or hosted on Swiscom network ISO layer3<br>
+--== Warning: This file list SD/HD/UHD channels by ip order stream open and scrambled ==--<br>
+No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
 ## Sunrise TV SD/HD (codec video h264)
 
