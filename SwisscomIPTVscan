@@ -1,0 +1,2247 @@
+#EXTM3U
+#EXTINF:-1,SRF 1 (AC3 deu)
+rtp://239.186.64.2:10000
+#EXTINF:-1,SRF zwei (AC3 deu)
+rtp://239.186.64.3:10000
+#EXTINF:-1,SRF info (AC3 deu)
+rtp://239.186.64.4:10000
+#EXTINF:-1,RTS1 (AC3 fra)
+rtp://239.186.64.5:10000
+#EXTINF:-1,RTS2 (AC3 fra)
+rtp://239.186.64.6:10000
+#EXTINF:-1,RSI LA1 (AC3 ita)
+rtp://239.186.64.7:10000
+#EXTINF:-1,RSI LA2 (AC3 ita)
+rtp://239.186.64.8:10000
+#EXTINF:-1,TeleZueri
+rtp://239.186.64.9:10000
+#EXTINF:-1,das Erste (AC3 deu)
+rtp://239.186.64.11:10000
+#EXTINF:-1,ZDF (AC3 deu)
+rtp://239.186.64.12:10000
+#EXTINF:-1,ORF1 (deu)
+rtp://239.186.64.13:10000
+#EXTINF:-1,ORF 2 (deu)
+rtp://239.186.64.14:10000
+#EXTINF:-1,RTL
+rtp://239.186.64.15:10000
+#EXTINF:-1,RTL ZWEI
+rtp://239.186.64.16:10000
+#EXTINF:-1,Super RTL
+rtp://239.186.64.17:10000
+#EXTINF:-1,SAT.1
+rtp://239.186.64.18:10000
+#EXTINF:-1,ProSieben CH (AC3)
+rtp://239.186.64.19:10000
+#EXTINF:-1,kabel eins (AC3)
+rtp://239.186.64.20:10000
+#EXTINF:-1,VOX
+rtp://239.186.64.21:10000
+#EXTINF:-1,Tele 5
+rtp://239.186.64.22:10000
+#EXTINF:-1,Arte D (deu)
+rtp://239.186.64.23:10000
+#EXTINF:-1,WDR (AAC deu)
+rtp://239.186.64.24:10000
+#EXTINF:-1,NDR (deu)
+rtp://239.186.64.25:10000
+#EXTINF:-1,BR (AC3 deu)
+rtp://239.186.64.26:10000
+#EXTINF:-1,SWR (AAC deu)
+rtp://239.186.64.27:10000
+#EXTINF:-1,HR (AAC deu)
+rtp://239.186.64.28:10000
+#EXTINF:-1,n-tv (deu)
+rtp://239.186.64.29:10000
+#EXTINF:-1,Welt CH
+rtp://239.186.64.30:10000
+#EXTINF:-1,KiKa (AC3 deu)
+rtp://239.186.64.31:10000
+#EXTINF:-1,MTV
+rtp://239.186.64.32:10000
+#EXTINF:-1,Eurosport 1 D (AC3 deu)
+rtp://239.186.64.33:10000
+#EXTINF:-1,DMAX
+rtp://239.186.64.34:10000
+#EXTINF:-1,TF1 CH (fra)
+rtp://239.186.64.35:10000
+#EXTINF:-1,France 2 (fre)
+rtp://239.186.64.36:10000
+#EXTINF:-1,France 3 (fre)
+rtp://239.186.64.37:10000
+#EXTINF:-1,France 4 (fre)
+rtp://239.186.64.38:10000
+#EXTINF:-1,France 5 (fra)
+rtp://239.186.64.39:10000
+#EXTINF:-1,M6 CH (fra)
+rtp://239.186.64.40:10000
+#EXTINF:-1,France 24 (AC3)
+rtp://239.186.64.41:10000
+#EXTINF:-1,TFX CH (fra)
+rtp://239.186.64.42:10000
+#EXTINF:-1,Rai 1 (ita)
+rtp://239.186.64.43:10000
+#EXTINF:-1,Rai 2
+rtp://239.186.64.44:10000
+#EXTINF:-1,Rai 3 (ita)
+rtp://239.186.64.45:10000
+#EXTINF:-1,Canale 5 (AC3 ita)
+rtp://239.186.64.46:10000
+#EXTINF:-1,Rete 4 (AC3 ita)
+rtp://239.186.64.47:10000
+#EXTINF:-1,Italia 1 (AC3 ita)
+rtp://239.186.64.48:10000
+#EXTINF:-1,La 7
+rtp://239.186.64.49:10000
+#EXTINF:-1,Rai 4 (ita)
+rtp://239.186.64.50:10000
+#EXTINF:-1,BBC One (AC3 eng)
+rtp://239.186.64.51:10000
+#EXTINF:-1,BBC Four (AC3 eng)
+rtp://239.186.64.52:10000
+#EXTINF:-1,E4 (eng)
+rtp://239.186.64.53:10000
+#EXTINF:-1,TVE Int.
+rtp://239.186.64.54:10000
+#EXTINF:-1,3sat CH (AC3 deu)
+rtp://239.186.64.55:10000
+#EXTINF:-1,3+
+rtp://239.186.64.56:10000
+#EXTINF:-1,Arte FR (AC3 fra)
+rtp://239.186.64.57:10000
+#EXTINF:-1,NRJ 12
+rtp://239.186.64.58:10000
+#EXTINF:-1,C8 CH (fra)
+rtp://239.186.64.59:10000
+#EXTINF:-1,Tele Barn
+rtp://239.186.64.60:10000
+#EXTINF:-1,Comedy Central (AC3)
+rtp://239.186.64.61:10000
+#EXTINF:-1,blue Vision TV
+rtp://239.186.64.62:10000
+#EXTINF:-1,MDR (AAC deu)
+rtp://239.186.64.63:10000
+#EXTINF:-1,Sport1
+rtp://239.186.64.64:10000
+#EXTINF:-1,Phoenix TV (deu)
+rtp://239.186.64.65:10000
+#EXTINF:-1,ZDFneo (AC3 deu)
+rtp://239.186.64.66:10000
+#EXTINF:-1,Sony AXN (deu)
+rtp://239.186.64.67:10000
+#EXTINF:-1,Eurosport 2 D (AC3 deu)
+rtp://239.186.64.68:10000
+#EXTINF:-1,GRTV-TeleVersoix
+rtp://239.186.64.69:10000
+#EXTINF:-1,Sixx CH (AC3)
+rtp://239.186.64.70:10000
+#EXTINF:-1,TV5 Monde EU
+rtp://239.186.64.71:10000
+#EXTINF:-1,BFM TV
+rtp://239.186.64.72:10000
+#EXTINF:-1,La5 (AC3 ita)
+rtp://239.186.64.73:10000
+#EXTINF:-1,Boing
+rtp://239.186.64.74:10000
+#EXTINF:-1,IRIS (AC3 ita)
+rtp://239.186.64.75:10000
+#EXTINF:-1,cielo (ita)
+rtp://239.186.64.76:10000
+#EXTINF:-1,RTP Int.
+rtp://239.186.64.77:10000
+#EXTINF:-1,BN Sat
+rtp://239.186.64.78:10000
+#EXTINF:-1,DM Sat
+rtp://239.186.64.79:10000
+#EXTINF:-1,RTK 1
+rtp://239.186.64.81:10000
+#EXTINF:-1,Channel1 RU
+rtp://239.186.64.82:10000
+#EXTINF:-1,Record TV
+rtp://239.186.64.83:10000
+#EXTINF:-1,blue Action (deu)
+rtp://239.186.64.85:10000
+#EXTINF:-1,ORF 3 (deu)
+rtp://239.186.64.86:10000
+#EXTINF:-1,Star TV
+rtp://239.186.64.87:10000
+#EXTINF:-1,Telebasel (deu)
+rtp://239.186.64.88:10000
+#EXTINF:-1,Leman Bleu
+rtp://239.186.64.89:10000
+#EXTINF:-1,Tele M1
+rtp://239.186.64.90:10000
+#EXTINF:-1,Tele 1
+rtp://239.186.64.91:10000
+#EXTINF:-1,Canal Alpha NE
+rtp://239.186.64.92:10000
+#EXTINF:-1,TVO
+rtp://239.186.64.94:10000
+#EXTINF:-1,Tele Bielingue
+rtp://239.186.64.95:10000
+#EXTINF:-1,Tele Top
+rtp://239.186.64.96:10000
+#EXTINF:-1,SHF Schaffhauser Fernsehen
+rtp://239.186.64.97:10000
+#EXTINF:-1,TVM3
+rtp://239.186.64.98:10000
+#EXTINF:-1,Tele Ticino
+rtp://239.186.64.99:10000
+#EXTINF:-1,TSO
+rtp://239.186.64.100:10000
+#EXTINF:-1,Max TV
+rtp://239.186.64.102:10000
+#EXTINF:-1,Tele Z
+rtp://239.186.64.103:10000
+#EXTINF:-1,La Tele
+rtp://239.186.64.104:10000
+#EXTINF:-1,Kerrang
+rtp://239.186.64.105:10000
+#EXTINF:-1,Canal Alpha JU
+rtp://239.186.64.106:10000
+#EXTINF:-1,Canal 9
+rtp://239.186.64.108:10000
+#EXTINF:-1,Kanal 9
+rtp://239.186.64.109:10000
+#EXTINF:-1,blue Zoom F (fra)
+rtp://239.186.64.111:10000
+#EXTINF:-1,Alpenland TV
+rtp://239.186.64.112:10000
+#EXTINF:-1,Cbeebies (AC3 eng)
+rtp://239.186.64.113:10000
+#EXTINF:-1,HOPE Channel
+rtp://239.186.64.115:10000
+#EXTINF:-1,Disney Channel
+rtp://239.186.64.116:10000
+#EXTINF:-1,Heimatkanal
+rtp://239.186.64.117:10000
+#EXTINF:-1,ZDFinfo (AC3 deu)
+rtp://239.186.64.118:10000
+#EXTINF:-1,ARD-alpha (AC3 deu)
+rtp://239.186.64.119:10000
+#EXTINF:-1,Tagesschau24 (deu)
+rtp://239.186.64.120:10000
+#EXTINF:-1,One (AAC deu)
+rtp://239.186.64.121:10000
+#EXTINF:-1,HSE 24
+rtp://239.186.64.123:10000
+#EXTINF:-1,SessionStaenderat
+rtp://239.186.64.124:10000
+#EXTINF:-1,E D (AC3 deu)
+rtp://239.186.64.125:10000
+#EXTINF:-1,RBB (AC3 deu)
+rtp://239.186.64.126:10000
+#EXTINF:-1,TMC (fra)
+rtp://239.186.64.127:10000
+#EXTINF:-1,Mezzo Live
+rtp://239.186.64.128:10000
+#EXTINF:-1,RIC TV
+rtp://239.186.64.129:10000
+#EXTINF:-1,Bibel TV
+rtp://239.186.64.131:10000
+#EXTINF:-1,Deluxe Music
+rtp://239.186.64.132:10000
+#EXTINF:-1,K-TV
+rtp://239.186.64.133:10000
+#EXTINF:-1,DW Englisch
+rtp://239.186.64.135:10000
+#EXTINF:-1,Servus TV CH (AC3 ger)
+rtp://239.186.64.136:10000
+#EXTINF:-1,Euronews D
+rtp://239.186.64.137:10000
+#EXTINF:-1,Curiosity Channel
+rtp://239.186.64.139:10000
+#EXTINF:-1,Nitro
+rtp://239.186.64.140:10000
+#EXTINF:-1,4+
+rtp://239.186.64.142:10000
+#EXTINF:-1,Sat.1 Gold (AC3)
+rtp://239.186.64.143:10000
+#EXTINF:-1,TV8 Mont Blanc
+rtp://239.186.64.144:10000
+#EXTINF:-1,Rouge TV
+rtp://239.186.64.145:10000
+#EXTINF:-1,BFM Business
+rtp://239.186.64.146:10000
+#EXTINF:-1,AB1 (AC3 fra)
+rtp://239.186.64.147:10000
+#EXTINF:-1,KTO
+rtp://239.186.64.148:10000
+#EXTINF:-1,TV5 Monde FBS
+rtp://239.186.64.150:10000
+#EXTINF:-1,Euronews F
+rtp://239.186.64.151:10000
+#EXTINF:-1,Telenova
+rtp://239.186.64.152:10000
+#EXTINF:-1,Euronews I
+rtp://239.186.64.153:10000
+#EXTINF:-1,Telelombardia
+rtp://239.186.64.154:10000
+#EXTINF:-1,RTL9
+rtp://239.186.64.155:10000
+#EXTINF:-1,Rai News 24
+rtp://239.186.64.156:10000
+#EXTINF:-1,Rai Sport + (AC3 ita)
+rtp://239.186.64.157:10000
+#EXTINF:-1,Nove
+rtp://239.186.64.158:10000
+#EXTINF:-1,Canale IT
+rtp://239.186.64.160:10000
+#EXTINF:-1,TV8 (ita)
+rtp://239.186.64.161:10000
+#EXTINF:-1,Rai Storia
+rtp://239.186.64.162:10000
+#EXTINF:-1,La 7d
+rtp://239.186.64.164:10000
+#EXTINF:-1,BBC Two (AC3 eng)
+rtp://239.186.64.165:10000
+#EXTINF:-1,CBBC (AC3 eng)
+rtp://239.186.64.166:10000
+#EXTINF:-1,CNBC UK
+rtp://239.186.64.167:10000
+#EXTINF:-1,Pink Koncert
+rtp://239.186.64.168:10000
+#EXTINF:-1,ITV (AC3 eng)
+rtp://239.186.64.169:10000
+#EXTINF:-1,ITV 2 (eng)
+rtp://239.186.64.170:10000
+#EXTINF:-1,ITV 4 (eng)
+rtp://239.186.64.171:10000
+#EXTINF:-1,Film4 (eng)
+rtp://239.186.64.172:10000
+#EXTINF:-1,Al Jazeera Arabic
+rtp://239.186.64.173:10000
+#EXTINF:-1,Fashion TV
+rtp://239.186.64.174:10000
+#EXTINF:-1,CNN (AAC)
+rtp://239.186.64.175:10000
+#EXTINF:-1,BBC News
+rtp://239.186.64.176:10000
+#EXTINF:-1,Bloomberg TV
+rtp://239.186.64.177:10000
+#EXTINF:-1,Euronews E
+rtp://239.186.64.178:10000
+#EXTINF:-1,Sky News Int.
+rtp://239.186.64.179:10000
+#EXTINF:-1,ITV 3 (eng)
+rtp://239.186.64.180:10000
+#EXTINF:-1,Channel 4 (AC3 eng)
+rtp://239.186.64.183:10000
+#EXTINF:-1,Five (AC3 eng)
+rtp://239.186.64.184:10000
+#EXTINF:-1,More4 (eng)
+rtp://239.186.64.185:10000
+#EXTINF:-1,7+ / Nick CH
+rtp://239.186.64.186:10000
+#EXTINF:-1,TV Galicia
+rtp://239.186.64.187:10000
+#EXTINF:-1,TRT TURK
+rtp://239.186.64.188:10000
+#EXTINF:-1,BVN TV
+rtp://239.186.64.189:10000
+#EXTINF:-1,MCM Top
+rtp://239.186.64.190:10000
+#EXTINF:-1,Discovery I (ita)
+rtp://239.186.64.191:10000
+#EXTINF:-1,Al Arabiya
+rtp://239.186.64.192:10000
+#EXTINF:-1,Al Masriya
+rtp://239.186.64.193:10000
+#EXTINF:-1,2M Monde
+rtp://239.186.64.194:10000
+#EXTINF:-1,CCTV4
+rtp://239.186.64.195:10000
+#EXTINF:-1,Canal 24 Horas
+rtp://239.186.64.196:10000
+#EXTINF:-1,Canal Sur Andalucia
+rtp://239.186.64.197:10000
+#EXTINF:-1,Thai TV
+rtp://239.186.64.198:10000
+#EXTINF:-1,Euro D
+rtp://239.186.64.199:10000
+#EXTINF:-1,Show
+rtp://239.186.64.200:10000
+#EXTINF:-1,ATV Avrupa
+rtp://239.186.64.201:10000
+#EXTINF:-1,TGRT EU
+rtp://239.186.64.203:10000
+#EXTINF:-1,360
+rtp://239.186.64.204:10000
+#EXTINF:-1,TV8 Int.
+rtp://239.186.64.205:10000
+#EXTINF:-1,Warner TV Film (AC3 ger)
+rtp://239.186.64.207:10000
+#EXTINF:-1,blue Stars (deu)
+rtp://239.186.64.208:10000
+#EXTINF:-1,SHOW MAX
+rtp://239.186.64.209:10000
+#EXTINF:-1,13th Street (deu)
+rtp://239.186.64.210:10000
+#EXTINF:-1,Syfy D (AC3 deu)
+rtp://239.186.64.211:10000
+#EXTINF:-1,TgCom24
+rtp://239.186.64.214:10000
+#EXTINF:-1,Discovery D
+rtp://239.186.64.215:10000
+#EXTINF:-1,Romance TV
+rtp://239.186.64.216:10000
+#EXTINF:-1,Animal Planet
+rtp://239.186.64.217:10000
+#EXTINF:-1,Spiegel Geschichte
+rtp://239.186.64.219:10000
+#EXTINF:-1,Canal Extremadura
+rtp://239.186.64.222:10000
+#EXTINF:-1,blue Sport 1 (deu)
+rtp://239.186.64.223:10000
+#EXTINF:-1,blue Sport 2 (deu)
+rtp://239.186.64.224:10000
+#EXTINF:-1,blue Sport 4 (deu)
+rtp://239.186.64.226:10000
+#EXTINF:-1,blue Sport 5 (deu)
+rtp://239.186.64.227:10000
+#EXTINF:-1,blue Sport 6 (deu)
+rtp://239.186.64.228:10000
+#EXTINF:-1,blue Sport 7 (deu)
+rtp://239.186.64.229:10000
+#EXTINF:-1,blue Sport 8 (deu)
+rtp://239.186.64.230:10000
+#EXTINF:-1,blue Sport 9 (deu)
+rtp://239.186.64.231:10000
+#EXTINF:-1,blue Sport 10 (deu)
+rtp://239.186.64.232:10000
+#EXTINF:-1,blue Sport 11 (deu)
+rtp://239.186.64.233:10000
+#EXTINF:-1,blue Sport 12 (deu)
+rtp://239.186.64.234:10000
+#EXTINF:-1,blue Sport 13 (deu)
+rtp://239.186.64.235:10000
+#EXTINF:-1,blue Sport 14 (deu)
+rtp://239.186.64.236:10000
+#EXTINF:-1,blue Sport 15 (deu)
+rtp://239.186.64.237:10000
+#EXTINF:-1,blue Sport 16 (deu)
+rtp://239.186.64.238:10000
+#EXTINF:-1,blue Sport 17 (deu)
+rtp://239.186.64.239:10000
+#EXTINF:-1,blue Sport 18 (deu)
+rtp://239.186.64.240:10000
+#EXTINF:-1,blue Sport 19 (deu)
+rtp://239.186.64.241:10000
+#EXTINF:-1,blue Sport 20 (deu)
+rtp://239.186.64.242:10000
+#EXTINF:-1,blue Sport 21 (deu)
+rtp://239.186.64.243:10000
+#EXTINF:-1,blue Sport 22 (deu)
+rtp://239.186.64.244:10000
+#EXTINF:-1,blue Sport 23 (deu)
+rtp://239.186.64.245:10000
+#EXTINF:-1,blue Sport 24 (deu)
+rtp://239.186.64.246:10000
+#EXTINF:-1,Warner TV Serie (AC3 ger)
+rtp://239.186.64.248:10000
+#EXTINF:-1,Warner TV Comedy (AC3 ger)
+rtp://239.186.64.249:10000
+#EXTINF:-1,Nat Geo D
+rtp://239.186.64.250:10000
+#EXTINF:-1,Nat Geo Wild D (deu)
+rtp://239.186.64.251:10000
+#EXTINF:-1,Junior
+rtp://239.186.64.252:10000
+#EXTINF:-1,Boomerang D (ger)
+rtp://239.186.64.253:10000
+#EXTINF:-1,Cartoon Network D (ger)
+rtp://239.186.64.254:10000
+#EXTINF:-1,blue Sports 1 (fre)
+rtp://239.186.66.1:10000
+#EXTINF:-1,blue Sport 25 (deu)
+rtp://239.186.66.2:10000
+#EXTINF:-1,blue Sport 26 (deu)
+rtp://239.186.66.3:10000
+#EXTINF:-1,blue Sport 27 (deu)
+rtp://239.186.66.4:10000
+#EXTINF:-1,blue Sport 28 (deu)
+rtp://239.186.66.5:10000
+#EXTINF:-1,blue Sport 29 (deu)
+rtp://239.186.66.6:10000
+#EXTINF:-1,Action (fra)
+rtp://239.186.66.9:10000
+#EXTINF:-1,Tiji
+rtp://239.186.66.11:10000
+#EXTINF:-1,Canal J
+rtp://239.186.66.12:10000
+#EXTINF:-1,Teletoon
+rtp://239.186.66.13:10000
+#EXTINF:-1,AUTOMOTO (AC3 fra)
+rtp://239.186.66.14:10000
+#EXTINF:-1,Toute l Histoire (AAC)
+rtp://239.186.66.15:10000
+#EXTINF:-1,Animaux (AAC fra)
+rtp://239.186.66.16:10000
+#EXTINF:-1,Mezzo
+rtp://239.186.66.17:10000
+#EXTINF:-1,Trek (AAC)
+rtp://239.186.66.18:10000
+#EXTINF:-1,E F
+rtp://239.186.66.19:10000
+#EXTINF:-1,Eurosport F (fre)
+rtp://239.186.66.20:10000
+#EXTINF:-1,Eurosport 2 F (fre)
+rtp://239.186.66.21:10000
+#EXTINF:-1,C+ en clair
+rtp://239.186.66.22:10000
+#EXTINF:-1,Gulli (fre)
+rtp://239.186.66.23:10000
+#EXTINF:-1,W9 CH (fra)
+rtp://239.186.66.24:10000
+#EXTINF:-1,CNEWS
+rtp://239.186.66.25:10000
+#EXTINF:-1,CSTAR (fra)
+rtp://239.186.66.26:10000
+#EXTINF:-1,Nickelodeon F (fre)
+rtp://239.186.66.28:10000
+#EXTINF:-1,blue Music D 1 (deu)
+rtp://239.186.66.29:10000
+#EXTINF:-1,blue Music F 1 (fre)
+rtp://239.186.66.30:10000
+#EXTINF:-1,Science and Vie (AAC)
+rtp://239.186.66.31:10000
+#EXTINF:-1,Boomerang F (fra)
+rtp://239.186.66.32:10000
+#EXTINF:-1,Cartoon Network CH (fra)
+rtp://239.186.66.33:10000
+#EXTINF:-1,Rai Scuola
+rtp://239.186.66.34:10000
+#EXTINF:-1,Rai Gulp
+rtp://239.186.66.35:10000
+#EXTINF:-1,Video IT TV (ita)
+rtp://239.186.66.36:10000
+#EXTINF:-1,Mediaset Extra
+rtp://239.186.66.37:10000
+#EXTINF:-1,E Entertainement E
+rtp://239.186.66.39:10000
+#EXTINF:-1,Eurosport 1 I (ita)
+rtp://239.186.66.40:10000
+#EXTINF:-1,Eurosport 2 I (ita)
+rtp://239.186.66.41:10000
+#EXTINF:-1,Real Time
+rtp://239.186.66.43:10000
+#EXTINF:-1,Italia 2 (AC3 ita)
+rtp://239.186.66.44:10000
+#EXTINF:-1,infosport
+rtp://239.186.66.45:10000
+#EXTINF:-1,C CH (fra)
+rtp://239.186.66.46:10000
+#EXTINF:-1,C Cinema CH (fra)
+rtp://239.186.66.47:10000
+#EXTINF:-1,C Sport CH (fra)
+rtp://239.186.66.49:10000
+#EXTINF:-1,C+ Kids CH
+rtp://239.186.66.50:10000
+#EXTINF:-1,C Premier (fra)
+rtp://239.186.66.51:10000
+#EXTINF:-1,C Frisson (fra)
+rtp://239.186.66.52:10000
+#EXTINF:-1,C Emotion (fra)
+rtp://239.186.66.53:10000
+#EXTINF:-1,C Famiz (fra)
+rtp://239.186.66.54:10000
+#EXTINF:-1,C+ Classic (fra)
+rtp://239.186.66.55:10000
+#EXTINF:-1,C Club (fra)
+rtp://239.186.66.56:10000
+#EXTINF:-1,Planete
+rtp://239.186.66.57:10000
+#EXTINF:-1,Food Network E
+rtp://239.186.66.58:10000
+#EXTINF:-1,Planete AE
+rtp://239.186.66.59:10000
+#EXTINF:-1,Planete+ CI
+rtp://239.186.66.60:10000
+#EXTINF:-1,Seasons
+rtp://239.186.66.61:10000
+#EXTINF:-1,Aragon TV
+rtp://239.186.66.62:10000
+#EXTINF:-1,Comedie (fra)
+rtp://239.186.66.64:10000
+#EXTINF:-1,Piwi
+rtp://239.186.66.65:10000
+#EXTINF:-1,Golf Channel (AC3)
+rtp://239.186.66.67:10000
+#EXTINF:-1,Focus
+rtp://239.186.66.69:10000
+#EXTINF:-1,Equidia Live
+rtp://239.186.66.71:10000
+#EXTINF:-1,13eme Rue (fra)
+rtp://239.186.66.74:10000
+#EXTINF:-1,Syfy F (fra)
+rtp://239.186.66.75:10000
+#EXTINF:-1,tv breizh (fra)
+rtp://239.186.66.77:10000
+#EXTINF:-1,Discovery F (AC3)
+rtp://239.186.66.78:10000
+#EXTINF:-1,Nat Geo F
+rtp://239.186.66.79:10000
+#EXTINF:-1,Nat Geo Wild F
+rtp://239.186.66.80:10000
+#EXTINF:-1,Usuhaia TV
+rtp://239.186.66.82:10000
+#EXTINF:-1,histoire
+rtp://239.186.66.83:10000
+#EXTINF:-1,Duna World
+rtp://239.186.66.85:10000
+#EXTINF:-1,Disney Channel F (fra)
+rtp://239.186.66.87:10000
+#EXTINF:-1,Disney Junior F (fra)
+rtp://239.186.66.90:10000
+#EXTINF:-1,Nickelodeon Junior F (fre)
+rtp://239.186.66.91:10000
+#EXTINF:-1,Mangas (AC3 fra)
+rtp://239.186.66.92:10000
+#EXTINF:-1,Boing F (fre)
+rtp://239.186.66.93:10000
+#EXTINF:-1,La Chaine Info
+rtp://239.186.66.94:10000
+#EXTINF:-1,SIC Int
+rtp://239.186.66.95:10000
+#EXTINF:-1,Pink Plus
+rtp://239.186.66.97:10000
+#EXTINF:-1,Pink Extra
+rtp://239.186.66.98:10000
+#EXTINF:-1,Pink Film
+rtp://239.186.66.99:10000
+#EXTINF:-1,Pink Music
+rtp://239.186.66.100:10000
+#EXTINF:-1,Pink Kids
+rtp://239.186.66.101:10000
+#EXTINF:-1,Science Channel F (fre)
+rtp://239.186.66.102:10000
+#EXTINF:-1,RTL Crime (deu)
+rtp://239.186.66.103:10000
+#EXTINF:-1,RTL Passion (deu)
+rtp://239.186.66.104:10000
+#EXTINF:-1,RTL Living (deu)
+rtp://239.186.66.105:10000
+#EXTINF:-1,C+ Series (fra)
+rtp://239.186.66.106:10000
+#EXTINF:-1,ALMA TV
+rtp://239.186.66.107:10000
+#EXTINF:-1,TV2000
+rtp://239.186.66.108:10000
+#EXTINF:-1,ProSieben MAXX CH (AC3)
+rtp://239.186.66.109:10000
+#EXTINF:-1,DMAX Italia
+rtp://239.186.66.110:10000
+#EXTINF:-1,B1 TV
+rtp://239.186.66.111:10000
+#EXTINF:-1,CGTN
+rtp://239.186.66.114:10000
+#EXTINF:-1,Trace Hits
+rtp://239.186.66.115:10000
+#EXTINF:-1,Clubland TV
+rtp://239.186.66.116:10000
+#EXTINF:-1,Deutsches Musikfernsehen
+rtp://239.186.66.118:10000
+#EXTINF:-1,Dubai TV
+rtp://239.186.66.119:10000
+#EXTINF:-1,Euro Star
+rtp://239.186.66.121:10000
+#EXTINF:-1,Food Network I
+rtp://239.186.66.122:10000
+#EXTINF:-1,HRT 1
+rtp://239.186.66.125:10000
+#EXTINF:-1,i24 News E
+rtp://239.186.66.126:10000
+#EXTINF:-1,Kiss TV
+rtp://239.186.66.128:10000
+#EXTINF:-1,blue Zoom D
+rtp://239.186.66.129:10000
+#EXTINF:-1,6ter CH (fra)
+rtp://239.186.66.130:10000
+#EXTINF:-1,Pink Folk
+rtp://239.186.66.131:10000
+#EXTINF:-1,Phoenix Info News
+rtp://239.186.66.132:10000
+#EXTINF:-1,Now 90s
+rtp://239.186.66.133:10000
+#EXTINF:-1,Pro TV International
+rtp://239.186.66.135:10000
+#EXTINF:-1,RIK Sat
+rtp://239.186.66.137:10000
+#EXTINF:-1,RTR Planeta
+rtp://239.186.66.138:10000
+#EXTINF:-1,Drama (eng)
+rtp://239.186.66.140:10000
+#EXTINF:-1,KCN 3
+rtp://239.186.66.141:10000
+#EXTINF:-1,The Box
+rtp://239.186.66.142:10000
+#EXTINF:-1,Trace Caribbean
+rtp://239.186.66.144:10000
+#EXTINF:-1,Trace Urban
+rtp://239.186.66.145:10000
+#EXTINF:-1,SessionNationalrat
+rtp://239.186.66.146:10000
+#EXTINF:-1,TV Polonia (AAC)
+rtp://239.186.66.147:10000
+#EXTINF:-1,TV Romania International
+rtp://239.186.66.148:10000
+#EXTINF:-1,Z1 Televizija
+rtp://239.186.66.149:10000
+#EXTINF:-1,De Pelicula (spa)
+rtp://239.186.66.151:10000
+#EXTINF:-1,Telehit Music (spa)
+rtp://239.186.66.152:10000
+#EXTINF:-1,Tlnovelas (spa)
+rtp://239.186.66.153:10000
+#EXTINF:-1,Hayat Folk
+rtp://239.186.66.154:10000
+#EXTINF:-1,Hayat Plus
+rtp://239.186.66.155:10000
+#EXTINF:-1,Las Estrellas (spa)
+rtp://239.186.66.156:10000
+#EXTINF:-1,KTV Kohavision
+rtp://239.186.66.157:10000
+#EXTINF:-1,RTV 21
+rtp://239.186.66.158:10000
+#EXTINF:-1,Telebom - Teledom
+rtp://239.186.66.161:10000
+#EXTINF:-1,Kinomir
+rtp://239.186.66.162:10000
+#EXTINF:-1,OstWest
+rtp://239.186.66.163:10000
+#EXTINF:-1,Croatian Music Channel
+rtp://239.186.66.164:10000
+#EXTINF:-1,Utsav Gold
+rtp://239.186.66.171:10000
+#EXTINF:-1,Utsav Plus
+rtp://239.186.66.172:10000
+#EXTINF:-1,Vijay
+rtp://239.186.66.173:10000
+#EXTINF:-1,i24 News F
+rtp://239.186.66.174:10000
+#EXTINF:-1,TLC CH
+rtp://239.186.66.175:10000
+#EXTINF:-1,cartoonito
+rtp://239.186.66.176:10000
+#EXTINF:-1,Sky TG 24
+rtp://239.186.66.177:10000
+#EXTINF:-1,Rai 5 (ita)
+rtp://239.186.66.179:10000
+#EXTINF:-1,Top Crime (AC3 ita)
+rtp://239.186.66.180:10000
+#EXTINF:-1,Super!
+rtp://239.186.66.181:10000
+#EXTINF:-1,Rai Yoyo
+rtp://239.186.66.182:10000
+#EXTINF:-1,Rai Premium (ita)
+rtp://239.186.66.183:10000
+#EXTINF:-1,UNINETTUNO
+rtp://239.186.66.184:10000
+#EXTINF:-1,Rai Movie (ita)
+rtp://239.186.66.185:10000
+#EXTINF:-1,K2
+rtp://239.186.66.186:10000
+#EXTINF:-1,Giallo
+rtp://239.186.66.187:10000
+#EXTINF:-1,Frisbee
+rtp://239.186.66.188:10000
+#EXTINF:-1,Class TV Moda
+rtp://239.186.66.189:10000
+#EXTINF:-1,Test Italia
+rtp://239.186.66.190:10000
+#EXTINF:-1,blue Sports 17 (fre)
+rtp://239.186.66.191:10000
+#EXTINF:-1,blue Sports 18 (fre)
+rtp://239.186.66.192:10000
+#EXTINF:-1,blue Sports 19 (fre)
+rtp://239.186.66.193:10000
+#EXTINF:-1,blue Sports 20 (fre)
+rtp://239.186.66.194:10000
+#EXTINF:-1,blue Sports 21 (fre)
+rtp://239.186.66.195:10000
+#EXTINF:-1,folx.TV
+rtp://239.186.66.197:10000
+#EXTINF:-1,NRTV
+rtp://239.186.66.198:10000
+#EXTINF:-1,blue Sport 3 (deu)
+rtp://239.186.66.199:10000
+#EXTINF:-1,RTLup
+rtp://239.186.66.201:10000
+#EXTINF:-1,TOGGO plus
+rtp://239.186.66.202:10000
+#EXTINF:-1,Kurdistan TV
+rtp://239.186.66.203:10000
+#EXTINF:-1,TRT Kurdi (kur)
+rtp://239.186.66.204:10000
+#EXTINF:-1,blue Sport 30 (deu)
+rtp://239.186.66.207:10000
+#EXTINF:-1,blue Sport 31 (deu)
+rtp://239.186.66.208:10000
+#EXTINF:-1,blue Sport 32 (deu)
+rtp://239.186.66.209:10000
+#EXTINF:-1,blue Sports 2 (fre)
+rtp://239.186.66.210:10000
+#EXTINF:-1,blue Sports 3 (fre)
+rtp://239.186.66.211:10000
+#EXTINF:-1,blue Sports 4 (fre)
+rtp://239.186.66.212:10000
+#EXTINF:-1,blue Sports 5 (fre)
+rtp://239.186.66.213:10000
+#EXTINF:-1,blue Sports 6 (fre)
+rtp://239.186.66.214:10000
+#EXTINF:-1,blue Sports 7 (fre)
+rtp://239.186.66.215:10000
+#EXTINF:-1,blue Sports 8 (fre)
+rtp://239.186.66.216:10000
+#EXTINF:-1,blue Sports 9 (fre)
+rtp://239.186.66.217:10000
+#EXTINF:-1,blue Sports 10 (fre)
+rtp://239.186.66.218:10000
+#EXTINF:-1,blue Sports 11 (fre)
+rtp://239.186.66.219:10000
+#EXTINF:-1,blue Sports 12 (fre)
+rtp://239.186.66.220:10000
+#EXTINF:-1,blue Sports 13 (fre)
+rtp://239.186.66.221:10000
+#EXTINF:-1,blue Sports 14 (fre)
+rtp://239.186.66.222:10000
+#EXTINF:-1,blue Sports 15 (fre)
+rtp://239.186.66.223:10000
+#EXTINF:-1,blue Sports 16 (fre)
+rtp://239.186.66.224:10000
+#EXTINF:-1,franceinfo
+rtp://239.186.66.225:10000
+#EXTINF:-1,ERT World
+rtp://239.186.66.227:10000
+#EXTINF:-1,AB3 (fra)
+rtp://239.186.66.229:10000
+#EXTINF:-1,kabel eins Doku CH (AC3)
+rtp://239.186.66.230:10000
+#EXTINF:-1,LoLy TV
+rtp://239.186.66.231:10000
+#EXTINF:-1,N24 Doku
+rtp://239.186.66.232:10000
+#EXTINF:-1,Crime District (fra)
+rtp://239.186.66.233:10000
+#EXTINF:-1,Universal Channel (deu)
+rtp://239.186.66.234:10000
+#EXTINF:-1,Sony Channel (AC3 deu)
+rtp://239.186.66.237:10000
+#EXTINF:-1,Helvetia One TV
+rtp://239.186.66.238:10000
+#EXTINF:-1,TV Suisseplus
+rtp://239.186.66.239:10000
+#EXTINF:-1,VH1 Italy
+rtp://239.186.66.240:10000
+#EXTINF:-1,More Than Sports TV
+rtp://239.186.66.241:10000
+#EXTINF:-1,5 USA (eng)
+rtp://239.186.66.242:10000
+#EXTINF:-1,PBS America
+rtp://239.186.66.243:10000
+#EXTINF:-1,OBN TV
+rtp://239.186.66.245:10000
+#EXTINF:-1,Radionorba TV
+rtp://239.186.66.247:10000
+#EXTINF:-1,SIC Noticias
+rtp://239.186.66.248:10000
+#EXTINF:-1,TVI Ficcao
+rtp://239.186.66.249:10000
+#EXTINF:-1,TVI Internacional
+rtp://239.186.66.250:10000
+#EXTINF:-1,The Israeli Network
+rtp://239.186.66.251:10000
+#EXTINF:-1,RTP 3
+rtp://239.186.66.252:10000
+#EXTINF:-1,Dave (eng)
+rtp://239.186.66.253:10000
+#EXTINF:-1,SRF 1 HD (AC3 deu)
+rtp://239.186.68.1:10000
+#EXTINF:-1,SRF 2 HD (AC3 deu)
+rtp://239.186.68.2:10000
+#EXTINF:-1,RTS1 HD (AC3 fra)
+rtp://239.186.68.3:10000
+#EXTINF:-1,RTS2 HD (AC3 fra)
+rtp://239.186.68.4:10000
+#EXTINF:-1,RSI La1 HD (AC3 ita)
+rtp://239.186.68.5:10000
+#EXTINF:-1,RSI La2 HD (AC3 ita)
+rtp://239.186.68.6:10000
+#EXTINF:-1,Anixe Serie HD
+rtp://239.186.68.7:10000
+#EXTINF:-1,Servus TV CH HD (AC3 ger)
+rtp://239.186.68.8:10000
+#EXTINF:-1,Das Erste HD (AC3 deu)
+rtp://239.186.68.9:10000
+#EXTINF:-1,ZDF HD (AC3 deu)
+rtp://239.186.68.10:10000
+#EXTINF:-1,arte D HD (deu)
+rtp://239.186.68.11:10000
+#EXTINF:-1,ORF1 HD (deu)
+rtp://239.186.68.12:10000
+#EXTINF:-1,ORF2 HD (deu)
+rtp://239.186.68.13:10000
+#EXTINF:-1,3 HD
+rtp://239.186.68.14:10000
+#EXTINF:-1,Kabel eins CH HD (AC3)
+rtp://239.186.68.15:10000
+#EXTINF:-1,Sat.1 CH HD (AC3)
+rtp://239.186.68.16:10000
+#EXTINF:-1,ProSieben CH HD (AC3)
+rtp://239.186.68.17:10000
+#EXTINF:-1,Arte FR HD (fra)
+rtp://239.186.68.18:10000
+#EXTINF:-1,France 2 HD (fre)
+rtp://239.186.68.19:10000
+#EXTINF:-1,M6 CH HD (fra)
+rtp://239.186.68.20:10000
+#EXTINF:-1,TF1 CH HD (fra)
+rtp://239.186.68.21:10000
+#EXTINF:-1,Zico TV HD
+rtp://239.186.68.22:10000
+#EXTINF:-1,Sony AXN HD (deu)
+rtp://239.186.68.23:10000
+#EXTINF:-1,WDR HD Koln (AAC deu)
+rtp://239.186.68.24:10000
+#EXTINF:-1,SWR BW HD (AC3 deu)
+rtp://239.186.68.25:10000
+#EXTINF:-1,BR HD (AC3 deu)
+rtp://239.186.68.26:10000
+#EXTINF:-1,3sat HD (AC3 deu)
+rtp://239.186.68.27:10000
+#EXTINF:-1,KiKA HD (AC3 deu)
+rtp://239.186.68.28:10000
+#EXTINF:-1,NDR FS HD (deu)
+rtp://239.186.68.29:10000
+#EXTINF:-1,Phoenix HD (deu)
+rtp://239.186.68.30:10000
+#EXTINF:-1,ZDFneo HD (AC3 deu)
+rtp://239.186.68.31:10000
+#EXTINF:-1,ZDFinfo HD (AC3 deu)
+rtp://239.186.68.32:10000
+#EXTINF:-1,AB3 HD CH (fra)
+rtp://239.186.68.33:10000
+#EXTINF:-1,Sixx CH HD (AC3)
+rtp://239.186.68.34:10000
+#EXTINF:-1,Nickelodeon Teen HD
+rtp://239.186.68.35:10000
+#EXTINF:-1,Rai 1 HD (ita)
+rtp://239.186.68.36:10000
+#EXTINF:-1,Video IT TV HD (ita)
+rtp://239.186.68.37:10000
+#EXTINF:-1,Tele Baern HD
+rtp://239.186.68.38:10000
+#EXTINF:-1,C+ en clair HD
+rtp://239.186.68.39:10000
+#EXTINF:-1,Channel 4 HD (AC3 eng)
+rtp://239.186.68.40:10000
+#EXTINF:-1,BBC Two HD (AC3 eng)
+rtp://239.186.68.41:10000
+#EXTINF:-1,ITV HD (AC3 eng)
+rtp://239.186.68.42:10000
+#EXTINF:-1,BBC One HD (AC3 eng)
+rtp://239.186.68.43:10000
+#EXTINF:-1,Nat Geo HD D (deu)
+rtp://239.186.68.44:10000
+#EXTINF:-1,Canal 24 Horas HD
+rtp://239.186.68.45:10000
+#EXTINF:-1,20 Mediaset HD (AC3 ita)
+rtp://239.186.68.46:10000
+#EXTINF:-1,Duna World HD
+rtp://239.186.68.47:10000
+#EXTINF:-1,Stingray Classica D HD
+rtp://239.186.68.48:10000
+#EXTINF:-1,eSports1 HD (ger)
+rtp://239.186.68.49:10000
+#EXTINF:-1,Welt CH HD
+rtp://239.186.68.50:10000
+#EXTINF:-1,Eurosport 1 D HD (AC3 deu)
+rtp://239.186.68.51:10000
+#EXTINF:-1,Curiosity Channel HD
+rtp://239.186.68.52:10000
+#EXTINF:-1,blue Action HD (deu)
+rtp://239.186.68.54:10000
+#EXTINF:-1,blue Stars HD (deu)
+rtp://239.186.68.55:10000
+#EXTINF:-1,13th Street HD (deu)
+rtp://239.186.68.56:10000
+#EXTINF:-1,Syfy HD D (AC3 deu)
+rtp://239.186.68.57:10000
+#EXTINF:-1,Warner TV Film HD (AC3 ger)
+rtp://239.186.68.58:10000
+#EXTINF:-1,Warner TV Serie HD (AC3 ger)
+rtp://239.186.68.59:10000
+#EXTINF:-1,Warner TV Comedy HD (AC3 ger)
+rtp://239.186.68.60:10000
+#EXTINF:-1,Game One HD (fre)
+rtp://239.186.68.61:10000
+#EXTINF:-1,Discovery HD (deu)
+rtp://239.186.68.62:10000
+#EXTINF:-1,Nat Geo Wild HD (deu)
+rtp://239.186.68.63:10000
+#EXTINF:-1,History HD (AC3 deu)
+rtp://239.186.68.64:10000
+#EXTINF:-1,Cartoon Network HD D (ger)
+rtp://239.186.68.65:10000
+#EXTINF:-1,blue Sport 1 HD (deu)
+rtp://239.186.68.66:10000
+#EXTINF:-1,blue Sport 2 HD (deu)
+rtp://239.186.68.67:10000
+#EXTINF:-1,Chasse et Peche HD
+rtp://239.186.68.68:10000
+#EXTINF:-1,blue Sport 4 HD (deu)
+rtp://239.186.68.69:10000
+#EXTINF:-1,blue Sport 5 HD (deu)
+rtp://239.186.68.70:10000
+#EXTINF:-1,blue Sport 6 HD (deu)
+rtp://239.186.68.71:10000
+#EXTINF:-1,blue Sport 7 HD (deu)
+rtp://239.186.68.72:10000
+#EXTINF:-1,blue Sport 8 HD (deu)
+rtp://239.186.68.73:10000
+#EXTINF:-1,blue Sport 9 HD (deu)
+rtp://239.186.68.74:10000
+#EXTINF:-1,blue Sport 10 HD (deu)
+rtp://239.186.68.75:10000
+#EXTINF:-1,blue Sport 11 HD (deu)
+rtp://239.186.68.76:10000
+#EXTINF:-1,blue Sport 12 HD (deu)
+rtp://239.186.68.77:10000
+#EXTINF:-1,blue Sport 13 HD (deu)
+rtp://239.186.68.78:10000
+#EXTINF:-1,blue Sport 14 HD (deu)
+rtp://239.186.68.79:10000
+#EXTINF:-1,blue Sport 15 HD (deu)
+rtp://239.186.68.80:10000
+#EXTINF:-1,blue Sport 16 HD (deu)
+rtp://239.186.68.81:10000
+#EXTINF:-1,blue Sport 17 HD (deu)
+rtp://239.186.68.82:10000
+#EXTINF:-1,blue Sport 18 HD (deu)
+rtp://239.186.68.83:10000
+#EXTINF:-1,blue Sport 19 HD (deu)
+rtp://239.186.68.84:10000
+#EXTINF:-1,blue Sport 20 HD (deu)
+rtp://239.186.68.85:10000
+#EXTINF:-1,blue Sport 21 HD (deu)
+rtp://239.186.68.86:10000
+#EXTINF:-1,blue Sport 22 HD (deu)
+rtp://239.186.68.87:10000
+#EXTINF:-1,blue Sport 23 HD (deu)
+rtp://239.186.68.88:10000
+#EXTINF:-1,blue Sport 24 HD (deu)
+rtp://239.186.68.89:10000
+#EXTINF:-1,blue Sport 25 HD (deu)
+rtp://239.186.68.90:10000
+#EXTINF:-1,blue Sport 26 HD (deu)
+rtp://239.186.68.91:10000
+#EXTINF:-1,blue Sport 27 HD (deu)
+rtp://239.186.68.92:10000
+#EXTINF:-1,blue Sport 28 HD (deu)
+rtp://239.186.68.93:10000
+#EXTINF:-1,blue Sport 29 HD (deu)
+rtp://239.186.68.94:10000
+#EXTINF:-1,blue Sports 1 HD (fre)
+rtp://239.186.68.95:10000
+#EXTINF:-1,MySports 2 D HD (deu)
+rtp://239.186.68.96:10000
+#EXTINF:-1,Swiss 1 HD
+rtp://239.186.68.97:10000
+#EXTINF:-1,RTL HD CH
+rtp://239.186.68.98:10000
+#EXTINF:-1,VOX CH HD
+rtp://239.186.68.99:10000
+#EXTINF:-1,RTL ZWEI CH HD
+rtp://239.186.68.100:10000
+#EXTINF:-1,Super RTL CH HD
+rtp://239.186.68.101:10000
+#EXTINF:-1,Tele M1 HD
+rtp://239.186.68.102:10000
+#EXTINF:-1,NITRO HD CH
+rtp://239.186.68.103:10000
+#EXTINF:-1,Radio Pilatus TV HD
+rtp://239.186.68.104:10000
+#EXTINF:-1,Comedy Central HD (AC3)
+rtp://239.186.68.105:10000
+#EXTINF:-1,DMAX CH HD
+rtp://239.186.68.106:10000
+#EXTINF:-1,la tele HD
+rtp://239.186.68.107:10000
+#EXTINF:-1,C CH HD (fra)
+rtp://239.186.68.108:10000
+#EXTINF:-1,Nat Geo Wild HD F
+rtp://239.186.68.109:10000
+#EXTINF:-1,Nat Geo HD F
+rtp://239.186.68.110:10000
+#EXTINF:-1,BFM Alsace HD
+rtp://239.186.68.111:10000
+#EXTINF:-1,Eurosport HD F (fre)
+rtp://239.186.68.112:10000
+#EXTINF:-1,Stingray Classica HD F
+rtp://239.186.68.113:10000
+#EXTINF:-1,C Premier HD (fra)
+rtp://239.186.68.114:10000
+#EXTINF:-1,Planete+ HD
+rtp://239.186.68.115:10000
+#EXTINF:-1,Science Channel F HD (fre)
+rtp://239.186.68.116:10000
+#EXTINF:-1,Trace Latina HD (fra)
+rtp://239.186.68.117:10000
+#EXTINF:-1,Discovery HD F (AC3)
+rtp://239.186.68.118:10000
+#EXTINF:-1,Usuhaia TV HD
+rtp://239.186.68.119:10000
+#EXTINF:-1,Disney Channel HD F (fra)
+rtp://239.186.68.120:10000
+#EXTINF:-1,folx.tv HD
+rtp://239.186.68.121:10000
+#EXTINF:-1,Disney Junior HD F (fra)
+rtp://239.186.68.122:10000
+#EXTINF:-1,13eme Rue HD (fra)
+rtp://239.186.68.123:10000
+#EXTINF:-1,Syfy HD F (fra)
+rtp://239.186.68.124:10000
+#EXTINF:-1,Bloomberg TV HD
+rtp://239.186.68.125:10000
+#EXTINF:-1,C Cinema CH HD (fra)
+rtp://239.186.68.126:10000
+#EXTINF:-1,C Sport HD (fra)
+rtp://239.186.68.127:10000
+#EXTINF:-1,C+ Kids CH HD
+rtp://239.186.68.129:10000
+#EXTINF:-1,RMC Decouverte HD (fra)
+rtp://239.186.68.130:10000
+#EXTINF:-1,Cherie 25 HD (fra)
+rtp://239.186.68.131:10000
+#EXTINF:-1,LEquipe 21 HD (fra)
+rtp://239.186.68.132:10000
+#EXTINF:-1,TF1 Sries HD (fra)
+rtp://239.186.68.133:10000
+#EXTINF:-1,6ter HD (fra)
+rtp://239.186.68.134:10000
+#EXTINF:-1,RMC Story HD (fra)
+rtp://239.186.68.135:10000
+#EXTINF:-1,RTL Crime HD (deu)
+rtp://239.186.68.136:10000
+#EXTINF:-1,RTL Passion HD (deu)
+rtp://239.186.68.137:10000
+#EXTINF:-1,RTL Living HD (deu)
+rtp://239.186.68.138:10000
+#EXTINF:-1,SHF Schaffhauser Fernsehen HD
+rtp://239.186.68.139:10000
+#EXTINF:-1,i24 News E HD
+rtp://239.186.68.140:10000
+#EXTINF:-1,C+ Series HD (fra)
+rtp://239.186.68.141:10000
+#EXTINF:-1,4 HD
+rtp://239.186.68.142:10000
+#EXTINF:-1,Bodensee TV HD
+rtp://239.186.68.143:10000
+#EXTINF:-1,Canal 9 HD
+rtp://239.186.68.144:10000
+#EXTINF:-1,Kanal 9 HD
+rtp://239.186.68.145:10000
+#EXTINF:-1,n-tv CH HD (deu)
+rtp://239.186.68.146:10000
+#EXTINF:-1,S1 HD
+rtp://239.186.68.147:10000
+#EXTINF:-1,Bibel TV HD
+rtp://239.186.68.148:10000
+#EXTINF:-1,Discovery I HD (ita)
+rtp://239.186.68.149:10000
+#EXTINF:-1,Animal Planet HD (AC3)
+rtp://239.186.68.150:10000
+#EXTINF:-1,Boomerang D HD (ger)
+rtp://239.186.68.151:10000
+#EXTINF:-1,CBeebies HD (AC3 eng)
+rtp://239.186.68.152:10000
+#EXTINF:-1,CBBC HD (AC3 eng)
+rtp://239.186.68.153:10000
+#EXTINF:-1,One HD (AC3 deu)
+rtp://239.186.68.154:10000
+#EXTINF:-1,blue Zoom D HD (deu)
+rtp://239.186.68.155:10000
+#EXTINF:-1,HR HD (AC3 deu)
+rtp://239.186.68.156:10000
+#EXTINF:-1,RBB HD (AC3 deu)
+rtp://239.186.68.157:10000
+#EXTINF:-1,BBC Four HD (AC3 eng)
+rtp://239.186.68.158:10000
+#EXTINF:-1,Sport1 CH HD
+rtp://239.186.68.159:10000
+#EXTINF:-1,BBC News HD
+rtp://239.186.68.160:10000
+#EXTINF:-1,Tagesschau24 HD (AC3 deu)
+rtp://239.186.68.161:10000
+#EXTINF:-1,MDR HD (AAC deu)
+rtp://239.186.68.162:10000
+#EXTINF:-1,Canale 5 HD (AC3 ita)
+rtp://239.186.68.163:10000
+#EXTINF:-1,History IT HD (ita)
+rtp://239.186.68.164:10000
+#EXTINF:-1,Italia 1 HD (AC3 ita)
+rtp://239.186.68.165:10000
+#EXTINF:-1,Tele Zentralschweiz
+rtp://239.186.68.166:10000
+#EXTINF:-1,MySports 7 D HD (deu)
+rtp://239.186.68.168:10000
+#EXTINF:-1,Eurosport 2 D HD (AC3 deu)
+rtp://239.186.68.169:10000
+#EXTINF:-1,Eurosport 2 F HD (fre)
+rtp://239.186.68.170:10000
+#EXTINF:-1,Al Jazeera E HD (AAC eng)
+rtp://239.186.68.171:10000
+#EXTINF:-1,NHK World HD (AC3)
+rtp://239.186.68.172:10000
+#EXTINF:-1,Trace Urban HD
+rtp://239.186.68.173:10000
+#EXTINF:-1,MTV HD D
+rtp://239.186.68.174:10000
+#EXTINF:-1,7+ / Nick CH HD
+rtp://239.186.68.175:10000
+#EXTINF:-1,Tele 1 HD
+rtp://239.186.68.176:10000
+#EXTINF:-1,Eurosport 1 I HD (ita)
+rtp://239.186.68.177:10000
+#EXTINF:-1,TVE Int. HD (spa)
+rtp://239.186.68.178:10000
+#EXTINF:-1,Parole di Vita HD
+rtp://239.186.68.179:10000
+#EXTINF:-1,Trace Caribbean HD
+rtp://239.186.68.181:10000
+#EXTINF:-1,Paramount Channel France HD (fre)
+rtp://239.186.68.182:10000
+#EXTINF:-1,MySports 3 F HD (fra)
+rtp://239.186.68.183:10000
+#EXTINF:-1,Adria Music Television HD
+rtp://239.186.68.184:10000
+#EXTINF:-1,Stingray Classica I HD
+rtp://239.186.68.185:10000
+#EXTINF:-1,C Frisson HD (fra)
+rtp://239.186.68.186:10000
+#EXTINF:-1,C Emotion HD (fra)
+rtp://239.186.68.187:10000
+#EXTINF:-1,Star TV HD
+rtp://239.186.68.188:10000
+#EXTINF:-1,TeleZueri HD
+rtp://239.186.68.189:10000
+#EXTINF:-1,TV24 HD
+rtp://239.186.68.190:10000
+#EXTINF:-1,Puls 8 HD (AC3)
+rtp://239.186.68.191:10000
+#EXTINF:-1,Radio Ticino Channel HD
+rtp://239.186.68.192:10000
+#EXTINF:-1,CanalAlpha JU HD
+rtp://239.186.68.193:10000
+#EXTINF:-1,Canal Alpha NE HD
+rtp://239.186.68.194:10000
+#EXTINF:-1,5+ HD
+rtp://239.186.68.195:10000
+#EXTINF:-1,BFM CH TV HD
+rtp://239.186.68.196:10000
+#EXTINF:-1,Stingray iConcerts HD
+rtp://239.186.68.197:10000
+#EXTINF:-1,Welt der Wunder CH TV HD
+rtp://239.186.68.198:10000
+#EXTINF:-1,Max TV HD
+rtp://239.186.68.199:10000
+#EXTINF:-1,MySports 3 D HD (deu)
+rtp://239.186.68.200:10000
+#EXTINF:-1,Tele Ticino HD
+rtp://239.186.68.201:10000
+#EXTINF:-1,SRFinfo HD (AC3 deu)
+rtp://239.186.68.202:10000
+#EXTINF:-1,Canal J HD
+rtp://239.186.68.204:10000
+#EXTINF:-1,Tele Z HD
+rtp://239.186.68.205:10000
+#EXTINF:-1,Telebasel HD (deu)
+rtp://239.186.68.206:10000
+#EXTINF:-1,musig24 HD
+rtp://239.186.68.207:10000
+#EXTINF:-1,Teleswizz HD
+rtp://239.186.68.208:10000
+#EXTINF:-1,blue Sports 17 HD (fre)
+rtp://239.186.68.209:10000
+#EXTINF:-1,blue Sports 18 HD (fre)
+rtp://239.186.68.210:10000
+#EXTINF:-1,blue Sports 19 HD (fre)
+rtp://239.186.68.211:10000
+#EXTINF:-1,blue Sports 20 HD (fre)
+rtp://239.186.68.212:10000
+#EXTINF:-1,blue Sports 21 HD (fre)
+rtp://239.186.68.213:10000
+#EXTINF:-1,BBC World News HD
+rtp://239.186.68.214:10000
+#EXTINF:-1,C8 CH HD (fra)
+rtp://239.186.68.215:10000
+#EXTINF:-1,Davos Klosters HD
+rtp://239.186.68.216:10000
+#EXTINF:-1,Tele D HD
+rtp://239.186.68.217:10000
+#EXTINF:-1,TSO HD
+rtp://239.186.68.218:10000
+#EXTINF:-1,Histoire HD
+rtp://239.186.68.219:10000
+#EXTINF:-1,C Famiz HD (fra)
+rtp://239.186.68.220:10000
+#EXTINF:-1,Trek HD (AAC)
+rtp://239.186.68.221:10000
+#EXTINF:-1,Teletoon HD
+rtp://239.186.68.222:10000
+#EXTINF:-1,tv breizh HD (fra)
+rtp://239.186.68.223:10000
+#EXTINF:-1,Equidia Live HD
+rtp://239.186.68.224:10000
+#EXTINF:-1,Planete CI HD
+rtp://239.186.68.225:10000
+#EXTINF:-1,Showmax HD
+rtp://239.186.68.226:10000
+#EXTINF:-1,MySports 8 D HD (deu)
+rtp://239.186.68.227:10000
+#EXTINF:-1,Planete AE HD
+rtp://239.186.68.228:10000
+#EXTINF:-1,AUTOMOTO HD (AC3 fra)
+rtp://239.186.68.229:10000
+#EXTINF:-1,RTV 21 HD
+rtp://239.186.68.230:10000
+#EXTINF:-1,Toute l Histoire HD (AAC)
+rtp://239.186.68.231:10000
+#EXTINF:-1,Science Vie HD (AAC)
+rtp://239.186.68.232:10000
+#EXTINF:-1,Seasons HD
+rtp://239.186.68.233:10000
+#EXTINF:-1,AB1 HD (AC3 fra)
+rtp://239.186.68.234:10000
+#EXTINF:-1,Piwi HD
+rtp://239.186.68.235:10000
+#EXTINF:-1,Action HD (fra)
+rtp://239.186.68.236:10000
+#EXTINF:-1,Animaux HD (AAC fra)
+rtp://239.186.68.237:10000
+#EXTINF:-1,C Club HD (fra)
+rtp://239.186.68.238:10000
+#EXTINF:-1,MySports 4 F HD (fra)
+rtp://239.186.68.239:10000
+#EXTINF:-1,C Classic HD (fra)
+rtp://239.186.68.240:10000
+#EXTINF:-1,blue Music D 1 HD (deu)
+rtp://239.186.68.241:10000
+#EXTINF:-1,RTL9 CH HD
+rtp://239.186.68.242:10000
+#EXTINF:-1,rroTV HD
+rtp://239.186.68.243:10000
+#EXTINF:-1,blue Zoom F HD (fre)
+rtp://239.186.68.244:10000
+#EXTINF:-1,Record Int. EU HD
+rtp://239.186.68.246:10000
+#EXTINF:-1,Rudaw TV HD
+rtp://239.186.68.247:10000
+#EXTINF:-1,R9 Oesterreich HD
+rtp://239.186.68.248:10000
+#EXTINF:-1,Nickeloden HD F (fre)
+rtp://239.186.68.249:10000
+#EXTINF:-1,Nickelodeon Junior HD F (fre)
+rtp://239.186.68.250:10000
+#EXTINF:-1,Hope Channel HD
+rtp://239.186.68.251:10000
+#EXTINF:-1,TeleTop HD (deu)
+rtp://239.186.68.252:10000
+#EXTINF:-1,Rouge TV HD
+rtp://239.186.68.253:10000
+#EXTINF:-1,Golf+ HD
+rtp://239.186.68.254:10000
+#EXTINF:-1,MySports 4 D HD (deu)
+rtp://239.186.70.1:10000
+#EXTINF:-1,Rai Sport + HD (AC3 ita)
+rtp://239.186.70.2:10000
+#EXTINF:-1,Cartoon Network CH F HD (fra)
+rtp://239.186.70.3:10000
+#EXTINF:-1,TVO HD
+rtp://239.186.70.4:10000
+#EXTINF:-1,TV Oberwallis HD
+rtp://239.186.70.5:10000
+#EXTINF:-1,La 7d HD
+rtp://239.186.70.6:10000
+#EXTINF:-1,La 7 HD
+rtp://239.186.70.7:10000
+#EXTINF:-1,ABC News HD
+rtp://239.186.70.8:10000
+#EXTINF:-1,Alpenland HD
+rtp://239.186.70.9:10000
+#EXTINF:-1,Game TV HD
+rtp://239.186.70.10:10000
+#EXTINF:-1,LFM TV HD
+rtp://239.186.70.11:10000
+#EXTINF:-1,One TV CH HD
+rtp://239.186.70.12:10000
+#EXTINF:-1,E! D HD (AC3 deu)
+rtp://239.186.70.13:10000
+#EXTINF:-1,E! F HD
+rtp://239.186.70.14:10000
+#EXTINF:-1,KTV Kohavision HD
+rtp://239.186.70.15:10000
+#EXTINF:-1,MySports 5 F HD (fra)
+rtp://239.186.70.16:10000
+#EXTINF:-1,blue Music F 1 HD (fre)
+rtp://239.186.70.17:10000
+#EXTINF:-1,CT24 HD
+rtp://239.186.70.18:10000
+#EXTINF:-1,blue Sport 3 HD (deu)
+rtp://239.186.70.19:10000
+#EXTINF:-1,TV25 HD
+rtp://239.186.70.20:10000
+#EXTINF:-1,TVM3 HD
+rtp://239.186.70.21:10000
+#EXTINF:-1,Romance TV HD
+rtp://239.186.70.22:10000
+#EXTINF:-1,CNN HD (AAC)
+rtp://239.186.70.23:10000
+#EXTINF:-1,CSTAR HD (fra)
+rtp://239.186.70.24:10000
+#EXTINF:-1,France 3 HD (fre)
+rtp://239.186.70.25:10000
+#EXTINF:-1,Craction TV HD
+rtp://239.186.70.26:10000
+#EXTINF:-1,France 5 HD (fra)
+rtp://239.186.70.27:10000
+#EXTINF:-1,More Than Sports TV HD
+rtp://239.186.70.28:10000
+#EXTINF:-1,Gulli HD (fre)
+rtp://239.186.70.29:10000
+#EXTINF:-1,CNEWS HD
+rtp://239.186.70.30:10000
+#EXTINF:-1,MCM Top HD
+rtp://239.186.70.31:10000
+#EXTINF:-1,Mezzo HD
+rtp://239.186.70.32:10000
+#EXTINF:-1,NRJ12 HD (fra)
+rtp://239.186.70.33:10000
+#EXTINF:-1,TFX CH HD (fra)
+rtp://239.186.70.34:10000
+#EXTINF:-1,MySports 2 F HD (fra)
+rtp://239.186.70.35:10000
+#EXTINF:-1,Tiji HD
+rtp://239.186.70.36:10000
+#EXTINF:-1,TMC HD F CH (fra)
+rtp://239.186.70.37:10000
+#EXTINF:-1,W9 HD CH (fra)
+rtp://239.186.70.38:10000
+#EXTINF:-1,Leman Bleu HD
+rtp://239.186.70.39:10000
+#EXTINF:-1,regioTVplus HD
+rtp://239.186.70.40:10000
+#EXTINF:-1,TV5 Monde FSB HD
+rtp://239.186.70.41:10000
+#EXTINF:-1,blue Sport 30 HD (deu)
+rtp://239.186.70.42:10000
+#EXTINF:-1,blue Sport 31 HD (deu)
+rtp://239.186.70.43:10000
+#EXTINF:-1,blue Sport 32 HD (deu)
+rtp://239.186.70.44:10000
+#EXTINF:-1,blue Sports 2 HD (fre)
+rtp://239.186.70.45:10000
+#EXTINF:-1,blue Sports 3 HD (fre)
+rtp://239.186.70.46:10000
+#EXTINF:-1,blue Sports 4 HD (fre)
+rtp://239.186.70.47:10000
+#EXTINF:-1,blue Sports 5 HD (fre)
+rtp://239.186.70.48:10000
+#EXTINF:-1,blue Sports 6 HD (fre)
+rtp://239.186.70.49:10000
+#EXTINF:-1,blue Sports 7 HD (fre)
+rtp://239.186.70.50:10000
+#EXTINF:-1,blue Sports 8 HD (fre)
+rtp://239.186.70.51:10000
+#EXTINF:-1,blue Sports 9 HD (fre)
+rtp://239.186.70.52:10000
+#EXTINF:-1,blue Sports 10 HD (fre)
+rtp://239.186.70.53:10000
+#EXTINF:-1,blue Sports 11 HD (fre)
+rtp://239.186.70.54:10000
+#EXTINF:-1,blue Sports 12 HD (fre)
+rtp://239.186.70.55:10000
+#EXTINF:-1,blue Sports 13 HD (fre)
+rtp://239.186.70.56:10000
+#EXTINF:-1,blue Sports 14 HD (fre)
+rtp://239.186.70.57:10000
+#EXTINF:-1,blue Sports 15 HD (fre)
+rtp://239.186.70.58:10000
+#EXTINF:-1,blue Sports 16 HD (fre)
+rtp://239.186.70.59:10000
+#EXTINF:-1,MySports 5 D HD (deu)
+rtp://239.186.70.60:10000
+#EXTINF:-1,MySports 6 F HD (fra)
+rtp://239.186.70.61:10000
+#EXTINF:-1,BOING HD F (fre)
+rtp://239.186.70.62:10000
+#EXTINF:-1,INFOSPORT+ HD
+rtp://239.186.70.63:10000
+#EXTINF:-1,Mangas HD (AC3 fra)
+rtp://239.186.70.64:10000
+#EXTINF:-1,blue Vision TV HD
+rtp://239.186.70.65:10000
+#EXTINF:-1,NRTV HD
+rtp://239.186.70.66:10000
+#EXTINF:-1,TLC CH HD
+rtp://239.186.70.67:10000
+#EXTINF:-1,Golfchannel HD (AC3)
+rtp://239.186.70.68:10000
+#EXTINF:-1,Comedie+ HD (fra)
+rtp://239.186.70.69:10000
+#EXTINF:-1,RFM TV HD
+rtp://239.186.70.70:10000
+#EXTINF:-1,MySports 6 D HD (deu)
+rtp://239.186.70.71:10000
+#EXTINF:-1,OCS Pulp HD (fre)
+rtp://239.186.70.73:10000
+#EXTINF:-1,BFM Business HD
+rtp://239.186.70.74:10000
+#EXTINF:-1,INPLUS HD (AC3 eng)
+rtp://239.186.70.75:10000
+#EXTINF:-1,RAI 2 HD
+rtp://239.186.70.77:10000
+#EXTINF:-1,RAI 3 HD (ita)
+rtp://239.186.70.78:10000
+#EXTINF:-1,Antenna 3 HD (ita)
+rtp://239.186.70.79:10000
+#EXTINF:-1,ERT World HD
+rtp://239.186.70.80:10000
+#EXTINF:-1,Crime District HD (fra)
+rtp://239.186.70.81:10000
+#EXTINF:-1,Tele Bielingue HD
+rtp://239.186.70.82:10000
+#EXTINF:-1,Universal Channel HD (deu)
+rtp://239.186.70.83:10000
+#EXTINF:-1,Rai News 24 HD
+rtp://239.186.70.84:10000
+#EXTINF:-1,Sony Channel HD (AC3 deu)
+rtp://239.186.70.85:10000
+#EXTINF:-1,kabel eins Doku CH HD (AC3)
+rtp://239.186.70.86:10000
+#EXTINF:-1,ProSieben MAXX CH HD (AC3)
+rtp://239.186.70.87:10000
+#EXTINF:-1,Sat 1 Gold CH HD (AC3)
+rtp://239.186.70.88:10000
+#EXTINF:-1,CCTV4 HD
+rtp://239.186.70.89:10000
+#EXTINF:-1,CGTN HD
+rtp://239.186.70.90:10000
+#EXTINF:-1,Euronews D HD
+rtp://239.186.70.101:10000
+#EXTINF:-1,i24 News F HD
+rtp://239.186.70.102:10000
+#EXTINF:-1,Helvetia One TV HD
+rtp://239.186.70.103:10000
+#EXTINF:-1,TV Suisseplus HD
+rtp://239.186.70.104:10000
+#EXTINF:-1,Euronews E HD
+rtp://239.186.70.105:10000
+#EXTINF:-1,TV8 Mont Blanc HD
+rtp://239.186.70.106:10000
+#EXTINF:-1,BET HD (fre)
+rtp://239.186.70.109:10000
+#EXTINF:-1,OCS Choc HD
+rtp://239.186.70.110:10000
+#EXTINF:-1,OCS City HBO HD
+rtp://239.186.70.111:10000
+#EXTINF:-1,OCS Geants HD (fre)
+rtp://239.186.70.112:10000
+#EXTINF:-1,OCS Max HD (fre)
+rtp://239.186.70.113:10000
+#EXTINF:-1,blue City HD (deu)
+rtp://239.186.70.114:10000
+#EXTINF:-1,blue Retro HD (deu)
+rtp://239.186.70.115:10000
+#EXTINF:-1,6 plus HD
+rtp://239.186.70.116:10000
+#EXTINF:-1,Auftanken TV HD
+rtp://239.186.70.117:10000
+#EXTINF:-1,J-One HD (fre)
+rtp://239.186.70.118:10000
+#EXTINF:-1,Wetter.TV HD
+rtp://239.186.70.119:10000
+#EXTINF:-1,Novelas HD
+rtp://239.186.70.120:10000
+#EXTINF:-1,franceinfo HD
+rtp://239.186.70.121:10000
+#EXTINF:-1,ORF 3 HD (deu)
+rtp://239.186.70.122:10000
+#EXTINF:-1,T7 HD
+rtp://239.186.70.123:10000
+#EXTINF:-1,POLAR+ HD (fra)
+rtp://239.186.70.124:10000
+#EXTINF:-1,France 24 HD (AC3)
+rtp://239.186.70.125:10000
+#EXTINF:-1,TV4TNG HD
+rtp://239.186.70.126:10000
+#EXTINF:-1,SessionNationalrat HD
+rtp://239.186.70.127:10000
+#EXTINF:-1,SessionStaenderat HD
+rtp://239.186.70.128:10000
+#EXTINF:-1,Kurdistan TV HD
+rtp://239.186.70.129:10000
+#EXTINF:-1,Toonami HD (fre)
+rtp://239.186.70.130:10000
+#EXTINF:-1,Warner TV HD (fre)
+rtp://239.186.70.131:10000
+#EXTINF:-1,TV Onex HD
+rtp://239.186.70.132:10000
+#EXTINF:-1,Grand Geneve TV HD
+rtp://239.186.70.133:10000
+#EXTINF:-1,blue Sports 22 HD (fre)
+rtp://239.186.70.134:10000
+#EXTINF:-1,blue Sports 23 HD (fre)
+rtp://239.186.70.135:10000
+#EXTINF:-1,blue Sports 24 HD (fre)
+rtp://239.186.70.136:10000
+#EXTINF:-1,blue Sports 25 HD (fre)
+rtp://239.186.70.137:10000
+#EXTINF:-1,blue Sports 26 HD (fre)
+rtp://239.186.70.138:10000
+#EXTINF:-1,blue Sports 27 HD (fre)
+rtp://239.186.70.139:10000
+#EXTINF:-1,blue Sports 28 HD (fre)
+rtp://239.186.70.140:10000
+#EXTINF:-1,blue Sports 29 HD (fre)
+rtp://239.186.70.141:10000
+#EXTINF:-1,blue Sports 30 HD (fre)
+rtp://239.186.70.142:10000
+#EXTINF:-1,blue Sports 31 HD (fre)
+rtp://239.186.70.143:10000
+#EXTINF:-1,GEO Television HD (ger)
+rtp://239.186.70.144:10000
+#EXTINF:-1,Crime + Investigation D HD (deu)
+rtp://239.186.70.145:10000
+#EXTINF:-1,kabel eins CLASSICS HD
+rtp://239.186.70.146:10000
+#EXTINF:-1,BN Sat HD
+rtp://239.186.70.147:10000
+#EXTINF:-1,Euronews F HD
+rtp://239.186.70.148:10000
+#EXTINF:-1,LATINOS 1 HD
+rtp://239.186.70.150:10000
+#EXTINF:-1,Five HD (AC3 eng)
+rtp://239.186.70.151:10000
+#EXTINF:-1,Deejay TV HD
+rtp://239.186.70.152:10000
+#EXTINF:-1,HRT Int. HD
+rtp://239.186.70.153:10000
+#EXTINF:-1,SuperTennis TV HD
+rtp://239.186.70.154:10000
+#EXTINF:-1,GRTV-TeleVersoix HD
+rtp://239.186.70.155:10000
+#EXTINF:-1,GINX HD (eng)
+rtp://239.186.70.156:10000
+#EXTINF:-1,Englisch Club HD (eng)
+rtp://239.186.70.157:10000
+#EXTINF:-1,Olympia TV HD (fra)
+rtp://239.186.70.158:10000
+#EXTINF:-1,Boomerang F HD (fre)
+rtp://239.186.70.159:10000
+#EXTINF:-1,ES1 HD
+rtp://239.186.70.160:10000
+#EXTINF:-1,MySports 9 D HD (deu)
+rtp://239.186.70.161:10000
+#EXTINF:-1,Bergblick HD
+rtp://239.186.70.162:10000
+#EXTINF:-1,Kinowelt HD (deu)
+rtp://239.186.70.163:10000
+#EXTINF:-1,RTS Svet HD
+rtp://239.186.70.164:10000
+#EXTINF:-1,Spiegel Geschichte HD
+rtp://239.186.70.165:10000
+#EXTINF:-1,blue Sports 32 HD (fre)
+rtp://239.186.70.166:10000
+#EXTINF:-1,blue Sports 33 HD (fre)
+rtp://239.186.70.167:10000
+#EXTINF:-1,blue Sports 34 HD (fre)
+rtp://239.186.70.168:10000
+#EXTINF:-1,blue Sport 33 HD (deu)
+rtp://239.186.70.169:10000
+#EXTINF:-1,blue Sport 34 HD (deu)
+rtp://239.186.70.170:10000
+#EXTINF:-1,blue Sport 35 HD (deu)
+rtp://239.186.70.171:10000
+#EXTINF:-1,blue Sport 36 HD (deu)
+rtp://239.186.70.172:10000
+#EXTINF:-1,blue Sport 37 HD (deu)
+rtp://239.186.70.173:10000
+#EXTINF:-1,blue Sport 38 HD (deu)
+rtp://239.186.70.174:10000
+#EXTINF:-1,blue Sport 39 HD (deu)
+rtp://239.186.70.175:10000
+#EXTINF:-1,blue Sport 40 HD (deu)
+rtp://239.186.70.176:10000
+#EXTINF:-1,blue Sport 41 HD (deu)
+rtp://239.186.70.177:10000
+#EXTINF:-1,TV Dukagjini HD
+rtp://239.186.70.178:10000
+#EXTINF:-1,Alf-TV HD
+rtp://239.186.70.179:10000
+#EXTINF:-1,Ajoie HD
+rtp://239.186.70.180:10000
+#EXTINF:-1,RTL 102.5 TV HD
+rtp://239.186.70.181:10000
+#EXTINF:-1,Televista HD
+rtp://239.186.70.182:10000
+#EXTINF:-1,HRT 1 HD
+rtp://239.186.70.183:10000
+#EXTINF:-1,360 HD
+rtp://239.186.70.184:10000
+#EXTINF:-1,TRT Cocuk HD
+rtp://239.186.70.185:10000
+#EXTINF:-1,TRT Belgesel HD
+rtp://239.186.70.186:10000
+#EXTINF:-1,TRT Spor HD
+rtp://239.186.70.187:10000
+#EXTINF:-1,Rete 4 HD (AC3 ita)
+rtp://239.186.70.188:10000
+#EXTINF:-1,Smithsonian Channel UK HD
+rtp://239.186.70.189:10000
+#EXTINF:-1,SR Fernsehen HD (AC3 deu)
+rtp://239.186.70.190:10000
+#EXTINF:-1,KBS World HD
+rtp://239.186.70.191:10000
+#EXTINF:-1,Eurosport 2 I HD (ita)
+rtp://239.186.70.192:10000
+#EXTINF:-1,Eurosport 1 E HD
+rtp://239.186.70.193:10000
+#EXTINF:-1,ARD-alpha HD (AC3 deu)
+rtp://239.186.70.194:10000
+#EXTINF:-1,Utsav Plus HD
+rtp://239.186.70.196:10000
+#EXTINF:-1,Utsav Gold HD
+rtp://239.186.70.197:10000
+#EXTINF:-1,TRT Muzik HD
+rtp://239.186.70.198:10000
+#EXTINF:-1,Al Jazeera HD
+rtp://239.186.70.199:10000
+#EXTINF:-1,Fashion TV HD
+rtp://239.186.70.200:10000
+#EXTINF:-1,TV Central HD
+rtp://239.186.70.201:10000
+#EXTINF:-1,Rheinwelten
+rtp://239.186.70.202:10000
+#EXTINF:-1,Vernier Visions HD
+rtp://239.186.70.203:10000
+#EXTINF:-1,Zwei Music Television HD
+rtp://239.186.70.204:10000
+#EXTINF:-1,Duna TV HD
+rtp://239.186.70.205:10000
+#EXTINF:-1,M1 HD
+rtp://239.186.70.206:10000
+#EXTINF:-1,M2 HD
+rtp://239.186.70.207:10000
+#EXTINF:-1,M5 HD
+rtp://239.186.70.209:10000
+#EXTINF:-1,TRT Turk HD
+rtp://239.186.70.210:10000
+#EXTINF:-1,LOLY HD
+rtp://239.186.70.211:10000
+#EXTINF:-1,Mezzo Live HD
+rtp://239.186.70.212:10000
+#EXTINF:-1,MCM HD
+rtp://239.186.70.213:10000
+#EXTINF:-1,One Music Television HD
+rtp://239.186.70.214:10000
+#EXTINF:-1,MySports Eins Event HD (deu)
+rtp://239.186.70.216:10000
+#EXTINF:-1,MySports Un Event HD (fra)
+rtp://239.186.70.217:10000
+#EXTINF:-1,SPORT1+ HD
+rtp://239.186.70.220:10000
+#EXTINF:-1,SPORTDIGITAL FUSSBALL HD (deu)
+rtp://239.186.70.221:10000
+#EXTINF:-1,Fox News HD
+rtp://239.186.70.222:10000
+#EXTINF:-1,Motorvision TV HD (deu)
+rtp://239.186.70.223:10000
+#EXTINF:-1,CNBC UK HD
+rtp://239.186.70.224:10000
+#EXTINF:-1,Nove HD
+rtp://239.186.70.233:10000
+#EXTINF:-1,First Channel HD
+rtp://239.186.70.244:10000
+#EXTINF:-1,Dubai TV HD
+rtp://239.186.70.246:10000
+#EXTINF:-1,Premium Shopping CH HD
+rtp://239.186.70.247:10000
+#EXTINF:-1,Deluxe Music HD
+rtp://239.186.70.248:10000
+#EXTINF:-1,DW Englisch HD
+rtp://239.186.70.249:10000
+#EXTINF:-1,BN 2 HD
+rtp://239.186.70.252:10000
+#EXTINF:-1,FreeSports HD
+rtp://239.186.70.253:10000
+#EXTINF:-1,TV Ora HD
+rtp://239.186.70.254:10000
+#EXTINF:-1,MySports 2 D (deu)
+rtp://239.186.74.1:10000
+#EXTINF:-1,blue City (deu)
+rtp://239.186.74.2:10000
+#EXTINF:-1,blue Retro (deu)
+rtp://239.186.74.3:10000
+#EXTINF:-1,blue Sports 22 (fre)
+rtp://239.186.74.4:10000
+#EXTINF:-1,blue Sports 23 (fre)
+rtp://239.186.74.5:10000
+#EXTINF:-1,blue Sports 24 (fre)
+rtp://239.186.74.6:10000
+#EXTINF:-1,blue Sports 25 (fre)
+rtp://239.186.74.7:10000
+#EXTINF:-1,blue Sports 26 (fre)
+rtp://239.186.74.8:10000
+#EXTINF:-1,blue Sports 27 (fre)
+rtp://239.186.74.9:10000
+#EXTINF:-1,blue Sports 28 (fre)
+rtp://239.186.74.10:10000
+#EXTINF:-1,blue Sports 29 (fre)
+rtp://239.186.74.11:10000
+#EXTINF:-1,blue Sports 30 (fre)
+rtp://239.186.74.12:10000
+#EXTINF:-1,blue Sports 31 (fre)
+rtp://239.186.74.13:10000
+#EXTINF:-1,ITV Be (eng)
+rtp://239.186.74.14:10000
+#EXTINF:-1,Melodie TV
+rtp://239.186.74.15:10000
+#EXTINF:-1,Geo Television (ger)
+rtp://239.186.74.16:10000
+#EXTINF:-1,Crime + Investigation D (deu)
+rtp://239.186.74.17:10000
+#EXTINF:-1,Antenna 3
+rtp://239.186.74.18:10000
+#EXTINF:-1,Italia Channel
+rtp://239.186.74.19:10000
+#EXTINF:-1,Pink Serije
+rtp://239.186.74.20:10000
+#EXTINF:-1,Motor Trend
+rtp://239.186.74.21:10000
+#EXTINF:-1,Espansione TV
+rtp://239.186.74.22:10000
+#EXTINF:-1,Telecity 7 Gold
+rtp://239.186.74.23:10000
+#EXTINF:-1,SportItalia
+rtp://239.186.74.24:10000
+#EXTINF:-1,BBC Parliament
+rtp://239.186.74.25:10000
+#EXTINF:-1,DW Deutsch
+rtp://239.186.74.26:10000
+#EXTINF:-1,blue Sports 32 (fre)
+rtp://239.186.74.27:10000
+#EXTINF:-1,blue Sports 33 (fre)
+rtp://239.186.74.28:10000
+#EXTINF:-1,blue Sports 34 (fre)
+rtp://239.186.74.29:10000
+#EXTINF:-1,blue Sport 33 (deu)
+rtp://239.186.74.30:10000
+#EXTINF:-1,blue Sport 34 (deu)
+rtp://239.186.74.31:10000
+#EXTINF:-1,blue Sport 35 (deu)
+rtp://239.186.74.32:10000
+#EXTINF:-1,blue Sport 36 (deu)
+rtp://239.186.74.33:10000
+#EXTINF:-1,blue Sport 37 (deu)
+rtp://239.186.74.34:10000
+#EXTINF:-1,blue Sport 38 (deu)
+rtp://239.186.74.35:10000
+#EXTINF:-1,blue Sport 39 (deu)
+rtp://239.186.74.36:10000
+#EXTINF:-1,blue Sport 40 (deu)
+rtp://239.186.74.37:10000
+#EXTINF:-1,blue Sport 41 (deu)
+rtp://239.186.74.38:10000
+#EXTINF:-1,Pink Reality
+rtp://239.186.74.39:10000
+#EXTINF:-1,HGTV
+rtp://239.186.74.40:10000
+#EXTINF:-1,MySports 2 F (fra)
+rtp://239.186.74.41:10000
+#EXTINF:-1,MySports 3 F (fra)
+rtp://239.186.74.42:10000
+#EXTINF:-1,MySports 3 D (deu)
+rtp://239.186.74.43:10000
+#EXTINF:-1,MySports 4 D (deu)
+rtp://239.186.74.44:10000
+#EXTINF:-1,MySports 4 F (fra)
+rtp://239.186.74.45:10000
+#EXTINF:-1,MySports 5 D (deu)
+rtp://239.186.74.46:10000
+#EXTINF:-1,MySports 5 F (fra)
+rtp://239.186.74.47:10000
+#EXTINF:-1,MySports 6 D (deu)
+rtp://239.186.74.48:10000
+#EXTINF:-1,MySports 6 F (fra)
+rtp://239.186.74.49:10000
+#EXTINF:-1,FixFoxi TV
+rtp://239.186.74.50:10000
+#EXTINF:-1,Goldstar TV
+rtp://239.186.74.51:10000
+#EXTINF:-1,Duna TV
+rtp://239.186.74.52:10000
+#EXTINF:-1,GREAT! movies classic
+rtp://239.186.74.53:10000
+#EXTINF:-1,MySports 7 D (deu)
+rtp://239.186.74.54:10000
+#EXTINF:-1,GREAT! Movies
+rtp://239.186.74.55:10000
+#EXTINF:-1,MySports Eins Event (deu)
+rtp://239.186.74.56:10000
+#EXTINF:-1,MySports Un Event (fra)
+rtp://239.186.74.57:10000
+#EXTINF:-1,Great! Movies Action
+rtp://239.186.74.58:10000
+#EXTINF:-1,Camera dei Deputati
+rtp://239.186.74.59:10000
+#EXTINF:-1,SPORT1+
+rtp://239.186.74.60:10000
+#EXTINF:-1,SPORTDIGITAL FUSSBALL (deu)
+rtp://239.186.74.61:10000
+#EXTINF:-1,eSports1 (ger)
+rtp://239.186.74.62:10000
+#EXTINF:-1,Trace Latina (fra)
+rtp://239.186.74.63:10000
+#EXTINF:-1,Digi 24
+rtp://239.186.74.64:10000
+#EXTINF:-1,Teledeporte (spa)
+rtp://239.186.74.65:10000
+#EXTINF:-1,BonGusto
+rtp://239.186.74.66:10000
+#EXTINF:-1,20 Mediaset (AC3 ita)
+rtp://239.186.74.67:10000
+#EXTINF:-1,Nicktoons (ger)
+rtp://239.186.74.68:10000
+#EXTINF:-1,Italian Fishing TV
+rtp://239.186.74.69:10000
+#EXTINF:-1,VOXup
+rtp://239.186.74.70:10000
+#EXTINF:-1,HGTV  IT
+rtp://239.186.74.71:10000
+#EXTINF:-1,5Star (eng)
+rtp://239.186.74.72:10000
+#EXTINF:-1,CITV (eng)
+rtp://239.186.74.73:10000
+#EXTINF:-1,DMAX UK
+rtp://239.186.74.74:10000
+#EXTINF:-1,CNN Turk (tur)
+rtp://239.186.74.75:10000
+#EXTINF:-1,MySports 8 D (deu)
+rtp://239.186.74.76:10000
+#EXTINF:-1,TV Duga+
+rtp://239.186.74.77:10000
+#EXTINF:-1,Cine34
+rtp://239.186.74.78:10000
+#EXTINF:-1,Top Calcio 24
+rtp://239.186.74.79:10000
+#EXTINF:-1,Sky Cinema (deu)
+rtp://239.186.74.80:10000
+#EXTINF:-1,Comedy Central F (fra)
+rtp://239.186.74.81:10000
+#EXTINF:-1,Lilo.TV
+rtp://239.186.74.82:10000
+#EXTINF:-1,HRT Int.
+rtp://239.186.74.83:10000
+#EXTINF:-1,5Action (eng)
+rtp://239.186.74.84:10000
+#EXTINF:-1,Senato Italiano (ita)
+rtp://239.186.74.85:10000
+#EXTINF:-1,MySports 9 D (deu)
+rtp://239.186.74.86:10000
+#EXTINF:-1,Yesterday (eng)
+rtp://239.186.74.87:10000
+#EXTINF:-1,5SELECT (eng)
+rtp://239.186.74.88:10000
+#EXTINF:-1,Tunisie  Nationale
+rtp://239.186.74.89:10000
+#EXTINF:-1,RTSH 3
+rtp://239.186.74.90:10000
+#EXTINF:-1,Karusel Int.
+rtp://239.186.74.91:10000
+#EXTINF:-1,MySports 7 F (fra)
+rtp://239.186.74.92:10000
+#EXTINF:-1,4Seven (eng)
+rtp://239.186.74.93:10000
+#EXTINF:-1,Pick (eng)
+rtp://239.186.74.94:10000
+#EXTINF:-1,Challenge (eng)
+rtp://239.186.74.95:10000
+#EXTINF:-1,MySports 8 F (fra)
+rtp://239.186.74.96:10000
+#EXTINF:-1,ORTB
+rtp://239.186.74.97:10000
+#EXTINF:-1, FREEDOM (ukr)
+rtp://239.186.74.98:10000
+#EXTINF:-1,MySports 9 F (fra)
+rtp://239.186.74.99:10000
+#EXTINF:-1,First Channel
+rtp://239.186.74.100:10000
+#EXTINF:-1,Motorvision TV (deu)
+rtp://239.186.74.101:10000
+#EXTINF:-1,Pink World
+rtp://239.186.74.102:10000
+#EXTINF:-1,Nickelodeon Ukraine Pluto TV
+rtp://239.186.74.103:10000
+#EXTINF:-1,MySports 10 F (fra)
+rtp://239.186.74.104:10000
+#EXTINF:-1,Schlager Deluxe
+rtp://239.186.74.105:10000
+#EXTINF:-1,Now 80s
+rtp://239.186.74.106:10000
+#EXTINF:-1,CBS Reality (eng)
+rtp://239.186.74.107:10000
+#EXTINF:-1,Now 70s
+rtp://239.186.74.108:10000
+#EXTINF:-1,MySports 10 D (deu)
+rtp://239.186.74.109:10000
+#EXTINF:-1,C+ PREMIER LEAGUE
+rtp://239.186.74.110:10000
+#EXTINF:-1,MySports EDGE (deu)
+rtp://239.186.74.111:10000
+#EXTINF:-1,Motorvision.TV France (fre)
+rtp://239.186.74.112:10000
+#EXTINF:-1,Volksmusik.TV
+rtp://239.186.74.113:10000
+#EXTINF:-1,twentyseven (AC3 ita)
+rtp://239.186.74.114:10000
+#EXTINF:-1,Hayatovci
+rtp://239.186.74.116:10000
+#EXTINF:-1,Museum TV
+rtp://239.186.74.117:10000
+#EXTINF:-1,MTV France
+rtp://239.186.74.118:10000
+#EXTINF:-1,C+ Sport 360 (fra)
+rtp://239.186.74.119:10000
+#EXTINF:-1,C+ Docs (fra)
+rtp://239.186.74.120:10000
+#EXTINF:-1,C+ Foot (fra)
+rtp://239.186.74.121:10000
+#EXTINF:-1,Chasse et Peche
+rtp://239.186.74.123:10000
+#EXTINF:-1,OCS Pulp (fre)
+rtp://239.186.74.124:10000
+#EXTINF:-1,UHD1 by Astra UHD
+rtp://239.186.76.1:10000
+#EXTINF:-1,3plus UHD
+rtp://239.186.76.2:10000
+#EXTINF:-1,SRF 1 FullHD UHD (AC3 deu)
+rtp://239.186.76.3:10000
+#EXTINF:-1,INULTRA UHD (deu)
+rtp://239.186.76.4:10000
+#EXTINF:-1,Ultra Nature UHD
+rtp://239.186.76.6:10000
+#EXTINF:-1,3plus UHD
+rtp://239.186.76.8:10000
+#EXTINF:-1,blue Sport 1 UHD (deu)
+rtp://239.186.76.9:10000
+#EXTINF:-1,blue Sports 1 UHD (fre)
+rtp://239.186.76.10:10000
+#EXTINF:-1,blue Vision TV UHD
+rtp://239.186.76.11:10000
+#EXTINF:-1,4plus UHD
+rtp://239.186.76.12:10000
+#EXTINF:-1,blue Sport 2 UHD (deu)
+rtp://239.186.76.13:10000
+#EXTINF:-1,blue Sport 3 UHD (deu)
+rtp://239.186.76.14:10000
+#EXTINF:-1,blue Sports 2 UHD (fre)
+rtp://239.186.76.15:10000
+#EXTINF:-1,blue Sports 3 UHD (fre)
+rtp://239.186.76.16:10000
+#EXTINF:-1,Stingray Festival 4K UHD
+rtp://239.186.76.17:10000
+#EXTINF:-1,Funbox UHD
+rtp://239.186.76.18:10000
+#EXTINF:-1,4plus UHD
+rtp://239.186.76.19:10000
+#EXTINF:-1,auto motor und sport UHD
+rtp://239.186.76.20:10000
+#EXTINF:-1,SRF zwei FHD UHD (AC3 deu)
+rtp://239.186.76.21:10000
+#EXTINF:-1,RTL UHD
+rtp://239.186.76.22:10000
+#EXTINF:-1,SRF info FullHD UHD (AC3 deu)
+rtp://239.186.76.23:10000
+#EXTINF:-1,RSI LA1 FullHD UHD (AC3 ita)
+rtp://239.186.76.24:10000
+#EXTINF:-1,RSI LA2 FullHD UHD (AC3 ita)
+rtp://239.186.76.25:10000
+#EXTINF:-1,RTS1 FullHD UHD (AC3 fra)
+rtp://239.186.76.26:10000
+#EXTINF:-1,RTS2 FullHD UHD (AC3 fra)
+rtp://239.186.76.27:10000
+#EXTINF:-1,Love Nature 4K
+rtp://239.186.76.28:10000
+#EXTINF:-1,NASA TV UHD
+rtp://239.186.76.29:10000
+#EXTINF:-1,blue Sports 4 UHD (fre)
+rtp://239.186.76.30:10000
+#EXTINF:-1,blue Sport 4 UHD (deu)
+rtp://239.186.76.31:10000
+#EXTINF:-1,TV24 UHD
+rtp://239.186.76.32:10000
+#EXTINF:-1,TV24 UHD
+rtp://239.186.76.33:10000
+#EXTINF:-1,ARCADIA WORLD TV HD
+rtp://239.186.84.1:10000
+#EXTINF:-1,Quest HD (AC3 eng)
+rtp://239.186.84.2:10000
+#EXTINF:-1,Top Channel HD
+rtp://239.186.84.4:10000
+#EXTINF:-1,BonGusto HD
+rtp://239.186.84.5:10000
+#EXTINF:-1,Syri TV HD
+rtp://239.186.84.6:10000
+#EXTINF:-1,pro 7 fun HD (ger)
+rtp://239.186.84.8:10000
+#EXTINF:-1,Stingray djazz HD
+rtp://239.186.84.9:10000
+#EXTINF:-1,Al Arabiya HD
+rtp://239.186.84.11:10000
+#EXTINF:-1,ATV  Albania HD
+rtp://239.186.84.12:10000
+#EXTINF:-1,TRT Kurdi HD (tur)
+rtp://239.186.84.14:10000
+#EXTINF:-1,MySports 7 F HD (fra)
+rtp://239.186.84.15:10000
+#EXTINF:-1,E! E HD
+rtp://239.186.84.16:10000
+#EXTINF:-1,Swiss Sport TV HD
+rtp://239.186.84.17:10000
+#EXTINF:-1,Rai Gulp HD
+rtp://239.186.84.18:10000
+#EXTINF:-1,teleSUR HD
+rtp://239.186.84.19:10000
+#EXTINF:-1,Radionorba TV HD
+rtp://239.186.84.20:10000
+#EXTINF:-1,HitExpress TV HD
+rtp://239.186.84.22:10000
+#EXTINF:-1,San Marino RTV HD
+rtp://239.186.84.23:10000
+#EXTINF:-1,ATV (TR) HD
+rtp://239.186.84.24:10000
+#EXTINF:-1,MySports EDGE HD (deu)
+rtp://239.186.84.25:10000
+#EXTINF:-1,Motorvision.TV France HD (fre)
+rtp://239.186.84.26:10000
+#EXTINF:-1,ducktv HD
+rtp://239.186.84.27:10000
+#EXTINF:-1,TV8 HD (ita)
+rtp://239.186.84.28:10000
+#EXTINF:-1,Eurochannel F HD
+rtp://239.186.84.29:10000
+#EXTINF:-1,Eurochannel D HD
+rtp://239.186.84.30:10000
+#EXTINF:-1,France 24 E HD (AC3 eng)
+rtp://239.186.84.31:10000
+#EXTINF:-1,Voice of America HD
+rtp://239.186.84.32:10000
+#EXTINF:-1,TV  Galicia HD
+rtp://239.186.84.33:10000
+#EXTINF:-1,BN Music HD
+rtp://239.186.84.34:10000
+#EXTINF:-1,LCP HD
+rtp://239.186.84.35:10000
+#EXTINF:-1,Show HD
+rtp://239.186.84.36:10000
+#EXTINF:-1,Schlagerparadies TV HD
+rtp://239.186.84.37:10000
+#EXTINF:-1,la chaine meteo HD
+rtp://239.186.84.38:10000
+#EXTINF:-1,Melody HD
+rtp://239.186.84.39:10000
+#EXTINF:-1,Comedy Central F HD (fra)
+rtp://239.186.84.40:10000
+#EXTINF:-1,TV Klan HD
+rtp://239.186.84.43:10000
+#EXTINF:-1,C+ Sport 360 HD (fra)
+rtp://239.186.84.44:10000
+#EXTINF:-1,Atres Series HD
+rtp://239.186.84.47:10000
+#EXTINF:-1,Antena 3 HD
+rtp://239.186.84.48:10000
+#EXTINF:-1,C+ Foot HD (fra)
+rtp://239.186.84.49:10000
+#EXTINF:-1,auto motor sport HD
+rtp://239.186.84.50:10000
+#EXTINF:-1,TV5 Monde EU HD
+rtp://239.186.84.54:10000
+#EXTINF:-1,France 4 HD (fre)
+rtp://239.186.84.55:10000
+#EXTINF:-1,GB News HD
+rtp://239.186.84.57:10000
+#EXTINF:-1,Tele 5 HD
+rtp://239.186.84.59:10000
+#EXTINF:-1,Marco Polo HD
+rtp://239.186.84.60:10000
+#EXTINF:-1,Eurochannel IT HD
+rtp://239.186.84.61:10000
+#EXTINF:-1,Bild HD
+rtp://239.186.84.67:10000
+#EXTINF:-1,TV2000 HD
+rtp://239.186.84.73:10000
+#EXTINF:-1,MySports 8 F HD (fra)
+rtp://239.186.84.75:10000
+#EXTINF:-1,MySports 9 F HD (fra)
+rtp://239.186.84.76:10000
+#EXTINF:-1,RTV21 M HD
+rtp://239.186.84.77:10000
+#EXTINF:-1,Arta HD
+rtp://239.186.84.78:10000
+#EXTINF:-1,Euronews AL HD
+rtp://239.186.84.79:10000
+#EXTINF:-1,ORF Sport + HD (deu)
+rtp://239.186.84.80:10000
+#EXTINF:-1,DMAX Italia HD
+rtp://239.186.84.89:10000
+#EXTINF:-1,Espansione TV HD (ita)
+rtp://239.186.84.90:10000
+#EXTINF:-1,Food Network I HD
+rtp://239.186.84.91:10000
+#EXTINF:-1,Fax News HD
+rtp://239.186.84.93:10000
+#EXTINF:-1,B1 TV HD
+rtp://239.186.84.94:10000
+#EXTINF:-1,Baern Sport HD
+rtp://239.186.84.95:10000
+#EXTINF:-1,TV Polonia HD (AAC)
+rtp://239.186.84.96:10000
+#EXTINF:-1,Giallo HD
+rtp://239.186.84.99:10000
+#EXTINF:-1,Sky Cinema HD (deu)
+rtp://239.186.84.100:10000
+#EXTINF:-1,HGTV I HD
+rtp://239.186.84.101:10000
+#EXTINF:-1,Motor Trend HD
+rtp://239.186.84.102:10000
+#EXTINF:-1,Real Time HD
+rtp://239.186.84.103:10000
+#EXTINF:-1,Telelombardia HD
+rtp://239.186.84.104:10000
+#EXTINF:-1,Top Calcio 24 HD
+rtp://239.186.84.105:10000
+#EXTINF:-1,ALTAMEGA Plus HD
+rtp://239.186.84.106:10000
+#EXTINF:-1,Diaspora TV Switzerland HD
+rtp://239.186.84.107:10000
+#EXTINF:-1,Telecity 7 Gold HD
+rtp://239.186.84.109:10000
+#EXTINF:-1,MySports 10 F HD (fra)
+rtp://239.186.84.110:10000
+#EXTINF:-1,MySports 10 D HD (deu)
+rtp://239.186.84.111:10000
+#EXTINF:-1,CANAL+ PREMIER LEAGUE HD
+rtp://239.186.84.112:10000
+#EXTINF:-1,TELENOVA HD
+rtp://239.186.84.113:10000
+#EXTINF:-1,C+ Docs HD (fra)
+rtp://239.186.84.120:10000
+#EXTINF:-1,Museum TV HD
+rtp://239.186.84.121:10000
+#EXTINF:-1,Canal 11 HD (por)
+rtp://239.186.84.122:10000
+#EXTINF:-1,MTV France HD
+rtp://239.186.84.124:10000
+#EXTINF:-1,Crime + Investigation I HD (ita)
+rtp://239.186.84.127:10000
