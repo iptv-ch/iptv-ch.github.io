@@ -145,5 +145,5 @@ rtp://239.186.74.115:10000
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Consiglio degli Stati Svizzera HD
 rtp://239.186.70.128:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/it/warnertv.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV IT"" tvg-logo="https://static.epg.best/it/WarnerTV.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
 rtp://239.186.84.46:10000
