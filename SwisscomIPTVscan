@@ -2005,6 +2005,8 @@ rtp://239.186.74.112:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1,twentyseven (AC3 ita)
 rtp://239.186.74.114:10000
+#EXTINF:-1 ,pink HITS
+rtp://239.186.74.115:10000
 #EXTINF:-1,Hayatovci
 rtp://239.186.74.116:10000
 #EXTINF:-1,Museum TV
@@ -2017,10 +2019,18 @@ rtp://239.186.74.119:10000
 rtp://239.186.74.120:10000
 #EXTINF:-1,C+ Foot (fra)
 rtp://239.186.74.121:10000
+#EXTINF:-1 ,blue MUSIC D 2
+rtp://239.186.74.122:10000
 #EXTINF:-1,Chasse et Peche
 rtp://239.186.74.123:10000
 #EXTINF:-1,OCS Pulp (fre)
 rtp://239.186.74.124:10000
+#EXTINF:-1 ,blue MUSIC D 3
+rtp://239.186.74.125:10000
+#EXTINF:-1 ,blue MUSIC F 2
+rtp://239.186.74.126:10000
+#EXTINF:-1 ,blue MUSIC F 3
+rtp://239.186.74.127:10000
 #EXTINF:-1,UHD1 by Astra UHD
 rtp://239.186.76.1:10000
 #EXTINF:-1,3plus UHD
@@ -2151,12 +2161,18 @@ rtp://239.186.84.37:10000
 rtp://239.186.84.38:10000
 #EXTINF:-1,Melody HD
 rtp://239.186.84.39:10000
-#EXTINF:-1,Comedy Central F HD (fra)
+#EXTINF:-1,Comedy Central F HD
 rtp://239.186.84.40:10000
+#EXTINF:-1 ,EU Parlament+ HD
+rtp://239.186.84.42:10000
 #EXTINF:-1,TV Klan HD
 rtp://239.186.84.43:10000
-#EXTINF:-1,C+ Sport 360 HD (fra)
+#EXTINF:-1,C+ Sport 360 HD
 rtp://239.186.84.44:10000
+#EXTINF:-1 ,EU Parlament HD
+rtp://239.186.84.45:10000
+#EXTINF:-1 ,Warner TV Italia HD
+rtp://239.186.84.46:10000
 #EXTINF:-1,Atres Series HD
 rtp://239.186.84.47:10000
 #EXTINF:-1,Antena 3 HD
@@ -2191,8 +2207,16 @@ rtp://239.186.84.77:10000
 rtp://239.186.84.78:10000
 #EXTINF:-1,Euronews AL HD
 rtp://239.186.84.79:10000
-#EXTINF:-1,ORF Sport + HD (deu)
+#EXTINF:-1,ORF Sport + HD
 rtp://239.186.84.80:10000
+#EXTINF:-1 ,blue MUSIC D 2 HD
+rtp://239.186.84.81:10000
+#EXTINF:-1 ,blue MUSIC D 3 HD
+rtp://239.186.84.82:10000
+#EXTINF:-1 ,blue MUSIC F 2 HD
+rtp://239.186.84.83:10000
+#EXTINF:-1 ,blue MUSIC F 3 HD
+rtp://239.186.84.84:10000
 #EXTINF:-1,DMAX Italia HD
 rtp://239.186.84.89:10000
 #EXTINF:-1,Espansione TV HD (ita)
