@@ -582,8 +582,6 @@ rtp://239.186.66.135:10000
 rtp://239.186.66.137:10000
 #EXTINF:-1 tvg-id="RTK.al" tvg-name="RTK AL" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
 rtp://239.186.64.81:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="461" channel-id="461",TGN Thai Global Network
-rtp://239.186.64.198:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
 rtp://239.186.66.147:10000
 #EXTINF:-1 tvg-id="TVRi.ro" tvg-name="TVRi RO" tvg-logo="https://static.epg.best/ro/TVRi.ro.png" tvg-chno="465" channel-id="465",TVRi TV Romania International
