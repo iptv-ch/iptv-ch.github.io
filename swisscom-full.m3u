@@ -914,8 +914,6 @@ rtp://239.186.66.137:10000
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",RUDAW HD
 rtp://239.186.68.247:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="461" channel-id="461",TGN Thai Global Network
-rtp://239.186.64.198:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî TR" tvg-logo="http://static.epg.best/tr/TRTKurdi.tr.png" tvg-chno="463" channel-id="463",TRT KURDI
