@@ -763,8 +763,6 @@ rtp://239.186.66.137:10000
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD
 rtp://239.186.68.247:10000
-#EXTINF:-1 tvg-id="tgn.th" tvg-name="TGN TH" tvg-logo="https://static.epg.best/th/tgn.th.png" tvg-chno="461" channel-id="461",TGN Thai Global Network
-rtp://239.186.64.198:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA HD
 rtp://239.186.84.96:10000
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="https://static.epg.best/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV
