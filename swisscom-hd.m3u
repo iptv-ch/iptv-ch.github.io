@@ -272,6 +272,10 @@ rtp://239.186.74.55:10000
 rtp://239.186.74.58:10000
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News UK" tvg-logo="https://static.epg.best/uk/GBNews.uk.png" tvg-chno="" channel-id="",GB News
 rtp://239.186.84.57:10000
+#EXTINF:-1 ,EU Parlament+ HD
+rtp://239.186.84.42:10000
+#EXTINF:-1 ,EU Parlament HD
+rtp://239.186.84.45:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -662,6 +666,8 @@ rtp://239.186.74.59:10000
 rtp://239.186.68.192:10000
 #EXTINF:-1 ,Parole di vita
 rtp://239.186.74.115:10000
+#EXTINF:-1 ,WarnerTV Italia HD
+rtp://239.186.84.46:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
