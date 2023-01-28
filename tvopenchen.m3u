@@ -90,6 +90,10 @@ rtp://239.186.84.31:10000
 rtp://239.186.84.32:10000
 #EXTINF:-1 ,GBNews.uk HD
 rtp://239.186.84.57:10000
+#EXTINF:-1 ,EU Parlament+ HD
+rtp://239.186.84.42:10000
+#EXTINF:-1 ,EU Parlament HD
+rtp://239.186.84.45:10000
 #EXTREM music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
