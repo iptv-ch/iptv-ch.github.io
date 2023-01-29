@@ -36,40 +36,6 @@ rtp://233.35.254.147:1234
 rtp://233.35.254.121:1234
 #EXTINF:-1 ,TV5MONDE FBSM HD
 rtp://233.35.254.181:1234
-#EXTINF:-1 ,Mangas HD
-rtp://233.21.50.2:1234
-#EXTINF:-1 ,13ème Rue HD
-rtp://233.21.50.4:1234
-#EXTINF:-1 ,SyFy HD french
-rtp://233.21.50.5:1234
-#EXTINF:-1 ,Disney Channel HD french
-rtp://233.21.50.11:1234
-#EXTINF:-1 ,Disney Junior HD french
-rtp://233.21.50.31:1234
-#EXTINF:-1 ,National Geographic HD french
-rtp://233.21.50.54:1234
-#EXTINF:-1 ,National Geographic Wild HD french
-rtp://233.21.50.55:1234
-#EXTINF:-1 ,TV Breizh HD
-rtp://233.21.50.57:1234
-#EXTINF:-1 ,Ushuaia TV HD
-rtp://233.21.50.58:1234
-#EXTINF:-1 ,OCS Max HD
-rtp://233.21.50.59:1234
-#EXTINF:-1 ,OCS City HD
-rtp://233.21.50.60:1234
-#EXTINF:-1 ,OCS Choc HD
-rtp://233.21.50.61:1234
-#EXTINF:-1 ,OCS Geants HD
-rtp://233.21.50.62:1234
-#EXTINF:-1 ,Nickelodeon Junior F HD
-rtp://233.21.50.63:1234
-#EXTINF:-1 ,Paramount Channel F HD
-rtp://233.21.50.126:1234
-#EXTINF:-1 ,Equidia HD
-rtp://233.32.39.142:1234
-#EXTINF:-1 ,Golf Channel HD
-rtp://233.32.39.154:1234
 #EXTREM: deutsch
 #EXTINF:-1 ,SRF1 HD
 rtp://233.35.254.125:1234
@@ -87,14 +53,10 @@ rtp://233.35.254.204:1234
 rtp://233.35.254.33:1234
 #EXTINF:-1 ,euronews D
 rtp://233.35.254.20:1234
-#EXTINF:-1 ,hr
-rtp://233.35.254.75:1234
 #EXTINF:-1 ,HSE24
 rtp://233.35.254.76:1234
 #EXTINF:-1 ,KiKA HD
 rtp://233.35.254.208:1234
-#EXTINF:-1 ,mdr
-rtp://233.35.254.86:1234
 #EXTINF:-1 ,NDR HD
 rtp://233.35.254.207:1234
 #EXTINF:-1 ,ORF1 HD
@@ -107,12 +69,8 @@ rtp://233.35.254.213:1234
 rtp://233.35.254.211:1234
 #EXTINF:-1 ,Servus TV deutschland HD
 rtp://233.35.254.129:1234
-#EXTINF:-1 ,SPORT1
-rtp://233.35.254.110:1234
 #EXTINF:-1 ,SWR HD
 rtp://233.35.254.206:1234
-#EXTINF:-1 ,WeLT
-rtp://233.35.254.88:1234
 #EXTINF:-1 ,wetter.tv HD
 rtp://233.21.50.53:1234
 #EXTINF:-1 ,WDR HD
@@ -128,12 +86,6 @@ rtp://233.35.254.210:1234
 rtp://233.35.254.151:1234
 #EXTINF:-1 ,RSI LA 2 HD
 rtp://233.35.254.152:1234
-#EXTINF:-1 ,Rai 1
-rtp://233.35.254.104:1234
-#EXTINF:-1 ,Rai 2
-rtp://233.35.254.97:1234
-#EXTINF:-1 ,Rai 3
-rtp://233.35.254.103:1234
 #EXTINF:-1 ,Rai 4
 rtp://233.35.254.96:1234
 #EXTINF:-1 ,Rai 5
