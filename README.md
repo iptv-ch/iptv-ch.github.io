@@ -68,7 +68,7 @@ This will only work on your home network if Swisscom is your broadband provider 
 --== Warning: This file list SD/HD/UHD channels by ip order stream open and scrambled ==--<br>
 No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
-## Sunrise TV SD/HD (codec video h264)
+## Sunrise TV SD/HD (codec video h264) (legacy network would be closed soon)
 
 **https://iptv-ch.github.io/sunrise-tv.m3u**
 
