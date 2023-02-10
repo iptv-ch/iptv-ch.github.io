@@ -70,7 +70,7 @@ No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
 ## Sunrise TV SD/HD (codec video h264) (legacy network would be closed soon)
 
-**https://iptv-ch.github.io/sunrise-tv.m3u**
+**https://iptv-ch.github.io/sunrise-tv.m3u** end of life
 
 Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
 This will only work on your home network if Sunrise/netstream is your broadband provider.<br>
@@ -81,7 +81,7 @@ EPG information from https://xmltv.ch/ is included.<br>
 ## Sunrise Radio 
 (mpeg1-layer2 mpg-audio, datarate=256kbit/s sampling=48khz 32bit)
 
-**https://iptv-ch.github.io/sunrise-radio.m3u**
+**https://iptv-ch.github.io/sunrise-radio.m3u** end of life
 
 Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
 This will only work on your home network if Sunrise/netstream/Swisscom is your broadband provider<br>
