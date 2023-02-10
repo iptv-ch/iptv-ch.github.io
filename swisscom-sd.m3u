@@ -339,8 +339,6 @@ rtp://239.186.66.202:10000
 rtp://239.186.64.100:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="328" channel-id="328",tvo
 rtp://239.186.64.94:10000
-#EXTINF:-1 tvg-id="visiontv.ch" tvg-name="visiontv CH" tvg-logo="https://rcp.scsstatic.ch/etc/swisscom/servlets/public/channellist.ldqV53.png/logos/vision_tv_116x62_msblack_png.png" tvg-chno="330" channel-id="330",blue vision tv CH
-rtp://239.186.64.62:10000
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz
 rtp://239.186.64.61:10000
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://static.epg.best/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
