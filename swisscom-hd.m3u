@@ -660,6 +660,8 @@ rtp://239.186.74.59:10000
 rtp://239.186.68.192:10000
 #EXTINF:-1 ,WarnerTV Italia HD
 rtp://239.186.84.46:10000
+#EXTINF:-1 ,Parole Di Vita HD
+rtp://239.186.68.179:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
