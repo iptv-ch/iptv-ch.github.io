@@ -42,8 +42,6 @@ rtp://239.186.66.242:10000
 rtp://239.186.74.88:10000
 #EXTINF:-1 ,PBS America
 rtp://239.186.66.243:10000
-#EXTINF:-1 ,Smithsonian Channel UK HD
-rtp://239.186.70.189:10000
 #EXTINF:-1 ,QUEST HD
 rtp://239.186.84.2:10000
 #EXTINF:-1 ,Challenge
