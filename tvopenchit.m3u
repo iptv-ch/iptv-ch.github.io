@@ -137,6 +137,8 @@ rtp://239.186.74.69:10000
 rtp://239.186.74.85:10000
 #EXTINF:-1 ,camera dei deputati
 rtp://239.186.74.59:10000
+#EXTINF:-1 ,Parole Di Vita HD
+rtp://239.186.68.179:10000
 #EXTINF:-1 tvg-id="twentyseven.it" tvg-name="TWENTY SEVEN IT" tvg-logo="http://static.epg.best/it/twentyseven.it.png" tvg-chno="422" channel-id="422",twenty seven 27
 rtp://239.186.74.114:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Consiglio nazionale Svizzera HD
