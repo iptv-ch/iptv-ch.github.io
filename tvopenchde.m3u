@@ -241,6 +241,8 @@ rtp://239.186.74.82:10000
 rtp://239.186.84.95:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="http://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
+#EXTINF:-1 , kabel eins CLASSICS
+rtp://239.186.74.135:10000
 #EXTINF:-1 , sky nature HD
 rtp://239.186.70.195:10000
 #EXTINF:-1 , sky documentaries HD
