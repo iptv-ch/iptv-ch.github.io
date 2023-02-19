@@ -49,6 +49,10 @@ rtp://239.186.74.97:10000
 udp://@239.101.10.39:1234
 #EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
 rtp://239.186.68.33:10000
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount channel
+rtp://239.186.74.136:10000
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/MTV.fr.png" tvg-chno="" channel-id="", MTV France
+rtp://239.186.74.118:10000
 #EXTREM:Découvertes / Sciences / Voyages / Histoires
 #EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="RMC Découverte FR" tvg-logo="http://static.epg.best/fr/rmcdecouverte.fr.png" tvg-chno="24" channel-id="24",RMC Decouverte HD
 udp://@239.101.10.53:1234
