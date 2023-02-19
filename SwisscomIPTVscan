@@ -1107,6 +1107,8 @@ rtp://239.186.68.125:10000
 rtp://239.186.68.126:10000
 #EXTINF:-1,C Sport HD (fra)
 rtp://239.186.68.127:10000
+#EXTINF:-1 , Mediaset EXTRA HD
+rtp://239.186.68.128:10000
 #EXTINF:-1,C+ Kids CH HD
 rtp://239.186.68.129:10000
 #EXTINF:-1,RMC Decouverte HD (fra)
@@ -1333,6 +1335,8 @@ rtp://239.186.68.242:10000
 rtp://239.186.68.243:10000
 #EXTINF:-1,blue Zoom F HD (fre)
 rtp://239.186.68.244:10000
+#EXTINF:-1 , Cine34 HD
+rtp://239.186.68.245:10000
 #EXTINF:-1,Record Int. EU HD
 rtp://239.186.68.246:10000
 #EXTINF:-1,Rudaw TV HD
@@ -1493,6 +1497,8 @@ rtp://239.186.70.69:10000
 rtp://239.186.70.70:10000
 #EXTINF:-1,MySports 6 D HD (deu)
 rtp://239.186.70.71:10000
+#EXTINF:-1 , Focus HD
+rtp://239.186.70.72:10000
 #EXTINF:-1,OCS Pulp HD (fre)
 rtp://239.186.70.73:10000
 #EXTINF:-1,BFM Business HD
@@ -1709,6 +1715,8 @@ rtp://239.186.70.192:10000
 rtp://239.186.70.193:10000
 #EXTINF:-1,ARD-alpha HD (AC3 deu)
 rtp://239.186.70.194:10000
+#EXTINF:-1 , sky nature HD
+rtp://239.186.70.195:10000
 #EXTINF:-1,Utsav Plus HD
 rtp://239.186.70.196:10000
 #EXTINF:-1,Utsav Gold HD
@@ -1733,6 +1741,8 @@ rtp://239.186.70.205:10000
 rtp://239.186.70.206:10000
 #EXTINF:-1,M2 HD
 rtp://239.186.70.207:10000
+#EXTINF:-1 , sky documentaries HD
+rtp://239.186.70.208:10000
 #EXTINF:-1,M5 HD
 rtp://239.186.70.209:10000
 #EXTINF:-1,TRT Turk HD
@@ -1745,10 +1755,14 @@ rtp://239.186.70.212:10000
 rtp://239.186.70.213:10000
 #EXTINF:-1,One Music Television HD
 rtp://239.186.70.214:10000
+#EXTINF:-1 , sky one D HD
+rtp://239.186.70.215:10000
 #EXTINF:-1,MySports Eins Event HD (deu)
 rtp://239.186.70.216:10000
 #EXTINF:-1,MySports Un Event HD (fra)
 rtp://239.186.70.217:10000
+#EXTINF:-1 , sky atlantic D HD
+rtp://239.186.70.218:10000
 #EXTINF:-1,SPORT1+ HD
 rtp://239.186.70.220:10000
 #EXTINF:-1,SPORTDIGITAL FUSSBALL HD (deu)
@@ -1763,6 +1777,8 @@ rtp://239.186.70.224:10000
 rtp://239.186.70.233:10000
 #EXTINF:-1,First Channel HD
 rtp://239.186.70.244:10000
+#EXTINF:-1 , sky comedy HD
+rtp://239.186.70.245:10000
 #EXTINF:-1,Dubai TV HD
 rtp://239.186.70.246:10000
 #EXTINF:-1,Premium Shopping CH HD
@@ -1771,6 +1787,8 @@ rtp://239.186.70.247:10000
 rtp://239.186.70.248:10000
 #EXTINF:-1,DW Englisch HD
 rtp://239.186.70.249:10000
+#EXTINF:-1 , sky crime HD
+rtp://239.186.70.251:10000
 #EXTINF:-1,BN 2 HD
 rtp://239.186.70.252:10000
 #EXTINF:-1,FreeSports HD
@@ -2031,6 +2049,34 @@ rtp://239.186.74.125:10000
 rtp://239.186.74.126:10000
 #EXTINF:-1 ,blue MUSIC F 3
 rtp://239.186.74.127:10000
+#EXTINF:-1 , sky comedy
+rtp://239.186.74.129:10000
+#EXTINF:-1 , sky crime
+rtp://239.186.74.130:10000
+#EXTINF:-1 , sky nature
+rtp://239.186.74.131:10000
+#EXTINF:-1 , sky showcase
+rtp://239.186.74.134:10000
+#EXTINF:-1 , kabel1 CLASSICS
+rtp://239.186.74.135:10000
+#EXTINF:-1 , Paramount Channel France
+rtp://239.186.74.136:10000
+#EXTINF:-1 , sky one D
+rtp://239.186.74.137:10000
+#EXTINF:-1 , blue event D 1
+rtp://239.186.74.138:10000
+#EXTINF:-1 , blue event F 1
+rtp://239.186.74.139:10000
+#EXTINF:-1 , Pretty TV
+rtp://239.186.74.140:10000
+#EXTINF:-1 , Cooking TV
+rtp://239.186.74.141:10000
+#EXTINF:-1 , Football TV
+rtp://239.186.74.142:10000
+#EXTINF:-1 , Sports TV
+rtp://239.186.74.143:10000
+#EXTINF:-1 , Cartoon TV
+rtp://239.186.74.144:10000
 #EXTINF:-1,UHD1 by Astra UHD
 rtp://239.186.76.1:10000
 #EXTINF:-1,3plus UHD
@@ -2103,6 +2149,8 @@ rtp://239.186.84.4:10000
 rtp://239.186.84.5:10000
 #EXTINF:-1,Syri TV HD
 rtp://239.186.84.6:10000
+#EXTINF:-1 , sky krimi HD
+rtp://239.186.84.7:10000
 #EXTINF:-1,pro 7 fun HD (ger)
 rtp://239.186.84.8:10000
 #EXTINF:-1,Stingray djazz HD
@@ -2217,6 +2265,14 @@ rtp://239.186.84.82:10000
 rtp://239.186.84.83:10000
 #EXTINF:-1 ,blue MUSIC F 3 HD
 rtp://239.186.84.84:10000
+#EXTINF:-1 , RIK SAT HD
+rtp://239.186.84.85:10000
+#EXTINF:-1 , TGCom24 HD
+rtp://239.186.84.86:10000
+#EXTINF:-1 , twentyseven HD
+rtp://239.186.84.87:10000
+#EXTINF:-1 , LA5 HD
+rtp://239.186.84.88:10000
 #EXTINF:-1,DMAX Italia HD
 rtp://239.186.84.89:10000
 #EXTINF:-1,Espansione TV HD (ita)
@@ -2231,6 +2287,8 @@ rtp://239.186.84.94:10000
 rtp://239.186.84.95:10000
 #EXTINF:-1,TV Polonia HD (AAC)
 rtp://239.186.84.96:10000
+#EXTINF:-1 , Iris HD
+rtp://239.186.84.98:10000
 #EXTINF:-1,Giallo HD
 rtp://239.186.84.99:10000
 #EXTINF:-1,Sky Cinema HD (deu)
@@ -2265,7 +2323,25 @@ rtp://239.186.84.120:10000
 rtp://239.186.84.121:10000
 #EXTINF:-1,Canal 11 HD (por)
 rtp://239.186.84.122:10000
+#EXTINF:-1 , Italia2 HD
+rtp://239.186.84.123:10000
 #EXTINF:-1,MTV France HD
 rtp://239.186.84.124:10000
+#EXTINF:-1 , Top Crime HD
+rtp://239.186.84.125:10000
+#EXTINF:-1 , sky showcase HD
+rtp://239.186.84.126:10000
 #EXTINF:-1,Crime + Investigation I HD (ita)
 rtp://239.186.84.127:10000
+#EXTINF:-1 , blue event D 1 HD
+rtp://239.186.84.128:10000
+#EXTINF:-1 , blue event F 1 HD
+rtp://239.186.84.129:10000
+#EXTINF:-1 , Pretty TV HD
+rtp://239.186.84.130:10000
+#EXTINF:-1 , Cooking TV HD
+rtp://239.186.84.131:10000
+#EXTINF:-1 , Football TV HD
+rtp://239.186.84.132:10000
+#EXTINF:-1 , Sports TV HD (it) Tennis TV
+rtp://239.186.84.133:10000
