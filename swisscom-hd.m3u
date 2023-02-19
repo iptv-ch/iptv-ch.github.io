@@ -84,8 +84,8 @@ rtp://233.21.50.55:1234
 rtp://233.21.50.57:1234
 #EXTINF:-1 tvg-id="C451.api.telerama.fr" tvg-name="Ushuaïa TV" tvg-logo="https://static.epg.best/fr/UshuaiaTV.fr.png" tvg-chno="61" channel-id="61",Ushuaia TV HD
 rtp://233.21.50.58:1234
-#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount channel HD
-rtp://233.21.50.126:1234
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount channel
+rtp://239.186.74.136:10000
 #EXTINF:-1 tvg-id="C64.api.telerama.fr" tvg-name="Equidia FR" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
 rtp://233.32.39.142:1234
 #EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
@@ -147,10 +147,8 @@ rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" tvg-chno="92" channel-id="92" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
 #EXTREM: Promotions temporaires
-#EXTINF:-1 , MTV France
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/MTV.fr.png" tvg-chno="" channel-id="", MTV France
 rtp://239.186.74.118:10000
-#EXTINF:-1 , Paramount F
-rtp://239.186.74.136:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
