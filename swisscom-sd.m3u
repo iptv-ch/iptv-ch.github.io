@@ -91,6 +91,10 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/MTV.fr.png" tvg-chno="" channel-id="", MTV France
+rtp://239.186.74.118:10000
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="" channel-id="", Paramount F
+rtp://239.186.74.136:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
@@ -361,6 +365,18 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="volksmusik.de" tvg-name="volksmusik DE" tvg-logo="https://static.epg.best/de/volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv
 rtp://239.186.74.113:10000
+#EXTINF:-1 tvg-id="kabel1classics.de" tvg-name="Kabel1 CLASSICS DE" tvg-logo="https://static.epg.best/de/kabeleinsclassics.de.png" tvg-chno="" channel-id="", kabel eins CLASSICS
+rtp://239.186.74.135:10000
+#EXTINF:-1 , sky comedy
+rtp://239.186.74.129:10000
+#EXTINF:-1 , sky crime
+rtp://239.186.74.130:10000
+#EXTINF:-1 , sky nature
+rtp://239.186.74.131:10000
+#EXTINF:-1 , sky showcase
+rtp://239.186.74.134:10000
+#EXTINF:-1 , sky one D
+rtp://239.186.74.137:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -494,6 +510,16 @@ rtp://239.186.74.85:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
 rtp://239.186.74.114:10000
+EXTINF:-1 , Pretty TV
+rtp://239.186.74.140:10000
+#EXTINF:-1 , Cooking TV
+rtp://239.186.74.141:10000
+#EXTINF:-1 , Football TV
+rtp://239.186.74.142:10000
+#EXTINF:-1 , Sports TV
+rtp://239.186.74.143:10000
+#EXTINF:-1 , Cartoon TV
+rtp://239.186.74.144:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
