@@ -49,30 +49,30 @@ rtp://239.186.70.6:10000
 rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.epg.best/it/Italia1.it.png" tvg-chno="376" channel-id="376",ITALIA1 HD
 rtp://239.186.68.165:10000
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.epg.best/it/Italia2.it.png" tvg-chno="377" channel-id="377",ITALIA2
-rtp://239.186.66.44:10000
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.epg.best/it/Italia2.it.png" tvg-chno="377" channel-id="377",ITALIA2 HD
+rtp://239.186.84.123:10000
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="http://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",Rete4 HD
 rtp://239.186.70.188:10000
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 HD
 rtp://239.186.68.46:10000
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",LA5
-rtp://239.186.64.73:10000
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.epg.best/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",EXTRA
-rtp://239.186.66.37:10000
-#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.epg.best/it/FocusTv.it.png" tvg-chno="374" channel-id="374",Focus
-rtp://239.186.66.69:10000
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://static.epg.best/it/TopCrime.it.png" tvg-chno="382" channel-id="382",TOP crime
-rtp://239.186.66.180:10000
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",IRIS
-rtp://239.186.64.75:10000
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",LA5 HD
+rtp://239.186.84.88:10000
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.epg.best/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",EXTRA HD
+rtp://239.186.68.128:10000
+#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.epg.best/it/FocusTv.it.png" tvg-chno="374" channel-id="374",Focus HD
+rtp://239.186.70.72:10000
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://static.epg.best/it/TopCrime.it.png" tvg-chno="382" channel-id="382",TOP crime HD
+rtp://239.186.84.125:10000
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",IRIS HD
+rtp://239.186.84.98:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
 rtp://239.186.64.74:10000
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",cartoonito
 rtp://239.186.66.176:10000
-#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="http://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",TGCom24
-rtp://239.186.64.214:10000
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="http://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",Cine34
-rtp://239.186.74.78:10000
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="http://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",TGCom24 HD
+rtp://239.186.84.86:10000
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="http://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",Cine34 HD
+rtp://239.186.68.245:10000
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 IT" tvg-logo="http://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 IT" tvg-logo="http://static.epg.best/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
@@ -139,11 +139,21 @@ rtp://239.186.74.85:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="TWENTY SEVEN IT" tvg-logo="http://static.epg.best/it/twentyseven.it.png" tvg-chno="422" channel-id="422",twenty seven 27
-rtp://239.186.74.114:10000
+#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="TWENTY SEVEN IT" tvg-logo="http://static.epg.best/it/twentyseven.it.png" tvg-chno="422" channel-id="422",twenty seven 27 HD
+rtp://239.186.84.87:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Consiglio nazionale Svizzera HD
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Consiglio degli Stati Svizzera HD
 rtp://239.186.70.128:10000
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV IT"" tvg-logo="https://static.epg.best/it/WarnerTV.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
 rtp://239.186.84.46:10000
+#EXTINF:-1 , Pretty TV HD
+rtp://239.186.84.130:10000
+#EXTINF:-1 , Cooking TV HD
+rtp://239.186.84.131:10000
+#EXTINF:-1 , Football TV HD
+rtp://239.186.84.132:10000
+#EXTINF:-1 , Sports TV HD
+rtp://239.186.84.133:10000
+#EXTINF:-1 , Cartoon TV
+rtp://239.186.74.144:10000
