@@ -147,6 +147,10 @@ rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" tvg-chno="92" channel-id="92" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
 #EXTREM: Promotions temporaires
+#EXTINF:-1 , MTV France
+rtp://239.186.74.118:10000
+#EXTINF:-1 , Paramount F
+rtp://239.186.74.136:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -517,6 +521,8 @@ rtp://239.186.84.80:10000
 rtp://239.186.84.95:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
+#EXTINF:-1 , kabel eins CLASSICS
+rtp://239.186.74.135:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -570,28 +576,28 @@ rtp://239.186.68.165:10000
 rtp://239.186.70.188:10000
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="https://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET HD
 rtp://239.186.68.46:10000
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="https://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
-rtp://239.186.64.73:10000
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="https://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5 HD
+rtp://239.186.84.88:10000
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="https://static.epg.best/it/Italia2.it.png" tvg-chno="377" channel-id="377",MEDIASET ITALIA2
-rtp://239.186.66.44:10000
+rtp://239.186.84.123:10000
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="https://static.epg.best/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
-rtp://239.186.66.37:10000
+rtp://239.186.68.128:10000
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="https://static.epg.best/it/FocusTv.it.png" tvg-chno="374" channel-id="374",MEDIASET Focus
-rtp://239.186.66.69:10000
+rtp://239.186.70.72:10000
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="https://static.epg.best/it/TopCrime.it.png" tvg-chno="382" channel-id="382",MEDIASET TOP crime
-rtp://239.186.66.180:10000
+rtp://239.186.84.125:10000
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="https://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS
-rtp://239.186.64.75:10000
+rtp://239.186.84.98:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="https://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",MEDIASET Boing I
 rtp://239.186.64.74:10000
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",MEDIASET cartoonito
 rtp://239.186.66.176:10000
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="https://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24
-rtp://239.186.64.214:10000
+rtp://239.186.84.86:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
-rtp://239.186.74.78:10000
+rtp://239.186.68.245:10000
 #EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27
-rtp://239.186.74.114:10000
+rtp://239.186.84.87:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="https://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
 #EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="https://static.epg.best/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
@@ -662,6 +668,16 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
+#EXTINF:-1 , Pretty TV HD
+rtp://239.186.84.130:10000
+#EXTINF:-1 , Cooking TV HD
+rtp://239.186.84.131:10000
+#EXTINF:-1 , Football TV HD
+rtp://239.186.84.132:10000
+#EXTINF:-1 , Sports TV HD (it) Tennis TV
+rtp://239.186.84.133:10000
+#EXTINF:-1 , Cartoon TV
+rtp://239.186.74.144:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
@@ -758,7 +774,7 @@ rtp://239.186.66.132:10000
 #EXTINF:-1 tvg-id="RTRplaneta.ru" tvg-name="RTRPlaneta RU" tvg-logo="https://static.epg.best/ru/rtrplaneta.ru.png" tvg-chno="452" channel-id="452",PLANETA RTR
 rtp://239.186.66.138:10000
 #EXTINF:-1 tvg-id="RiK.sk" tvg-name="RiK SK" tvg-logo="https://static.epg.best/sk/RiK.sk.png" tvg-chno="456" channel-id="456",RiK Sat
-rtp://239.186.66.137:10000
+rtp://239.186.84.85:10000
 #EXTINF:-1 tvg-id="RTK.al" tvg-name="RTK AL" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1 SAT
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD
