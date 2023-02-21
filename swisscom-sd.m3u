@@ -93,7 +93,7 @@ rtp://239.186.66.130:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/MTV.fr.png" tvg-chno="" channel-id="", MTV France
 rtp://239.186.74.118:10000
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="" channel-id="", Paramount F
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="" channel-id="", Paramount Channel France
 rtp://239.186.74.136:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
@@ -367,12 +367,18 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 tvg-id="kabel1classics.de" tvg-name="Kabel1 CLASSICS DE" tvg-logo="https://static.epg.best/de/kabeleinsclassics.de.png" tvg-chno="" channel-id="", kabel eins CLASSICS
 rtp://239.186.74.135:10000
+#EXTINF:-1 ,sky atlantic
+rtp://239.186.74.128:10000
 #EXTINF:-1 , sky comedy
 rtp://239.186.74.129:10000
 #EXTINF:-1 , sky crime
 rtp://239.186.74.130:10000
 #EXTINF:-1 , sky nature
 rtp://239.186.74.131:10000
+#EXTINF:-1 , sky krimi
+rtp://239.186.74.132:10000
+#EXTINF:-1 , sky documentaries
+rtp://239.186.74.133:10000
 #EXTINF:-1 , sky showcase
 rtp://239.186.74.134:10000
 #EXTINF:-1 , sky one D
