@@ -1057,7 +1057,7 @@ rtp://239.186.68.100:10000
 rtp://239.186.68.101:10000
 #EXTINF:-1,Tele M1 HD
 rtp://239.186.68.102:10000
-#EXTINF:-1,NITRO HD CH
+#EXTINF:-1,NITRO CH HD
 rtp://239.186.68.103:10000
 #EXTINF:-1,Radio Pilatus TV HD
 rtp://239.186.68.104:10000
@@ -2049,12 +2049,18 @@ rtp://239.186.74.125:10000
 rtp://239.186.74.126:10000
 #EXTINF:-1 ,blue MUSIC F 3
 rtp://239.186.74.127:10000
+#EXTINF:-1 ,sky atlantic
+rtp://239.186.74.128:10000
 #EXTINF:-1 , sky comedy
 rtp://239.186.74.129:10000
 #EXTINF:-1 , sky crime
 rtp://239.186.74.130:10000
 #EXTINF:-1 , sky nature
 rtp://239.186.74.131:10000
+#EXTINF:-1 , sky krimi
+rtp://239.186.74.132:10000
+#EXTINF:-1 , sky documentaries
+rtp://239.186.74.133:10000
 #EXTINF:-1 , sky showcase
 rtp://239.186.74.134:10000
 #EXTINF:-1 , kabel1 CLASSICS
