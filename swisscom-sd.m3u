@@ -367,8 +367,6 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 tvg-id="kabel1classics.de" tvg-name="Kabel1 CLASSICS DE" tvg-logo="https://static.epg.best/de/kabeleinsclassics.de.png" tvg-chno="" channel-id="", kabel eins CLASSICS
 rtp://239.186.74.135:10000
-#EXTINF:-1 ,sky atlantic
-rtp://239.186.74.128:10000
 #EXTINF:-1 , sky comedy
 rtp://239.186.74.129:10000
 #EXTINF:-1 , sky crime
