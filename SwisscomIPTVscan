@@ -117,8 +117,6 @@ rtp://239.186.64.59:10000
 rtp://239.186.64.60:10000
 #EXTINF:-1,Comedy Central D (AC3)
 rtp://239.186.64.61:10000
-#EXTINF:-1,blue Vision TV
-rtp://239.186.64.62:10000
 #EXTINF:-1,MDR (AAC deu)
 rtp://239.186.64.63:10000
 #EXTINF:-1,Sport1
@@ -355,8 +353,6 @@ rtp://239.186.64.195:10000
 rtp://239.186.64.196:10000
 #EXTINF:-1,Canal Sur Andalucia
 rtp://239.186.64.197:10000
-#EXTINF:-1,Thai TV
-rtp://239.186.64.198:10000
 #EXTINF:-1,Euro D
 rtp://239.186.64.199:10000
 #EXTINF:-1,Show (tur)
@@ -1483,8 +1479,6 @@ rtp://239.186.70.62:10000
 rtp://239.186.70.63:10000
 #EXTINF:-1,Mangas HD (AC3 fra)
 rtp://239.186.70.64:10000
-#EXTINF:-1,blue Vision TV HD
-rtp://239.186.70.65:10000
 #EXTINF:-1,NRTV HD
 rtp://239.186.70.66:10000
 #EXTINF:-1,TLC CH HD
@@ -2069,9 +2063,9 @@ rtp://239.186.74.135:10000
 rtp://239.186.74.136:10000
 #EXTINF:-1 , sky one D
 rtp://239.186.74.137:10000
-#EXTINF:-1 , blue event D 1
+#EXTINF:-1 , blue EVENT D 1
 rtp://239.186.74.138:10000
-#EXTINF:-1 , blue event F 1
+#EXTINF:-1 , blue EVENT F 1
 rtp://239.186.74.139:10000
 #EXTINF:-1 , Pretty TV
 rtp://239.186.74.140:10000
@@ -2099,8 +2093,6 @@ rtp://239.186.76.8:10000
 rtp://239.186.76.9:10000
 #EXTINF:-1,blue Sports 1 UHD (fre)
 rtp://239.186.76.10:10000
-#EXTINF:-1,blue Vision TV UHD
-rtp://239.186.76.11:10000
 #EXTINF:-1,4plus UHD
 rtp://239.186.76.12:10000
 #EXTINF:-1,blue Sport 2 UHD (deu)
@@ -2339,9 +2331,9 @@ rtp://239.186.84.125:10000
 rtp://239.186.84.126:10000
 #EXTINF:-1,Crime + Investigation I HD (ita)
 rtp://239.186.84.127:10000
-#EXTINF:-1 , blue event D 1 HD
+#EXTINF:-1 , blue EVENT D 1 HD
 rtp://239.186.84.128:10000
-#EXTINF:-1 , blue event F 1 HD
+#EXTINF:-1 , blue EVENT F 1 HD
 rtp://239.186.84.129:10000
 #EXTINF:-1 , Pretty TV HD
 rtp://239.186.84.130:10000
@@ -2349,5 +2341,5 @@ rtp://239.186.84.130:10000
 rtp://239.186.84.131:10000
 #EXTINF:-1 , Football TV HD
 rtp://239.186.84.132:10000
-#EXTINF:-1 , Sports TV HD (it) Tennis TV
+#EXTINF:-1 , Sports TV HD (it)
 rtp://239.186.84.133:10000
