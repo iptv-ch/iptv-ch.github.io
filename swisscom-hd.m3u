@@ -56,40 +56,6 @@ rtp://239.186.64.148:10000
 rtp://239.186.68.242:10000
 #EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="https://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
 rtp://239.186.68.33:10000
-#EXTINF:-1 tvg-id="C730.api.telerama.fr" tvg-name="OCS Max" tvg-logo="https://static.epg.best/fr/OCSMax.fr.png" tvg-chno="45" channel-id="45",OCS MAX HD
-rtp://233.21.50.59:1234
-#EXTINF:-1 tvg-id="C733.api.telerama.fr" tvg-name="OCS City" tvg-logo="https://static.epg.best/fr/OCSCity.fr.png" tvg-chno="46" channel-id="46",OCS City HD
-rtp://233.21.50.60:1234
-#EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="OCS Choc" tvg-logo="https://static.epg.best/fr/OCSChoc.fr.png" tvg-chno="47" channel-id="47",OCS choc HD
-rtp://233.21.50.61:1234
-#EXTINF:-1 tvg-id="C734.api.telerama.fr" tvg-name="OCS Geants" tvg-logo="https://static.epg.best/fr/OCSGeants.fr.png" tvg-chno="48" channel-id="48",OCS geants HD
-rtp://233.21.50.62:1234
-#EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="13ème Rue" tvg-logo="https://static.epg.best/fr/13Rue.fr.png" tvg-chno="49" channel-id="49",13ème Rue FR HD
-rtp://233.21.50.4:1234
-#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="Syfy" tvg-logo="https://static.epg.best/fr/Syfy.fr.png" tvg-chno="50" channel-id="50",SYFY HD French
-rtp://233.21.50.5:1234
-#EXTINF:-1 tvg-id="C58.api.telerama.fr" tvg-name="Disney Channel FR" tvg-logo="https://static.epg.best/fr/DisneyChannel.fr.png" tvg-chno="51" channel-id="51",Disney Channel HD french
-rtp://233.21.50.11:1234
-#EXTINF:-1 tvg-id="C300.api.telerama.fr" tvg-name="Disney Junior FR" tvg-logo="https://static.epg.best/fr/DisneyJunior.fr.png" tvg-chno="52" channel-id="52",Disney Junior HD french
-rtp://233.21.50.31:1234
-#EXTINF:-1 tvg-id="C888.api.telerama.fr" tvg-name="Nick Jr FR" tvg-logo="https://static.epg.best/fr/NickJr.fr.png" tvg-chno="53" channel-id="53",Nickelodeon Junior F HD
-rtp://233.21.50.63:1234
-#EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="Mangas FR" tvg-logo="https://static.epg.best/fr/Mangas.fr.png" tvg-chno="55" channel-id="55",Mangas HD
-rtp://233.21.50.2:1234
-#EXTINF:-1 tvg-id="C243.api.telerama.fr" tvg-name="Nat Geo FR" tvg-logo="https://static.epg.best/fr/NatGeo.fr.png" tvg-chno="57" channel-id="57",National Geographic HD French
-rtp://233.21.50.54:1234
-#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="Nat Geo Wild FR" tvg-logo="https://static.epg.best/fr/NatGeoWild.fr.png" tvg-chno="58" channel-id="58",National Geographic Wild HD French (fra/eng)
-rtp://233.21.50.55:1234
-#EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="Tv Breizh FR" tvg-logo="https://static.epg.best/fr/TvBreizh.fr.png" tvg-chno="60" channel-id="60",TV Breizh HD
-rtp://233.21.50.57:1234
-#EXTINF:-1 tvg-id="C451.api.telerama.fr" tvg-name="Ushuaïa TV" tvg-logo="https://static.epg.best/fr/UshuaiaTV.fr.png" tvg-chno="61" channel-id="61",Ushuaia TV HD
-rtp://233.21.50.58:1234
-#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="Paramount Channel FR" tvg-logo="https://static.epg.best/fr/ParamountChannel.fr.png" tvg-chno="62" channel-id="62",Paramount channel
-rtp://239.186.74.136:10000
-#EXTINF:-1 tvg-id="C64.api.telerama.fr" tvg-name="Equidia FR" tvg-logo="https://static.epg.best/fr/Equidia.fr.png" tvg-chno="65" channel-id="65",Equidia HD
-rtp://233.32.39.142:1234
-#EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="Golf FR" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" tvg-chno="67" channel-id="67",Golf channel HD
-rtp://233.32.39.154:1234
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="https://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
 rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="https://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
@@ -147,8 +113,6 @@ rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" tvg-chno="92" channel-id="92" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
 #EXTREM: Promotions temporaires
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV FR" tvg-logo="https://static.epg.best/fr/MTV.fr.png" tvg-chno="" channel-id="", MTV France
-rtp://239.186.74.118:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -264,7 +228,7 @@ rtp://239.186.66.133:10000
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="craction.uk" tvg-name="Craction UK" tvg-logo="https://static.epg.best/gb/craction.uk.png" tvg-chno="" channel-id="",craction HD
 rtp://239.186.70.26:10000
-#EXTINF:-1 tvg-id="GreatClassic.uk" tvg-name="Great! Classic UK" tvg-logo="https://static.epg.best/gb/GreatClassic.uk.png" tvg-chno="" channel-id="",GREAT! movies classic
+#EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance UK" tvg-logo="https://static.epg.best/gb/GreatClassic.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
 #EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies UK" tvg-logo="https://static.epg.best/gb/GreatMovies.uk.png" tvg-chno="" channel-id="",GREAT! movies
 rtp://239.186.74.55:10000
@@ -493,7 +457,7 @@ rtp://239.186.74.70:10000
 rtp://@239.186.84.17:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="https://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="" channel-id="",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 tvg-id="SchlagerParadies.de" tvg-name="Schlager Paradies DE" tvg-logo="https://static.epg.best/de/SchlagerParadies.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES.TV HD / Sonnenklar.tv HD
+#EXTINF:-1 tvg-id="SchlagerParadies.de" tvg-name="Schlager Paradies DE" tvg-logo="https://static.epg.best/de/SchlagerParadies.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES.TV HD
 rtp://239.186.84.37:10000
 #EXTINF:-1 ,rro tv HD
 rtp://239.186.68.243:10000
@@ -519,8 +483,6 @@ rtp://239.186.84.80:10000
 rtp://239.186.84.95:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
-#EXTINF:-1 , kabel eins CLASSICS
-rtp://239.186.74.135:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -584,17 +546,17 @@ rtp://239.186.68.128:10000
 rtp://239.186.70.72:10000
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="https://static.epg.best/it/TopCrime.it.png" tvg-chno="382" channel-id="382",MEDIASET TOP crime
 rtp://239.186.84.125:10000
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="https://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="https://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS HD
 rtp://239.186.84.98:10000
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="https://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",MEDIASET Boing I
 rtp://239.186.64.74:10000
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",MEDIASET cartoonito
 rtp://239.186.66.176:10000
-#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="https://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="https://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24 HD
 rtp://239.186.84.86:10000
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34 HD
 rtp://239.186.68.245:10000
-#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27
+#EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 HD
 rtp://239.186.84.87:10000
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="https://static.epg.best/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
@@ -620,7 +582,7 @@ rtp://239.186.64.162:10000
 rtp://239.186.66.34:10000
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="https://static.epg.best/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24 HD
 rtp://239.186.70.84:10000
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="https://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="https://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport HD
 rtp://239.186.70.2:10000
 #EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="https://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",radionorba TV HD
 rtp://239.186.84.20:10000
@@ -666,14 +628,6 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 , Pretty TV HD
-rtp://239.186.84.130:10000
-#EXTINF:-1 , Cooking TV HD
-rtp://239.186.84.131:10000
-#EXTINF:-1 , Football TV HD
-rtp://239.186.84.132:10000
-#EXTINF:-1 , Sports TV HD (it) Tennis TV
-rtp://239.186.84.133:10000
 #EXTINF:-1 , Cartoon TV
 rtp://239.186.74.144:10000
 #EXTREM:portuguese
