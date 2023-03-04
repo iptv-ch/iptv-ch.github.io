@@ -661,7 +661,7 @@ rtp://239.186.84.19:10000
 rtp://239.186.64.199:10000
 #EXTINF:-1 tvg-id="Eurostar.tr" tvg-name="Eurostar TR" tvg-logo="https://static.epg.best/tr/Eurostar.tr.png" tvg-chno="425" channel-id="425",EURO STAR
 rtp://239.186.66.121:10000
-#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="SkyTurk360.tr" tvg-logo="https://static.epg.best/tr/SkyTurk360.tr.png" tvg-chno="420" channel-id="420",360 HD
+#EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="https://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk HD
 rtp://239.186.70.184:10000
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV TR" tvg-logo="https://static.epg.best/tr/ATV.tr.png" tvg-chno="421" channel-id="421",atv avrupa HD
 rtp://239.186.84.24:10000
