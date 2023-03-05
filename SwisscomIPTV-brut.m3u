@@ -225,8 +225,6 @@ rtp://239.186.64.121:10000
 rtp://239.186.64.123:10000
 #EXTINF:-1,SessionStaenderat
 rtp://239.186.64.124:10000
-#EXTINF:-1,E D (AC3 deu)
-rtp://239.186.64.125:10000
 #EXTINF:-1,RBB (AC3 deu)
 rtp://239.186.64.126:10000
 #EXTINF:-1,TMC (fra)
@@ -441,8 +439,6 @@ rtp://239.186.64.249:10000
 rtp://239.186.64.250:10000
 #EXTINF:-1,Nat Geo Wild D (deu)
 rtp://239.186.64.251:10000
-#EXTINF:-1,Junior
-rtp://239.186.64.252:10000
 #EXTINF:-1,Boomerang D (ger)
 rtp://239.186.64.253:10000
 #EXTINF:-1,Cartoon Network D (ger)
@@ -477,8 +473,6 @@ rtp://239.186.66.16:10000
 rtp://239.186.66.17:10000
 #EXTINF:-1,Trek (AAC)
 rtp://239.186.66.18:10000
-#EXTINF:-1,E F
-rtp://239.186.66.19:10000
 #EXTINF:-1,Eurosport F (fre)
 rtp://239.186.66.20:10000
 #EXTINF:-1,Eurosport 2 F (fre)
@@ -513,8 +507,6 @@ rtp://239.186.66.35:10000
 rtp://239.186.66.36:10000
 #EXTINF:-1,Mediaset Extra
 rtp://239.186.66.37:10000
-#EXTINF:-1,E Entertainement E
-rtp://239.186.66.39:10000
 #EXTINF:-1,Eurosport 1 I (ita)
 rtp://239.186.66.40:10000
 #EXTINF:-1,Eurosport 2 I (ita)
@@ -1375,10 +1367,6 @@ rtp://239.186.70.10:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1,One TV CH HD
 rtp://239.186.70.12:10000
-#EXTINF:-1,E! D HD (AC3 deu)
-rtp://239.186.70.13:10000
-#EXTINF:-1,E! F HD
-rtp://239.186.70.14:10000
 #EXTINF:-1,KTV Kohavision HD
 rtp://239.186.70.15:10000
 #EXTINF:-1,MySports 5 F HD (fra)
@@ -1541,10 +1529,6 @@ rtp://239.186.70.105:10000
 rtp://239.186.70.106:10000
 #EXTINF:-1,BET HD (fre)
 rtp://239.186.70.109:10000
-#EXTINF:-1,OCS Choc HD
-rtp://239.186.70.110:10000
-#EXTINF:-1,OCS City HBO HD
-rtp://239.186.70.111:10000
 #EXTINF:-1,OCS Geants HD (fre)
 rtp://239.186.70.112:10000
 #EXTINF:-1,OCS Max HD (fre)
@@ -1619,8 +1603,6 @@ rtp://239.186.70.146:10000
 rtp://239.186.70.147:10000
 #EXTINF:-1,Euronews F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1,LATINOS 1 HD
-rtp://239.186.70.150:10000
 #EXTINF:-1,Five HD (AC3 eng)
 rtp://239.186.70.151:10000
 #EXTINF:-1,Deejay TV HD
@@ -1697,8 +1679,6 @@ rtp://239.186.70.186:10000
 rtp://239.186.70.187:10000
 #EXTINF:-1,Rete 4 HD (AC3 ita)
 rtp://239.186.70.188:10000
-#EXTINF:-1,Smithsonian Channel UK HD
-rtp://239.186.70.189:10000
 #EXTINF:-1,SR Fernsehen HD (AC3 deu)
 rtp://239.186.70.190:10000
 #EXTINF:-1,KBS World HD
@@ -1917,8 +1897,6 @@ rtp://239.186.74.62:10000
 rtp://239.186.74.63:10000
 #EXTINF:-1,Digi 24
 rtp://239.186.74.64:10000
-#EXTINF:-1,Teledeporte (spa)
-rtp://239.186.74.65:10000
 #EXTINF:-1,BonGusto
 rtp://239.186.74.66:10000
 #EXTINF:-1,20 Mediaset (AC3 ita)
@@ -1991,8 +1969,6 @@ rtp://239.186.74.99:10000
 rtp://239.186.74.100:10000
 #EXTINF:-1,Motorvision TV (deu)
 rtp://239.186.74.101:10000
-#EXTINF:-1,Pink World
-rtp://239.186.74.102:10000
 #EXTINF:-1,Nickelodeon Ukraine Pluto TV
 rtp://239.186.74.103:10000
 #EXTINF:-1,MySports 10 F (fra)
@@ -2085,8 +2061,6 @@ rtp://239.186.76.2:10000
 rtp://239.186.76.3:10000
 #EXTINF:-1,INULTRA UHD (deu)
 rtp://239.186.76.4:10000
-#EXTINF:-1,Ultra Nature UHD
-rtp://239.186.76.6:10000
 #EXTINF:-1,3plus UHD
 rtp://239.186.76.8:10000
 #EXTINF:-1,blue Sport 1 UHD (deu)
@@ -2161,8 +2135,6 @@ rtp://239.186.84.12:10000
 rtp://239.186.84.14:10000
 #EXTINF:-1,MySports 7 F HD (fra)
 rtp://239.186.84.15:10000
-#EXTINF:-1,E! E HD
-rtp://239.186.84.16:10000
 #EXTINF:-1,Swiss Sport TV HD
 rtp://239.186.84.17:10000
 #EXTINF:-1,Rai Gulp HD
