@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cxx.api.telerama.fr" tvg-name="name FR" tvg-logo="https://static.epg.best/fr/name.fr.png" tvg-chno="" channel-id="92",name#EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
-#EXTREM:french
+#EXTREM:-1 tvg-id="Name.tld" tvg-name="name TLD" tvg-logo="https://static.epg.best/tld/name.tld.png" tvg-chno="" channel-id="",name
+#EXTEPG url-tvg="https://iptv-org.github.io/epg/guides/sq/tv.blue.ch.xml"
+#PLAYLIST: bluetv channel free open standard size 576i, codec video h.264 only with on host Swisscom network or partners multicast.
+#EXTGRP:french
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
@@ -91,7 +93,7 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
-#EXTREM:english
+#EXTGRP:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" tvg-chno="120" channel-id="120",BBC Two
@@ -160,8 +162,6 @@ rtp://239.186.64.105:10000
 rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
-#EXTREM #EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT International RU" tvg-logo="https://static.epg.best/ru/RTInternational.ru.png" tvg-chno="169" channel-id="169",Russia Today Int.
-#EXTREM rtp://239.186.66.139:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
 rtp://239.186.64.179:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.epg.best/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
@@ -200,7 +200,7 @@ rtp://239.186.74.55:10000
 rtp://239.186.74.58:10000
 #EXTINF:-1 tvg-id="morethansports.uk" tvg-name="More Than Sports UK" tvg-logo="https://static.epg.best/uk/morethansports.uk.png" tvg-chno="205" channel-id="205",More Than Sports
 rtp://239.186.66.241:10000
-#EXTREM:german
+#EXTGRP:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="283" channel-id="283",SRF2 SRF zwei
@@ -369,7 +369,7 @@ rtp://239.186.74.130:10000
 rtp://239.186.74.132:10000
 #EXTINF:-1 , sky atlantic deutsch
 rtp://239.186.74.65:10000
-#EXTREM:italian
+#EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
 #EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="https://static.epg.best/ch/RSILA2.ch.png" tvg-chno="404" channel-id="404",RSI LA2
@@ -502,12 +502,12 @@ rtp://239.186.74.59:10000
 rtp://239.186.74.114:10000
 #EXTINF:-1 , Cartoon TV
 rtp://239.186.74.144:10000
-#EXTREM:portuguese
+#EXTGRP:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
-#EXTREM:spanish
+#EXTGRP:spanish
 #EXTINF:-1 tvg-id="Aragontv.es" tvg-name="aragon TV ES" tvg-logo="https://static.epg.best/es/aragontv.es.png" tvg-chno="" channel-id="",Aragon int
 rtp://239.186.66.62:10000
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
@@ -520,7 +520,7 @@ rtp://239.186.64.197:10000
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="tve.es" tvg-name="tve ES" tvg-logo="https://static.epg.best/es/tve.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
-#EXTREM:turkish
+#EXTGRP:turkish
 #EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="https://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk
 rtp://239.186.64.204:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="421" channel-id="421",atv turk
@@ -543,7 +543,7 @@ rtp://239.186.64.203:10000
 rtp://239.186.66.204:10000
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="" channel-id="",CNN Turk
 rtp://239.186.74.75:10000
-#EXTREM:others
+#EXTGRP:others foreign language not listed above
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M MONDE
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al Arabiya
