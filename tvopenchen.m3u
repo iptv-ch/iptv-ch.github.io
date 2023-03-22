@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTREM:IPTV channels open in Switzerland (CH) english language Swisscom network and multicast IPTV partners layer3
+#PLAYLIST:IPTV channels open in Switzerland (CH) english language Swisscom network and multicast IPTV partners layer3
+#EXTGRP:General channels
 #EXTINF:-1 ,BBC ONE HD
 rtp://239.186.68.43:10000
 #EXTINF:-1 ,BBC TWO HD
@@ -53,7 +54,7 @@ rtp://239.186.70.75:10000
 #EXTREM Sports
 #EXTINF:-1 ,FREE SPORTS HD
 rtp://239.186.70.253:10000
-#EXTREM news
+#EXTGRP:news
 #EXTINF:-1 ,BBC News HD
 rtp://239.186.68.160:10000
 #EXTINF:-1 ,BBC World News HD
@@ -92,7 +93,7 @@ rtp://239.186.84.57:10000
 rtp://239.186.84.42:10000
 #EXTINF:-1 ,EU Parlament HD
 rtp://239.186.84.45:10000
-#EXTREM music
+#EXTGRP: music
 #EXTINF:-1 ,The BOX
 rtp://239.186.66.142:10000
 #EXTINF:-1 ,TRACE HITS / TRACE XMAS
@@ -114,7 +115,7 @@ rtp://239.186.64.105:10000
 rtp://239.186.68.152:10000
 #EXTINF:-1 ,Citv itv Childrens
 rtp://239.186.74.73:10000
-#EXTREM movies
+#EXTGRP: movies
 #EXTINF:-1 ,Film4
 rtp://239.186.64.172:10000
 #EXTINF:-1 ,5 ACTION
