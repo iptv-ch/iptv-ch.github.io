@@ -468,7 +468,7 @@ rtp://239.186.64.162:10000
 rtp://239.186.66.182:10000
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="https://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
 rtp://239.186.66.177:10000
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="https://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport Italia SI
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="https://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sportitalia plus
 rtp://239.186.74.24:10000
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super IT" tvg-logo="https://static.epg.best/it/Super.it.png" tvg-chno="291" channel-id="291",SUPER!
 rtp://239.186.66.181:10000
