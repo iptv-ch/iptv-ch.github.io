@@ -143,8 +143,6 @@ rtp://239.186.68.189:10000
 rtp://239.186.68.206:10000
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="319" channel-id="319",TLC CH HD
 rtp://239.186.70.67:10000
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="http://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
-rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="TeleSuedostschweiz.ch" tvg-name="Tele Suedostschweiz CH" tvg-logo="http://static.epg.best/ch/TeleSuedostschweiz.ch.png" tvg-chno="322" channel-id="322",TSO TeleSuedostschweiz HD
 rtp://239.186.68.218:10000
 #EXTINF:-1 tvg-id="TVOberwallis.ch" tvg-name="TV Oberwallis CH" tvg-logo="http://static.epg.best/ch/TVOberwallis.ch.png" tvg-chno="324" channel-id="324",TV Oberwallis HD
@@ -176,6 +174,8 @@ rtp://239.186.68.243:10000
 #EXTINF:-1 ,lilo TV
 rtp://239.186.74.82:10000
 #EXTGRP:kinder
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="http://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
+rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.epg.best/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
@@ -198,10 +198,6 @@ rtp://239.186.70.119:10000
 #EXTGRP:film, comedy
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="http://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz HD
 rtp://239.186.68.105:10000
-#EXTINF:-1 , sky comedy HD
-rtp://239.186.70.245:10000
-#EXTINF:-1 , sky crime
-rtp://239.186.74.130:10000
 #EXTINF:-1 , sky krimi
 rtp://239.186.74.132:10000
 #EXTINF:-1 , sky atlantic D
