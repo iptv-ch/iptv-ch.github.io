@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTREM:-1 tvg-id="Name.tld" tvg-name="name TLD" tvg-logo="https://static.epg.best/tld/name.tld.png" tvg-chno="" channel-id="",name
-#EXTEPG url-tvg="https://iptv-org.github.io/epg/guides/sq/tv.blue.ch.xml"
+#EXTEPG url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
 #PLAYLIST: bluetv channel free open standard size 576i, codec video h.264 only with on host Swisscom network or partners multicast.
 #EXTGRP:french
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
