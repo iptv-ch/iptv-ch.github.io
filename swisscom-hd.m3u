@@ -711,8 +711,6 @@ rtp://239.186.84.94:10000
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV 4 Europe CN" tvg-logo="https://static.epg.best/cn/CCTV4Europe.cn.png" tvg-chno="436" channel-id="436",CCTV4 HD
 rtp://239.186.70.89:10000
-#EXTINF:-1 tvg-id="PervyyKanal.ru" tvg-name="PervyyKanal RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" tvg-chno="437" channel-id="437",PervyyKanal
-rtp://239.186.64.82:10000
 #EXTINF:-1 tvg-id="DMsat.sr" tvg-name="DM SAT SR" tvg-logo="https://static.epg.best/sr/DMsat.sr.png" tvg-chno="439" channel-id="439",DM Sat
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="https://static.epg.best/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",Dubai international TV HD
