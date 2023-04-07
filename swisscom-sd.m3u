@@ -554,8 +554,6 @@ rtp://239.186.66.111:10000
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV 4 Europe CN" tvg-logo="https://static.epg.best/cn/CCTV4Europe.cn.png" tvg-chno="435" channel-id="435",CCTV4
 rtp://239.186.64.195:10000
-#EXTINF:-1 tvg-id="Channel1.il" tvg-name="Channel 1 IL" tvg-logo="https://static.epg.best/il/Channel1.il.png" tvg-chno="437" channel-id="437",Channel1 RU
-rtp://239.186.64.82:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="439" channel-id="439",DM SAT
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="https://static.epg.best/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",DUBAI TV
