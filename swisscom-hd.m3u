@@ -166,7 +166,7 @@ rtp://239.186.70.151:10000
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="i24.il" tvg-name="i24 IL" tvg-logo="https://static.epg.best/uk/i24.il.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
 rtp://239.186.68.140:10000
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" tvg-chno="160" channel-id="160",itv HD
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" tvg-chno="160" channel-id="160",itv1 HD
 rtp://239.186.68.42:10000
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2 HD
 rtp://239.186.84.16:10000
@@ -487,8 +487,6 @@ rtp://239.186.84.95:10000
 rtp://239.186.84.1:10000
 #EXTINF:-1 , sky krimi
 rtp://239.186.74.132:10000
-#EXTINF:-1 , sky atlantic D
-rtp://239.186.74.65:10000
 #EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
