@@ -147,5 +147,4 @@ rtp://239.186.70.127:10000
 rtp://239.186.70.128:10000
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV IT"" tvg-logo="https://static.epg.best/it/WarnerTV.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
 rtp://239.186.84.46:10000
-#EXTINF:-1 , Cartoon TV
-rtp://239.186.74.144:10000
+
