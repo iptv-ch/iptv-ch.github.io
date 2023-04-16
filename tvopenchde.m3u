@@ -249,3 +249,5 @@ rtp://239.186.70.9:10000
 rtp://239.186.74.15:10000
 #EXTINF:-1 tvg-id="Musig24.ch" tvg-name="Musig24 CH" tvg-logo="http://static.epg.best/ch/Musig24.ch.png" tvg-chno="234" channel-id="234",musig24 HD
 rtp://239.186.68.207:10000
+#EXTINF:-1 ,CRACTION HD
+rtp://239.186.70.26:10000
