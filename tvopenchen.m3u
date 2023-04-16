@@ -128,11 +128,9 @@ rtp://239.186.74.87:10000
 rtp://239.186.74.93:10000
 #EXTINF:-1 ,Pick
 rtp://239.186.74.94:10000
-#EXTINF:-1 ,CRACTION HD
-rtp://239.186.70.26:10000
-#EXTINF:-1 ,Great movies classic
+#EXTINF:-1 ,GREAT! romance
 rtp://239.186.74.53:10000
-#EXTINF:-1 ,Great movies
+#EXTINF:-1 ,GREAT! movies
 rtp://239.186.74.55:10000
-#EXTINF:-1 ,Great movies action
+#EXTINF:-1 ,GREAT! action
 rtp://239.186.74.58:10000
