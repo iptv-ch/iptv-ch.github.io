@@ -228,8 +228,6 @@ rtp://239.186.74.106:10000
 rtp://239.186.66.133:10000
 #EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality
 rtp://239.186.74.107:10000
-#EXTINF:-1 tvg-id="craction.uk" tvg-name="Craction UK" tvg-logo="https://static.epg.best/gb/craction.uk.png" tvg-chno="" channel-id="",craction HD
-rtp://239.186.70.26:10000
 #EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance UK" tvg-logo="https://static.epg.best/gb/GreatClassic.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
 #EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies UK" tvg-logo="https://static.epg.best/gb/GreatMovies.uk.png" tvg-chno="" channel-id="",GREAT! movies
@@ -487,6 +485,8 @@ rtp://239.186.84.95:10000
 rtp://239.186.84.1:10000
 #EXTINF:-1 , sky krimi
 rtp://239.186.74.132:10000
+#EXTINF:-1 tvg-id="craction.de" tvg-name="Craction DE" tvg-logo="https://static.epg.best/de/craction.de.png" tvg-chno="" channel-id="",craction HD
+rtp://239.186.70.26:10000
 #EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -632,8 +632,6 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 , Cartoon TV
-rtp://239.186.74.144:10000
 #EXTGRP:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
