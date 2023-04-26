@@ -146,7 +146,7 @@ rtp://239.186.64.184:10000
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="i24news.il" tvg-name="i24news IL" tvg-logo="https://static.epg.best/il/i24news.png" tvg-chno="157" channel-id="157",i24 NEWS E
 rtp://239.186.66.126:10000
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/uk/ITV1Anglia.uk.png" tvg-chno="159" channel-id="159",itv1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" tvg-chno="159" channel-id="159",itv1
 rtp://239.186.64.169:10000
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2
 rtp://239.186.64.170:10000
@@ -154,9 +154,9 @@ rtp://239.186.64.170:10000
 rtp://239.186.64.180:10000
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/uk/ITVBe.uk.png" tvg-chno="164" channel-id="164",itv Be.
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/uk/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
 rtp://239.186.74.14:10000
-#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/uk/citv.uk.png" tvg-chno="" channel-id="",Citv itv Childrens
+#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/uk/citv.uk.png" tvg-chno="" channel-id="",Citv
 rtp://239.186.74.73:10000
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
