@@ -297,11 +297,11 @@ rtp://239.186.64.166:10000
 rtp://239.186.64.167:10000
 #EXTINF:-1,Pink Koncert
 rtp://239.186.64.168:10000
-#EXTINF:-1,ITV (AC3 eng)
+#EXTINF:-1,itv1 (AC3 eng)
 rtp://239.186.64.169:10000
-#EXTINF:-1,ITV 2 (eng)
+#EXTINF:-1,itv2 (eng)
 rtp://239.186.64.170:10000
-#EXTINF:-1,ITV 4 (eng)
+#EXTINF:-1,itv4 (eng)
 rtp://239.186.64.171:10000
 #EXTINF:-1,Film4 (eng)
 rtp://239.186.64.172:10000
@@ -319,7 +319,7 @@ rtp://239.186.64.177:10000
 rtp://239.186.64.178:10000
 #EXTINF:-1,Sky News Int.
 rtp://239.186.64.179:10000
-#EXTINF:-1,ITV 3 (eng)
+#EXTINF:-1,itv3 (eng)
 rtp://239.186.64.180:10000
 #EXTINF:-1,Channel 4 (AC3 eng)
 rtp://239.186.64.183:10000
@@ -925,7 +925,7 @@ rtp://239.186.68.39:10000
 rtp://239.186.68.40:10000
 #EXTINF:-1,BBC Two HD (AC3 eng)
 rtp://239.186.68.41:10000
-#EXTINF:-1,ITV HD (AC3 eng)
+#EXTINF:-1,itv1 HD (AC3 eng)
 rtp://239.186.68.42:10000
 #EXTINF:-1,BBC One HD (AC3 eng)
 rtp://239.186.68.43:10000
@@ -1809,7 +1809,7 @@ rtp://239.186.74.11:10000
 rtp://239.186.74.12:10000
 #EXTINF:-1,blue Sports 31 (fre)
 rtp://239.186.74.13:10000
-#EXTINF:-1,ITV Be (eng)
+#EXTINF:-1,itvBe (eng)
 rtp://239.186.74.14:10000
 #EXTINF:-1,Melodie TV
 rtp://239.186.74.15:10000
@@ -1927,7 +1927,7 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.71:10000
 #EXTINF:-1,5Star (eng)
 rtp://239.186.74.72:10000
-#EXTINF:-1,CITV (eng)
+#EXTINF:-1,Citv (eng)
 rtp://239.186.74.73:10000
 #EXTINF:-1,DMAX UK
 rtp://239.186.74.74:10000
