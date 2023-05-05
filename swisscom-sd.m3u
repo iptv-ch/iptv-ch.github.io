@@ -94,16 +94,18 @@ rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
 #EXTGRP:english
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/gb/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC ONE
 rtp://239.186.64.51:10000
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" tvg-chno="120" channel-id="120",BBC Two
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="https://static.epg.best/gb/BBC2.uk.png" tvg-chno="120" channel-id="120",BBC TWO
 rtp://239.186.64.165:10000
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" tvg-chno="122" channel-id="122",BBC CBBC / BBC Three
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" tvg-chno="122" channel-id="122",BBC CBBC / BBC THREE
 rtp://239.186.64.166:10000
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC Four /Cbeebies
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC FOUR /Cbeebies
 rtp://239.186.64.52:10000
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="126" channel-id="126",BBC CBeebies / BBC Four
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" tvg-chno="126" channel-id="126",BBC CBeebies / BBC Four
 rtp://239.186.64.113:10000
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News UK" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" tvg-chno="129" channel-id="129",BBC News
+rtp://239.186.64.176:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
 rtp://239.186.64.177:10000
 #EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="https://static.epg.best/uk/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
