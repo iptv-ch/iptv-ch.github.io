@@ -128,9 +128,7 @@ rtp://239.186.68.158:10000
 rtp://239.186.68.152:10000
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News UK" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC News HD
 rtp://239.186.68.160:10000
-#EXTINF:-1 tvg-id="C19.api.telerama.fr" tvg-name="BBC World News UK" tvg-logo="https://static.epg.best/uk/BBCWorldNews.uk.png" tvg-chno="96" channel-id="96",BBC World News HD
-rtp://239.186.68.214:10000
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="https://static.epg.best/uk/BBCParliament.uk.png" tvg-chno="97" channel-id="97",BBC Parliament HD
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="https://static.epg.best/uk/BBCParliament.uk.png" tvg-chno="97" channel-id="97",BBC PARLIAMENT HD
 rtp://239.186.70.65:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="98" channel-id="98",Bloomberg TV HD UK
 rtp://239.186.68.125:10000
@@ -160,23 +158,23 @@ rtp://239.186.70.105:10000
 rtp://239.186.70.200:10000
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="113" channel-id="113",Film4
 rtp://239.186.64.172:10000
-#EXTINF:-1 tvg-id="channel5.uk" tvg-name="5 UK" tvg-logo="https://static.epg.best/uk/channel5.uk.png" tvg-chno="114" channel-id="114",Five HD
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" tvg-chno="114" channel-id="114",Channel5 HD
 rtp://239.186.70.151:10000
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="https://static.epg.best/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="i24.il" tvg-name="i24 IL" tvg-logo="https://static.epg.best/uk/i24.il.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
 rtp://239.186.68.140:10000
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" tvg-chno="160" channel-id="160",itv1 HD
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV1 UK" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" tvg-chno="160" channel-id="160",itv1 HD
 rtp://239.186.68.42:10000
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2 HD
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="https://static.epg.best/gb/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2 HD
 rtp://239.186.84.16:10000
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="https://static.epg.best/uk/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3 HD
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="https://static.epg.best/gb/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3 HD
 rtp://239.186.70.189:10000
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4 HD
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4 HD
 rtp://239.186.70.150:10000
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/uk/ITVBe.uk.png" tvg-chno="164" channel-id="164",itv Be.
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
 rtp://239.186.74.14:10000
-#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/uk/citv.uk.png" tvg-chno="" channel-id="",Citv itv Childrens
+#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" tvg-chno="" channel-id="",Citv itv Childrens
 rtp://239.186.74.73:10000
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
@@ -236,9 +234,9 @@ rtp://239.186.74.55:10000
 rtp://239.186.74.58:10000
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News UK" tvg-logo="https://static.epg.best/uk/GBNews.uk.png" tvg-chno="" channel-id="",GB News
 rtp://239.186.84.57:10000
-#EXTINF:-1 ,EU Parlament+ HD
+#EXTINF:-1 ,EU Parliament+ HD
 rtp://239.186.84.42:10000
-#EXTINF:-1 ,EU Parlament HD
+#EXTINF:-1 ,EU Parliament HD
 rtp://239.186.84.45:10000
 #EXTGRP:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
