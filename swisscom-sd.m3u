@@ -106,35 +106,33 @@ rtp://239.186.64.52:10000
 rtp://239.186.64.113:10000
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News UK" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" tvg-chno="129" channel-id="129",BBC News
 rtp://239.186.64.176:10000
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/gb/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
 rtp://239.186.64.177:10000
-#EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="https://static.epg.best/uk/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
+#EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="https://static.epg.best/gb/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
 rtp://239.186.66.142:10000
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="https://static.epg.best/au/CGTN.au.png" tvg-chno="135" channel-id="135",CGTN
 rtp://239.186.66.114:10000
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
 rtp://239.186.64.183:10000
-#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="TRACE URBAN UK" tvg-logo="https://static.epg.best/uk/traceurban.uk.png" tvg-chno="139" channel-id="139",TRACE XMAS
-rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",Now 70s
 rtp://239.186.74.108:10000
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s UK" tvg-logo="https://static.epg.best/gb/Now80s.uk.png" tvg-chno="" channel-id="",Now 80s
 rtp://239.186.74.106:10000
 #EXTINF:-1 tvg-id="Now90s.uk" tvg-name="Now 90s UK" tvg-logo="https://static.epg.best/gb/Now90s.uk.png" tvg-chno="140" channel-id="140",Now 90s
 rtp://239.186.66.133:10000
-#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="https://static.epg.best/uk/ClublandTV.uk.png" tvg-chno="141" channel-id="141",Clubland
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="https://static.epg.best/gb/ClublandTV.uk.png" tvg-chno="141" channel-id="141",Clubland
 rtp://239.186.66.116:10000
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="https://static.epg.best/uk/CNBC.uk.png" tvg-chno="142" channel-id="142",CNBC EU
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" tvg-chno="142" channel-id="142",CNBC EU
 rtp://239.186.64.167:10000
-#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="144" channel-id="144",CNN International
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN UK" tvg-logo="https://static.epg.best/gb/CNN.uk.png" tvg-chno="144" channel-id="144",CNN International
 rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
 rtp://239.186.64.135:10000
 #EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="https://static.epg.best/uk/Drama.uk.png" tvg-chno="146" channel-id="146",DRAMA
 rtp://239.186.66.140:10000
-#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="https://static.epg.best/uk/E4.uk.png" tvg-chno="147" channel-id="147",E4
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" tvg-chno="147" channel-id="147",E4
 rtp://239.186.64.53:10000
-#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" tvg-chno="148" channel-id="148",euronews E
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" tvg-chno="148" channel-id="148",euronews E
 rtp://239.186.64.178:10000
 #EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="Fashion TV FR" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" tvg-chno="150" channel-id="150",Fashion TV
 rtp://239.186.64.174:10000
@@ -142,29 +140,29 @@ rtp://239.186.64.174:10000
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" tvg-chno="153" channel-id="153",Channel5
 rtp://239.186.64.184:10000
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="https://static.epg.best/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="i24news.il" tvg-name="i24news IL" tvg-logo="https://static.epg.best/il/i24news.png" tvg-chno="157" channel-id="157",i24 NEWS E
 rtp://239.186.66.126:10000
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" tvg-chno="159" channel-id="159",itv1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV UK" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" tvg-chno="159" channel-id="159",itv1
 rtp://239.186.64.169:10000
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="https://static.epg.best/gb/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2
 rtp://239.186.64.170:10000
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="https://static.epg.best/uk/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="https://static.epg.best/gb/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3
 rtp://239.186.64.180:10000
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/uk/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
 rtp://239.186.74.14:10000
-#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/uk/citv.uk.png" tvg-chno="" channel-id="",Citv
+#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/gb/citv.uk.png" tvg-chno="" channel-id="",Citv
 rtp://239.186.74.73:10000
-#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/gb/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
-#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="https://static.epg.best/uk/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="https://static.epg.best/gb/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
 rtp://239.186.66.128:10000
-#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
 rtp://239.186.64.179:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.epg.best/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
 rtp://239.186.66.242:10000
@@ -174,21 +172,21 @@ rtp://239.186.74.25:10000
 rtp://239.186.66.243:10000
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="PBS America UK" tvg-logo="https://static.epg.best/gb/dave.uk.png" tvg-chno="" channel-id="",Dave
 rtp://239.186.66.253:10000
-#EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star UK" tvg-logo="https://static.epg.best/uk/5star.uk.png" tvg-chno="" channel-id="",5STAR
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
-#EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select UK" tvg-logo="https://static.epg.best/uk/5select.uk.png" tvg-chno="" channel-id="",5SELECT
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select UK" tvg-logo="https://static.epg.best/gb/5select.uk.png" tvg-chno="" channel-id="",5SELECT
 rtp://239.186.74.88:10000
-#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DiscoveryDMAX UK" tvg-logo="https://static.epg.best/uk/DiscoveryDMAX.uk.png" tvg-chno="" channel-id="",DMAX UK
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DiscoveryDMAX UK" tvg-logo="https://static.epg.best/gb/DiscoveryDMAX.uk.png" tvg-chno="" channel-id="",DMAX UK
 rtp://239.186.74.74:10000
-#EXTINF:-1 tvg-id="5ACTION.uk" tvg-name="5ACTION UK" tvg-logo="https://static.epg.best/uk/5ACTION.uk.png" tvg-chno="" channel-id="",5ACTION
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-name="5ACTION UK" tvg-logo="https://static.epg.best/gb/5ACTION.uk.png" tvg-chno="" channel-id="",5ACTION
 rtp://239.186.74.84:10000
-#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="https://static.epg.best/uk/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
 rtp://239.186.74.87:10000
-#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="https://static.epg.best/uk/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="PickTV UK" tvg-logo="https://static.epg.best/uk/PickTV.uk.png" tvg-chno="" channel-id="",Pick
 rtp://239.186.74.94:10000
-#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="https://static.epg.best/uk/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="https://static.epg.best/gb/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
 #EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality UK
 rtp://239.186.74.107:10000
@@ -198,7 +196,7 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
 rtp://239.186.74.58:10000
-#EXTINF:-1 tvg-id="morethansports.uk" tvg-name="More Than Sports UK" tvg-logo="https://static.epg.best/uk/morethansports.uk.png" tvg-chno="205" channel-id="205",More Than Sports
+#EXTINF:-1 tvg-id="morethansports.uk" tvg-name="More Than Sports UK" tvg-logo="https://static.epg.best/gb/morethansports.uk.png" tvg-chno="205" channel-id="205",More Than Sports
 rtp://239.186.66.241:10000
 #EXTGRP:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
