@@ -196,8 +196,6 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
 rtp://239.186.74.58:10000
-#EXTINF:-1 tvg-id="morethansports.uk" tvg-name="More Than Sports UK" tvg-logo="https://static.epg.best/gb/morethansports.uk.png" tvg-chno="205" channel-id="205",More Than Sports
-rtp://239.186.66.241:10000
 #EXTGRP:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -361,6 +359,8 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 , sky krimi
 rtp://239.186.74.132:10000
+#EXTINF:-1 tvg-id="morethansports.de" tvg-name="More Than Sports DE" tvg-logo="https://static.epg.best/de/morethansports.de.png" tvg-chno="205" channel-id="205",More Than Sports D
+rtp://239.186.66.241:10000
 #EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
