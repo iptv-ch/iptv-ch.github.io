@@ -59,8 +59,8 @@ rtp://239.186.70.75:10000
 rtp://239.186.64.20:10000
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="http://static.epg.best/ch/Kanal9.ch.png" tvg-chno="224" channel-id="224",Kanal9 HD
 rtp://239.186.68.145:10000
-#EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.epg.best/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv
-rtp://239.186.64.133:10000
+#EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="http://static.epg.best/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv HD
+rtp://239.186.84.137:10000
 #EXTINF:-1 tvg-id="Loly.ch" tvg-name="Loly CH" tvg-logo="http://static.epg.best/ch/Loly.ch.png" tvg-chno="228" channel-id="228",LOLY CH HD
 rtp://239.186.70.211:10000
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="http://static.epg.best/de/MDR.de.png" tvg-chno="230" channel-id="230",mdr HD
