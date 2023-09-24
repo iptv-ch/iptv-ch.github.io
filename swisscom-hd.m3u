@@ -765,7 +765,6 @@ rtp://239.186.84.107:10000
 rtp://239.186.68.184:10000
 #EXTINF:-1 tvg-id="AlMasriya.eg" tvg-name="Al Masriya EG" tvg-logo="https://static.epg.best/eg/Almasria.eg.png" tvg-chno="" channel-id="",Al Masriya HD (ara)
 rtp://239.186.70.13:10000
-#REM
 #EXTINF:-1 ,I-TV HD (ita)
 rtp://239.186.70.91:10000
 #EXTINF:-1 ,Deutsches Musik TV HD (deu)
