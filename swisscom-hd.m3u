@@ -765,3 +765,84 @@ rtp://239.186.84.107:10000
 rtp://239.186.68.184:10000
 #EXTINF:-1 tvg-id="AlMasriya.eg" tvg-name="Al Masriya EG" tvg-logo="https://static.epg.best/eg/Almasria.eg.png" tvg-chno="" channel-id="",Al Masriya HD (ara)
 rtp://239.186.70.13:10000
+#REM
+#EXTINF:-1 ,I-TV HD (ita)
+rtp://239.186.70.91:10000
+#EXTINF:-1 ,Deutsches Musik TV HD (deu)
+rtp://239.186.70.96:10000
+#EXTINF:-1 ,volksmusik.tv HD (deu)
+rtp://239.186.70.97:10000
+#EXTINF:-1 ,B? HD (eng)
+rtp://239.186.70.98:10000
+#EXTINF:-1 ,EPIC DRAMA HD (pol)
+rtp://239.186.70.99:10000
+#EXTINF:-1 ,CANAL+ BOX OFFICE HD (fra)
+rtp://239.186.70.100:10000
+#EXTINF:-1 ,CANAL+ BOX OFFICE (fra)
+rtp://239.186.74.142:10000
+#EXTINF:-1 ,BIKE CHANNEL (ita)
+rtp://239.186.74.145:10000
+#EXTINF:-1 ,xplore (deu)
+rtp://239.186.74.146:10000
+#EXTINF:-1 ,TRACE VAULT (eng)
+rtp://239.186.74.147:10000
+#EXTINF:-1 ,Stimmungs garten TV (deu)
+rtp://239.186.74.148:10000
+#EXTINF:-1 ,One TERRA (deu)
+rtp://239.186.74.149:10000
+#EXTINF:-1 ,Just COOKING (deu)
+rtp://239.186.74.150:10000
+#EXTINF:-1 ,Hip Trips (deu)
+rtp://239.186.74.151:10000
+#EXTINF:-1 ,ROCK HITS DLX (deu)
+rtp://239.186.74.152:10000
+#EXTINF:-1 ,TOTAL RAP DLX (deu)
+rtp://239.186.74.153:10000
+#EXTINF:-1 ,PERFECT MEMORIES DLX (deu)
+rtp://239.186.74.154:10000
+#EXTINF:-1 ,CANAL+ GRAND ECRAN (fra)
+rtp://239.186.74.156:10000
+#EXTINF:-1 ,teve1 HD (alb)
+rtp://239.186.84.132:10000
+#EXTINF:-1 ,K-TV HD
+rtp://239.186.84.137:10000
+#EXTINF:-1 ,CARTOONITO HD (ita)
+rtp://239.186.84.139:10000
+#EXTINF:-1 ,Rai Movies HD (ita)
+rtp://239.186.84.140:10000
+#EXTINF:-1 ,TRENTINO TV HD (ita)
+rtp://239.186.84.141:10000
+#EXTINF:-1 ,Boing HD (ita) 
+rtp://239.186.84.142:10000
+#EXTINF:-1 ,telenuovo HD (ita)
+rtp://239.186.84.143:10000
+#EXTINF:-1 ,TOP CHANNEL NEWS HD (alb)
+rtp://239.186.84.144:10000
+#EXTINF:-1 ,HRT4 HD (hrv)
+rtp://239.186.84.145:10000
+#EXTINF:-1 ,cvi HD (spa)
+rtp://239.186.84.146:10000
+#EXTINF:-1 ,CGTN DOCUMENTARY HD (eng)
+rtp://239.186.84.147:10000
+#EXTINF:-1 ,EarthxTV HD (eng)
+rtp://239.186.84.148:10000
+#EXTINF:-1 ,CAPRI SPORT HD (ita)
+rtp://239.186.84.150:10000
+#EXTINF:-1 ,TVP INFO HD (pol)
+rtp://239.186.84.151:10000
+#EXTINF:-1 ,RADIO ITALIA HD (ita)
+rtp://239.186.84.152:10000
+#EXTINF:-1 ,TVP POLONIA HD (pol)
+rtp://239.186.84.153:10000
+#EXTINF:-1 ,TELECUPOLE HD (ita)
+rtp://239.186.84.156:10000
+#EXTINF:-1 ,EXPLORER CHANNEL HD (ita)
+rtp://239.186.84.157:10000
+#EXTINF:-1 ,1+1 YKPAÏHA HD (ukr)
+rtp://239.186.84.159:10000
+#EXTINF:-1 ,HSE HD (deu)
+rtp://239.186.84.162:10000
+#EXTINF:-1 ,REUTERS HD (eng)
+rtp://239.186.84.164:10000
+#EXTINF:-1 ,CANAL+ GRAND ECRAN HD (fra)
+rtp://239.186.84.166:10000
