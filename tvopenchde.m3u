@@ -51,8 +51,8 @@ rtp://239.186.74.40:10000
 rtp://239.186.68.251:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="http://static.epg.best/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
 rtp://239.186.68.156:10000
-#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="http://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE24
-rtp://239.186.64.123:10000
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="http://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
+rtp://239.186.84.162:10000
 #EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight UK" tvg-logo="http://static.epg.best/uk/Insight.uk.png" tvg-chno="219" channel-id="219",INPLUS HD
 rtp://239.186.70.75:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="http://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
@@ -229,8 +229,8 @@ rtp://239.186.70.126:10000
 rtp://239.186.68.104:10000
 #EXTINF:-1 ,Folx HD
 rtp://239.186.68.121:10000/
-#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="http://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv
-rtp://239.186.74.113:10000
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="http://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv HD
+rtp://239.186.70.97:10000
 #EXTINF:-1 ,Hit Express TV HD
 rtp://239.186.84.22:10000
 #EXTINF:-1 tvg-id="ONEmusic.de" tvg-name="One Music DE" tvg-logo="http://static.epg.best/de/onemusic.de.png" tvg-chno="" channel-id="",ONE 1 Music TV HD
@@ -243,8 +243,8 @@ rtp://239.186.84.37:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="http://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201",DELUXE MUSIC
 rtp://239.186.64.132:10000
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen
-rtp://239.186.66.118:10000
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen HD
+rtp://239.186.70.96:10000
 #EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="http://static.epg.best/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="melodietv.at" tvg-name="Melodie.tv AT" tvg-logo="http://static.epg.best/at/melodietv.at.png" tvg-chno="231" channel-id="231",Melodie.tv
@@ -253,3 +253,19 @@ rtp://239.186.74.15:10000
 rtp://239.186.68.207:10000
 #EXTINF:-1 ,CRACTION HD
 rtp://239.186.70.26:10000
+#EXTINF:-1 ,xplore (deu)
+rtp://239.186.74.146:10000
+#EXTINF:-1 ,Stimmungs garten TV (deu)
+rtp://239.186.74.148:10000
+#EXTINF:-1 ,One TERRA (deu)
+rtp://239.186.74.149:10000
+#EXTINF:-1 ,Just COOKING (deu)
+rtp://239.186.74.150:10000
+#EXTINF:-1 ,Hip Trips (deu)
+rtp://239.186.74.151:10000
+#EXTINF:-1 ,ROCK HITS DLX (deu)
+rtp://239.186.74.152:10000
+#EXTINF:-1 ,TOTAL RAP DLX (deu)
+rtp://239.186.74.153:10000
+#EXTINF:-1 ,PERFECT MEMORIES DLX (deu)
+rtp://239.186.74.154:10000
