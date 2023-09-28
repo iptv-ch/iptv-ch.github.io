@@ -65,10 +65,10 @@ rtp://239.186.70.72:10000
 rtp://239.186.84.125:10000
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",IRIS HD
 rtp://239.186.84.98:10000
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
-rtp://239.186.64.74:10000
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",cartoonito
-rtp://239.186.66.176:10000
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I HD
+rtp://239.186.84.142:10000
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",cartoonito HD
+rtp://239.186.84.139:10000
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="http://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",TGCom24 HD
 rtp://239.186.84.86:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="http://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",Cine34 HD
@@ -83,8 +83,8 @@ rtp://239.186.70.78:10000
 rtp://239.186.64.50:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="http://static.epg.best/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie
-rtp://239.186.66.185:10000
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie HD
+rtp://239.186.84.140:10000
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="http://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium
 rtp://239.186.66.183:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://static.epg.best/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp HD
@@ -147,4 +147,17 @@ rtp://239.186.70.127:10000
 rtp://239.186.70.128:10000
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV IT"" tvg-logo="https://static.epg.best/it/WarnerTV.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
 rtp://239.186.84.46:10000
-
+#EXTINF:-1 ,BIKE CHANNEL
+rtp://239.186.74.145:10000
+#EXTINF:-1 ,TRENTINO TV HD
+rtp://239.186.84.141:10000
+#EXTINF:-1 ,telenuovo HD
+rtp://239.186.84.143:10000
+#EXTINF:-1 ,CAPRI SPORT HD
+rtp://239.186.84.150:10000
+#EXTINF:-1 ,RADIO ITALIA HD
+rtp://239.186.84.152:10000
+#EXTINF:-1 ,TELECUPOLE HD
+rtp://239.186.84.156:10000
+#EXTINF:-1 ,EXPLORER CHANNEL HD
+rtp://239.186.84.157:10000
