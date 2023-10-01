@@ -173,6 +173,8 @@ rtp://239.186.74.70:10000
 rtp://239.186.68.243:10000
 #EXTINF:-1 ,lilo TV
 rtp://239.186.74.82:10000
+#EXTINF:-1 ,Helvetia One TV HD
+rtp://239.186.70.103:10000
 #EXTGRP:kinder
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="http://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
