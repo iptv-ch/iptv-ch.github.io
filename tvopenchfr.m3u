@@ -94,16 +94,10 @@ rtp://239.186.68.107:10000
 rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="http://static.epg.best/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
 rtp://239.186.70.133:10000
-#EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFMTV CH" tvg-logo="http://static.epg.best/ch/lfmtv.ch.png" tvg-chno="77" channel-id="77",lfm TV HD
-rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="http://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD/DieuTV HD
 rtp://239.186.68.199:10000
 #EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="http://static.epg.best/ch/nrtv.ch.png" tvg-chno="82" channel-id="82",nrtv HD
 rtp://239.186.70.66:10000
-#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="OneTV CH" tvg-logo="http://static.epg.best/ch/OneTV.ch.png" tvg-chno="83" channel-id="83",one.tv CH HD
-rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="84" channel-id="84",rouge TV HD
-rtp://239.186.68.253:10000
 #EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.epg.best/ch/grtv.ch.png" tvg-chno="85" channel-id="85",GRTV Geneve Région TV HD / TéléVersoix HD
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
@@ -114,6 +108,14 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
 rtp://239.186.70.21:10000
+#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="84" channel-id="84",carac1 HD (ex rouge TV HD)
+rtp://239.186.68.253:10000
+#EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="83" channel-id="83",carac2 HD (ex one.tv CH HD)
+rtp://239.186.70.12:10000
+#EXTINF:-1 tvg-id="carac3.ch" tvg-name="carac3 CH" tvg-logo="http://static.epg.best/ch/carac3.ch.png" tvg-chno="77" channel-id="77",carac3 HD (ex lfm TV HD)
+rtp://239.186.70.11:10000
+#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="",carac4 HD (ex TV SUISSE PLUS)
+rtp://239.186.70.104:10000
 #EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
@@ -121,8 +123,6 @@ rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
 #EXTREM: Voyances / jeux ruinant / arnaques publicitaires
-#EXTINF:-1 tvg-id="Suisseplus.ch" tvg-name="SuissePlus CH" tvg-logo="http://static.epg.best/ch/suisseplus.ch.png" tvg-chno="" channel-id="",TV SUISSE PLUS
-rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTREM: Promotions temporaires
