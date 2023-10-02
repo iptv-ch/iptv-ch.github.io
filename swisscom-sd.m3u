@@ -43,7 +43,7 @@ rtp://239.186.64.144:10000
 rtp://239.186.64.146:10000
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" tvg-chno="37" channel-id="37",BFMTV CH
 rtp://239.186.64.72:10000
-#EXTINF:-1 tvg-id="BoosterTV.ch" tvg-name="Booster TV CH" tvg-logo="https://static.epg.best/ch/BoosterTV.ch.png" tvg-chno="39" channel-id="39",tv suisse plus
+#EXTINF:-1 tvg-id="BoosterTV.ch" tvg-name="Booster TV CH" tvg-logo="https://static.epg.best/ch/BoosterTV.ch.png" tvg-chno="39" channel-id="39",carac4 (ex tv suisse plus)
 rtp://239.186.66.239:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9 CH" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
@@ -79,7 +79,7 @@ rtp://239.186.64.102:10000
 rtp://239.186.66.198:10000
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://static.epg.best/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",rougeTV
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://static.epg.best/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",Carac1 (ex rouge tv)
 rtp://239.186.64.145:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV
 rtp://239.186.64.69:10000
@@ -154,8 +154,6 @@ rtp://239.186.64.180:10000
 rtp://239.186.64.171:10000
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
 rtp://239.186.74.14:10000
-#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/gb/citv.uk.png" tvg-chno="" channel-id="",Citv
-rtp://239.186.74.73:10000
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/gb/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
 #EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="https://static.epg.best/gb/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
@@ -305,7 +303,7 @@ rtp://239.186.64.70:10000
 rtp://239.186.64.64:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="287" channel-id="287",Star TV
 rtp://239.186.64.87:10000
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",SUPER RTL
+#EXTINF:-1 tvg-id="RTLsuper.de" tvg-name="RTL Super DE" tvg-logo="https://static.epg.best/de/RTLsuper.de.png" tvg-chno="290" channel-id="290",RTL SUPER
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://static.epg.best/de/SWRSR.de.png" tvg-chno="293" channel-id="293",SWR >>
 rtp://239.186.64.27:10000
@@ -357,8 +355,6 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="volksmusik.de" tvg-name="volksmusik DE" tvg-logo="https://static.epg.best/de/volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv
 rtp://239.186.74.113:10000
-#EXTINF:-1 , sky krimi
-rtp://239.186.74.132:10000
 #EXTINF:-1 tvg-id="morethansports.de" tvg-name="More Than Sports DE" tvg-logo="https://static.epg.best/de/morethansports.de.png" tvg-chno="205" channel-id="205",More Than Sports D
 rtp://239.186.66.241:10000
 #EXTGRP:italian
@@ -538,8 +534,6 @@ rtp://239.186.74.75:10000
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al Arabiya
 rtp://239.186.64.192:10000
-#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="https://static.epg.best/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1
-rtp://239.186.66.111:10000
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="https://static.epg.best/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV 4 Europe CN" tvg-logo="https://static.epg.best/cn/CCTV4Europe.cn.png" tvg-chno="435" channel-id="435",CCTV4
@@ -588,8 +582,6 @@ rtp://239.186.74.77:10000
 rtp://239.186.74.83:10000
 #EXTINF:-1 ,Tunisie Nationale (ara)
 rtp://239.186.74.89:10000
-#EXTINF:-1 ,Karusel Int. (rus)
-rtp://239.186.74.91:10000
 #EXTINF:-1 ,RTSH3 (alb)
 rtp://239.186.74.90:10000
 #EXTINF:-1 ,YKPAÏHA 24  / FREEDOM UA (ukr)
