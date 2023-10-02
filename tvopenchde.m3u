@@ -255,6 +255,8 @@ rtp://239.186.74.15:10000
 rtp://239.186.68.207:10000
 #EXTINF:-1 ,CRACTION HD
 rtp://239.186.70.26:10000
+#EXTINF:-1 ,gloria.tv HD (deu)
+rtp://239.186.70.91:10000
 #EXTINF:-1 ,xplore (deu)
 rtp://239.186.74.146:10000
 #EXTINF:-1 ,Stimmungs garten TV (deu)
