@@ -84,9 +84,13 @@ rtp://239.186.68.107:10000
 rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="https://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="76" channel-id="76",leman bleu HD
 rtp://239.186.70.39:10000
-#EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFMTV CH" tvg-logo="https://static.epg.best/ch/lfmtv.ch.png" tvg-chno="77" channel-id="77",LFM TV HD
+#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="https://static.epg.best/ch/carac1.ch.png" tvg-chno="84" channel-id="84",carac1 HD (ex rouge TV HD)
+rtp://239.186.68.253:10000
+#EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="https://static.epg.best/ch/carac2.ch.png" tvg-chno="83" channel-id="83",carac2 HD (ex one tv HD)
+rtp://239.186.70.12:10000
+#EXTINF:-1 tvg-id="carac3.ch" tvg-name="carac3 CH" tvg-logo="https://static.epg.best/ch/carac3.ch.png" tvg-chno="77" channel-id="77",carac3 HD (ex lfm TV HD)
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="tvsuisseplus.ch" tvg-name="tvsuisseplus CH" tvg-logo="https://static.epg.best/ch/tvsuisseplus.ch.png" tvg-chno="79" channel-id="79",TV SUISSE PLUS HD
+#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="https://static.epg.best/ch/carac4.ch.png" tvg-chno="79" channel-id="79",carac4 HD (ex TV SUISSE PLUS HD)
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="https://static.epg.best/ch/tvm3.ch.png" tvg-chno="80" channel-id="80",tvm3 HD
 rtp://239.186.70.21:10000
@@ -94,10 +98,6 @@ rtp://239.186.70.21:10000
 rtp://239.186.68.199:10000
 #EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="https://static.epg.best/ch/nrtv.ch.png" tvg-chno="82" channel-id="82",nrtv HD
 rtp://239.186.70.66:10000
-#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="OneTV CH" tvg-logo="https://static.epg.best/ch/OneTV.ch.png" tvg-chno="83" channel-id="83",One tv CH HD
-rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://static.epg.best/ch/RougeTV.ch.png" tvg-chno="84" channel-id="84",rouge TV HD
-rtp://239.186.68.253:10000
 #EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="https://static.epg.best/ch/grtv.ch.png" tvg-chno="85" channel-id="85",GRTV / TéléVersoix HD
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="https://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
@@ -174,8 +174,6 @@ rtp://239.186.70.189:10000
 rtp://239.186.70.150:10000
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
 rtp://239.186.74.14:10000
-#EXTINF:-1 tvg-id="Citv.uk" tvg-name="Citv UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" tvg-chno="" channel-id="",Citv itv Childrens
-rtp://239.186.74.73:10000
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
 #EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="https://static.epg.best/uk/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
@@ -699,8 +697,6 @@ rtp://239.186.70.199:10000
 rtp://239.186.64.193:10000
 #EXTINF:-1 tvg-id="tunisienationale.tn" tvg-name="Tunisie Nationale TN" tvg-logo="https://static.epg.best/tn/tunisienationale.tn.png" tvg-chno="153" channel-id="153",Tunisie Nationale
 rtp://239.186.74.89:10000
-#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="https://static.epg.best/ro/B1.ro.png" tvg-chno="433" channel-id="433",b1 TV HD
-rtp://239.186.84.94:10000
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="https://static.epg.best/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV 4 Europe CN" tvg-logo="https://static.epg.best/cn/CCTV4Europe.cn.png" tvg-chno="436" channel-id="436",CCTV4 HD
@@ -743,8 +739,6 @@ rtp://239.186.66.149:10000
 rtp://239.186.70.164:10000
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World KR" tvg-logo="https://static.epg.best/kr/KBSWorld.kr.png" tvg-chno="160" channel-id="160",KBS World HD
 rtp://239.186.70.191:10000
-#EXTINF:-1 tvg-id="karusel.ru" tvg-name="Karusel RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" tvg-chno="" channel-id="",Karusel Int. (rus)
-rtp://239.186.74.91:10000
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24 CZ" tvg-logo="https://static.epg.best/cz/CT24.cz.png" tvg-chno="" channel-id="",CT24 HD
 rtp://239.186.70.18:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al arabiya HD (ara)
@@ -757,15 +751,13 @@ rtp://239.186.84.34:10000
 rtp://239.186.74.77:10000
 #EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,nickelodeon YKPAÏHA (ukr)
-rtp://239.186.74.103:10000
 #EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
 #EXTINF:-1 tvg-id="Adria.de" tvg-name="Adria SI" tvg-logo="https://static.epg.best/si/adria.si.png" tvg-chno="" channel-id="",ADRIA Music Television HD (svn)
 rtp://239.186.68.184:10000
 #EXTINF:-1 tvg-id="AlMasriya.eg" tvg-name="Al Masriya EG" tvg-logo="https://static.epg.best/eg/Almasria.eg.png" tvg-chno="" channel-id="",Al Masriya HD (ara)
 rtp://239.186.70.13:10000
-#EXTINF:-1 ,I-TV HD (ita)
+#EXTINF:-1 ,gloria.tv HD (deu)
 rtp://239.186.70.91:10000
 #EXTINF:-1 ,Deutsches Musik TV HD (deu)
 rtp://239.186.70.96:10000
@@ -815,7 +807,7 @@ rtp://239.186.84.143:10000
 rtp://239.186.84.144:10000
 #EXTINF:-1 ,HRT4 HD (hrv)
 rtp://239.186.84.145:10000
-#EXTINF:-1 ,cvi HD (spa)
+#EXTINF:-1 ,cvi HD (spa) Cuba Visio Internacional
 rtp://239.186.84.146:10000
 #EXTINF:-1 ,CGTN DOCUMENTARY HD (eng)
 rtp://239.186.84.147:10000
