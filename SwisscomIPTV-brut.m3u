@@ -153,8 +153,6 @@ rtp://239.186.64.78:10000
 rtp://239.186.64.79:10000
 #EXTINF:-1,RTK 1
 rtp://239.186.64.81:10000
-#EXTINF:-1,Channel1 RU
-rtp://239.186.64.82:10000
 #EXTINF:-1,Record TV
 rtp://239.186.64.83:10000
 #EXTINF:-1,blue Action (deu)
@@ -219,9 +217,9 @@ rtp://239.186.64.118:10000
 rtp://239.186.64.119:10000
 #EXTINF:-1,Tagesschau24 (deu)
 rtp://239.186.64.120:10000
-#EXTINF:-1,One (AAC deu)
+#EXTINF:-1,ARD one (AAC deu)
 rtp://239.186.64.121:10000
-#EXTINF:-1,HSE 24
+#EXTINF:-1,HSE
 rtp://239.186.64.123:10000
 #EXTINF:-1,SessionStaenderat
 rtp://239.186.64.124:10000
@@ -255,7 +253,7 @@ rtp://239.186.64.142:10000
 rtp://239.186.64.143:10000
 #EXTINF:-1,TV8 Mont Blanc
 rtp://239.186.64.144:10000
-#EXTINF:-1,Rouge TV
+#EXTINF:-1,carac1 HD (ex Rouge TV)
 rtp://239.186.64.145:10000
 #EXTINF:-1,BFM Business
 rtp://239.186.64.146:10000
@@ -273,11 +271,11 @@ rtp://239.186.64.152:10000
 rtp://239.186.64.153:10000
 #EXTINF:-1,Telelombardia
 rtp://239.186.64.154:10000
-#EXTINF:-1,RTL9
+#EXTINF:-1,RTL9 CH
 rtp://239.186.64.155:10000
 #EXTINF:-1,Rai News 24
 rtp://239.186.64.156:10000
-#EXTINF:-1,Rai Sport + (AC3 ita)
+#EXTINF:-1,Rai Sport (AC3 ita)
 rtp://239.186.64.157:10000
 #EXTINF:-1,Nove
 rtp://239.186.64.158:10000
@@ -503,7 +501,7 @@ rtp://239.186.66.33:10000
 rtp://239.186.66.34:10000
 #EXTINF:-1,Rai Gulp
 rtp://239.186.66.35:10000
-#EXTINF:-1,Video IT TV (ita)
+#EXTINF:-1,Video Italia TV (ita)
 rtp://239.186.66.36:10000
 #EXTINF:-1,Mediaset Extra
 rtp://239.186.66.37:10000
@@ -517,21 +515,21 @@ rtp://239.186.66.43:10000
 rtp://239.186.66.44:10000
 #EXTINF:-1,infosport
 rtp://239.186.66.45:10000
-#EXTINF:-1,C CH (fra)
+#EXTINF:-1,C+ CH (fra)
 rtp://239.186.66.46:10000
-#EXTINF:-1,C Cinema CH (fra)
+#EXTINF:-1,C+ Cinema CH (fra)
 rtp://239.186.66.47:10000
-#EXTINF:-1,C Sport CH (fra)
+#EXTINF:-1,C+ Sport CH (fra)
 rtp://239.186.66.49:10000
 #EXTINF:-1,C+ Kids CH
 rtp://239.186.66.50:10000
-#EXTINF:-1,C Premier (fra)
+#EXTINF:-1,C+ Premier (fra)
 rtp://239.186.66.51:10000
-#EXTINF:-1,C Frisson (fra)
+#EXTINF:-1,C+ Frisson (fra)
 rtp://239.186.66.52:10000
-#EXTINF:-1,C Emotion (fra)
+#EXTINF:-1,C+ Emotion (fra)
 rtp://239.186.66.53:10000
-#EXTINF:-1,C Famiz (fra)
+#EXTINF:-1,C+ Famiz (fra)
 rtp://239.186.66.54:10000
 #EXTINF:-1,C+ Classic (fra)
 rtp://239.186.66.55:10000
@@ -619,12 +617,8 @@ rtp://239.186.66.108:10000
 rtp://239.186.66.109:10000
 #EXTINF:-1,DMAX Italia
 rtp://239.186.66.110:10000
-#EXTINF:-1,B1 TV
-rtp://239.186.66.111:10000
 #EXTINF:-1,CGTN
 rtp://239.186.66.114:10000
-#EXTINF:-1,Trace Hits
-rtp://239.186.66.115:10000
 #EXTINF:-1,Clubland TV
 rtp://239.186.66.116:10000
 #EXTINF:-1,Deutsches Musikfernsehen
@@ -817,7 +811,7 @@ rtp://239.186.66.234:10000
 rtp://239.186.66.237:10000
 #EXTINF:-1,Helvetia One TV
 rtp://239.186.66.238:10000
-#EXTINF:-1,TV Suisseplus
+#EXTINF:-1,carac4 (ex TV Suisseplus)
 rtp://239.186.66.239:10000
 #EXTINF:-1,VH1 Italy
 rtp://239.186.66.240:10000
@@ -1147,7 +1141,7 @@ rtp://239.186.68.151:10000
 rtp://239.186.68.152:10000
 #EXTINF:-1,CBBC HD (AC3 eng)
 rtp://239.186.68.153:10000
-#EXTINF:-1,One HD (AC3 deu)
+#EXTINF:-1,ARD one HD (AC3 deu)
 rtp://239.186.68.154:10000
 #EXTINF:-1,blue Zoom D HD (deu)
 rtp://239.186.68.155:10000
@@ -1339,7 +1333,7 @@ rtp://239.186.68.250:10000
 rtp://239.186.68.251:10000
 #EXTINF:-1,TeleTop HD (deu)
 rtp://239.186.68.252:10000
-#EXTINF:-1,Rouge TV HD
+#EXTINF:-1,carac1 HD (ex Rouge TV HD)
 rtp://239.186.68.253:10000
 #EXTINF:-1,Golf+ HD
 rtp://239.186.68.254:10000
@@ -1363,9 +1357,9 @@ rtp://239.186.70.8:10000
 rtp://239.186.70.9:10000
 #EXTINF:-1,Game TV HD
 rtp://239.186.70.10:10000
-#EXTINF:-1,LFM TV HD
+#EXTINF:-1,carac3 HD (ex LFM TV HD)
 rtp://239.186.70.11:10000
-#EXTINF:-1,One TV CH HD
+#EXTINF:-1,carac2 HD (ex One TV CH HD)
 rtp://239.186.70.12:10000
 #EXTINF:-1,Al Masriya HD
 rtp://239.186.70.13:10000
@@ -1393,8 +1387,6 @@ rtp://239.186.70.23:10000
 rtp://239.186.70.24:10000
 #EXTINF:-1,France 3 HD (fre)
 rtp://239.186.70.25:10000
-#EXTINF:-1,Craction TV HD
-rtp://239.186.70.26:10000
 #EXTINF:-1,France 5 HD (fra)
 rtp://239.186.70.27:10000
 #EXTINF:-1,More Than Sports TV HD
@@ -1539,7 +1531,7 @@ rtp://239.186.70.101:10000
 rtp://239.186.70.102:10000
 #EXTINF:-1,Helvetia One TV HD
 rtp://239.186.70.103:10000
-#EXTINF:-1,TV Suisseplus HD
+#EXTINF:-1,carac4 HD (ex TV Suisseplus HD)
 rtp://239.186.70.104:10000
 #EXTINF:-1,Euronews E HD
 rtp://239.186.70.105:10000
@@ -1555,8 +1547,6 @@ rtp://239.186.70.111:10000
 rtp://239.186.70.112:10000
 #EXTINF:-1,OCS Max HD (fre)
 rtp://239.186.70.113:10000
-#EXTINF:-1,blue City HD (deu)
-rtp://239.186.70.114:10000
 #EXTINF:-1,blue Retro HD (deu)
 rtp://239.186.70.115:10000
 #EXTINF:-1,6 plus HD
@@ -2049,7 +2039,7 @@ rtp://239.186.74.125:10000
 rtp://239.186.74.126:10000
 #EXTINF:-1 ,blue MUSIC F 3
 rtp://239.186.74.127:10000
-#EXTINF:-1 ,CLUB POWER DLX DANCE (deu)
+#EXTINF:-1 ,DLX DANCE (deu)
 rtp://239.186.74.128:10000
 #EXTINF:-1 , sky comedy
 rtp://239.186.74.129:10000
@@ -2075,8 +2065,6 @@ rtp://239.186.74.138:10000
 rtp://239.186.74.139:10000
 #EXTINF:-1 ,Pretty TV
 rtp://239.186.74.140:10000
-#EXTINF:-1 ,Cooking TV
-rtp://239.186.74.141:10000
 #EXTINF:-1 ,CANAL+ BOX OFFICE (fra)
 rtp://239.186.74.142:10000
 #EXTINF:-1 , Sports TV
@@ -2327,8 +2315,6 @@ rtp://239.186.84.103:10000
 rtp://239.186.84.104:10000
 #EXTINF:-1,Top Calcio 24 HD
 rtp://239.186.84.105:10000
-#EXTINF:-1,ALTAMEGA Plus HD
-rtp://239.186.84.106:10000
 #EXTINF:-1,Diaspora TV Switzerland HD
 rtp://239.186.84.107:10000
 #EXTINF:-1,Telecity 7 Gold HD
@@ -2403,7 +2389,7 @@ rtp://239.186.84.157:10000
 rtp://239.186.84.159:10000
 #EXTINF:-1 ,HSE HD (deu)
 rtp://239.186.84.162:10000
-#EXTINF:-1 ,REUTERS HD (eng)
+#EXTINF:-1 ,REUTERS TV HD (eng)
 rtp://239.186.84.164:10000
 #EXTINF:-1 ,CANAL+ GRAND ECRAN HD (fra)
 rtp://239.186.84.166:10000
