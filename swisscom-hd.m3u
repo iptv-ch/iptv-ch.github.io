@@ -236,6 +236,14 @@ rtp://239.186.84.57:10000
 rtp://239.186.84.42:10000
 #EXTINF:-1 ,EU Parliament HD
 rtp://239.186.84.45:10000
+#EXTINF:-1 ,TRACE VAULT
+rtp://239.186.74.147:10000
+#EXTINF:-1 ,CGTN DOCUMENTARY HD
+rtp://239.186.84.147:10000
+#EXTINF:-1 ,EarthxTV HD
+rtp://239.186.84.148:10000
+#EXTINF:-1 ,REUTERS HD
+rtp://239.186.84.164:10000
 #EXTGRP:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -301,8 +309,8 @@ rtp://239.186.70.101:10000
 rtp://239.186.68.251:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="https://static.epg.best/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
 rtp://239.186.68.156:10000
-#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE24
-rtp://239.186.64.123:10000
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
+rtp://239.186.84.162:10000
 #EXTINF:-1 tvg-id="Inplus.uk" tvg-name="INPLUS UK" tvg-logo="https://static.epg.best/uk/Inplus.uk.png" tvg-chno="219" channel-id="219",INPLUS HD
 rtp://239.186.70.75:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
@@ -453,8 +461,8 @@ rtp://239.186.74.105:10000
 rtp://239.186.84.37:10000
 #EXTINF:-1 ,rro tv HD
 rtp://239.186.68.243:10000
-#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv
-rtp://239.186.74.113:10000
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv HD
+rtp://239.186.70.97:10000
 #EXTINF:-1 ,More Than Sports TV HD
 rtp://239.186.70.28:10000
 #EXTINF:-1 ,Hit Express TV HD HD
@@ -477,8 +485,26 @@ rtp://239.186.84.95:10000
 rtp://239.186.84.1:10000
 #EXTINF:-1 , sky krimi
 rtp://239.186.74.132:10000
-#EXTINF:-1 tvg-id="craction.de" tvg-name="Craction DE" tvg-logo="https://static.epg.best/de/craction.de.png" tvg-chno="" channel-id="",craction HD
-rtp://239.186.70.26:10000
+#EXTINF:-1 ,I-TV HD (deu)
+rtp://239.186.70.91:10000
+#EXTINF:-1 ,Deutsches Musik Fernsehen HD
+rtp://239.186.70.96:10000
+#EXTINF:-1 ,xplore
+rtp://239.186.74.146:10000
+#EXTINF:-1 ,stimmungsgarten.tv
+rtp://239.186.74.148:10000
+#EXTINF:-1 ,One TERRA
+rtp://239.186.74.149:10000
+#EXTINF:-1 ,Just COOKING
+rtp://239.186.74.150:10000
+#EXTINF:-1 ,Hip Trips
+rtp://239.186.74.151:10000
+#EXTINF:-1 ,DLX ROCK
+rtp://239.186.74.152:10000
+#EXTINF:-1 ,DLX RAP
+rtp://239.186.74.153:10000
+#EXTINF:-1 ,DLX FLASHBACK
+rtp://239.186.74.154:10000
 #EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -544,10 +570,10 @@ rtp://239.186.70.72:10000
 rtp://239.186.84.125:10000
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="https://static.epg.best/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS HD
 rtp://239.186.84.98:10000
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="https://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",MEDIASET Boing I
-rtp://239.186.64.74:10000
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",MEDIASET cartoonito
-rtp://239.186.66.176:10000
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="https://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing HD
+rtp://239.186.84.142:10000
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",CARTOONITO HD
+rtp://239.186.84.139:10000
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24 IT" tvg-logo="https://static.epg.best/it/Tgcom24.it.png" tvg-chno="381" channel-id="381",MEDIASET TGCom24 HD
 rtp://239.186.84.86:10000
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://static.epg.best/it/Cine34.it.png" tvg-chno="" channel-id="",MEDIASET Cine34 HD
@@ -564,8 +590,8 @@ rtp://239.186.70.78:10000
 rtp://239.186.64.50:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="https://static.epg.best/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="https://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie
-rtp://239.186.66.185:10000
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="https://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie HD
+rtp://239.186.84.140:10000
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="https://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium
 rtp://239.186.66.183:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="https://static.epg.best/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp HD
@@ -624,6 +650,20 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
+#EXTINF:-1 ,BIKE CHANNEL
+rtp://239.186.74.145:10000
+#EXTINF:-1 ,TRENTINO TV HD
+rtp://239.186.84.141:10000
+#EXTINF:-1 ,telenuovo HD
+rtp://239.186.84.143:10000
+#EXTINF:-1 ,CAPRI SPORT HD
+rtp://239.186.84.150:10000
+#EXTINF:-1 ,RADIO ITALIA HD
+rtp://239.186.84.152:10000
+#EXTINF:-1 ,TELECUPOLE HD
+rtp://239.186.84.156:10000
+#EXTINF:-1 ,EXPLORER CHANNEL HD
+rtp://239.186.84.157:10000
 #EXTGRP:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
@@ -644,6 +684,8 @@ rtp://239.186.84.33:10000
 rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur ES" tvg-logo="https://static.epg.best/es/Telesur.es.png" tvg-chno="" channel-id="",teleSUR HD (spa)
 rtp://239.186.84.19:10000
+#EXTINF:-1 ,cvi HD Cuba Visio Internacional
+rtp://239.186.84.146:10000
 #EXTGRP:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
 rtp://239.186.64.199:10000
@@ -684,6 +726,20 @@ rtp://239.186.70.206:10000
 rtp://239.186.70.207:10000
 #EXTINF:-1 tvg-id="M5.hu" tvg-name="M5 HU" tvg-logo="https://static.epg.best/hu/M5.hu.png" tvg-chno="159" channel-id="159",M5 HD
 rtp://239.186.70.209:10000
+#EXTGRP:polonia
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA HD
+rtp://239.186.84.96:10000
+#EXTINF:-1 ,TVP INFO HD (pol)
+rtp://239.186.84.151:10000
+#EXTINF:-1 ,TVP POLONIA HD (pol)
+rtp://239.186.84.153:10000
+#EXTINF:-1 ,EPIC DRAMA HD (pol)
+rtp://239.186.70.99:10000
+#EXTGRP:ukrainian
+#EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
+rtp://239.186.74.98:10000
+#EXTINF:-1 ,1+1 YKPAÏHA HD (ukr)
+rtp://239.186.84.159:10000
 #EXTGRP:others foreign languages unlisted above
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
@@ -707,6 +763,8 @@ rtp://239.186.70.80:10000
 rtp://239.186.70.183:10000
 #EXTINF:-1 tvg-id="HRTint.hr" tvg-name="HRTint HR" tvg-logo="https://static.epg.best/hr/HRTint.hr" tvg-chno="446" channel-id="446",HRT int HD
 rtp://239.186.70.153:10000
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT4 HR" tvg-logo="https://static.epg.best/hr/HRT4.hr" tvg-chno="" channel-id="",HRT4 HD
+rtp://239.186.84.145:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
 rtp://239.186.66.141:10000
 #EXTINF:-1 tvg-id="Kurdistantv.iq" tvg-name="KurdistanTV IQ" tvg-logo="https://static.epg.best/iq/Kurdistantv.iq.png" tvg-chno="449" channel-id="449",Kurdistan TV HD
@@ -721,13 +779,11 @@ rtp://239.186.84.85:10000
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD
 rtp://239.186.68.247:10000
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA HD
-rtp://239.186.84.96:10000
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="https://static.epg.best/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV
 rtp://239.186.66.135:10000
 #EXTINF:-1 tvg-id="tvri.ro" tvg-name="TVRomania RO" tvg-logo="https://static.epg.best/ro/tvri.ro.png" tvg-chno="465" channel-id="465",TVRi TV Romania International
 rtp://239.186.66.148:10000
-#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 RO" tvg-logo="https://static.epg.best/ro/digi24.ro.png" tvg-chno="" channel-id="",Digi 24 (ro)
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 RO" tvg-logo="https://static.epg.best/ro/digi24.ro.png" tvg-chno="" channel-id="",Digi 24 (rom)
 rtp://239.186.74.64:10000
 #EXTINF:-1 tvg-id="z1.hr" tvg-name="Z1 HR" tvg-logo="https://static.epg.best/hr/z1.hr.png" tvg-chno="466" channel-id="466",Z1 TV
 rtp://239.186.66.149:10000
@@ -745,81 +801,11 @@ rtp://239.186.74.90:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
-rtp://239.186.74.98:10000
 #EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
-#EXTINF:-1 tvg-id="Adria.de" tvg-name="Adria SI" tvg-logo="https://static.epg.best/si/adria.si.png" tvg-chno="" channel-id="",ADRIA Music Television HD (svn)
+#EXTINF:-1 tvg-id="Adria.si" tvg-name="Adria SI" tvg-logo="https://static.epg.best/si/adria.si.png" tvg-chno="" channel-id="",ADRIA Music Television HD (svn)
 rtp://239.186.68.184:10000
 #EXTINF:-1 tvg-id="AlMasriya.eg" tvg-name="Al Masriya EG" tvg-logo="https://static.epg.best/eg/Almasria.eg.png" tvg-chno="" channel-id="",Al Masriya HD (ara)
 rtp://239.186.70.13:10000
-#EXTINF:-1 ,I-TV HD (deu)
-rtp://239.186.70.91:10000
-#EXTINF:-1 ,Deutsches Musik Fernsehen HD (deu)
-
-#EXTINF:-1 ,volksmusik.tv HD (deu)
-rtp://239.186.70.97:10000
-#EXTINF:-1 ,EPIC DRAMA HD (pol)
-rtp://239.186.70.99:10000
-#EXTINF:-1 ,CANAL+ BOX OFFICE HD (fra)
-rtp://239.186.70.100:10000
-#EXTINF:-1 ,CANAL+ BOX OFFICE (fra)
-rtp://239.186.74.142:10000
-#EXTINF:-1 ,BIKE CHANNEL (ita)
-rtp://239.186.74.145:10000
-#EXTINF:-1 ,xplore (deu)
-rtp://239.186.74.146:10000
-#EXTINF:-1 ,TRACE VAULT (eng)
-rtp://239.186.74.147:10000
-#EXTINF:-1 ,Stimmungs garten TV (deu)
-rtp://239.186.74.148:10000
-#EXTINF:-1 ,One TERRA (deu)
-rtp://239.186.74.149:10000
-#EXTINF:-1 ,Just COOKING (deu)
-rtp://239.186.74.150:10000
-#EXTINF:-1 ,Hip Trips (deu)
-rtp://239.186.74.151:10000
-#EXTINF:-1 ,DLX ROCK (deu)
-rtp://239.186.74.152:10000
-#EXTINF:-1 ,DLX RAP (deu)
-rtp://239.186.74.153:10000
-#EXTINF:-1 ,DLX FLASHBACK (deu)
-rtp://239.186.74.154:10000
-#EXTINF:-1 ,CARTOONITO HD (ita)
-rtp://239.186.84.139:10000
-#EXTINF:-1 ,Rai Movies HD (ita)
-rtp://239.186.84.140:10000
-#EXTINF:-1 ,TRENTINO TV HD (ita)
-rtp://239.186.84.141:10000
-#EXTINF:-1 ,Boing HD (ita) 
-rtp://239.186.84.142:10000
-#EXTINF:-1 ,telenuovo HD (ita)
-rtp://239.186.84.143:10000
 #EXTINF:-1 ,TOP NEWS HD (alb)
 rtp://239.186.84.144:10000
-#EXTINF:-1 ,HRT4 HD (hrv)
-rtp://239.186.84.145:10000
-#EXTINF:-1 ,cvi HD (spa) Cuba Visio Internacional
-rtp://239.186.84.146:10000
-#EXTINF:-1 ,CGTN DOCUMENTARY HD (eng)
-rtp://239.186.84.147:10000
-#EXTINF:-1 ,EarthxTV HD (eng)
-rtp://239.186.84.148:10000
-#EXTINF:-1 ,CAPRI SPORT HD (ita)
-rtp://239.186.84.150:10000
-#EXTINF:-1 ,TVP INFO HD (pol)
-rtp://239.186.84.151:10000
-#EXTINF:-1 ,RADIO ITALIA HD (ita)
-rtp://239.186.84.152:10000
-#EXTINF:-1 ,TVP POLONIA HD (pol)
-rtp://239.186.84.153:10000
-#EXTINF:-1 ,TELECUPOLE HD (ita)
-rtp://239.186.84.156:10000
-#EXTINF:-1 ,EXPLORER CHANNEL HD (ita)
-rtp://239.186.84.157:10000
-#EXTINF:-1 ,1+1 YKPAÏHA HD (ukr)
-rtp://239.186.84.159:10000
-#EXTINF:-1 ,HSE HD (deu)
-rtp://239.186.84.162:10000
-#EXTINF:-1 ,REUTERS HD (eng)
-rtp://239.186.84.164:10000
