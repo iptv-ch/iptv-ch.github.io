@@ -285,10 +285,6 @@ rtp://239.186.68.26:10000
 rtp://239.186.70.103:10000
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="https://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
 rtp://239.186.68.216:10000
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201",DELUXE MUSIC
-rtp://239.186.64.132:10000
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen
-rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="https://static.epg.best/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
 rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
@@ -757,10 +753,10 @@ rtp://239.186.84.107:10000
 rtp://239.186.68.184:10000
 #EXTINF:-1 tvg-id="AlMasriya.eg" tvg-name="Al Masriya EG" tvg-logo="https://static.epg.best/eg/Almasria.eg.png" tvg-chno="" channel-id="",Al Masriya HD (ara)
 rtp://239.186.70.13:10000
-#EXTINF:-1 ,gloria.tv HD (deu)
+#EXTINF:-1 ,I-TV HD (deu)
 rtp://239.186.70.91:10000
-#EXTINF:-1 ,Deutsches Musik TV HD (deu)
-rtp://239.186.70.96:10000
+#EXTINF:-1 ,Deutsches Musik Fernsehen HD (deu)
+
 #EXTINF:-1 ,volksmusik.tv HD (deu)
 rtp://239.186.70.97:10000
 #EXTINF:-1 ,EPIC DRAMA HD (pol)
@@ -783,16 +779,12 @@ rtp://239.186.74.149:10000
 rtp://239.186.74.150:10000
 #EXTINF:-1 ,Hip Trips (deu)
 rtp://239.186.74.151:10000
-#EXTINF:-1 ,ROCK HITS DLX (deu)
+#EXTINF:-1 ,DLX ROCK (deu)
 rtp://239.186.74.152:10000
-#EXTINF:-1 ,TOTAL RAP DLX (deu)
+#EXTINF:-1 ,DLX RAP (deu)
 rtp://239.186.74.153:10000
-#EXTINF:-1 ,PERFECT MEMORIES DLX (deu)
+#EXTINF:-1 ,DLX FLASHBACK (deu)
 rtp://239.186.74.154:10000
-#EXTINF:-1 ,CANAL+ GRAND ECRAN (fra)
-rtp://239.186.74.156:10000
-#EXTINF:-1 ,teve1 HD (alb)
-rtp://239.186.84.132:10000
 #EXTINF:-1 ,CARTOONITO HD (ita)
 rtp://239.186.84.139:10000
 #EXTINF:-1 ,Rai Movies HD (ita)
@@ -803,7 +795,7 @@ rtp://239.186.84.141:10000
 rtp://239.186.84.142:10000
 #EXTINF:-1 ,telenuovo HD (ita)
 rtp://239.186.84.143:10000
-#EXTINF:-1 ,TOP CHANNEL NEWS HD (alb)
+#EXTINF:-1 ,TOP NEWS HD (alb)
 rtp://239.186.84.144:10000
 #EXTINF:-1 ,HRT4 HD (hrv)
 rtp://239.186.84.145:10000
@@ -831,5 +823,3 @@ rtp://239.186.84.159:10000
 rtp://239.186.84.162:10000
 #EXTINF:-1 ,REUTERS HD (eng)
 rtp://239.186.84.164:10000
-#EXTINF:-1 ,CANAL+ GRAND ECRAN HD (fra)
-rtp://239.186.84.166:10000
