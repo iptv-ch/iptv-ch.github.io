@@ -160,14 +160,13 @@ rtp://239.186.68.139:10000
 rtp://239.186.70.201:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="http://static.epg.best/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
 rtp://239.186.70.4:10000
-
 #EXTGRP:kinder
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="http://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
-rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.epg.best/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
 rtp://239.186.68.28:10000
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
+rtp://239.186.64.116:10000
 #EXTGRP:Aktuelle Nachrichten
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="http://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
 rtp://239.186.68.202:10000
@@ -239,18 +238,18 @@ rtp://239.186.68.174:10000
 rtp://239.186.70.126:10000
 #EXTINF:-1 tvg-id="pilatus.ch" tvg-name="Pilatus CH" tvg-logo="http://static.epg.best/ch/pilatus.ch.png" tvg-chno="190" channel-id="190",radio Pilatus HD
 rtp://239.186.68.104:10000
-#EXTINF:-1 ,Folx Music Television HD
-rtp://239.186.68.121:10000
-#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="http://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv HD
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="http://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv HD
 rtp://239.186.70.97:10000
 #EXTINF:-1 ,hitexpress.tv HD
 rtp://239.186.84.22:10000
-#EXTINF:-1 ,Stimmungs garten TV
+#EXTINF:-1 ,stimmungsgarten.tv
 rtp://239.186.74.148:10000
 #EXTINF:-1 tvg-id="ONEmusic.de" tvg-name="One Music DE" tvg-logo="http://static.epg.best/de/onemusic.de.png" tvg-chno="" channel-id="",ONE 1 Music TV HD
 rtp://239.186.70.214:10000
 #EXTINF:-1 tvg-id="ZWEImusic.de" tvg-name="Zwei Music DE" tvg-logo="http://static.epg.best/de/zweimusic.de.png" tvg-chno="" channel-id="",ZWEI 2 Music TV HD
 rtp://239.186.70.204:10000
+#EXTINF:-1 ,Folx Music Television HD
+rtp://239.186.68.121:10000
 #EXTINF:-1 tvg-id="SCHLAGERPARADIES.de" tvg-name="SCHLAGER PARADIES DE" tvg-logo="http://static.epg.best/de/SCHLAGERPARADIES.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES TV HD / Sonnenklar.tv HD
 rtp://239.186.84.37:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen HD
@@ -263,9 +262,9 @@ rtp://239.186.74.15:10000
 rtp://239.186.68.207:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="http://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="121" channel-id="121",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 ,DLX ROCK
+#EXTINF:-1 tvg-id="DeluxeMusicRock.de" tvg-name="Deluxe Music Rock DE" tvg-logo="http://static.epg.best/de/DeluxeMusicRock.de.png" tvg-chno="" channel-id="" group-title="music",DLX ROCK
 rtp://239.186.74.152:10000
-#EXTINF:-1 ,DLX RAP DLX
+#EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music RAP DE" tvg-logo="http://static.epg.best/de/DeluxeMusicRAP.de.png" tvg-chno="" channel-id="" group-title="music",DLX RAP
 rtp://239.186.74.153:10000
-#EXTINF:-1 ,DLX FLASHBACK
+#EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music FLASHBACK DE" tvg-logo="http://static.epg.best/de/DeluxeMusicFlashback.de.png" tvg-chno="" channel-id="" group-title="music",DLX FLASHBACK
 rtp://239.186.74.154:10000
