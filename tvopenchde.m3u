@@ -89,6 +89,8 @@ rtp://239.186.68.10:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://static.epg.best/de/voxup.de.png" tvg-chno="135" channel-id="135",VOXup
 rtp://239.186.74.70:10000
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
+rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="http://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
 rtp://239.186.68.14:10000
 #EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="http://static.epg.best/ch/4Plus.ch.png" tvg-chno="177" channel-id="177",4+ HD
@@ -107,8 +109,6 @@ rtp://239.186.70.20:10000
 rtp://239.186.68.97:10000
 #EXTINF:-1 ,Helvetia One TV HD
 rtp://239.186.70.103:10000
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="http://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",eoTV RiC
-rtp://239.186.64.129:10000
 #EXTGRP:regio
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="http://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
 rtp://239.186.68.216:10000
@@ -250,14 +250,14 @@ rtp://239.186.70.214:10000
 rtp://239.186.70.204:10000
 #EXTINF:-1 ,Folx Music Television HD
 rtp://239.186.68.121:10000
-#EXTINF:-1 tvg-id="SCHLAGERPARADIES.de" tvg-name="SCHLAGER PARADIES DE" tvg-logo="http://static.epg.best/de/SCHLAGERPARADIES.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES TV HD / Sonnenklar.tv HD
-rtp://239.186.84.37:10000
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen HD
-rtp://239.186.70.96:10000
 #EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="http://static.epg.best/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="melodietv.at" tvg-name="Melodie.tv AT" tvg-logo="http://static.epg.best/at/melodietv.at.png" tvg-chno="231" channel-id="231",Melodie.tv
 rtp://239.186.74.15:10000
+#EXTINF:-1 tvg-id="SCHLAGERPARADIES.de" tvg-name="SCHLAGER PARADIES DE" tvg-logo="http://static.epg.best/de/SCHLAGERPARADIES.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES TV HD / Sonnenklar.tv HD
+rtp://239.186.84.37:10000
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen HD
+rtp://239.186.70.96:10000
 #EXTINF:-1 tvg-id="Musig24.ch" tvg-name="Musig24 CH" tvg-logo="http://static.epg.best/ch/Musig24.ch.png" tvg-chno="234" channel-id="234",musig24 HD
 rtp://239.186.68.207:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="http://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="121" channel-id="121",SCHLAGER DELUXE
