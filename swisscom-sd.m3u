@@ -114,11 +114,11 @@ rtp://239.186.66.142:10000
 rtp://239.186.66.114:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
 rtp://239.186.64.183:10000
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",Now 70s
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",NOW 70s
 rtp://239.186.74.108:10000
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s UK" tvg-logo="https://static.epg.best/gb/Now80s.uk.png" tvg-chno="" channel-id="",Now 80s
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s UK" tvg-logo="https://static.epg.best/gb/Now80s.uk.png" tvg-chno="" channel-id="",NOW 80s
 rtp://239.186.74.106:10000
-#EXTINF:-1 tvg-id="Now90s.uk" tvg-name="Now 90s UK" tvg-logo="https://static.epg.best/gb/Now90s.uk.png" tvg-chno="140" channel-id="140",Now 90s
+#EXTINF:-1 tvg-id="NowRock.uk" tvg-name="Now Rock UK" tvg-logo="https://static.epg.best/gb/Nowrock.uk.png" tvg-chno="140" channel-id="140",NOW Rock
 rtp://239.186.66.133:10000
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="https://static.epg.best/gb/ClublandTV.uk.png" tvg-chno="141" channel-id="141",Clubland
 rtp://239.186.66.116:10000
@@ -192,7 +192,7 @@ rtp://239.186.74.107:10000
 rtp://239.186.74.53:10000
 #EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies UK" tvg-logo="https://static.epg.best/gb/GreatMovies.uk.png" tvg-chno="" channel-id="",GREAT! movies
 rtp://239.186.74.55:10000
-#EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
+#EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! action
 rtp://239.186.74.58:10000
 #EXTREM:-1 tvg-id="4music.uk" tvg-name="4Music UK" tvg-logo="https://static.epg.best/gb/4Music.uk.png" tvg-chno="" channel-id="",4Music (eng)
 rtp://239.186.74.2:10000
@@ -227,8 +227,6 @@ rtp://239.186.64.131:10000
 rtp://239.186.64.26:10000
 #EXTINF:-1 tvg-id="Channel55.ch" tvg-name="Channel55 CH" tvg-logo="https://static.epg.best/ch/Channel55.ch.png" tvg-chno="198" channel-id="198",Channel55 D
 rtp://239.186.66.238:10000
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://static.epg.best/de/DeLuxeMusic.de.png" tvg-chno="201" channel-id="201",DELUXE MUSIC
-rtp://239.186.64.132:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="https://static.epg.best/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
@@ -245,7 +243,7 @@ rtp://239.186.64.137:10000
 rtp://239.186.64.115:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="https://static.epg.best/de/HR.de.png" tvg-chno="216" channel-id="216",hr
 rtp://239.186.64.28:10000
-#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE24
+#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE DE" tvg-logo="https://static.epg.best/de/HSE.de.png" tvg-chno="218" channel-id="218",HSE
 rtp://239.186.64.123:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
 rtp://239.186.64.20:10000
@@ -273,7 +271,7 @@ rtp://239.186.64.186:10000
 rtp://239.186.64.140:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://static.epg.best/de/ntv.de.png" tvg-chno="241" channel-id="241",ntv
 rtp://239.186.64.29:10000
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="https://static.epg.best/at/ORF1.at.png" tvg-chno="244" channel-id="244",ORF1 eins
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="https://static.epg.best/at/ORF1.at.png" tvg-chno="244" channel-id="244",ORF1
 rtp://239.186.64.13:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="https://static.epg.best/at/ORF2.at.png" tvg-chno="246" channel-id="246",ORF2
 rtp://239.186.64.14:10000
@@ -371,11 +369,11 @@ rtp://239.186.74.149:10000
 rtp://239.186.74.150:10000
 #EXTINF:-1 ,Hip Trips (deu)
 rtp://239.186.74.151:10000
-#EXTINF:-1 ,DLX ROCK HITS  (deu)
+#EXTINF:-1 ,DLX ROCK  (deu)
 rtp://239.186.74.152:10000
-#EXTINF:-1 ,DLX TOTAL RAP  (deu)
+#EXTINF:-1 ,DLX RAP  (deu)
 rtp://239.186.74.153:10000
-#EXTINF:-1 ,DLX PERFECT MEMORIES  (deu)
+#EXTINF:-1 ,DLX FLASHBACK  (deu)
 rtp://239.186.74.154:10000
 #EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
