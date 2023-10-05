@@ -194,6 +194,8 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
 rtp://239.186.74.58:10000
+#EXTINF:-1 ,4Music (eng)
+rtp://239.186.74.2:10000
 #EXTINF:-1 ,TRACE VAULT (eng)
 rtp://239.186.74.147:10000
 #EXTGRP:german
