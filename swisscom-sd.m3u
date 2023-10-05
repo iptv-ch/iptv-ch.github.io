@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTREM:-1 tvg-id="Name.tld" tvg-name="name TLD" tvg-logo="https://static.epg.best/tld/name.tld.png" tvg-chno="" channel-id="",name
 #EXTEPG url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
-#PLAYLIST: bluetv channel free open standard size 576i, codec video h.264 only with on host Swisscom network or partners multicast.
+#PLAYLIST: bluetv channel free open standard size 576i, codec video h.264 only on host Swisscom network or partners of multicast network
 #EXTGRP:french
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
-#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS1" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS1
 rtp://239.186.64.5:10000
-#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS Deux
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS2" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS2
 rtp://239.186.64.6:10000
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" tvg-chno="99" channel-id="99",TF1 CH
 rtp://239.186.64.35:10000
@@ -43,7 +43,7 @@ rtp://239.186.64.144:10000
 rtp://239.186.64.146:10000
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" tvg-chno="37" channel-id="37",BFMTV CH
 rtp://239.186.64.72:10000
-#EXTINF:-1 tvg-id="BoosterTV.ch" tvg-name="Booster TV CH" tvg-logo="https://static.epg.best/ch/BoosterTV.ch.png" tvg-chno="39" channel-id="39",carac4 (ex tv suisse plus)
+#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="https://static.epg.best/ch/carac4.ch.png" tvg-chno="39" channel-id="39",carac4 (ex tv suisse plus)
 rtp://239.186.66.239:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9 CH" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
@@ -61,7 +61,7 @@ rtp://239.186.66.225:10000
 rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" tvg-chno="64" channel-id="64",gulli
 rtp://239.186.66.23:10000
-#EXTINF:-1 tvg-id="i24News.fr" tvg-name="I24News FR" tvg-logo="https://rcp.scsstatic.ch/etc/swisscom/servlets/public/channellist.M9_2rS.png/logos/i24_news_francais_116x62_msblack_png.png" tvg-chno="66" channel-id="66",i24 NEWS F
+#EXTINF:-1 tvg-id="i24News.fr" tvg-name="I24News FR" tvg-logo="https://static.epg.best/fr/i24news.fr.png" tvg-chno="66" channel-id="66",i24 NEWS F
 rtp://239.186.66.174:10000
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://static.epg.best/fr/CNews.fr.png" tvg-chno="68" channel-id="68",CNEWS
 rtp://239.186.66.25:10000
@@ -79,9 +79,9 @@ rtp://239.186.64.102:10000
 rtp://239.186.66.198:10000
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV CH" tvg-logo="https://static.epg.best/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",Carac1 (ex rouge tv)
+#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="https://static.epg.best/ch/carac1.ch.png" tvg-chno="88" channel-id="88",carac1 (ex rouge tv)
 rtp://239.186.64.145:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV Genève Region TV
 rtp://239.186.64.69:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV 5 Monde Europe FR" tvg-logo="https://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
@@ -194,6 +194,8 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! movies action
 rtp://239.186.74.58:10000
+#EXTINF:-1 ,TRACE VAULT (eng)
+rtp://239.186.74.147:10000
 #EXTGRP:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -263,7 +265,7 @@ rtp://239.186.64.32:10000
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="https://static.epg.best/de/ndr.de.png" tvg-chno="236" channel-id="236",NDR
 rtp://239.186.64.25:10000
-#EXTINF:-1 tvg-id="Nick.ch" tvg-name="Nick CH" tvg-logo="https://static.epg.best/ch/Nick.ch.png" tvg-chno="238" channel-id="238",7+ / nick Schweiz
+#EXTINF:-1 tvg-id="7plus.ch" tvg-name="7+ CH" tvg-logo="https://static.epg.best/ch/7Plus.ch.png" tvg-chno="238" channel-id="238",7+
 rtp://239.186.64.186:10000
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="https://static.epg.best/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
 rtp://239.186.64.140:10000
@@ -357,6 +359,22 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 tvg-id="morethansports.de" tvg-name="More Than Sports DE" tvg-logo="https://static.epg.best/de/morethansports.de.png" tvg-chno="205" channel-id="205",More Than Sports D
 rtp://239.186.66.241:10000
+#EXTINF:-1 ,xplore (deu)
+rtp://239.186.74.146:10000
+#EXTINF:-1 ,stimmungsgarten.tv (deu)
+rtp://239.186.74.148:10000
+#EXTINF:-1 ,One TERRA (deu)
+rtp://239.186.74.149:10000
+#EXTINF:-1 ,justcooking.tv (deu)
+rtp://239.186.74.150:10000
+#EXTINF:-1 ,Hip Trips (deu)
+rtp://239.186.74.151:10000
+#EXTINF:-1 ,DLX ROCK HITS  (deu)
+rtp://239.186.74.152:10000
+#EXTINF:-1 ,DLX TOTAL RAP  (deu)
+rtp://239.186.74.153:10000
+#EXTINF:-1 ,DLX PERFECT MEMORIES  (deu)
+rtp://239.186.74.154:10000
 #EXTGRP:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -488,6 +506,8 @@ rtp://239.186.74.85:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 tvg-id="twentyseven.it" tvg-name="twenty seven IT" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
 rtp://239.186.74.114:10000
+#EXTINF:-1 ,BIKE CHANNEL (ita)
+rtp://239.186.74.145:10000
 #EXTGRP:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
@@ -586,23 +606,3 @@ rtp://239.186.74.89:10000
 rtp://239.186.74.90:10000
 #EXTINF:-1 ,YKPAÏHA 24  / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,BIKE CHANNEL (ita)
-rtp://239.186.74.145:10000
-#EXTINF:-1 ,xplore (deu)
-rtp://239.186.74.146:10000
-#EXTINF:-1 ,TRACE VAULT (eng)
-rtp://239.186.74.147:10000
-#EXTINF:-1 ,Stimmungs garten TV (deu)
-rtp://239.186.74.148:10000
-#EXTINF:-1 ,One TERRA (deu)
-rtp://239.186.74.149:10000
-#EXTINF:-1 ,Just COOKING (deu)
-rtp://239.186.74.150:10000
-#EXTINF:-1 ,Hip Trips (deu)
-rtp://239.186.74.151:10000
-#EXTINF:-1 ,ROCK HITS DLX (deu)
-rtp://239.186.74.152:10000
-#EXTINF:-1 ,TOTAL RAP DLX (deu)
-rtp://239.186.74.153:10000
-#EXTINF:-1 ,PERFECT MEMORIES DLX (deu)
-rtp://239.186.74.154:10000
