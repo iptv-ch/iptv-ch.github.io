@@ -3,7 +3,7 @@
 #EXTEPG url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
 #PLAYLIST: bluetv channel free open standard size 576i, codec video h.264 only on host Swisscom network or partners of multicast network
 #EXTGRP:french
-#EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
+#EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue Zoom F CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS1" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS1
 rtp://239.186.64.5:10000
