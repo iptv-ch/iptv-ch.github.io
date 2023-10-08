@@ -483,8 +483,6 @@ rtp://239.186.84.80:10000
 rtp://239.186.84.95:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
-#EXTINF:-1 , sky krimi
-rtp://239.186.74.132:10000
 #EXTINF:-1 ,I-TV HD (deu)
 rtp://239.186.70.91:10000
 #EXTINF:-1 ,Deutsches Musik Fernsehen HD
