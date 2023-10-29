@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTurl-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #PLAYLIST: blue tv / net+ channels free
+#EXTREM:french
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
@@ -113,7 +114,7 @@ rtp://239.186.74.97:10000
 rtp://239.186.68.111:10000
 #EXTINF:-1 tvg-id="Altamegaplus.ch" tvg-name="Altamegaplus CH" tvg-logo="https://static.epg.best/ch/Altamegaplus.ch.png" tvg-chno="92" channel-id="92" ,ALTAMEGA PLUS HD
 rtp://239.186.84.106:10000
-#EXTREM: Promotions temporaires
+#EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
 #EXTINF:-1 tvg-id="C17.api.telerama.fr" tvg-name="BBC2 UK" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" tvg-chno="91" channel-id="91",BBC Two HD
@@ -242,6 +243,7 @@ rtp://239.186.84.147:10000
 rtp://239.186.84.148:10000
 #EXTINF:-1 ,REUTERS HD
 rtp://239.186.84.164:10000
+#EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
@@ -500,6 +502,7 @@ rtp://239.186.74.152:10000
 rtp://239.186.74.153:10000
 #EXTINF:-1 ,DLX FLASHBACK
 rtp://239.186.74.154:10000
+#EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
 #EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="https://static.epg.best/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 HD
@@ -658,10 +661,12 @@ rtp://239.186.84.152:10000
 rtp://239.186.84.156:10000
 #EXTINF:-1 ,EXPLORER CHANNEL HD
 rtp://239.186.84.157:10000
+#EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Int.
 rtp://239.186.64.77:10000
+#EXTREM:spanish
 #EXTINF:-1 tvg-id="Aragonint.es" tvg-name="Aragon int ES" tvg-logo="https://static.epg.best/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int
 rtp://239.186.66.62:10000
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas HD
@@ -678,6 +683,7 @@ rtp://239.186.68.178:10000
 rtp://239.186.84.19:10000
 #EXTINF:-1 ,cvi HD Cuba Visio Internacional
 rtp://239.186.84.146:10000
+#EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
 rtp://239.186.64.199:10000
 #EXTINF:-1 tvg-id="Eurostar.tr" tvg-name="Eurostar TR" tvg-logo="https://static.epg.best/tr/Eurostar.tr.png" tvg-chno="425" channel-id="425",EURO STAR
@@ -706,6 +712,7 @@ rtp://239.186.70.187:10000
 rtp://239.186.70.198:10000
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk TR" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="" channel-id="",CNN Turk
 rtp://239.186.74.75:10000
+#EXTREM:others foreign language not listed above
 #EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="https://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
 rtp://239.186.70.205:10000
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World HU" tvg-logo="https://static.epg.best/hu/DunaWorld.hu.png" tvg-chno="442" channel-id="442",DUNA WORLD HD
