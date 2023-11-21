@@ -116,6 +116,8 @@ rtp://239.186.70.12:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="",carac4 HD (ex TV SUISSE PLUS)
 rtp://239.186.70.104:10000
+#EXTINF:-1 ,Rhone TV HD
+rtp://239.186.84.172:10000
 #EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
