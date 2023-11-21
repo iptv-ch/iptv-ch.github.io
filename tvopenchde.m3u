@@ -160,6 +160,8 @@ rtp://239.186.68.139:10000
 rtp://239.186.70.201:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
 rtp://239.186.70.4:10000
+#EXTINF:-1 ,TV RT HD (deu) TV  = TV Rheintal HD
+rtp://239.186.84.171:10000
 #EXTREM:kinder
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
