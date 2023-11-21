@@ -106,6 +106,8 @@ rtp://239.186.70.132:10000
 rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="https://static.epg.best/ch/verniervisions.ch.png" tvg-chno="88" channel-id="88",Vernier Visions HD
 rtp://239.186.70.203:10000
+#EXTINF:-1 ,Rhone TV HD
+rtp://239.186.84.172:10000
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue Zoom F CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="89" channel-id="89",blue ZOOM F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="90" channel-id="90",ortb
@@ -502,6 +504,8 @@ rtp://239.186.74.152:10000
 rtp://239.186.74.153:10000
 #EXTINF:-1 ,DLX FLASHBACK
 rtp://239.186.74.154:10000
+#EXTINF:-1 ,TV RT HD (deu) TV   TV Rheintal HD
+rtp://239.186.84.171:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -603,6 +607,8 @@ rtp://239.186.70.111:10000
 rtp://239.186.70.84:10000
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="https://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport HD
 rtp://239.186.70.2:10000
+#EXTINF:-1 ,Rai Italia HD
+rtp://239.186.84.131:10000
 #EXTINF:-1 tvg-id="radionorba.it" tvg-name="radionorba IT" tvg-logo="https://static.epg.best/it/Radionorba.it.png" tvg-chno="140" channel-id="140",radionorba TV HD
 rtp://239.186.84.20:10000
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5TV IT" tvg-logo="https://static.epg.best/it/RTL1025TV.it.png" tvg-chno="141" channel-id="141",RTL 102.5 TV HD
@@ -735,6 +741,8 @@ rtp://239.186.70.99:10000
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,1+1 YKPAÏHA HD (ukr)
 rtp://239.186.84.159:10000
+#EXTINF:-1 ,Espreso TV (ukr)
+rtp://239.186.74.158:10000
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="https://static.epg.best/qa/AlJazeeraArabic.qa.png" tvg-chno="151" channel-id="151",ALJAZEERA Arabic HD
