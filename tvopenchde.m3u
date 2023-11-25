@@ -202,8 +202,6 @@ rtp://239.186.68.148:10000
 rtp://239.186.68.251:10000
 #EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV DE" tvg-logo="https://static.epg.best/de/KTV.de.png" tvg-chno="227" channel-id="227",k-tv HD
 rtp://239.186.84.137:10000
-#EXTINF:-1 tvg-id="I-TV.de" tvg-name="I-TV DE" tvg-logo="https://static.epg.best/de/I-TV.de.png" tvg-chno="" channel-id="",I-TV HD
-rtp://239.186.70.91:10000
 #EXTREM:reise
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
