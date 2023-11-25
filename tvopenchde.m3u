@@ -107,7 +107,7 @@ rtp://239.186.68.190:10000
 rtp://239.186.70.20:10000
 #EXTINF:-1 tvg-id="Swiss1.ch" tvg-name="Swiss1 CH" tvg-logo="https://static.epg.best/ch/Swiss1.ch.png" tvg-chno="292" channel-id="292",swiss1.tv HD
 rtp://239.186.68.97:10000
-#EXTREM: #EXTINF:-1 tvg-id="HelvetiaOneTV.ch" tvg-name="HelvetiaOneTV CH" tvg-logo="" tvg-chno="https://static.epg.best/ch/HelvetiaOneTV.ch.png" channel-id="" group-title="(Generalist)",Helvetia One TV HD
+#EXTINF:-1 tvg-id="HelvetiaOneTV.ch" tvg-name="HelvetiaOneTV CH" tvg-logo="" tvg-chno="https://static.epg.best/ch/HelvetiaOneTV.ch.png" channel-id="" group-title="(Generalist)",Helvetia One TV HD
 rtp://239.186.70.103:10000
 #EXTREM:regio
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="https://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
@@ -116,7 +116,7 @@ rtp://239.186.68.216:10000
 rtp://239.186.68.243:10000
 #EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="https://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
-#EXTREM: #EXTINF:-1 tvg-id="lilotv.ch" tvg-name="lilo tv CH" tvg-logo="https://static.epg.best/ch/lilotv.ch.png" tvg-chno="" channel-id="" group-title="(No group)",lilo TV
+#EXTINF:-1 tvg-id="lilotv.ch" tvg-name="lilo tv CH" tvg-logo="https://static.epg.best/ch/lilotv.ch.png" tvg-chno="" channel-id="" group-title="(No group)",lilo TV
 rtp://239.186.74.82:10000
 #EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-name="Regio TV Bodensee DE" tvg-logo="https://static.epg.best/de/RegioTVBodensee.de.png" tvg-chno="193" channel-id="193",BTV Bodensee TV HD
 rtp://239.186.68.143:10000
@@ -186,7 +186,7 @@ rtp://239.186.84.67:10000
 rtp://239.186.70.119:10000
 #EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://static.epg.best/de/Welt.de.png" tvg-chno="336" channel-id="336",WeLT
 rtp://239.186.64.30:10000
-#EXTREM: #EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",Just COOKING
+#EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",Just COOKING
 rtp://239.186.74.150:10000
 #EXTREM:film, comedy, doku
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
