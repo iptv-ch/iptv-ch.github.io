@@ -93,11 +93,11 @@ rtp://239.186.84.18:10000
 rtp://239.186.66.182:10000
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia IT" tvg-logo="http://static.epg.best/it/RaiStoria.it.png" tvg-chno="400" channel-id="400",Rai Storia HD
 rtp://239.186.70.110:10000
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://static.epg.best/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://static.epg.best/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola HD
 rtp://239.186.70.111:10000
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://static.epg.best/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24 HD
 rtp://239.186.70.84:10000
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport+ IT" tvg-logo="http://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="398" channel-id="398",Rai Sport+ HD
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RaiSport IT" tvg-logo="http://static.epg.best/it/RaiSport.it.png" tvg-chno="398" channel-id="398",Rai Sport HD
 rtp://239.186.70.2:10000
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia IT" tvg-logo="http://static.epg.best/it/RaiItalia.it.png" tvg-chno="" channel-id="",Rai Italia HD
 rtp://239.186.84.131:10000
