@@ -508,8 +508,6 @@ rtp://239.186.74.59:10000
 rtp://239.186.74.114:10000
 #EXTINF:-1 ,BIKE CHANNEL
 rtp://239.186.74.145:10000
-#EXTINF:-1 ,Rai Italia
-rtp://239.186.74.141:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
