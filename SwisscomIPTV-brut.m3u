@@ -807,13 +807,13 @@ rtp://239.186.66.232:10000
 rtp://239.186.66.233:10000
 #EXTINF:-1,Universal Channel (deu)
 rtp://239.186.66.234:10000
-#EXTINF:-1,Sony Channel (AC3 deu)
+#EXTINF:-1,AXN White (AC3 deu)
 rtp://239.186.66.237:10000
-#EXTINF:-1,Helvetia One TV
+#EXTINF:-1,ON-TV
 rtp://239.186.66.238:10000
 #EXTINF:-1,carac4 (ex TV Suisseplus)
 rtp://239.186.66.239:10000
-#EXTINF:-1,VH1 Italy
+#EXTINF:-1,VH1 Italia
 rtp://239.186.66.240:10000
 #EXTINF:-1,More Than Sports TV
 rtp://239.186.66.241:10000
@@ -1529,7 +1529,7 @@ rtp://239.186.70.100:10000
 rtp://239.186.70.101:10000
 #EXTINF:-1,i24 News F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1,Helvetia One TV HD
+#EXTINF:-1,ON-TV HD
 rtp://239.186.70.103:10000
 #EXTINF:-1,carac4 HD (ex TV Suisseplus HD)
 rtp://239.186.70.104:10000
@@ -2357,6 +2357,8 @@ rtp://239.186.84.130:10000
 rtp://239.186.84.131:10000
 #EXTINF:-1 ,teve1 HD (alb)
 rtp://239.186.84.132:10000
+#EXTINF:-1 ,WEF HD (eng)
+rtp://239.186.84.133:10000
 #EXTINF:-1 ,k-tv HD (deu)
 rtp://239.186.84.137:10000
 #EXTINF:-1 ,CARTOONITO HD (ita)
