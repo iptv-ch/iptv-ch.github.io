@@ -125,7 +125,7 @@ rtp://239.186.64.64:10000
 rtp://239.186.64.65:10000
 #EXTINF:-1,ZDFneo (AC3 deu)
 rtp://239.186.64.66:10000
-#EXTINF:-1,Sony AXN (deu)
+#EXTINF:-1,AXN black (deu)
 rtp://239.186.64.67:10000
 #EXTINF:-1,Eurosport 2 D (AC3 deu)
 rtp://239.186.64.68:10000
@@ -881,7 +881,7 @@ rtp://239.186.68.20:10000
 rtp://239.186.68.21:10000
 #EXTINF:-1,Zico TV HD
 rtp://239.186.68.22:10000
-#EXTINF:-1,Sony AXN HD (deu)
+#EXTINF:-1,AXN black HD (deu)
 rtp://239.186.68.23:10000
 #EXTINF:-1,WDR HD Koln (AAC deu)
 rtp://239.186.68.24:10000
@@ -1501,7 +1501,7 @@ rtp://239.186.70.82:10000
 rtp://239.186.70.83:10000
 #EXTINF:-1,Rai News 24 HD
 rtp://239.186.70.84:10000
-#EXTINF:-1,Sony Channel HD (AC3 deu)
+#EXTINF:-1,AXN White HD (AC3 deu)
 rtp://239.186.70.85:10000
 #EXTINF:-1,kabel eins Doku CH HD (AC3)
 rtp://239.186.70.86:10000
