@@ -139,8 +139,6 @@ rtp://239.186.66.142:10000
 rtp://239.186.70.90:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="101" channel-id="101",Channel4 HD
 rtp://239.186.68.40:10000
-#EXTINF:-1 tvg-id="Tracehits.uk" tvg-name="Trace Hits UK" tvg-logo="https://static.epg.best/uk/tracehits.uk.png" tvg-chno="102" channel-id="102",TRACE Hits
-rtp://239.186.66.115:10000
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="https://static.epg.best/uk/ClublandTV.uk.png" tvg-chno="104" channel-id="104",Clubland TV
 rtp://239.186.66.116:10000
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="https://static.epg.best/uk/CNBC.uk.png" tvg-chno="105" channel-id="105",CNBC UK HD
@@ -237,14 +235,10 @@ rtp://239.186.84.57:10000
 rtp://239.186.84.42:10000
 #EXTINF:-1 ,EU Parliament HD
 rtp://239.186.84.45:10000
-#EXTINF:-1 ,TRACE VAULT
-rtp://239.186.74.147:10000
 #EXTINF:-1 ,CGTN DOCUMENTARY HD
 rtp://239.186.84.147:10000
 #EXTINF:-1 ,EarthxTV HD
 rtp://239.186.84.148:10000
-#EXTINF:-1 ,REUTERS HD
-rtp://239.186.84.164:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
@@ -338,8 +332,6 @@ rtp://239.186.66.232:10000
 rtp://239.186.68.29:10000
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="https://static.epg.best/de/RTLNitro.de.png" tvg-chno="240" channel-id="240",NITRO.
 rtp://239.186.64.140:10000
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://static.epg.best/de/ntv.de.png" tvg-chno="242" channel-id="242",ntv HD
-rtp://239.186.68.146:10000
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="https://static.epg.best/at/ORF1.at.png" tvg-chno="245" channel-id="245",ORF1 HD
 rtp://239.186.68.12:10000
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="https://static.epg.best/at/ORF2.at.png" tvg-chno="247" channel-id="247",ORF2 HD
@@ -422,8 +414,6 @@ rtp://239.186.70.67:10000
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="TeleSuedostschweiz.ch" tvg-name="Tele Suedostschweiz CH" tvg-logo="https://static.epg.best/ch/TeleSuedostschweiz.ch.png" tvg-chno="322" channel-id="322",TSO TeleSuedostschweiz HD
 rtp://239.186.68.218:10000
-#EXTINF:-1 tvg-id="TV4TNG.ch" tvg-name="TV4TNG CH" tvg-logo="https://static.epg.best/ch/TV4TNG.ch.png" tvg-chno="323" channel-id="323",TV4TNG HD
-rtp://239.186.70.126:10000
 #EXTINF:-1 tvg-id="TVOberwallis.ch" tvg-name="TV Oberwallis CH" tvg-logo="https://static.epg.best/ch/TVOberwallis.ch.png" tvg-chno="324" channel-id="324",TV Oberwallis HD
 rtp://239.186.70.5:10000
 #EXTINF:-1 tvg-id="TV24.ch" tvg-name="TV24 CH" tvg-logo="https://static.epg.best/ch/TV24.ch.png" tvg-chno="326" channel-id="326",TV24 HD
@@ -480,12 +470,8 @@ rtp://239.186.84.67:10000
 rtp://239.186.84.60:10000
 #EXTINF:-1 tvg-id="ORFsport.at" tvg-name="ORF 3" tvg-logo="https://static.epg.best/at/ORFSport.at.png" tvg-chno="249" channel-id="249",ORF SPORT+ HD
 rtp://239.186.84.80:10000
-#EXTINF:-1 ,BaernSPORT HD
-rtp://239.186.84.95:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
-#EXTINF:-1 ,I-TV HD (deu)
-rtp://239.186.70.91:10000
 #EXTINF:-1 ,Deutsches Musik Fernsehen HD
 rtp://239.186.70.96:10000
 #EXTINF:-1 ,xplore
