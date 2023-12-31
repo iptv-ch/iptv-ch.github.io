@@ -1513,7 +1513,7 @@ rtp://239.186.70.88:10000
 rtp://239.186.70.89:10000
 #EXTINF:-1,CGTN HD
 rtp://239.186.70.90:10000
-#EXTINF:-1 ,I-TV HD (ita)
+#EXTINF:-1 ,I-TV HD (deu)
 rtp://239.186.70.91:10000
 #EXTINF:-1 ,Deutsches Musik TV HD (deu)
 rtp://239.186.70.96:10000
