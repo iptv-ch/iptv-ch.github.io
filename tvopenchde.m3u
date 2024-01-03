@@ -180,8 +180,6 @@ rtp://239.186.68.161:10000
 rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info DE" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" tvg-chno="342" channel-id="342",zdf info HD
 rtp://239.186.68.32:10000
-#EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild TV DE" tvg-logo="https://static.epg.best/de/BildTV.de.png" tvg-chno="" channel-id="",Bild HD
-rtp://239.186.84.67:10000
 #EXTINF:-1 tvg-id="Wettertv.ch" tvg-name="WetterTV CH" tvg-logo="https://static.epg.best/ch/Wettertv.ch.png" tvg-chno="338" channel-id="338",wetter.tv CH HD
 rtp://239.186.70.119:10000
 #EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://static.epg.best/de/Welt.de.png" tvg-chno="336" channel-id="336",WeLT
