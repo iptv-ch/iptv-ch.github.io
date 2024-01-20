@@ -157,7 +157,7 @@ rtp://239.186.64.81:10000
 rtp://239.186.64.83:10000
 #EXTINF:-1,blue Action (deu)
 rtp://239.186.64.85:10000
-#EXTINF:-1,ORF 3 (deu)
+#EXTINF:-1,ORF3 (deu)
 rtp://239.186.64.86:10000
 #EXTINF:-1,Star TV
 rtp://239.186.64.87:10000
@@ -729,7 +729,7 @@ rtp://239.186.66.187:10000
 rtp://239.186.66.188:10000
 #EXTINF:-1,Class TV Moda
 rtp://239.186.66.189:10000
-#EXTINF:-1,Test Italia
+#EXTINF:-1,Test Italia ? (deu)
 rtp://239.186.66.190:10000
 #EXTINF:-1,blue Sport direct 17 (fre)
 rtp://239.186.66.191:10000
@@ -1561,7 +1561,7 @@ rtp://239.186.70.119:10000
 rtp://239.186.70.120:10000
 #EXTINF:-1,franceinfo HD
 rtp://239.186.70.121:10000
-#EXTINF:-1,ORF 3 HD (deu)
+#EXTINF:-1,ORF3 HD (deu)
 rtp://239.186.70.122:10000
 #EXTINF:-1,T7 HD
 rtp://239.186.70.123:10000
@@ -1779,7 +1779,7 @@ rtp://239.186.70.248:10000
 rtp://239.186.70.249:10000
 #EXTINF:-1 , sky crime HD
 rtp://239.186.70.251:10000
-#EXTINF:-1,BN 2 HD
+#EXTINF:-1,BN2 HD
 rtp://239.186.70.252:10000
 #EXTINF:-1,viaplay Xtra HD
 rtp://239.186.70.253:10000
