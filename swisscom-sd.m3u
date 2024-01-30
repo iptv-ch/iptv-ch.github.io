@@ -182,7 +182,7 @@ rtp://239.186.74.84:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
-#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="PickTV UK" tvg-logo="https://static.epg.best/uk/PickTV.uk.png" tvg-chno="" channel-id="",Pick
+#EXTINF:-1 tvg-id="skymix.uk" tvg-name="skymix UK" tvg-logo="https://static.epg.best/uk/skymix.uk.png" tvg-chno="" channel-id="",sky mix
 rtp://239.186.74.94:10000
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="https://static.epg.best/gb/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
@@ -196,8 +196,8 @@ rtp://239.186.74.55:10000
 rtp://239.186.74.58:10000
 #EXTREM:-1 tvg-id="4music.uk" tvg-name="4Music UK" tvg-logo="https://static.epg.best/gb/4Music.uk.png" tvg-chno="" channel-id="",4Music (eng)
 rtp://239.186.74.2:10000
-#EXTINF:-1 ,TRACE VAULT (eng)
-rtp://239.186.74.147:10000
+#EXTINF:-1, SPORTDIGITAL FUSSBALL2 (eng)
+rtp://239.186.74.73:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
