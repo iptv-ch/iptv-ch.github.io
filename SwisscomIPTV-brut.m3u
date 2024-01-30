@@ -85,7 +85,7 @@ rtp://239.186.64.43:10000
 rtp://239.186.64.44:10000
 #EXTINF:-1,Rai 3 (ita)
 rtp://239.186.64.45:10000
-#EXTINF:-1,Canale 5 (AC3 ita)
+#EXTINF:-1,Canale5 (AC3 ita)
 rtp://239.186.64.46:10000
 #EXTINF:-1,Rete 4 (AC3 ita)
 rtp://239.186.64.47:10000
@@ -113,7 +113,7 @@ rtp://239.186.64.57:10000
 rtp://239.186.64.58:10000
 #EXTINF:-1,C8 CH (fra)
 rtp://239.186.64.59:10000
-#EXTINF:-1,Tele Barn
+#EXTINF:-1,Tele Bearn
 rtp://239.186.64.60:10000
 #EXTINF:-1,Comedy Central D (AC3)
 rtp://239.186.64.61:10000
@@ -139,7 +139,7 @@ rtp://239.186.64.71:10000
 rtp://239.186.64.72:10000
 #EXTINF:-1,La5 (AC3 ita)
 rtp://239.186.64.73:10000
-#EXTINF:-1,Boing
+#EXTINF:-1,Boing I
 rtp://239.186.64.74:10000
 #EXTINF:-1,IRIS (AC3 ita)
 rtp://239.186.64.75:10000
@@ -195,7 +195,7 @@ rtp://239.186.64.104:10000
 rtp://239.186.64.105:10000
 #EXTINF:-1,Canal Alpha JU
 rtp://239.186.64.106:10000
-#EXTINF:-1,Canal 9
+#EXTINF:-1,Canal9
 rtp://239.186.64.108:10000
 #EXTINF:-1,Kanal 9
 rtp://239.186.64.109:10000
@@ -345,7 +345,7 @@ rtp://239.186.64.193:10000
 rtp://239.186.64.194:10000
 #EXTINF:-1,CCTV4
 rtp://239.186.64.195:10000
-#EXTINF:-1,Canal 24 Horas
+#EXTINF:-1,Canal24 Horas
 rtp://239.186.64.196:10000
 #EXTINF:-1,Canal Sur Andalucia
 rtp://239.186.64.197:10000
@@ -805,7 +805,7 @@ rtp://239.186.66.231:10000
 rtp://239.186.66.232:10000
 #EXTINF:-1,Crime District (fra)
 rtp://239.186.66.233:10000
-#EXTINF:-1,Universal Channel (deu)
+#EXTINF:-1,Universal TV (deu)
 rtp://239.186.66.234:10000
 #EXTINF:-1,AXN White (AC3 deu)
 rtp://239.186.66.237:10000
@@ -923,9 +923,9 @@ rtp://239.186.68.41:10000
 rtp://239.186.68.42:10000
 #EXTINF:-1,BBC One HD (AC3 eng)
 rtp://239.186.68.43:10000
-#EXTINF:-1,Nat Geo HD D (deu)
+#EXTINF:-1,Nat Geo D HD  (deu)
 rtp://239.186.68.44:10000
-#EXTINF:-1,Canal 24 Horas HD
+#EXTINF:-1,Canal24 Horas HD
 rtp://239.186.68.45:10000
 #EXTINF:-1,20 Mediaset HD (AC3 ita)
 rtp://239.186.68.46:10000
@@ -1053,7 +1053,7 @@ rtp://239.186.68.107:10000
 rtp://239.186.68.108:10000
 #EXTINF:-1,Nat Geo Wild HD F
 rtp://239.186.68.109:10000
-#EXTINF:-1,Nat Geo HD F
+#EXTINF:-1,Nat Geo F HD
 rtp://239.186.68.110:10000
 #EXTINF:-1,BFM Alsace HD
 rtp://239.186.68.111:10000
@@ -1121,9 +1121,9 @@ rtp://239.186.68.141:10000
 rtp://239.186.68.142:10000
 #EXTINF:-1,Bodensee TV HD
 rtp://239.186.68.143:10000
-#EXTINF:-1,Canal 9 HD
+#EXTINF:-1,Canal9 HD
 rtp://239.186.68.144:10000
-#EXTINF:-1,Kanal 9 HD
+#EXTINF:-1,Kanal9 HD
 rtp://239.186.68.145:10000
 #EXTINF:-1,n-tv CH HD (deu)
 rtp://239.186.68.146:10000
@@ -1255,7 +1255,7 @@ rtp://239.186.68.211:10000
 rtp://239.186.68.212:10000
 #EXTINF:-1,blue Sport direct 21 HD (fre)
 rtp://239.186.68.213:10000
-#EXTINF:-1,BBC World News HD
+#EXTINF:-1,BBC NEWS HD
 rtp://239.186.68.214:10000
 #EXTINF:-1,C8 CH HD (fra)
 rtp://239.186.68.215:10000
@@ -1387,6 +1387,8 @@ rtp://239.186.70.23:10000
 rtp://239.186.70.24:10000
 #EXTINF:-1,France 3 HD (fre)
 rtp://239.186.70.25:10000
+#EXTINF:-1,SPORTDIGITAL FUSSBALL2 HD (eng)
+rtp://239.186.70.26:10000
 #EXTINF:-1,France 5 HD (fra)
 rtp://239.186.70.27:10000
 #EXTINF:-1,More Than Sports TV HD
@@ -1497,7 +1499,7 @@ rtp://239.186.70.80:10000
 rtp://239.186.70.81:10000
 #EXTINF:-1,Tele Bielingue HD
 rtp://239.186.70.82:10000
-#EXTINF:-1,Universal Channel HD (deu)
+#EXTINF:-1,Universal TV HD (deu)
 rtp://239.186.70.83:10000
 #EXTINF:-1,Rai News 24 HD
 rtp://239.186.70.84:10000
@@ -1929,7 +1931,7 @@ rtp://239.186.74.70:10000
 rtp://239.186.74.71:10000
 #EXTINF:-1,5Star (eng)
 rtp://239.186.74.72:10000
-#EXTINF:-1,Citv (eng)
+#EXTINF:-1,SPORTDIGITAL FUSSBALL2 (eng)
 rtp://239.186.74.73:10000
 #EXTINF:-1,DMAX UK
 rtp://239.186.74.74:10000
@@ -1971,7 +1973,7 @@ rtp://239.186.74.91:10000
 rtp://239.186.74.92:10000
 #EXTINF:-1,4Seven (eng)
 rtp://239.186.74.93:10000
-#EXTINF:-1,Pick (eng)
+#EXTINF:-1,sky mix (eng)
 rtp://239.186.74.94:10000
 #EXTINF:-1,Challenge (eng)
 rtp://239.186.74.95:10000
@@ -2093,7 +2095,7 @@ rtp://239.186.74.152:10000
 rtp://239.186.74.153:10000
 #EXTINF:-1 ,PERFECT MEMORIES DLX (deu)
 rtp://239.186.74.154:10000
-#EXTINF:-1 ,A ? (fra)
+#EXTINF:-1 ,CANAL+ GRAND ECRAN
 rtp://239.186.74.156:10000
 #EXTINF:-1 ,Espreso TV (ukr)
 rtp://239.186.74.158:10000
@@ -2111,6 +2113,8 @@ rtp://239.186.76.8:10000
 rtp://239.186.76.9:10000
 #EXTINF:-1,blue Sport direct 01 UHD (fre)
 rtp://239.186.76.10:10000
+#EXTINF:-1, myzen4k UHD
+rtp://239.186.76.11:10000
 #EXTINF:-1,4plus UHD
 rtp://239.186.76.12:10000
 #EXTINF:-1,blue Sport Live 02 UHD (deu)
@@ -2357,17 +2361,17 @@ rtp://239.186.84.130:10000
 rtp://239.186.84.131:10000
 #EXTINF:-1 ,teve1 HD (alb)
 rtp://239.186.84.132:10000
-#EXTINF:-1 ,WEF HD (eng)
+#EXTINF:-1 ,WEF TV HD (eng)
 rtp://239.186.84.133:10000
 #EXTINF:-1 ,k-tv HD (deu)
 rtp://239.186.84.137:10000
 #EXTINF:-1 ,CARTOONITO HD (ita)
 rtp://239.186.84.139:10000
-#EXTINF:-1 ,Rai Movies HD (ita)
+#EXTINF:-1 ,Rai Movie HD (ita)
 rtp://239.186.84.140:10000
 #EXTINF:-1 ,TRENTINO TV HD (ita)
 rtp://239.186.84.141:10000
-#EXTINF:-1 ,Boing HD (ita) 
+#EXTINF:-1 ,Boing I HD (ita) 
 rtp://239.186.84.142:10000
 #EXTINF:-1 ,telenuovo HD (ita)
 rtp://239.186.84.143:10000
