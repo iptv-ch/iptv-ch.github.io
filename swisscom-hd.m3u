@@ -209,7 +209,7 @@ rtp://239.186.74.74:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="https://static.epg.best/uk/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
-#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="PickTV UK" tvg-logo="https://static.epg.best/uk/PickTV.uk.png" tvg-chno="" channel-id="",Pick
+#EXTINF:-1 tvg-id="skymix.uk" tvg-name="skymix UK" tvg-logo="https://static.epg.best/uk/skymix.uk.png" tvg-chno="" channel-id="",sky mix
 rtp://239.186.74.94:10000
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="https://static.epg.best/uk/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
@@ -237,6 +237,8 @@ rtp://239.186.84.45:10000
 rtp://239.186.84.147:10000
 #EXTINF:-1 ,EarthxTV HD
 rtp://239.186.84.148:10000
+#EXTINF:-1 ,SPORTDIGITAL FUSSBALL2 (eng)
+rtp://239.186.74.73:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
