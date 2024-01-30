@@ -237,8 +237,8 @@ rtp://239.186.84.45:10000
 rtp://239.186.84.147:10000
 #EXTINF:-1 ,EarthxTV HD
 rtp://239.186.84.148:10000
-#EXTINF:-1 ,SPORTDIGITAL FUSSBALL2 (eng)
-rtp://239.186.74.73:10000
+#EXTINF:-1 ,SPORTDIGITAL FUSSBALL2 HD (eng)
+rtp://239.186.70.26:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
 rtp://239.186.68.1:10000
