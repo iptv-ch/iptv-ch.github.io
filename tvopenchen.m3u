@@ -52,6 +52,8 @@ rtp://239.186.74.107:10000
 #EXTINF:-1 ,INPLUS HD
 rtp://239.186.70.75:10000
 #EXTREM Sports
+#EXTINF:-1 ,SPORTDIGITAL FUSSBALL2
+rtp://239.186.74.73:10000
 #EXTINF:-1 ,via play xtra HD
 rtp://239.186.70.253:10000
 #EXTREM:news
@@ -120,7 +122,7 @@ rtp://239.186.74.74:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 ,Channel four seven Channel4 7
 rtp://239.186.74.93:10000
-#EXTINF:-1 ,Pick
+#EXTINF:-1 ,sky mix
 rtp://239.186.74.94:10000
 #EXTINF:-1 ,GREAT! romance
 rtp://239.186.74.53:10000
