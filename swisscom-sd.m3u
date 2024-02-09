@@ -196,8 +196,6 @@ rtp://239.186.74.55:10000
 rtp://239.186.74.58:10000
 #EXTREM:-1 tvg-id="4music.uk" tvg-name="4Music UK" tvg-logo="https://static.epg.best/gb/4Music.uk.png" tvg-chno="" channel-id="",4Music (eng)
 rtp://239.186.74.2:10000
-#EXTINF:-1, SPORTDIGITAL FUSSBALL2 (eng)
-rtp://239.186.74.73:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -229,8 +227,6 @@ rtp://239.186.64.26:10000
 rtp://239.186.66.238:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen
 rtp://239.186.66.118:10000
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="https://static.epg.best/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
-rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="https://static.epg.best/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
@@ -488,8 +484,6 @@ rtp://239.186.64.152:10000
 rtp://239.186.64.161:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="417" channel-id="417",UNINETTUNO.TV
 rtp://239.186.66.184:10000
-#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="https://static.epg.best/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
-rtp://239.186.66.240:10000
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="https://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
 #EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="https://static.epg.best/it/espansione.it.png",Espansione TV
