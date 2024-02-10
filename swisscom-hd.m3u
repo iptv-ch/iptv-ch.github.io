@@ -500,6 +500,8 @@ rtp://239.186.74.153:10000
 rtp://239.186.74.154:10000
 #EXTINF:-1 ,TV RT HD (deu) TV   TV Rheintal HD
 rtp://239.186.84.171:10000
+#EXTINF:-1 ,I-TV HD
+rtp://239.186.70.91:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
