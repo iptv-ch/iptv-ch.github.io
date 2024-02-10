@@ -2,6 +2,20 @@
 #EXTurl-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #PLAYLIST: blue tv / net+ channels free
 #EXTREM:french
+#EXTINF:-1 ,RTS 1 FullHD UHD
+rtp://239.186.76.26:10000
+#EXTINF:-1 ,RTS 2 FullHD UHD
+rtp://239.186.76.27:10000
+#EXTINF:-1 ,RSI LA 1 FullHD UHD
+rtp://239.186.76.24:10000
+#EXTINF:-1 ,RSI LA 2 FullHD UHD
+rtp://239.186.76.25:10000
+#EXTINF:-1 ,SRF1 FullHD UHD
+rtp://239.186.76.3:10000
+#EXTINF:-1 ,SRF ZWEI FullHD UHD
+rtp://239.186.76.21:10000
+#EXTINF:-1 ,SRF Info FullHD UHD
+rtp://239.186.76.23:10000
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
