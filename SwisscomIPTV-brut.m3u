@@ -1967,8 +1967,6 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.89:10000
 #EXTINF:-1,RTSH 3
 rtp://239.186.74.90:10000
-#EXTINF:-1,Karusel Int.
-rtp://239.186.74.91:10000
 #EXTINF:-1,MySports 7 F (fra)
 rtp://239.186.74.92:10000
 #EXTINF:-1,4Seven (eng)
@@ -1991,8 +1989,6 @@ rtp://239.186.74.100:10000
 rtp://239.186.74.101:10000
 #EXTINF:-1,crime time (deu)
 rtp://239.186.74.102:10000
-#EXTINF:-1,Nickelodeon Ukraine Pluto TV
-rtp://239.186.74.103:10000
 #EXTINF:-1,MySports 10 F (fra)
 rtp://239.186.74.104:10000
 #EXTINF:-1,Schlager Deluxe
@@ -2043,8 +2039,6 @@ rtp://239.186.74.126:10000
 rtp://239.186.74.127:10000
 #EXTINF:-1 ,DLX DANCE (deu)
 rtp://239.186.74.128:10000
-#EXTINF:-1 , sky comedy
-rtp://239.186.74.129:10000
 #EXTINF:-1 , sky crime
 rtp://239.186.74.130:10000
 #EXTINF:-1 , sky nature
@@ -2303,8 +2297,6 @@ rtp://239.186.84.91:10000
 rtp://239.186.84.93:10000
 #EXTINF:-1,Sport Italia HD (ita)
 rtp://239.186.84.94:10000
-#EXTINF:-1,Baern Sport HD
-rtp://239.186.84.95:10000
 #EXTINF:-1,TV Polonia HD (AAC)
 rtp://239.186.84.96:10000
 #EXTINF:-1 , Iris HD
