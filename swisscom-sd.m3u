@@ -371,6 +371,8 @@ rtp://239.186.74.152:10000
 rtp://239.186.74.153:10000
 #EXTINF:-1 ,DLX FLASHBACK  (deu)
 rtp://239.186.74.154:10000
+#EXTINF:-1 ,just.fishing (deu)
+rtp://239.186.74.157:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -520,6 +522,8 @@ rtp://239.186.64.197:10000
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="tve.es" tvg-name="tve ES" tvg-logo="https://static.epg.best/es/tve.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
+#EXTINF:-1 ,BOM CINE (spa)
+rtp://239.186.74.155:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="https://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk
 rtp://239.186.64.204:10000
