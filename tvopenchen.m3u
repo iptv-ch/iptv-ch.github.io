@@ -32,7 +32,7 @@ rtp://239.186.70.189:10000
 #EXTINF:-1 ,itv4 HD
 rtp://239.186.70.150:10000
 #EXTINF:-1 ,itvBe
-rtp://239.186.74.14:10000
+rtp://239.186.70.245:10000
 #EXTINF:-1 ,food network E
 rtp://239.186.66.58:10000
 #EXTINF:-1 ,More4
@@ -122,8 +122,8 @@ rtp://239.186.74.74:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 ,Channel four seven Channel4 7
 rtp://239.186.74.93:10000
-#EXTINF:-1 ,sky mix
-rtp://239.186.74.94:10000
+#EXTINF:-1 ,sky mix HD
+rtp://239.186.84.95:10000
 #EXTINF:-1 ,GREAT! romance
 rtp://239.186.74.53:10000
 #EXTINF:-1 ,GREAT! movies
