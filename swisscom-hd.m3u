@@ -183,8 +183,8 @@ rtp://239.186.84.16:10000
 rtp://239.186.70.189:10000
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4 HD
 rtp://239.186.70.150:10000
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
-rtp://239.186.74.14:10000
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe HD
+rtp://239.186.70.245:10000
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/uk/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
 rtp://239.186.64.105:10000
 #EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="https://static.epg.best/uk/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
@@ -223,8 +223,8 @@ rtp://239.186.74.74:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="https://static.epg.best/uk/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
-#EXTINF:-1 tvg-id="skymix.uk" tvg-name="skymix UK" tvg-logo="https://static.epg.best/uk/skymix.uk.png" tvg-chno="" channel-id="",sky mix
-rtp://239.186.74.94:10000
+#EXTINF:-1 tvg-id="skymix.uk" tvg-name="skymix UK" tvg-logo="https://static.epg.best/uk/skymix.uk.png" tvg-chno="" channel-id="",sky mix HD
+rtp://239.186.84.95:10000
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="https://static.epg.best/uk/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s UK" tvg-logo="https://static.epg.best/gb/Now70s.uk.png" tvg-chno="" channel-id="",Now 70s
@@ -502,6 +502,8 @@ rtp://239.186.74.154:10000
 rtp://239.186.84.171:10000
 #EXTINF:-1 ,I-TV HD
 rtp://239.186.70.91:10000
+#EXTINF:-1 ,just.fishing (deu)
+rtp://239.186.74.157:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
 rtp://239.186.68.5:10000
@@ -659,6 +661,10 @@ rtp://239.186.84.152:10000
 rtp://239.186.84.156:10000
 #EXTINF:-1 ,EXPLORER CHANNEL HD
 rtp://239.186.84.157:10000
+#EXTINF:-1 ,AC Milano HD (ita)
+rtp://239.186.84.136:10000
+#EXTINF:-1 ,byoblu HD (ita)
+rtp://239.186.84.160:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
@@ -681,9 +687,11 @@ rtp://239.186.68.178:10000
 rtp://239.186.84.19:10000
 #EXTINF:-1 ,cvi HD Cuba Visio Internacional
 rtp://239.186.84.146:10000
+#EXTINF:-1 ,BOM CINE (spa)
+rtp://239.186.74.155:10000
 #EXTREM:turkish
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D
-rtp://239.186.64.199:10000
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D TR" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D HD
+rtp://239.186.84.138:10000
 #EXTINF:-1 tvg-id="Eurostar.tr" tvg-name="Eurostar TR" tvg-logo="https://static.epg.best/tr/Eurostar.tr.png" tvg-chno="425" channel-id="425",EURO STAR
 rtp://239.186.66.121:10000
 #EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="https://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk HD
@@ -803,3 +811,21 @@ rtp://239.186.68.184:10000
 rtp://239.186.70.13:10000
 #EXTINF:-1 ,TOP NEWS HD (alb)
 rtp://239.186.84.144:10000
+#EXTINF:-1 ,rtv24 (slo)
+rtp://239.186.84.149:10000
+#EXTINF:-1 ,mne HD (srp)
+rtp://239.186.84.154:10000
+#EXTINF:-1 ,RTSH24 HD (alb)
+rtp://239.186.84.155:10000
+#EXTINF:-1 ,nikceabtv HD (ukr)
+rtp://239.186.84.161:10000
+#EXTINF:-1 ,? HD (ukr)
+rtp://239.186.84.163:10000
+#EXTINF:-1 ,n HD (ukr)
+rtp://239.186.84.167:10000
+#EXTINF:-1 ,TVSA HD (bos)
+rtp://239.186.84.168:10000
+#EXTINF:-1 ,una HD (bos)
+rtp://239.186.84.169:10000
+#EXTINF:-1 ,BOYAH HD (ell)
+rtp://239.186.84.170:10000
