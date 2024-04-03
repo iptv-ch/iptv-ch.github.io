@@ -430,8 +430,6 @@ rtp://239.186.70.5:10000
 rtp://239.186.68.190:10000
 #EXTINF:-1 tvg-id="TV25.ch" tvg-name="TV 25 CH" tvg-logo="https://static.epg.best/ch/TV25.ch.png" tvg-chno="327" channel-id="327",TV25 HD
 rtp://239.186.70.20:10000
-#EXTINF:-1 tvg-id="TVcentral.ch" tvg-name="TV Central CH" tvg-logo="https://static.epg.best/ch/TVcentral.ch.png" tvg-chno="133" channel-id="133",TV Central HD
-rtp://239.186.70.201:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="329" channel-id="329",tvo HD
 rtp://239.186.70.4:10000
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz HD
