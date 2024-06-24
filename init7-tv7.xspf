@@ -1,1 +1,1905 @@
-https://api.init7.net/tvchannels.xspf
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+    <title>TV7 Playlist</title>
+    <trackList>
+        <track>
+            <title>SRF 1</title>
+            <location>udp://@233.50.230.80:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1102_SRF1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1102</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SRF zwei</title>
+            <location>udp://@233.50.230.212:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1104_SRFzwei.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1104</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SRF info</title>
+            <location>udp://@233.50.230.226:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1106_SRFinfo.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1106</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV 24</title>
+            <location>udp://@233.50.230.4:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1114_TV24.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1114</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>3+ HD</title>
+            <location>udp://@233.50.230.5:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1116_3Plus.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1116</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Das Erste</title>
+            <location>udp://@233.50.230.6:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1118_DasErste.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1118</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ZDF</title>
+            <location>udp://@233.50.230.7:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1120_ZDF.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1120</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTL (Schweiz)</title>
+            <location>udp://@233.50.230.8:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1122_RTL.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1122</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SAT.1 (Schweiz)</title>
+            <location>udp://@233.50.230.9:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1124_SAT1.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1124</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ProSieben (Schweiz)</title>
+            <location>udp://@233.50.230.10:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1126_ProSiebenSchweiz.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1126</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ORF 1</title>
+            <location>udp://@233.50.230.11:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1128_ORF1.at.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1128</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ORF 2</title>
+            <location>udp://@233.50.230.12:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1130_ORF2.at.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1130</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>3Sat</title>
+            <location>udp://@233.50.230.13:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1132_3sat.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1132</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>arte D</title>
+            <location>udp://@233.50.230.14:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1134_arte.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1134</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV 25</title>
+            <location>udp://@233.50.230.15:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1136_TV25.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1136</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>4+ HD</title>
+            <location>udp://@233.50.230.16:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1138_4Plus.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1138</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>5+</title>
+            <location>udp://@233.50.230.17:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1140_5Plus.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1140</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>6+</title>
+            <location>udp://@233.50.230.18:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1142_6Plus.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1142</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>S1</title>
+            <location>udp://@233.50.230.19:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1144_S1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1144</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SWISS 1</title>
+            <location>udp://@233.50.230.20:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1146_Swiss1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1146</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Puls 8</title>
+            <location>udp://@233.50.230.21:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1148_PulsAcht.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1148</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTLZWEI (Schweiz)</title>
+            <location>udp://@233.50.230.22:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1150_RTLZwei.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1150</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Kabel Eins (Schweiz)</title>
+            <location>udp://@233.50.230.23:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1152_kabeleinsSchweiz.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1152</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>VOX (Schweiz)</title>
+            <location>udp://@233.50.230.24:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1154_VOX.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1154</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ONE</title>
+            <location>udp://@233.50.230.25:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1156_One.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1156</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ZDFneo</title>
+            <location>udp://@233.50.230.26:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1158_ZDFneo.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1158</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>NITRO</title>
+            <location>udp://@233.50.230.27:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1160_Nitro.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1160</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ProSieben MAXX</title>
+            <location>udp://@233.50.230.28:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1162_ProSiebenMaxx.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1162</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SAT.1 GOLD</title>
+            <location>udp://@233.50.230.29:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1164_SAT1Gold.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1164</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Sixx</title>
+            <location>udp://@233.50.230.30:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1166_sixx.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1166</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Servus TV</title>
+            <location>udp://@233.50.230.31:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1170_ServusTV.at.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1170</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TeleZüri</title>
+            <location>udp://@233.50.230.32:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1204_TeleZuri.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1204</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele Bärn</title>
+            <location>udp://@233.50.230.33:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1208_TeleBarn.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1208</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Telebasel</title>
+            <location>udp://@233.50.230.34:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1212_Telebasel.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1212</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele M1</title>
+            <location>udp://@233.50.230.35:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1216_TeleM1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1216</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele Top</title>
+            <location>udp://@233.50.230.36:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1220_TeleTop.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1220</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVO</title>
+            <location>udp://@233.50.230.37:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1224_TVO.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1224</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele Z</title>
+            <location>udp://@233.50.230.38:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1228_TeleZ.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1228</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele 1</title>
+            <location>udp://@233.50.230.39:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1232_Tele1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1232</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV Südostschweiz</title>
+            <location>udp://@233.50.230.40:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1236_Sudostschweiz.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1236</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TeleBielingue</title>
+            <location>udp://@233.50.230.41:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1240_TeleBielingue.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1240</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ShF</title>
+            <location>udp://@233.50.230.232:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1244_SchaffhauserFernsehen.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1244</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele D</title>
+            <location>udp://@233.50.230.42:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1248_TeleD.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1248</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Kanal 9</title>
+            <location>udp://@233.50.230.43:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1252_Kanal9.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1252</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ARD alpha</title>
+            <location>udp://@233.50.230.44:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1256_ARDalpha.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1256</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SWR BW</title>
+            <location>udp://@233.50.230.45:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1260_SWRFernsehenBadenWurttemberg.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1260</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BR Fernsehen Süd</title>
+            <location>udp://@233.50.230.46:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1264_BRFernsehenSud.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1264</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>WDR Fernsehen</title>
+            <location>udp://@233.50.230.47:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1268_WDRFernsehenKoln.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1268</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>NDR FS NDS</title>
+            <location>udp://@233.50.230.48:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1272_NDRFernsehenHamburg.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1272</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>MDR Sachsen</title>
+            <location>udp://@233.50.230.49:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1276_MDRFernsehenSachsen.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1276</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>rbb Berlin</title>
+            <location>udp://@233.50.230.50:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1280_rbbFernsehenBerlin.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1280</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>hr Fernsehen</title>
+            <location>udp://@233.50.230.51:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1284_hrfernsehen.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1284</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SR Fernsehen</title>
+            <location>udp://@233.50.230.52:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1288_SRFernsehen.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1288</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ZDFinfo</title>
+            <location>udp://@233.50.230.53:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1304_ZDFinfo.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1304</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Phoenix</title>
+            <location>udp://@233.50.230.54:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1308_phoenix.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1308</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>tagesschau24</title>
+            <location>udp://@233.50.230.55:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1312_tagesschau24.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1312</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>n-tv</title>
+            <location>udp://@233.50.230.56:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1316_ntv.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1316</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>euronews D</title>
+            <location>udp://@233.50.230.57:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1320_EuronewsGerman.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1320</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>WELT</title>
+            <location>udp://@233.50.230.58:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1324_WELT.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1324</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>meteonews.TV</title>
+            <location>udp://@233.50.230.59:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1328_WettercomTV.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1328</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>blue Zoom D</title>
+            <location>udp://@233.50.230.82:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1404_BlueZoomD.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1404</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Eurosport</title>
+            <location>udp://@233.50.230.60:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1408_Eurosport1.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1408</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>SPORT1</title>
+            <location>udp://@233.50.230.61:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1412_Sport1.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1412</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>7+/ Nick CH</title>
+            <location>udp://@233.50.230.62:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1504_7PlusNickSchweiz.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1504</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Super RTL (Schweiz)</title>
+            <location>udp://@233.50.230.63:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1508_RTLSuper.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1508</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>KiKA</title>
+            <location>udp://@233.50.230.64:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1512_KiKA.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1512</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Disney Channel</title>
+            <location>udp://@233.50.230.65:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1516_DisneyChannel.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1516</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TOGGO plus</title>
+            <location>udp://@233.50.230.66:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1520_TOGGOplus.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1520</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>STAR TV</title>
+            <location>udp://@233.50.230.67:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1604_StarTV.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1604</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Comedy Central</title>
+            <location>udp://@233.50.230.68:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1608_ComedyCentral.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1608</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>MTV</title>
+            <location>udp://@233.50.230.69:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1612_MTV.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1612</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>DMAX</title>
+            <location>udp://@233.50.230.70:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1616_DMAX.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1616</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TLC</title>
+            <location>udp://@233.50.230.71:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1620_TLC.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1620</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ANIXE</title>
+            <location>udp://@233.50.230.72:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1624_AnixeHDSerie.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1624</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Lilo TV</title>
+            <location>udp://@233.50.230.73:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1628_LiloTV.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1628</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Kabel Eins Doku</title>
+            <location>udp://@233.50.230.74:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1632_kabeleinsDoku.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1632</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>N24 Doku</title>
+            <location>udp://@233.50.230.75:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1636_N24Doku.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1636</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Tele 5</title>
+            <location>udp://@233.50.230.76:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1640_TELE5.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1640</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>auftanken.TV</title>
+            <location>udp://@233.50.230.77:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1644_AuftankenTV.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1644</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Bibel TV</title>
+            <location>udp://@233.50.230.79:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1652_BibelTV.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1652</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Deluxe Music</title>
+            <location>udp://@233.50.230.81:5000</location>
+            <image>https://api.tv.init7.net/media/logos/1656_DeluxeMusic.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>1656</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTS 1</title>
+            <location>udp://@233.50.230.227:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2103_RTS1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2103</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTS 2</title>
+            <location>udp://@233.50.230.228:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2106_RTS2.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2106</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TF 1</title>
+            <location>udp://@233.50.230.86:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2115</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>France 2</title>
+            <location>udp://@233.50.230.87:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2118_France2.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2118</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>France 3</title>
+            <location>udp://@233.50.230.88:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2121_France3.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2121</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>France 5</title>
+            <location>udp://@233.50.230.89:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2124_France5.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2124</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>M6</title>
+            <location>udp://@233.50.230.90:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2127_M6Switzerland.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2127</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>arte F</title>
+            <location>udp://@233.50.230.91:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2130_arte.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2130</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CANAL+ en clair</title>
+            <location>udp://@233.50.230.92:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2133_CanalPlus.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2133</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Canal8</title>
+            <location>udp://@233.50.230.93:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2136_C8.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2136</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>W9</title>
+            <location>udp://@233.50.230.94:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2139_W9Switzerland.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2139</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TMC Monte Carlo</title>
+            <location>udp://@233.50.230.95:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2142_TMC.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2142</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TFX</title>
+            <location>udp://@233.50.230.96:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2145_TFXSwitzerland.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2145</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>NRJ 12</title>
+            <location>udp://@233.50.230.97:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2148_NRJ12.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2148</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>6ter</title>
+            <location>udp://@233.50.230.98:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2154_6terSwitzerland.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2154</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RMC Story</title>
+            <location>udp://@233.50.230.99:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2157_RMCStory.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2157</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTL 9</title>
+            <location>udp://@233.50.230.100:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2160_RTL9.lu.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2160</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BFM TV</title>
+            <location>udp://@233.50.230.101:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2163_BFMTV.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2163</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CARAC 1</title>
+            <location>udp://@233.50.230.102:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2169_RougeTV.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2169</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CARAC 2</title>
+            <location>udp://@233.50.230.104:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2172_OneTV.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2172</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CARAC 3</title>
+            <location>udp://@233.50.230.103:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2175_LFMTV.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2175</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>la télé</title>
+            <location>udp://@233.50.230.105:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2204_LaTele.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2204</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>léman bleu</title>
+            <location>udp://@233.50.230.136:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2208_LemanBleu.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2208</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Canal Alpha JU</title>
+            <location>udp://@233.50.230.106:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2212_CanalAlphaJU.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2212</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Canal Alpha NE</title>
+            <location>udp://@233.50.230.107:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2216_CanalAlphaNE.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2216</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Télé Versoix</title>
+            <location>udp://@233.50.230.108:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2220_Televersoix_lqmo3Qq.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2220</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>euronews F</title>
+            <location>udp://@233.50.230.110:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2304_EuronewsFrench.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2304</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>France 24</title>
+            <location>udp://@233.50.230.111:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2308_France24French.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2308</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV5MONDE Europe</title>
+            <location>udp://@233.50.230.112:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2312_TV5MondeFranceBelgiumSwitzerlandMonaco.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2312</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>blue Zoom F</title>
+            <location>udp://@233.50.230.113:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2404_BlueZoomF.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2404</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>France 4</title>
+            <location>udp://@233.50.230.114:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2504_France4.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2504</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Gulli</title>
+            <location>udp://@233.50.230.115:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2508_Gulli.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2508</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVM3</title>
+            <location>udp://@233.50.230.116:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2604_TVM3.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2604</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV Suisse Plus</title>
+            <location>udp://@233.50.230.117:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2608_TVSuissePlus.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2608</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Teleswizz</title>
+            <location>udp://@233.50.230.147:5000</location>
+            <image>https://api.tv.init7.net/media/logos/2612_TeleSwizz.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>2612</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RSI LA 1</title>
+            <location>udp://@233.50.230.229:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3104_RSILa1.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3104</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RSI LA 2</title>
+            <location>udp://@233.50.230.230:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3108_RSILa2.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3108</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TeleTicino</title>
+            <location>udp://@233.50.230.120:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3120_TeleTicino.ch.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3120</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai 1</title>
+            <location>udp://@233.50.230.121:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3124_Rai1.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3124</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai 2</title>
+            <location>udp://@233.50.230.122:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3128_Rai2.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3128</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai 3</title>
+            <location>udp://@233.50.230.123:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3132_Rai3.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3132</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai 4</title>
+            <location>udp://@233.50.230.124:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3136_Rai4.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3136</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai 5</title>
+            <location>udp://@233.50.230.125:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3140_Rai5.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3140</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai Premium</title>
+            <location>udp://@233.50.230.126:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3144_RaiPremium.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3144</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai Movie</title>
+            <location>udp://@233.50.230.127:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3148_RaiMovie.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3148</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>LA 7</title>
+            <location>udp://@233.50.230.128:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3152_LA7.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3152</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>La 7d</title>
+            <location>udp://@233.50.230.213:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3156_LA7d.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3156</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Canale5</title>
+            <location>udp://@233.50.230.129:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3164_Canale5.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3164</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Cine34</title>
+            <location>udp://@233.50.230.130:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3172_Cine34.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3172</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rete 4</title>
+            <location>udp://@233.50.230.131:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3180_Rete4.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3180</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Italia 1</title>
+            <location>udp://@233.50.230.132:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3184_Italia1.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3184</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV2000</title>
+            <location>udp://@233.50.230.210:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3188_TV2000.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3188</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Telelombardia</title>
+            <location>udp://@233.50.230.202:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3208_Telelombardia.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3208</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai News 24</title>
+            <location>udp://@233.50.230.133:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3304_RaiNews24.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3304</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>euronews I</title>
+            <location>udp://@233.50.230.134:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3308_EuronewsItalian.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3308</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TGCOM24</title>
+            <location>udp://@233.50.230.135:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3312_TGCom24.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3312</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai Sport+</title>
+            <location>udp://@233.50.230.137:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3404_RaiSportHD.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3404</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Super Tennis</title>
+            <location>udp://@233.50.230.138:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3408_SuperTennis.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3408</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Sportitalia</title>
+            <location>udp://@233.50.230.139:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3412_Sportitalia.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3412</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai Gulp</title>
+            <location>udp://@233.50.230.140:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3504_RaiGulp.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3504</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Boing</title>
+            <location>udp://@233.50.230.141:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3508_Boing.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3508</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai yoyo</title>
+            <location>udp://@233.50.230.142:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3512_RaiYoyo.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3512</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Super!</title>
+            <location>udp://@233.50.230.143:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3516_Super.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3516</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>frisbee</title>
+            <location>udp://@233.50.230.144:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3520_Frisbee.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3520</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>K2</title>
+            <location>udp://@233.50.230.145:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3524_K2.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3524</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Cartoonito</title>
+            <location>udp://@233.50.230.182:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3528_Cartoonito.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3528</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai Scuola</title>
+            <location>udp://@233.50.230.218:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3532_RaiScuola.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3532</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Rai Storia</title>
+            <location>udp://@233.50.230.146:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3604_RaiStoria.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3604</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Focus</title>
+            <location>udp://@233.50.230.153:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3608_Focus.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3608</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>La 5</title>
+            <location>udp://@233.50.230.219:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3620_La5.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3620</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>IRIS</title>
+            <location>udp://@233.50.230.148:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3624_Iris.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3624</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>DMAX italia</title>
+            <location>udp://@233.50.230.149:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3628_DMAX.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3628</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Real Time</title>
+            <location>udp://@233.50.230.150:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3632_RealTime.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3632</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>NOVE</title>
+            <location>udp://@233.50.230.151:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3636_Nove.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3636</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Giallo</title>
+            <location>udp://@233.50.230.152:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3640_Giallo.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3640</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Deejay TV</title>
+            <location>udp://@233.50.230.154:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3644_DeejayTV.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3644</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RadioItaliaTV</title>
+            <location>udp://@233.50.230.209:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3648_RadioItaliaTV.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3648</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTL 102.5 TV</title>
+            <location>udp://@233.50.230.208:5000</location>
+            <image>https://api.tv.init7.net/media/logos/3652_RTL1025TV.it.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>3652</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BBC One</title>
+            <location>udp://@233.50.230.155:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4104_BBCOne.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4104</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BBC Two</title>
+            <location>udp://@233.50.230.156:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4108_BBCTwo.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4108</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ITV</title>
+            <location>udp://@233.50.230.158:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4116_ITV1.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4116</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Channel 4</title>
+            <location>udp://@233.50.230.159:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4120_Channel4.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4120</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Channel 5</title>
+            <location>udp://@233.50.230.160:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4124_Channel5.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4124</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ITV 2</title>
+            <location>udp://@233.50.230.162:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4132_ITV2.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4132</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ITV 3</title>
+            <location>udp://@233.50.230.163:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4136_ITV3.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4136</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>ITV 4</title>
+            <location>udp://@233.50.230.164:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4140_ITV4.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4140</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>E4</title>
+            <location>udp://@233.50.230.166:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4148_E4.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4148</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Film 4</title>
+            <location>udp://@233.50.230.167:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4152_Film4.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4152</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>5 STAR</title>
+            <location>udp://@233.50.230.179:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4156_5STAR.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4156</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>5 USA</title>
+            <location>udp://@233.50.230.178:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4160_5USA.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4160</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BBC World News</title>
+            <location>udp://@233.50.230.168:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4304_BBCNewsEurope.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4304</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BBC News</title>
+            <location>udp://@233.50.230.169:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4308_BBCNews.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4308</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CNN International</title>
+            <location>udp://@233.50.230.170:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4312_CNNInternationalEurope.us.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4312</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CNBC</title>
+            <location>udp://@233.50.230.171:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4316_CNBCEurope.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4316</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Bloomberg TV</title>
+            <location>udp://@233.50.230.172:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4320_BloombergTVEurope.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4320</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Sky News</title>
+            <location>udp://@233.50.230.173:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4324_SkyNewsInternational.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4324</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>euronews E</title>
+            <location>udp://@233.50.230.174:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4328_EuronewsEnglish.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4328</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Al Jazeera English</title>
+            <location>udp://@233.50.230.175:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4332_AlJazeera.qa.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4332</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>DW Europe</title>
+            <location>udp://@233.50.230.176:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4336_DWEnglish.de.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4336</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>France 24 E</title>
+            <location>udp://@233.50.230.177:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4340_France24English.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4340</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CBBC</title>
+            <location>udp://@233.50.230.180:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4504_CBBC.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4504</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Cbeebies</title>
+            <location>udp://@233.50.230.181:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4508_CBeebies.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4508</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TravelXP</title>
+            <location>udp://@233.50.230.183:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4604_TravelXP.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4604</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>More4+1</title>
+            <location>udp://@233.50.230.184:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4608_More4.uk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4608</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Fashion TV</title>
+            <location>udp://@233.50.230.185:5000</location>
+            <image>https://api.tv.init7.net/media/logos/4612_FashionTVEurope.fr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>4612</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVE Int.</title>
+            <location>udp://@233.50.230.186:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5104_TVEInternacionalEuropeAsia.es.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5104</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Canal 24 Horas</title>
+            <location>udp://@233.50.230.187:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5108_24Horas.es.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5108</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTP Int.</title>
+            <location>udp://@233.50.230.188:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5204_RTPInternacional.pt.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5204</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BVN TV</title>
+            <location>udp://@233.50.230.189:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5304_BVN.nl.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5304</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVR International</title>
+            <location>udp://@233.50.230.190:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5308_TVRInternational.ro.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5308</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVP Polonia</title>
+            <location>udp://@233.50.230.191:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5312_TVPPolonia.pl.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5312</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Duna TV</title>
+            <location>udp://@233.50.230.192:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5316_Duna.hu.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5316</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>BN</title>
+            <location>udp://@233.50.230.193:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5320_BNTV.ba.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5320</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TVCG MNE</title>
+            <location>udp://@233.50.230.194:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5324_TVCG.me.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5324</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TV4E</title>
+            <location>udp://@233.50.230.195:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5328_tv4e.gr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5328</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTK 1</title>
+            <location>udp://@233.50.230.196:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5332_RTK1.xk.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5332</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTSH 3</title>
+            <location>udp://@233.50.230.197:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5336_RTSH3.al.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5336</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>RTSH Sat</title>
+            <location>udp://@233.50.230.198:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5340_RTSSvet.rs.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5340</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TRT TURK</title>
+            <location>udp://@233.50.230.199:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5404_TRTTurk.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5404</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>KANAL 7 AVRUPA</title>
+            <location>udp://@233.50.230.200:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5408_Kanal7.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5408</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>HABERTURK</title>
+            <location>udp://@233.50.230.201:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5412_Haberturk.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5412</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Eurostar</title>
+            <location>udp://@233.50.230.203:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5416_EuroStar.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5416</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>CNN Türk</title>
+            <location>udp://@233.50.230.204:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5420_CNNTurk.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5420</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Dream Türk</title>
+            <location>udp://@233.50.230.205:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5424_DreamTurk.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5424</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>Euro D</title>
+            <location>udp://@233.50.230.206:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5428_EuroD.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5428</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TRT SPOR</title>
+            <location>udp://@233.50.230.207:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5432_TRTSpor.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5432</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TRT1</title>
+            <location>udp://@233.50.230.221:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5436_TRT1.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5436</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TRT Haber</title>
+            <location>udp://@233.50.230.222:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5440_TRTHaber.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5440</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TRT Cocuk</title>
+            <location>udp://@233.50.230.223:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5444_TRTCocuk.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5444</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+        <track>
+            <title>TGRT EU</title>
+            <location>udp://@233.50.230.83:5000</location>
+            <image>https://api.tv.init7.net/media/logos/5448_TGRTEU.tr.png</image>
+            <extension application="http://www.videolan.org/vlc/playlist/0">
+                <vlc:id>5448</vlc:id>
+                <vlc:option>network-caching=1000</vlc:option>
+            </extension>
+        </track>
+    </trackList>
+</playlist>
