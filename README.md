@@ -98,9 +98,10 @@ https://www.init7.net/de/tv/channels/
 * **Multicast**: [XSPF (VLC)](https://api.init7.net/tvchannels.xspf) / [M3U](https://api.init7.net/tvchannels.m3u)
 * **HLS**: [XSPF (VLC)](https://api.init7.net/tvchannels.xspf?rp=true) / [M3U](https://api.init7.net/tvchannels.m3u?rp=true)
 
-#### SRG Sender Full HD?
-> Die SRG stellt Ihr FHD Signal nur im H.265 Format zur Verfügung. Dieses Format erfordert sehr viel mehr Hardware Ressourcen, so dass dies nur mit den aktuellsten Apple TV und >Android TV Setup Boxen ruckelfrei funktioniert. Wir verzichten generell auf Transcoding sondern fokussieren mit unserem TV7 auf die unverschlüsselte Weiterleitung von TV-Signalen. Darum verbreiten wir diese Sender in der TV7 App nicht in FHD sondern nur im 720p Format. Dafür stellen wir die Signale in FHD als separate Playlist zum Konsum auf einem eigenen Player zur Verfügung:
+#### SRG channels Full HD?
+> SRG only provides its FHD signal in H.265 format. This format requires a lot more hardware resources, so it only works smoothly with the latest Apple TV and >Android TV setup boxes. We generally do not use transcoding, but instead focus on the unencrypted transmission of TV signals with our TV7. That is why we do not broadcast these channels in the TV7 app in FHD but only in 720p format. Instead, we provide the signals in FHD as a separate playlist for consumption on a separate player
 
+Translated with DeepL.com (free version) thanks to FR-95
 **Playlist Multicast**
 * [SRG Sender FHD MC.m3u](https://www.init7.net/de/support/faq/srg-sender-full-hd/srg-fhd-mc.m3u)
 * [SRG Sender FHD MC.xspf](https://www.init7.net/de/support/faq/srg-sender-full-hd/srg-fhd-mc.xspf)
