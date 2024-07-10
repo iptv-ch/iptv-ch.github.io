@@ -6,7 +6,7 @@ This repository contains M3U playlist files for Swiss IPTV Providers. Here are t
 
 IPTV open channels from Netplus + Swisscom as language french only, english only, german only, italian only.
 
-https://iptv-ch.github.io/tvopenchfr.m3u
+**https://iptv-ch.github.io/tvopenchfr.m3u**
 
 **https://iptv-ch.github.io/tvopenchen.m3u**
 
@@ -91,9 +91,19 @@ This file lists only radio channels.<br>
 
 ## Init7 TV7
 
-**https://api.init7.net/tvchannels.m3u**
+### Channel Overview:
+https://www.init7.net/de/tv/channels/ 
 
-**https://api.init7.net/tvchannels.xspf**
+### Playlists
+* **Multicast**: [XSPF (VLC)](https://api.init7.net/tvchannels.xspf) / [M3U](https://api.init7.net/tvchannels.m3u)
+* **HLS**: [XSPF (VLC)](https://api.init7.net/tvchannels.xspf?rp=true) / [M3U](https://api.init7.net/tvchannels.m3u?rp=true)
+
+#### SRG Sender Full HD?
+> Die SRG stellt Ihr FHD Signal nur im H.265 Format zur Verfügung. Dieses Format erfordert sehr viel mehr Hardware Ressourcen, so dass dies nur mit den aktuellsten Apple TV und >Android TV Setup Boxen ruckelfrei funktioniert. Wir verzichten generell auf Transcoding sondern fokussieren mit unserem TV7 auf die unverschlüsselte Weiterleitung von TV-Signalen. Darum verbreiten wir diese Sender in der TV7 App nicht in FHD sondern nur im 720p Format. Dafür stellen wir die Signale in FHD als separate Playlist zum Konsum auf einem eigenen Player zur Verfügung:
+
+**Playlist Multicast**
+* [SRG Sender FHD MC.m3u](https://www.init7.net/de/support/faq/srg-sender-full-hd/srg-fhd-mc.m3u)
+* [SRG Sender FHD MC.xspf](https://www.init7.net/de/support/faq/srg-sender-full-hd/srg-fhd-mc.xspf)
 
 Apple TV (tvOS) Apple TV 4 and 5 and above, olders are not supported.
 https://www.init7.net/en/support/faq/tv-apple-geraete/
