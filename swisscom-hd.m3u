@@ -34,8 +34,6 @@ rtp://239.186.70.27:10000
 udp://@239.101.10.66:1234
 #EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="Arte" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" tvg-chno="9" channel-id="9",arte F HD
 rtp://239.186.68.18:10000
-#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="C8" tvg-logo="https://static.epg.best/fr/C8.fr.png" tvg-chno="10" channel-id="10",C8 CH HD
-rtp://239.186.68.215:10000
 #EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-name="W9" tvg-logo="https://static.epg.best/fr/W9.fr.png" tvg-chno="11" channel-id="11",W9 CH HD
 rtp://239.186.70.38:10000
 #EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-name="TMC" tvg-logo="https://static.epg.best/fr/TMC.fr.png" tvg-chno="12" channel-id="12",TMC CH HD
