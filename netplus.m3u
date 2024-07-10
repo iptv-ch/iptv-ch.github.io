@@ -1,45 +1,15 @@
 #EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml"
 #EXTREM netplus iptv open
 #EXTREM french
+#EXTINF:-1 ,France2 UHD
+udp://@239.101.10.2:1234
 #EXTINF:-1 ,RTS1 HD
 udp://@239.101.10.46:1234
 #EXTINF:-1 ,RTS2 HD
 udp://@239.101.10.47:1234
-#EXTINF:-1 ,TF1 HD
+#EXTINF:-1 ,TF1 HD Suisse
 udp://@239.101.10.63:1234
-#EXTINF:-1 ,France 2 HD
+#EXTINF:-1 ,France2 HD
 udp://@239.101.10.64:1234
-#EXTINF:-1 ,France 3 HD
-udp://@239.101.10.65:1234
-#EXTINF:-1 ,France 4 HD / culturebox
-udp://@239.101.10.56:1234
-#EXTINF:-1 ,France 5 HD
-udp://@239.101.10.68:1234
 #EXTINF:-1 ,M6 HD
 udp://@239.101.10.66:1234
-#EXTINF:-1 ,arte F/D HD
-udp://@239.101.10.67:1234
-#EXTINF:-1 ,C8 HD
-udp://@239.101.10.26:1234
-#EXTINF:-1 ,W9 HD
-udp://@239.101.10.22:1234
-#EXTINF:-1 ,TMC HD
-udp://@239.101.10.21:1234
-#EXTINF:-1 ,TFX HD
-udp://@239.101.10.23:1234
-#EXTINF:-1 ,NRJ 12 HD
-udp://@239.101.10.24:1234
-#EXTINF:-1 ,RMC Decouverte HD
-udp://@239.101.10.53:1234
-#EXTINF:-1 ,Canal+ HD programmes plage en clair
-udp://@239.101.10.39:1234
-#EXTREM deutsch
-#EXTINF:-1 ,SRF 1 HD
-udp://@239.101.10.48:1234
-#EXTINF:-1 ,SRF 2 HD
-udp://@239.101.10.49:1234
-#EXTREM italian
-#EXTINF:-1 ,RSI LA 1 HD
-udp://@239.101.10.44:1234
-#EXTINF:-1 ,RSI LA 2 HD
-udp://@239.101.10.45:1234
