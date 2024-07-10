@@ -40,15 +40,13 @@ rtp://239.186.70.41:10000
 rtp://239.186.84.54:10000
 #EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-name="KTO FR" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="32" channel-id="32",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="C115.api.telerama.fr" tvg-name="RTL9" tvg-logo="http://static.epg.best/lu/RTL9.lu.png" tvg-chno="33" channel-id="33",RTL9 CH HD
-rtp://239.186.68.242:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="90" channel-id="90",ortb
 rtp://239.186.74.97:10000
 #EXTREM:Cinema Series Films Comédies
 #EXTINF:-1 tvg-id="C34.api.telerama.fr" tvg-name="Canal+" tvg-logo="http://static.epg.best/fr/CanalPlus.fr.png" tvg-chno="27" channel-id="27",Canal+ en clair HD
 udp://@239.101.10.39:1234
-#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH HD
-rtp://239.186.68.33:10000
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="AB3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH
+rtp://239.186.66.229:10000
 #EXTREM:Découvertes / Sciences / Voyages / Histoires
 #EXTREM:Informations/Nouvelles non stop
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="Franceinfo" tvg-logo="http://static.epg.best/fr/Franceinfo.fr.png" tvg-chno="16" channel-id="16",Franceinfo HD
