@@ -21,8 +21,6 @@ rtp://239.186.70.190:10000
 rtp://239.186.68.11:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="195" channel-id="195",BR HD
 rtp://239.186.68.26:10000
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="https://static.epg.best/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
-rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="129" channel-id="129",HGTV (deu)
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="https://static.epg.best/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
@@ -75,8 +73,6 @@ rtp://239.186.64.70:10000
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://static.epg.best/de/SWRSR.de.png" tvg-chno="294" channel-id="294",SWR >> HD
 rtp://239.186.68.25:10000
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://static.epg.best/de/TLC.de.png" tvg-chno="319" channel-id="319",TLC CH HD
-rtp://239.186.70.67:10000
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://static.epg.best/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
 rtp://239.186.64.21:10000
 #EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://static.epg.best/de/WDR.de.png" tvg-chno="335" channel-id="335",WDR HD
@@ -174,8 +170,6 @@ rtp://239.186.68.202:10000
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24 DE" tvg-logo="https://static.epg.best/de/Tagesschau24.de.png" tvg-chno="296" channel-id="296",Tagesschau24 HD
 rtp://239.186.68.161:10000
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle DE" tvg-logo="https://static.epg.best/de/DeutscheWelle.de.png" tvg-chno="207" channel-id="207",DW Deutsch
-rtp://239.186.74.26:10000
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info DE" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" tvg-chno="342" channel-id="342",zdf info HD
 rtp://239.186.68.32:10000
 #EXTINF:-1 tvg-id="Wettertv.ch" tvg-name="WetterTV CH" tvg-logo="https://static.epg.best/ch/Wettertv.ch.png" tvg-chno="338" channel-id="338",wetter.tv CH HD
@@ -187,8 +181,6 @@ rtp://239.186.74.150:10000
 #EXTREM:film, comedy, doku
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
 rtp://239.186.68.188:10000
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz HD
-rtp://239.186.68.105:10000
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="https://static.epg.best/de/N24Doku.de.png" tvg-chno="235" channel-id="235",N24 Doku
 rtp://239.186.66.232:10000
 #EXTREM:religion
@@ -228,8 +220,6 @@ rtp://239.186.66.241:10000
 #EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
 rtp://239.186.84.162:10000
 #EXTREM:music
-#EXTINF:-1 tvg-id="MTVGermany.ch" tvg-name="MTV Germany DE" tvg-logo="https://static.epg.best/de/MTVGermany.ch.png" tvg-chno="233" channel-id="233",MTV CH HD
-rtp://239.186.68.174:10000
 #EXTINF:-1 tvg-id="pilatus.ch" tvg-name="Pilatus CH" tvg-logo="https://static.epg.best/ch/pilatus.ch.png" tvg-chno="190" channel-id="190",radio Pilatus HD
 rtp://239.186.68.104:10000
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv HD
