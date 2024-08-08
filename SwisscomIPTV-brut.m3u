@@ -191,8 +191,6 @@ rtp://239.186.64.102:10000
 rtp://239.186.64.103:10000
 #EXTINF:-1,La Tele
 rtp://239.186.64.104:10000
-#EXTINF:-1,Kerrang
-rtp://239.186.64.105:10000
 #EXTINF:-1,Canal Alpha JU
 rtp://239.186.64.106:10000
 #EXTINF:-1,Canal9
@@ -1019,9 +1017,9 @@ rtp://239.186.68.90:10000
 rtp://239.186.68.91:10000
 #EXTINF:-1,blue Sport Live 27 HD (deu)
 rtp://239.186.68.92:10000
-#EXTINF:-1,blue Sport Live 28 HD (deu)
+#EXTINF:-1,DF1 HD (deu)
 rtp://239.186.68.93:10000
-#EXTINF:-1,blue Sport Live 29 HD (deu)
+#EXTINF:-1,SIC noticias HD (por)
 rtp://239.186.68.94:10000
 #EXTINF:-1,blue Sport direct 01 HD (fre)
 rtp://239.186.68.95:10000
@@ -1099,9 +1097,9 @@ rtp://239.186.68.130:10000
 rtp://239.186.68.131:10000
 #EXTINF:-1,LEquipe 21 HD (fra)
 rtp://239.186.68.132:10000
-#EXTINF:-1,TF1 Sries HD (fra)
+#EXTINF:-1,TF1 Series Films HD (fra)
 rtp://239.186.68.133:10000
-#EXTINF:-1,6ter HD (fra)
+#EXTINF:-1,6ter CH HD (fra)
 rtp://239.186.68.134:10000
 #EXTINF:-1,RMC Story HD (fra)
 rtp://239.186.68.135:10000
@@ -1799,7 +1797,7 @@ rtp://239.186.74.6:10000
 rtp://239.186.74.7:10000
 #EXTINF:-1,blue Sport direct 26 (fre)
 rtp://239.186.74.8:10000
-#EXTINF:-1,blue Sport direct 27 (fre)
+#EXTINF:-1,1+1 int. (ukr)
 rtp://239.186.74.9:10000
 #EXTINF:-1,blue Sport direct 28 (fre)
 rtp://239.186.74.10:10000
@@ -2101,6 +2099,8 @@ rtp://239.186.76.2:10000
 rtp://239.186.76.3:10000
 #EXTINF:-1,INULTRA UHD (deu)
 rtp://239.186.76.4:10000
+#EXTINF:-1 ,travelxp 4K UHD (ger)
+rtp://239.186.76.6:10000
 #EXTINF:-1,3plus UHD
 rtp://239.186.76.8:10000
 #EXTINF:-1,blue Sport Live 01 UHD (deu)
@@ -2419,11 +2419,23 @@ rtp://239.186.84.166:10000
 rtp://239.186.84.167:10000
 #EXTINF:-1 ,TVSA HD (bos)
 rtp://239.186.84.168:10000
-#EXTINF:-1 ,una HD (bos)
-rtp://239.186.84.169:10000
 #EXTINF:-1 ,BOYAH HD (ell)
 rtp://239.186.84.170:10000
 #EXTINF:-1 ,TV RT HD (deu) TV  = TV Rheintal HD
 rtp://239.186.84.171:10000
 #EXTINF:-1 ,Rhone TV HD (fra) 
 rtp://239.186.84.172:10000
+#EXTINF:-1 ,Network TV HD (ger)
+rtp://239.186.84.173:10000
+#EXTINF:-1 ,Deutscher Bundestag HD (deu)
+rtp://239.186.84.174:10000
+#EXTINF:-1 ,Espreso TV HD (ukr)
+rtp://239.186.84.176:10000
+#EXTINF:-1 ,Rete55 TV HD (ita)
+rtp://239.186.84.178:10000
+#EXTINF:-1 ,Juwelo TV HD (deu)
+rtp://239.186.84.179:10000
+#EXTINF:-1,Class TV Moda HD (ita)
+rtp://239.186.84.180:10000
+#EXTINF:-1 ,BOM CINE HD (spa)
+rtp://239.186.84.181:10000
