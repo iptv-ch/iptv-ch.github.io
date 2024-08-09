@@ -17,8 +17,8 @@ rtp://239.186.70.79:10000
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
-#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda
-rtp://239.186.66.189:10000
+#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda HD
+rtp://239.186.84.180:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="http://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Real Time HD
 rtp://239.186.84.103:10000
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.epg.best/it/NOVE.it.png" tvg-chno="361" channel-id="361",NOVE HD
@@ -159,3 +159,5 @@ rtp://239.186.84.150:10000
 rtp://239.186.84.152:10000
 #EXTINF:-1 ,TELECUPOLE HD
 rtp://239.186.84.156:10000
+#EXTINF:-1 ,Rete55 TV HD (ita)
+rtp://239.186.84.178:10000
