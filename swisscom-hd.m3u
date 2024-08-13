@@ -306,8 +306,6 @@ rtp://239.186.68.251:10000
 rtp://239.186.68.156:10000
 #EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
 rtp://239.186.84.162:10000
-#EXTINF:-1 tvg-id="Inplus.uk" tvg-name="INPLUS UK" tvg-logo="https://static.epg.best/uk/Inplus.uk.png" tvg-chno="219" channel-id="219",INPLUS HD
-rtp://239.186.70.75:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins CH HD
 rtp://239.186.68.15:10000
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://static.epg.best/ch/Kanal9.ch.png" tvg-chno="224" channel-id="224",Kanal9 HD
@@ -711,7 +709,7 @@ rtp://239.186.84.153:10000
 rtp://239.186.70.99:10000
 #EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,1+1 YKPAÏHA HD (ukr)
+#EXTINF:-1 ,1+1 int HD (ukr)
 rtp://239.186.84.159:10000
 #EXTINF:-1 ,Espreso TV (ukr)
 rtp://239.186.74.158:10000
@@ -795,7 +793,5 @@ rtp://239.186.84.161:10000
 rtp://239.186.84.163:10000
 #EXTINF:-1 ,n HD (ukr)
 rtp://239.186.84.167:10000
-#EXTINF:-1 ,una HD (bos)
-rtp://239.186.84.169:10000
 #EXTINF:-1 ,BOYAH HD (ell)
 rtp://239.186.84.170:10000
