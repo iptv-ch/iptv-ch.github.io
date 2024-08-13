@@ -128,7 +128,7 @@ rtp://239.186.66.229:10000
 rtp://239.186.68.130:10000
 #EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="RMC Story FR" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" tvg-chno="" channel-id="",RMC Story HD
 rtp://239.186.68.135:10000
-#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe 21 HD
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
 rtp://239.186.68.132:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
@@ -250,8 +250,8 @@ rtp://239.186.68.1:10000
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat
-rtp://239.186.64.55:10000
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
+rtp://239.186.68.27:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
 rtp://239.186.68.14:10000
 #EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="177" channel-id="177",4+ HD
@@ -308,8 +308,8 @@ rtp://239.186.68.156:10000
 rtp://239.186.84.162:10000
 #EXTINF:-1 tvg-id="Inplus.uk" tvg-name="INPLUS UK" tvg-logo="https://static.epg.best/uk/Inplus.uk.png" tvg-chno="219" channel-id="219",INPLUS HD
 rtp://239.186.70.75:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
-rtp://239.186.64.20:10000
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins CH HD
+rtp://239.186.68.15:10000
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9 CH" tvg-logo="https://static.epg.best/ch/Kanal9.ch.png" tvg-chno="224" channel-id="224",Kanal9 HD
 rtp://239.186.68.145:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="https://static.epg.best/de/Kika.de.png" tvg-chno="226" channel-id="226",KiKA HD
@@ -338,8 +338,8 @@ rtp://239.186.68.13:10000
 rtp://239.186.70.122:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://static.epg.best/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben
-rtp://239.186.64.19:10000
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben CH HD
+rtp://239.186.68.17:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="https://static.epg.best/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
 rtp://239.186.68.191:10000
 #EXTINF:-1 tvg-id="r-9.at" tvg-name="R-9 AT" tvg-logo="https://static.epg.best/at/r-9.at.png" tvg-chno="255" channel-id="255",R9 Oesterreich HD
@@ -358,8 +358,8 @@ rtp://239.186.64.16:10000
 rtp://239.186.66.201:10000
 #EXTINF:-1 tvg-id="S1.ch" tvg-name="S1 CH" tvg-logo="https://static.epg.best/ch/S1.ch.png" tvg-chno="263" channel-id="263",S1 HD
 rtp://239.186.68.147:10000
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
-rtp://239.186.64.18:10000
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH HD
+rtp://239.186.68.16:10000
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://static.epg.best/de/ServusTV.de.png" tvg-chno="270" channel-id="270",ServusTV Deutschland
 rtp://239.186.64.136:10000
 #EXTINF:-1 tvg-id="SessionNationalrat.ch" tvg-name="Session Nationalrat CH" tvg-logo="https://static.epg.best/ch/SessionNationalrat.ch.png" tvg-chno="272" channel-id="272",SessionNationalrat HD
@@ -368,15 +368,15 @@ rtp://239.186.70.127:10000
 rtp://239.186.70.128:10000
 #EXTINF:-1 tvg-id="SHf.ch" tvg-name="SHf CH" tvg-logo="https://static.epg.best/ch/SHf.ch.png" tvg-chno="277" channel-id="277",SHf HD
 rtp://239.186.68.139:10000
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
-rtp://239.186.64.70:10000
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH HD
+rtp://239.186.68.34:10000
 #EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport 1 DE" tvg-logo="https://static.epg.best/de/Sport1.de.png" tvg-chno="280" channel-id="280",Sport1 CH HD
 rtp://239.186.68.159:10000
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
 rtp://239.186.68.188:10000
 #EXTINF:-1 tvg-id="gametv.ch" tvg-name="GameTV CH" tvg-logo="https://static.epg.best/ch/Gametv.ch.png" tvg-chno="289" channel-id="289",GAMETV CH HD
 rtp://239.186.70.10:10000
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",SUPER RTL
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",RTL SUPER
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="Swiss1.ch" tvg-name="Swiss1 CH" tvg-logo="https://static.epg.best/ch/Swiss1.ch.png" tvg-chno="292" channel-id="292",Swiss1 HD
 rtp://239.186.68.97:10000
@@ -398,7 +398,7 @@ rtp://239.186.68.252:10000
 rtp://239.186.70.182:10000
 #EXTINF:-1 tvg-id="telez.ch" tvg-name="TELE Z CH" tvg-logo="https://static.epg.best/ch/telez.ch.png" tvg-chno="310" channel-id="310",TELEZ HD
 rtp://239.186.68.205:10000
-#EXTINF:-1 tvg-id="TeleZentral.ch" tvg-name="Tele Zentral CH" tvg-logo="https://static.epg.best/ch/TeleZentral.ch.png" tvg-chno="311" channel-id="311",Tele Zentral CH
+#EXTINF:-1 tvg-id="TeleZentral.ch" tvg-name="Tele Zentral CH" tvg-logo="https://static.epg.best/ch/TeleZentral.ch.png" tvg-chno="311" channel-id="311",Tele Zentral Schweiz HD
 rtp://239.186.68.166:10000
 #EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="Tele Zueri CH" tvg-logo="https://static.epg.best/ch/TeleZueri.ch.png" tvg-chno="313" channel-id="313",TELE ZURI HD
 rtp://239.186.68.189:10000
