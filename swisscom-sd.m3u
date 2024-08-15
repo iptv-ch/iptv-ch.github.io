@@ -104,8 +104,6 @@ rtp://239.186.64.113:10000
 rtp://239.186.64.176:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/gb/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
 rtp://239.186.64.177:10000
-#EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="https://static.epg.best/gb/TheBox.uk.png" tvg-chno="132" channel-id="132",The BOX
-rtp://239.186.66.142:10000
 #EXTINF:-1 tvg-id="CGTN.au" tvg-name="CGTN AU" tvg-logo="https://static.epg.best/au/CGTN.au.png" tvg-chno="135" channel-id="135",CGTN
 rtp://239.186.66.114:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" tvg-chno="137" channel-id="137",Channel4
@@ -124,7 +122,7 @@ rtp://239.186.64.167:10000
 rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
 rtp://239.186.64.135:10000
-#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="https://static.epg.best/uk/Drama.uk.png" tvg-chno="146" channel-id="146",DRAMA
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama UK" tvg-logo="https://static.epg.best/uk/UandDrama.uk.png" tvg-chno="146" channel-id="146",U&DRAMA
 rtp://239.186.66.140:10000
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" tvg-chno="147" channel-id="147",E4
 rtp://239.186.64.53:10000
@@ -150,10 +148,6 @@ rtp://239.186.64.180:10000
 rtp://239.186.64.171:10000
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
 rtp://239.186.74.14:10000
-#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang! TV UK" tvg-logo="https://static.epg.best/gb/Kerrang.uk.png" tvg-chno="165" channel-id="165",KERRANG!
-rtp://239.186.64.105:10000
-#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV UK" tvg-logo="https://static.epg.best/gb/KissTV.uk.png" tvg-chno="166" channel-id="166",Kiss
-rtp://239.186.66.128:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
@@ -164,7 +158,7 @@ rtp://239.186.66.242:10000
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="PBS America UK" tvg-logo="https://static.epg.best/gb/dave.uk.png" tvg-chno="" channel-id="",Dave
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U&Dave UK" tvg-logo="https://static.epg.best/gb/Uanddave.uk.png" tvg-chno="" channel-id="",U&Dave
 rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
@@ -174,7 +168,7 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.74:10000
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-name="5ACTION UK" tvg-logo="https://static.epg.best/gb/5ACTION.uk.png" tvg-chno="" channel-id="",5ACTION
 rtp://239.186.74.84:10000
-#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png" tvg-chno="" channel-id="",Yesterday
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday UK" tvg-logo="https://static.epg.best/gb/UandYesterday.uk.png" tvg-chno="" channel-id="",U&Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
@@ -182,7 +176,7 @@ rtp://239.186.74.93:10000
 rtp://239.186.74.94:10000
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="https://static.epg.best/gb/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
-#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="https://static.epg.best/gb/CBSReality.uk.png" tvg-chno="" channel-id="",CBS reality UK
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime UK" tvg-logo="https://static.epg.best/gb/truecrime.uk.png" tvg-chno="" channel-id="",TRUE CRIME UK
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance UK" tvg-logo="https://static.epg.best/gb/GreatRomance.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
@@ -190,8 +184,6 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! action
 rtp://239.186.74.58:10000
-#EXTREM:-1 tvg-id="4music.uk" tvg-name="4Music UK" tvg-logo="https://static.epg.best/gb/4Music.uk.png" tvg-chno="" channel-id="",4Music (eng)
-rtp://239.186.74.2:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
@@ -221,12 +213,10 @@ rtp://239.186.64.131:10000
 rtp://239.186.64.26:10000
 #EXTINF:-1 tvg-id="Channel55.ch" tvg-name="Channel55 CH" tvg-logo="https://static.epg.best/ch/Channel55.ch.png" tvg-chno="198" channel-id="198",Channel55 D
 rtp://239.186.66.238:10000
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",DMF
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="https://static.epg.best/de/DMax.de.png" tvg-chno="204" channel-id="204",DMAX Schweiz
-rtp://239.186.64.34:10000
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="https://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",RiC
 rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="208" channel-id="208",euronews. D
@@ -251,8 +241,6 @@ rtp://239.186.66.231:10000
 rtp://239.186.64.63:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="231" channel-id="231",Melodie.tv
 rtp://239.186.74.15:10000
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV DE" tvg-logo="https://static.epg.best/de/MTVGermany.de.png" tvg-chno="232" channel-id="232",MTV CH
-rtp://239.186.64.32:10000
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="https://static.epg.best/de/N24Doku.de.png" tvg-chno="235" channel-id="235",N24 Doku
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="https://static.epg.best/de/ndr.de.png" tvg-chno="236" channel-id="236",NDR
@@ -283,7 +271,7 @@ rtp://239.186.64.16:10000
 rtp://239.186.66.201:10000
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
 rtp://239.186.64.18:10000
-#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="Servus TV" tvg-logo="https://static.epg.best/at/ServusTV.at.png" tvg-chno="269" channel-id="269",ServusTV Deutschland CH
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="Servus TV" tvg-logo="https://static.epg.best/at/ServusTV.at.png" tvg-chno="269" channel-id="269",ServusTV
 rtp://239.186.64.136:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="271" channel-id="271",SessionNationalrat
 rtp://239.186.66.146:10000
@@ -319,16 +307,12 @@ rtp://239.186.64.9:10000
 rtp://239.186.64.88:10000
 #EXTINF:-1 tvg-id="BlueZoomD.ch" tvg-name="Blue Zoom D CH" tvg-logo="https://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="316" channel-id="316",blue zoom D
 rtp://239.186.66.129:10000
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://static.epg.best/de/TLC.de.png" tvg-chno="318" channel-id="318",TLC CH
-rtp://239.186.66.175:10000
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="321" channel-id="321",TSO
 rtp://239.186.64.100:10000
 #EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="328" channel-id="328",tvo
 rtp://239.186.64.94:10000
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://static.epg.best/de/ComedyCentral.de.png" tvg-chno="332" channel-id="332",Comedy Central Schweiz
-rtp://239.186.64.61:10000
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://static.epg.best/de/Vox.de.png" tvg-chno="333" channel-id="333",VOX
 rtp://239.186.64.21:10000
 #EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://static.epg.best/de/WDR.de.png" tvg-chno="334" channel-id="334",WDR
@@ -510,16 +494,12 @@ rtp://239.186.64.77:10000
 rtp://239.186.66.62:10000
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas ES" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura ES" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png" tvg-chno="423" channel-id="423",Canal Extremadura
-rtp://239.186.64.222:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="467",Andalucia
 rtp://239.186.64.197:10000
 #EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",Galicia
 rtp://239.186.64.187:10000
 #EXTINF:-1 tvg-id="tve.es" tvg-name="tve ES" tvg-logo="https://static.epg.best/es/tve.es.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
-#EXTINF:-1 ,BOM CINE (spa)
-rtp://239.186.74.155:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id=""360.tr tvg-name="360 TR" tvg-logo="https://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk
 rtp://239.186.64.204:10000
@@ -602,3 +582,5 @@ rtp://239.186.74.90:10000
 rtp://239.186.74.98:10000
 #EXTINF:-1 ,Espreso TV (ukr)
 rtp://239.186.74.158:10000
+#EXTINF:-1 ,1+1 int. (ukr)
+rtp://239.186.74.9:10000
