@@ -374,21 +374,21 @@ rtp://239.186.66.176:10000
 rtp://239.186.64.76:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="354" channel-id="354",ClassTV Moda
 rtp://239.186.66.189:10000
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="https://static.epg.best/it/DMAX.it.png" tvg-chno="355" channel-id="355",Discovery-italia DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="https://static.epg.best/it/DMAX.it.png" tvg-chno="355" channel-id="355",Warner Bros Discovery DMAX
 rtp://239.186.66.110:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Discovery-italia FRISBEE
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Warner Bros Discovery FRISBEE
 rtp://239.186.66.188:10000
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="https://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Discovery-italia Giallo
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="https://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Warner Bros Discovery Giallo
 rtp://239.186.66.187:10000
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="https://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="https://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Warner Bros Discovery K2
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend IT" tvg-logo="https://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359", Discovery-italia MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend IT" tvg-logo="https://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359",Warner Bros Discovery MOTOR TREND
 rtp://239.186.74.21:10000
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="https://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Discovery-italia food network I
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="https://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Warner Bros Discovery food network I
 rtp://239.186.66.122:10000
-#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="https://static.epg.best/it/NOVE.it.png" tvg-chno="360" channel-id="360",Discovery-italia NOVE
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="https://static.epg.best/it/NOVE.it.png" tvg-chno="360" channel-id="360",Warner Bros Discovery NOVE
 rtp://239.186.64.158:10000
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="https://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Discovery-italia Real Time
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="https://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Warner Bros Discovery Real Time
 rtp://239.186.66.43:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="https://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
@@ -472,7 +472,7 @@ rtp://239.186.66.108:10000
 rtp://239.186.74.22:10000
 #EXTINF:-1 ,Italian Fishing TV
 rtp://239.186.74.69:10000
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Discovery-Italia HGTV
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Warner Bros Discovery HGTV I
 rtp://239.186.74.71:10000
 #EXTINF:-1 ,TOP CALCIO 24
 rtp://239.186.74.79:10000
