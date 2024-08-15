@@ -103,6 +103,8 @@ rtp://239.186.70.20:10000
 rtp://239.186.68.97:10000
 #EXTINF:-1 tvg-id="HelvetiaOneTV.ch" tvg-name="HelvetiaOneTV CH" tvg-logo="" tvg-chno="https://static.epg.best/ch/HelvetiaOneTV.ch.png" channel-id="" group-title="(Generalist)",Helvetia One TV HD
 rtp://239.186.70.103:10000
+#EXTINF:-1 ,DF1 HD
+rtp://239.186.68.93:10000
 #EXTREM:regio
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="https://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
 rtp://239.186.68.216:10000
@@ -154,6 +156,8 @@ rtp://239.186.68.139:10000
 rtp://239.186.70.4:10000
 #EXTINF:-1 ,TV RT HD (deu) TV  = TV Rheintal HD
 rtp://239.186.84.171:10000
+#EXTINF:-1 ,Network TV HD
+rtp://239.186.84.173:10000
 #EXTREM:kinder
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
@@ -181,6 +185,10 @@ rtp://239.186.74.150:10000
 rtp://239.186.68.188:10000
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="https://static.epg.best/de/N24Doku.de.png" tvg-chno="235" channel-id="235",N24 Doku
 rtp://239.186.66.232:10000
+#EXTINF:-1 ,Deutscher Bundestag HD
+rtp://239.186.84.174:10000
+#EXTINF:-1 ,DOKUSAT HD
+rtp://239.186.70.42:10000
 #EXTREM:religion
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV DE" tvg-logo="https://static.epg.best/de/BibelTV.de.png" tvg-chno="192" channel-id="192",bibel.TV HD
 rtp://239.186.68.148:10000
@@ -214,6 +222,8 @@ rtp://239.186.84.80:10000
 rtp://239.186.70.10:10000
 #EXTINF:-1,More Than Sports TV Deutsch
 rtp://239.186.66.241:10000
+#EXTINF:-1 ,just.fishing (deu)
+rtp://239.186.74.157:10000
 #EXTREM:Werbung
 #EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
 rtp://239.186.84.162:10000
@@ -238,7 +248,7 @@ rtp://239.186.70.9:10000
 rtp://239.186.74.15:10000
 #EXTINF:-1 tvg-id="SCHLAGERPARADIES.de" tvg-name="SCHLAGER PARADIES DE" tvg-logo="https://static.epg.best/de/SCHLAGERPARADIES.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES TV HD / Sonnenklar.tv HD
 rtp://239.186.84.37:10000
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",Deutsches Musik Fernsehen HD
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",DMF Deutsches Musik Fernsehen HD
 rtp://239.186.70.96:10000
 #EXTINF:-1 tvg-id="Musig24.ch" tvg-name="Musig24 CH" tvg-logo="https://static.epg.best/ch/Musig24.ch.png" tvg-chno="234" channel-id="234",musig24 HD
 rtp://239.186.68.207:10000
@@ -250,13 +260,7 @@ rtp://239.186.74.152:10000
 rtp://239.186.74.153:10000
 #EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music FLASHBACK DE" tvg-logo="https://static.epg.best/de/DeluxeMusicFlashback.de.png" tvg-chno="" channel-id="" group-title="music",DLX FLASHBACK
 rtp://239.186.74.154:10000
-#EXTINF:-1 ,just.fishing (deu)
-rtp://239.186.74.157:10000
-#EXTINF:-1 ,DF1 HD
-rtp://239.186.68.93:10000
-#EXTINF:-1 ,DOKUSAT HD
-rtp://239.186.70.42:10000
-#EXTINF:-1 ,Network TV HD
-rtp://239.186.84.173:10000
-#EXTINF:-1 ,Deutscher Bundestag HD
-rtp://239.186.84.174:10000
+
+
+
+
