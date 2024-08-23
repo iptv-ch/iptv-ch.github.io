@@ -203,7 +203,7 @@ rtp://239.186.66.253:10000
 rtp://@239.186.84.2:10000
 #EXTINF:-1 tvg-id="France24E" tvg-name="France 24 E" tvg-logo="https://static.epg.best/fr/France24e.fr.png" tvg-chno="124" channel-id="124",France24 E HD
 rtp://239.186.84.31:10000
-#EXTINF:-1 tvg-id="voiceofamerica.uk" tvg-name="Voice of America UK" tvg-logo="https://static.epg.best/uk/voiceofamerica.uk.png" tvg-chno="125" channel-id="125",Voice of America HD
+#EXTINF:-1 tvg-id="voiceofamerica.uk" tvg-name="Voice of America UK" tvg-logo="https://static.epg.best/uk/voiceofamerica.uk.png" tvg-chno="125" channel-id="125",VOA Voice of America HD
 rtp://239.186.84.32:10000
 #EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star UK" tvg-logo="https://static.epg.best/uk/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
@@ -517,9 +517,9 @@ rtp://239.186.84.99:10000
 rtp://239.186.84.102:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="https://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Warner Bros. Discovery food network I HD
 rtp://239.186.84.91:10000
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="https://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Warner Bros. Discovery K2 /Family club
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="https://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Warner Bros. Discovery K2
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Warner Bros. Discovery Frisbee / Family club
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" tvg-chno="356" channel-id="356",Warner Bros. Discovery Frisbee
 rtp://239.186.66.188:10000
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Warner Bros. Discovery HGTV HD
 rtp://239.186.84.101:10000
@@ -595,6 +595,8 @@ rtp://239.186.70.181:10000
 rtp://239.186.66.177:10000
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="https://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport italia plus HD
 rtp://239.186.70.14:10000
+#EXTINF:-1 tvg-id="SoloCalcio.it" tvg-name="SoloCalcio IT" tvg-logo="https://static.epg.best/it/SoloCalcio.it.png" tvg-chno="407" channel-id="407",Si SOLOCALCIO HD
+rtp://239.186.84.94:10000
 #EXTINF:-1 tvg-id="super.it" tvg-name="super! IT" tvg-logo="https://static.epg.best/it/Super.it.png" tvg-chno="291" channel-id="291",SUPER!
 rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis IT" tvg-logo="https://static.epg.best/it/SuperTennis.it.png" tvg-chno="409" channel-id="409",SuperTennis HD
