@@ -1351,7 +1351,7 @@ rtp://239.186.70.11:10000
 rtp://239.186.70.12:10000
 #EXTINF:-1,Al Masriya HD
 rtp://239.186.70.13:10000
-#EXTINF:-1,Sportitalia plus HD
+#EXTINF:-1,Sport italia plus HD
 rtp://239.186.70.14:10000
 #EXTINF:-1,KTV Kohavision HD
 rtp://239.186.70.15:10000
@@ -2285,7 +2285,7 @@ rtp://239.186.84.90:10000
 rtp://239.186.84.91:10000
 #EXTINF:-1,Fax News HD
 rtp://239.186.84.93:10000
-#EXTINF:-1,Sport Italia HD (ita)
+#EXTINF:-1,Sport Italia SoloCalcio HD
 rtp://239.186.84.94:10000
 #EXTINF:-1 ,sky mix HD
 rtp://239.186.84.95:10000
