@@ -27,6 +27,8 @@ rtp://239.186.74.40:10000
 rtp://239.186.68.156:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins CH HD
 rtp://239.186.68.15:10000
+#EXTINF:-1 tvg-id="Kabel1Doku.de" tvg-name="Kabel 1 Doku DE" tvg-logo="https://static.epg.best/de/Kabel1Doku.de.png" tvg-chno="221" channel-id="221",kabel eins Doku CH HD
+rtp://239.186.70.86:10000
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="https://static.epg.best/de/MDR.de.png" tvg-chno="230" channel-id="230",mdr HD
 rtp://239.186.68.162:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="https://static.epg.best/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
@@ -43,6 +45,8 @@ rtp://239.186.70.122:10000
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben CH HD
 rtp://239.186.68.17:10000
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" tvg-chno="252" channel-id="252",ProSieben MAXX CH HD
+rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="https://static.epg.best/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
 rtp://239.186.68.191:10000
 #EXTINF:-1 tvg-id="r-9.at" tvg-name="R-9 AT" tvg-logo="https://static.epg.best/at/r-9.at.png" tvg-chno="255" channel-id="255",R9 Oesterreich HD
@@ -59,6 +63,8 @@ rtp://239.186.66.201:10000
 rtp://239.186.68.147:10000
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH HD
 rtp://239.186.68.16:10000
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold DE" tvg-logo="https://static.epg.best/de/Sat1Gold.de.png" tvg-chno="264" channel-id="265",SAT.1 GOLD CH HD
+rtp://239.186.70.88:10000
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://static.epg.best/de/ServusTV.de.png" tvg-chno="270" channel-id="270",ServusTV Deutschland
 rtp://239.186.64.136:10000
 #EXTINF:-1 tvg-id="SessionNationalrat.ch" tvg-name="Session Nationalrat CH" tvg-logo="https://static.epg.best/ch/SessionNationalrat.ch.png" tvg-chno="272" channel-id="272",SessionNationalrat HD
@@ -103,7 +109,7 @@ rtp://239.186.70.20:10000
 rtp://239.186.68.97:10000
 #EXTINF:-1 tvg-id="HelvetiaOneTV.ch" tvg-name="HelvetiaOneTV CH" tvg-logo="" tvg-chno="https://static.epg.best/ch/HelvetiaOneTV.ch.png" channel-id="" group-title="(Generalist)",Helvetia One TV HD
 rtp://239.186.70.103:10000
-#EXTINF:-1 ,DF1 HD
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1 DE" tvg-logo="https://static.epg.best/ch/DF1.de.png" tvg-chno="" channel-id="",DF1 HD
 rtp://239.186.68.93:10000
 #EXTREM:regio
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="https://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
