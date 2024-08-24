@@ -123,7 +123,7 @@ rtp://239.186.84.172:10000
 #EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
-#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe 21 HD
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
 rtp://239.186.68.132:10000
 #EXTREM:Animations enfants / adolescents
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
