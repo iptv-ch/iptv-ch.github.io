@@ -637,7 +637,7 @@ rtp://239.186.66.130:10000
 rtp://239.186.66.131:10000
 #EXTINF:-1,Phoenix Info News
 rtp://239.186.66.132:10000
-#EXTINF:-1,Now 90s
+#EXTINF:-1,NOW ROCK
 rtp://239.186.66.133:10000
 #EXTINF:-1,Pro TV International
 rtp://239.186.66.135:10000
@@ -645,7 +645,7 @@ rtp://239.186.66.135:10000
 rtp://239.186.66.137:10000
 #EXTINF:-1,RTR Planeta
 rtp://239.186.66.138:10000
-#EXTINF:-1,Drama (eng)
+#EXTINF:-1,U&Drama (eng)
 rtp://239.186.66.140:10000
 #EXTINF:-1,KCN 3
 rtp://239.186.66.141:10000
@@ -801,8 +801,6 @@ rtp://239.186.66.237:10000
 rtp://239.186.66.238:10000
 #EXTINF:-1,carac4 (ex TV Suisseplus)
 rtp://239.186.66.239:10000
-#EXTINF:-1,VH1 Italia
-rtp://239.186.66.240:10000
 #EXTINF:-1,More Than Sports TV
 rtp://239.186.66.241:10000
 #EXTINF:-1,5 USA (eng)
