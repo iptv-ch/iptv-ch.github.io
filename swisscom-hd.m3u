@@ -747,8 +747,8 @@ rtp://239.186.70.153:10000
 rtp://239.186.84.145:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
 rtp://239.186.66.141:10000
-#EXTINF:-1 tvg-id="Kurdistantv.iq" tvg-name="KurdistanTV IQ" tvg-logo="https://static.epg.best/iq/Kurdistantv.iq.png" tvg-chno="449" channel-id="449",Kurdistan TV HD
-rtp://239.186.70.129:10000
+#EXTINF:-1 tvg-id="Kurdistantv.iq" tvg-name="KurdistanTV IQ" tvg-logo="https://static.epg.best/iq/Kurdistantv.iq.png" tvg-chno="449" channel-id="449",Kurdistan TV
+rtp://239.186.66.203:10000
 #EXTINF:-1 tvg-id="phoenixnews.cn" tvg-name="phoenix news CN" tvg-logo="https://static.epg.best/cn/phoenixnews.cn.png" tvg-chno="451" channel-id="451",PHOENIX NEWS Taiwan
 rtp://239.186.66.132:10000
 #EXTINF:-1 tvg-id="RTRplaneta.ru" tvg-name="RTRPlaneta RU" tvg-logo="https://static.epg.best/ru/rtrplaneta.ru.png" tvg-chno="452" channel-id="452",PLANETA RTR
