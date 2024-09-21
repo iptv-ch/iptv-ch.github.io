@@ -2,24 +2,10 @@
 #EXTurl-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #PLAYLIST: blue tv channels free
 #EXTREM:french
-#EXTINF:-1 ,RTS 1 FullHD
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 FHD
 rtp://239.186.76.26:10000
-#EXTINF:-1 ,RTS 2 FullHD
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 FHD
 rtp://239.186.76.27:10000
-#EXTINF:-1 ,RSI LA 1 FullHD
-rtp://239.186.76.24:10000
-#EXTINF:-1 ,RSI LA 2 FullHD
-rtp://239.186.76.25:10000
-#EXTINF:-1 ,SRF1 FullHD
-rtp://239.186.76.3:10000
-#EXTINF:-1 ,SRF ZWEI FullHD
-rtp://239.186.76.21:10000
-#EXTINF:-1 ,SRF Info FullHD
-rtp://239.186.76.23:10000
-#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 HD
-rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS2 HD
-rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
 rtp://239.186.68.21:10000
 #EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" tvg-chno="4" channel-id="4",France2 HD
@@ -244,12 +230,12 @@ rtp://239.186.84.45:10000
 #EXTINF:-1 ,CGTN DOCUMENTARY HD
 rtp://239.186.84.147:10000
 #EXTREM:german
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
-rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
-rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
-rtp://239.186.68.202:10000
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 FHD
+rtp://239.186.76.3:10000
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 FHD SRF zwei FHD
+rtp://239.186.76.21:10000
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info FHD
+rtp://239.186.76.23:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://239.186.68.27:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
@@ -495,10 +481,10 @@ rtp://239.186.70.126:10000
 #EXTINF:-1 ,DF1 HD (deu)
 rtp://239.186.68.93:10000
 #EXTREM:italian
-#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
-rtp://239.186.68.5:10000
-#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="https://static.epg.best/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 HD
-rtp://239.186.68.6:10000
+#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
+rtp://239.186.76.24:10000
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="https://static.epg.best/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 FHD
+rtp://239.186.76.25:10000
 #EXTINF:-1 tvg-id="teleticino.ch" tvg-name="teleticino CH" tvg-logo="https://static.epg.best/ch/teleticino.ch.png" tvg-chno="411" channel-id="411",teleticino HD
 rtp://239.186.68.201:10000
 #EXTINF:-1 tvg-id="7GTelecity.it" tvg-name="7G Telecity IT" tvg-logo="https://static.epg.best/it/7GTelecity.it.png" tvg-chno="346" channel-id="346",7G Telecity HD
@@ -803,5 +789,3 @@ rtp://239.186.84.163:10000
 rtp://239.186.84.167:10000
 #EXTINF:-1 ,BOYAH HD (ell)
 rtp://239.186.84.170:10000
-
-
