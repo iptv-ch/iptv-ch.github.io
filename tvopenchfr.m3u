@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
 #EXTREM:TNT France/Suisse Generaliste
-#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS 1" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS 1 HD
-rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS 2" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS 2 HD
-rtp://239.186.68.4:10000
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS 1" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS 1 FHD
+rtp://239.186.76.26:10000
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS 2" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="2" channel-id="2",RTS 2 FHD
+rtp://239.186.76.27:10000
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="3" channel-id="3",TF1 CH HD
 rtp://239.186.68.21:10000
 #EXTINF:-1 tvg-id="C4.api.telerama.fr" tvg-name="France 2" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="4" channel-id="4",France2 HD
