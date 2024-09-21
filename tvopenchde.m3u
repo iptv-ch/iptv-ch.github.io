@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTREM: #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="" group-title="(No group)",channel name
 #EXTREM:Generalist
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 HD
-rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 HD SRF zwei HD
-rtp://239.186.68.2:10000
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 FHD
+rtp://239.186.76.3:10000
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SF zwei CH" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="284" channel-id="284",SRF2 FHD SRF zwei FHD
+rtp://239.186.76.21:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="175" channel-id="175",3sat HD
 rtp://239.186.68.27:10000
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="https://static.epg.best/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE SERIE HD
@@ -174,8 +174,8 @@ rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
 #EXTREM:Aktuelle Nachrichten
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info HD
-rtp://239.186.68.202:10000
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info FHD
+rtp://239.186.76.23:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews DE" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="209" channel-id="209",Euronews. D HD
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24 DE" tvg-logo="https://static.epg.best/de/Tagesschau24.de.png" tvg-chno="296" channel-id="296",Tagesschau24 HD
@@ -268,7 +268,3 @@ rtp://239.186.74.152:10000
 rtp://239.186.74.153:10000
 #EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music FLASHBACK DE" tvg-logo="https://static.epg.best/de/DeluxeMusicFlashback.de.png" tvg-chno="" channel-id="" group-title="music",DLX FLASHBACK
 rtp://239.186.74.154:10000
-
-
-
-
