@@ -1,8 +1,8 @@
 #EXTREM:IPTV open Swisscom only italian language
-#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 HD
-rtp://239.186.68.5:10000
-#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="http://static.epg.best/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 HD
-rtp://239.186.68.6:10000
+#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
+rtp://239.186.76.24:10000
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="http://static.epg.best/ch/RSILA2.ch.png" tvg-chno="405" channel-id="405",RSI LA2 FHD
+rtp://239.186.76.25:10000
 #EXTINF:-1 tvg-id="teleticino.ch" tvg-name="teleticino CH" tvg-logo="http://static.epg.best/ch/teleticino.ch.png" tvg-chno="411" channel-id="411",teleticino HD
 rtp://239.186.68.201:10000
 #EXTINF:-1 tvg-id="radioteleticino.ch" tvg-name="radioteleticino CH" tvg-logo="http://static.epg.best/ch/radioteleticino.ch.png" tvg-chno="" channel-id="",Radio Ticino channel HD
