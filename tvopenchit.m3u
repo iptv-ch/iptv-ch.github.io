@@ -79,14 +79,14 @@ rtp://239.186.68.36:10000
 rtp://239.186.70.77:10000
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 IT" tvg-logo="http://static.epg.best/it/RaiTre.it.png" tvg-chno="389" channel-id="389",Rai3 HD
 rtp://239.186.70.78:10000
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="http://static.epg.best/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4
-rtp://239.186.64.50:10000
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="http://static.epg.best/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4 HD
+rtp://239.186.70.43:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="http://static.epg.best/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie HD
 rtp://239.186.84.140:10000
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="http://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium
-rtp://239.186.66.183:10000
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="http://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium HD
+rtp://239.186.68.180:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://static.epg.best/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp HD
 rtp://239.186.84.18:10000
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="http://static.epg.best/it/RaiYoyo.it.png" tvg-chno="401" channel-id="401",Rai Yoyo
