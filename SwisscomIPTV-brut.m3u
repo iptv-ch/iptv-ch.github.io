@@ -135,7 +135,7 @@ rtp://239.186.64.69:10000
 rtp://239.186.64.70:10000
 #EXTINF:-1,TV5 MONDE EUROPE
 rtp://239.186.64.71:10000
-#EXTINF:-1,BFM TV
+#EXTINF:-1,BFM TV CH
 rtp://239.186.64.72:10000
 #EXTINF:-1,La5 (AC3 ita)
 rtp://239.186.64.73:10000
@@ -357,7 +357,7 @@ rtp://239.186.64.201:10000
 rtp://239.186.64.203:10000
 #EXTINF:-1,360 (tur)
 rtp://239.186.64.204:10000
-#EXTINF:-1,TV8 Int. (tur)
+#EXTINF:-1,TV8int (tur)
 rtp://239.186.64.205:10000
 #EXTINF:-1,Warner TV Film (AC3 ger)
 rtp://239.186.64.207:10000
@@ -927,6 +927,8 @@ rtp://239.186.68.50:10000
 rtp://239.186.68.51:10000
 #EXTINF:-1,Curiosity Channel HD
 rtp://239.186.68.52:10000
+#EXTINF:-1,TELEGOLD HD (deu)
+rtp://239.186.68.53:10000
 #EXTINF:-1,blue Action HD (deu)
 rtp://239.186.68.54:10000
 #EXTINF:-1,blue Stars HD (deu)
@@ -1153,6 +1155,8 @@ rtp://239.186.68.164:10000
 rtp://239.186.68.165:10000
 #EXTINF:-1,Tele Zentralschweiz
 rtp://239.186.68.166:10000
+#EXTINF:-1,TV Monaco HD
+rtp://239.186.68.167:10000
 #EXTINF:-1,MySports 7 D HD (deu)
 rtp://239.186.68.168:10000
 #EXTINF:-1,Eurosport 2 D HD (AC3 deu)
@@ -1177,6 +1181,8 @@ rtp://239.186.68.177:10000
 rtp://239.186.68.178:10000
 #EXTINF:-1,Parole di Vita HD
 rtp://239.186.68.179:10000
+#EXTINF:-1,Rai Premium HD  (AC3 ita)
+rtp://239.186.68.180:10000
 #EXTINF:-1,Trace Caribbean HD
 rtp://239.186.68.181:10000
 #EXTINF:-1,Paramount Channel France HD (fre)
@@ -1207,7 +1213,7 @@ rtp://239.186.68.193:10000
 rtp://239.186.68.194:10000
 #EXTINF:-1,5+ HD
 rtp://239.186.68.195:10000
-#EXTINF:-1,BFM CH TV HD
+#EXTINF:-1,BFM TV CH HD
 rtp://239.186.68.196:10000
 #EXTINF:-1,Stingray iConcerts HD
 rtp://239.186.68.197:10000
@@ -1407,9 +1413,9 @@ rtp://239.186.70.40:10000
 rtp://239.186.70.41:10000
 #EXTINF:-1,DOKUSAT HD (deu)
 rtp://239.186.70.42:10000
-#EXTINF:-1,blue Sport Live 31 HD (deu)
+#EXTINF:-1,Rai 4 HD
 rtp://239.186.70.43:10000
-#EXTINF:-1,blue Sport Live 32 HD (deu)
+#EXTINF:-1,TV8int HD (tur)
 rtp://239.186.70.44:10000
 #EXTINF:-1,blue Sport direct 02 HD (fre)
 rtp://239.186.70.45:10000
@@ -1583,16 +1589,6 @@ rtp://239.186.70.136:10000
 rtp://239.186.70.137:10000
 #EXTINF:-1,blue Sport direct 26 HD (fre)
 rtp://239.186.70.138:10000
-#EXTINF:-1,blue Sport direct 27 HD (fre)
-rtp://239.186.70.139:10000
-#EXTINF:-1,blue Sport direct 28 HD (fre)
-rtp://239.186.70.140:10000
-#EXTINF:-1,blue Sport direct 29 HD (fre)
-rtp://239.186.70.141:10000
-#EXTINF:-1,blue Sport direct 30 HD (fre)
-rtp://239.186.70.142:10000
-#EXTINF:-1,blue Sport direct 31 HD (fre)
-rtp://239.186.70.143:10000
 #EXTINF:-1,GEO Television HD (ger)
 rtp://239.186.70.144:10000
 #EXTINF:-1,Crime + Investigation D HD (deu)
@@ -1635,30 +1631,6 @@ rtp://239.186.70.163:10000
 rtp://239.186.70.164:10000
 #EXTINF:-1,Spiegel Geschichte HD
 rtp://239.186.70.165:10000
-#EXTINF:-1,blue Sport direct 32 HD (fre)
-rtp://239.186.70.166:10000
-#EXTINF:-1,blue Sport direct 33 HD (fre)
-rtp://239.186.70.167:10000
-#EXTINF:-1,blue Sport direct 34 HD (fre)
-rtp://239.186.70.168:10000
-#EXTINF:-1,blue Sport Live 33 HD (deu)
-rtp://239.186.70.169:10000
-#EXTINF:-1,blue Sport Live 34 HD (deu)
-rtp://239.186.70.170:10000
-#EXTINF:-1,blue Sport Live 35 HD (deu)
-rtp://239.186.70.171:10000
-#EXTINF:-1,blue Sport Live 36 HD (deu)
-rtp://239.186.70.172:10000
-#EXTINF:-1,blue Sport Live 37 HD (deu)
-rtp://239.186.70.173:10000
-#EXTINF:-1,blue Sport Live 38 HD (deu)
-rtp://239.186.70.174:10000
-#EXTINF:-1,blue Sport Live 39 HD (deu)
-rtp://239.186.70.175:10000
-#EXTINF:-1,blue Sport Live 40 HD (deu)
-rtp://239.186.70.176:10000
-#EXTINF:-1,blue Sport Live 41 HD (deu)
-rtp://239.186.70.177:10000
 #EXTINF:-1,TV Dukagjini HD
 rtp://239.186.70.178:10000
 #EXTINF:-1,Alf-TV HD
@@ -1787,14 +1759,6 @@ rtp://239.186.74.7:10000
 rtp://239.186.74.8:10000
 #EXTINF:-1,1+1 int. (ukr)
 rtp://239.186.74.9:10000
-#EXTINF:-1,blue Sport direct 28 (fre)
-rtp://239.186.74.10:10000
-#EXTINF:-1,blue Sport direct 29 (fre)
-rtp://239.186.74.11:10000
-#EXTINF:-1,blue Sport direct 30 (fre)
-rtp://239.186.74.12:10000
-#EXTINF:-1,blue Sport direct 31 (fre)
-rtp://239.186.74.13:10000
 #EXTINF:-1,itvBe (eng)
 rtp://239.186.74.14:10000
 #EXTINF:-1,Melodie TV
@@ -1821,30 +1785,6 @@ rtp://239.186.74.24:10000
 rtp://239.186.74.25:10000
 #EXTINF:-1,DW Deutsch
 rtp://239.186.74.26:10000
-#EXTINF:-1,blue Sport direct 32 (fre)
-rtp://239.186.74.27:10000
-#EXTINF:-1,blue Sport direct 33 (fre)
-rtp://239.186.74.28:10000
-#EXTINF:-1,blue Sport direct 34 (fre)
-rtp://239.186.74.29:10000
-#EXTINF:-1,blue Sport Live 33 (deu)
-rtp://239.186.74.30:10000
-#EXTINF:-1,blue Sport Live 34 (deu)
-rtp://239.186.74.31:10000
-#EXTINF:-1,blue Sport Live 35 (deu)
-rtp://239.186.74.32:10000
-#EXTINF:-1,blue Sport Live 36 (deu)
-rtp://239.186.74.33:10000
-#EXTINF:-1,blue Sport Live 37 (deu)
-rtp://239.186.74.34:10000
-#EXTINF:-1,blue Sport Live 38 (deu)
-rtp://239.186.74.35:10000
-#EXTINF:-1,blue Sport Live 39 (deu)
-rtp://239.186.74.36:10000
-#EXTINF:-1,blue Sport Live 40 (deu)
-rtp://239.186.74.37:10000
-#EXTINF:-1,blue Sport Live 41 (deu)
-rtp://239.186.74.38:10000
 #EXTINF:-1,Pink Reality
 rtp://239.186.74.39:10000
 #EXTINF:-1,HGTV
@@ -2365,7 +2305,7 @@ rtp://239.186.84.146:10000
 rtp://239.186.84.147:10000
 #EXTINF:-1 ,EarthxTV HD (eng)
 rtp://239.186.84.148:10000
-#EXTINF:-1 ,rtv24 (slo)
+#EXTINF:-1 ,rtv24 (slk)
 rtp://239.186.84.149:10000
 #EXTINF:-1 ,CAPRI SPORT HD (ita)
 rtp://239.186.84.150:10000
