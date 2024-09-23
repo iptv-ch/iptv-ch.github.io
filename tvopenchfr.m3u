@@ -42,6 +42,8 @@ rtp://239.186.84.54:10000
 rtp://239.186.64.148:10000
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="ORTB BJ" tvg-logo="http://static.epg.best/bj/ORTB.bj.png" tvg-chno="90" channel-id="90",ortb
 rtp://239.186.74.97:10000
+#EXTINF:-1,TV MONACO HD
+rtp://239.186.68.167:10000
 #EXTREM:Cinema Series Films Comédies
 #EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://static.epg.best/fr/TF1SeriesFilms.fr.png" tvg-chno="" channel-id="",TF1 Series Films HD
 rtp://239.186.68.133:10000
