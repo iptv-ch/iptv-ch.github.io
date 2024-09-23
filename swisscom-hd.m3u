@@ -116,6 +116,8 @@ rtp://239.186.68.130:10000
 rtp://239.186.68.135:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
 rtp://239.186.68.132:10000
+#EXTINF:-1,TV Monaco HD (fra)
+rtp://239.186.68.167:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -480,6 +482,8 @@ rtp://239.186.74.157:10000
 rtp://239.186.70.126:10000
 #EXTINF:-1 ,DF1 HD (deu)
 rtp://239.186.68.93:10000
+#EXTINF:-1,TELEGOLD HD (deu)
+rtp://239.186.68.53:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
 rtp://239.186.76.24:10000
@@ -561,14 +565,14 @@ rtp://239.186.68.36:10000
 rtp://239.186.70.77:10000
 #EXTINF:-1 tvg-id="RaiTre.it" tvg-name="Rai Tre IT" tvg-logo="https://static.epg.best/it/RaiTre.it.png" tvg-chno="389" channel-id="389",Rai3 HD
 rtp://239.186.70.78:10000
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="https://static.epg.best/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4
-rtp://239.186.64.50:10000
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="https://static.epg.best/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4 HD
+rtp://239.186.70.43:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="https://static.epg.best/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="https://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie HD
 rtp://239.186.84.140:10000
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="https://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium
-rtp://239.186.66.183:10000
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="https://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium HD
+rtp://239.186.68.180:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="https://static.epg.best/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp HD
 rtp://239.186.84.18:10000
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" tvg-chno="401" channel-id="401",Rai Yoyo
@@ -686,6 +690,8 @@ rtp://239.186.70.187:10000
 rtp://239.186.70.198:10000
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNNTurk TR" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" tvg-chno="" channel-id="",CNN Turk
 rtp://239.186.74.75:10000
+#EXTINF:-1 tvg-id="TV8int.tr" tvg-name="TV8int TR" tvg-logo="https://static.epg.best/tr/TV8int.tr.png" tvg-chno="" channel-id="",TV8int HD (tur)
+rtp://239.186.70.44:10000
 #EXTREM:others foreign language not listed above
 #EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV HU" tvg-logo="https://static.epg.best/hu/DunaTV.hu.png" tvg-chno="441" channel-id="441",DUNA HD
 rtp://239.186.70.205:10000
