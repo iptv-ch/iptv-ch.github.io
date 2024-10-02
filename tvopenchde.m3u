@@ -262,8 +262,6 @@ rtp://239.186.70.96:10000
 rtp://239.186.68.207:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="https://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="121" channel-id="121",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 tvg-id="DeluxeMusicRock.de" tvg-name="Deluxe Music Rock DE" tvg-logo="https://static.epg.best/de/DeluxeMusicRock.de.png" tvg-chno="" channel-id="" group-title="music",DLX ROCK
-rtp://239.186.74.152:10000
 #EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music RAP DE" tvg-logo="https://static.epg.best/de/DeluxeMusicRAP.de.png" tvg-chno="" channel-id="" group-title="music",DLX RAP
 rtp://239.186.74.153:10000
 #EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music FLASHBACK DE" tvg-logo="https://static.epg.best/de/DeluxeMusicFlashback.de.png" tvg-chno="" channel-id="" group-title="music",DLX FLASHBACK
