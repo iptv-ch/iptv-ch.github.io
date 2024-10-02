@@ -1155,7 +1155,7 @@ rtp://239.186.68.164:10000
 rtp://239.186.68.165:10000
 #EXTINF:-1,Tele Zentralschweiz
 rtp://239.186.68.166:10000
-#EXTINF:-1,TV Monaco HD
+#EXTINF:-1,TVMonaco HD
 rtp://239.186.68.167:10000
 #EXTINF:-1,MySports 7 D HD (deu)
 rtp://239.186.68.168:10000
@@ -2065,8 +2065,6 @@ rtp://239.186.76.26:10000
 rtp://239.186.76.27:10000
 #EXTINF:-1,Love Nature 4K
 rtp://239.186.76.28:10000
-#EXTINF:-1,NASA TV UHD
-rtp://239.186.76.29:10000
 #EXTINF:-1,blue Sport direct 04 UHD (fre)
 rtp://239.186.76.30:10000
 #EXTINF:-1,blue Sport Live 04 UHD (deu)
