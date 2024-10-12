@@ -264,7 +264,5 @@ rtp://239.186.68.207:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music RAP DE" tvg-logo="https://static.epg.best/de/DeluxeMusicRAP.de.png" tvg-chno="" channel-id="" group-title="music",DLX RAP
 rtp://239.186.74.153:10000
-#EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music FLASHBACK DE" tvg-logo="https://static.epg.best/de/DeluxeMusicFlashback.de.png" tvg-chno="" channel-id="" group-title="music",DLX FLASHBACK
-rtp://239.186.74.154:10000
 #EXTINF:-1,TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
