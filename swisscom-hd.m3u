@@ -711,8 +711,6 @@ rtp://239.186.84.151:10000
 rtp://239.186.70.99:10000
 #EXTINF:-1 ,YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 tvg-id="1Plus1.ua" tvg-name="1+1 UA" tvg-logo="https://static.epg.best/ua/1Plus1.ua.png" tvg-chno="" channel-id="",1+1 int HD (ukr)
-rtp://239.186.84.159:10000
 #EXTINF:-1 ,Espreso TV (ukr)
 rtp://239.186.74.158:10000
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
