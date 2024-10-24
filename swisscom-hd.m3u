@@ -118,8 +118,6 @@ rtp://239.186.68.135:10000
 rtp://239.186.68.132:10000
 #EXTINF:-1,TV Monaco HD (fra)
 rtp://239.186.68.167:10000
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network FR" tvg-logo="https://static.epg.best/fr/CartoonNetwork.fr.png" tvg-chno="21" channel-id="21",CARTOON NETWORK F HD
-rtp://239.186.79.20:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
