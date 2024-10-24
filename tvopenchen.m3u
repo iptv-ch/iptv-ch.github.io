@@ -97,8 +97,6 @@ rtp://239.186.66.116:10000
 #EXTREM childreen
 #EXTINF:-1 ,BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
-#EXTINF:-1 ,audio-track="eng" CARTOON NETWORK E HD
-rtp://239.186.79.20:10000
 #EXTREM: movies / doc
 #EXTINF:-1 ,Film4
 rtp://239.186.64.172:10000
