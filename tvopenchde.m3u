@@ -186,7 +186,7 @@ rtp://239.186.68.32:10000
 rtp://239.186.70.119:10000
 #EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://static.epg.best/de/Welt.de.png" tvg-chno="336" channel-id="336",WeLT
 rtp://239.186.64.30:10000
-#EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",Just COOKING
+#EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",Just COOKING HD
 rtp://239.186.70.76:10000
 #EXTREM:film, comedy, doku
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
