@@ -187,7 +187,7 @@ rtp://239.186.70.119:10000
 #EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://static.epg.best/de/Welt.de.png" tvg-chno="336" channel-id="336",WeLT
 rtp://239.186.64.30:10000
 #EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",Just COOKING
-rtp://239.186.74.150:10000
+rtp://239.186.70.76:10000
 #EXTREM:film, comedy, doku
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
 rtp://239.186.68.188:10000
@@ -232,7 +232,7 @@ rtp://239.186.84.80:10000
 rtp://239.186.70.10:10000
 #EXTINF:-1,More Than Sports TV Deutsch
 rtp://239.186.66.241:10000
-#EXTINF:-1 ,just.fishing HD (deu)
+#EXTINF:-1 ,just.fishing HD
 rtp://239.186.70.92:10000
 #EXTREM:Werbung
 #EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
