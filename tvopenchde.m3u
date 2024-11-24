@@ -87,8 +87,6 @@ rtp://239.186.68.10:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="https://static.epg.best/de/voxup.de.png" tvg-chno="135" channel-id="135",VOXup
 rtp://239.186.74.70:10000
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="https://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",RiC
-rtp://239.186.64.129:10000
 #EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://static.epg.best/de/WeltDerWunder.de.png" tvg-chno="337" channel-id="337",Welt der Wunder TV HD
 rtp://239.186.68.198:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="173" channel-id="173",3+ HD
@@ -173,6 +171,8 @@ rtp://239.186.66.202:10000
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC DE" tvg-logo="https://static.epg.best/de/RiC.de.png" tvg-chno="206" channel-id="206",RiC
+rtp://239.186.64.129:10000
 #EXTREM:Aktuelle Nachrichten
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SF Info CH" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="286" channel-id="286",SRF info FHD
 rtp://239.186.76.23:10000
