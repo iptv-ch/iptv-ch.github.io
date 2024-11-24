@@ -731,7 +731,7 @@ rtp://239.186.66.195:10000
 rtp://239.186.66.197:10000
 #EXTINF:-1,NRTV
 rtp://239.186.66.198:10000
-#EXTINF:-1,blue Sport Live 03 (deu)
+#EXTINF:-1,blue Sport Live 01 (deu)
 rtp://239.186.66.199:10000
 #EXTINF:-1,RTLup
 rtp://239.186.66.201:10000
@@ -945,65 +945,65 @@ rtp://239.186.68.63:10000
 rtp://239.186.68.64:10000
 #EXTINF:-1,Cartoon Network D HD (ger)
 rtp://239.186.68.65:10000
-#EXTINF:-1,blue Sport Live 01 HD (deu)
+#EXTINF:-1,blue Sport D 1 HD (deu)
 rtp://239.186.68.66:10000
-#EXTINF:-1,blue Sport Live 02 HD (deu)
+#EXTINF:-1,blue Sport D 2 HD (deu)
 rtp://239.186.68.67:10000
 #EXTINF:-1,Chasse et Peche HD
 rtp://239.186.68.68:10000
-#EXTINF:-1,blue Sport Live 04 HD (deu)
+#EXTINF:-1,blue Sport Live 02 HD (deu)
 rtp://239.186.68.69:10000
-#EXTINF:-1,blue Sport Live 05 HD (deu)
+#EXTINF:-1,blue Sport Live 03 HD (deu)
 rtp://239.186.68.70:10000
-#EXTINF:-1,blue Sport Live 06 HD (deu)
+#EXTINF:-1,blue Sport Live 04 HD (deu)
 rtp://239.186.68.71:10000
-#EXTINF:-1,blue Sport Live 07 HD (deu)
+#EXTINF:-1,blue Sport Live 05 HD (deu)
 rtp://239.186.68.72:10000
-#EXTINF:-1,blue Sport Live 08 HD (deu)
+#EXTINF:-1,blue Sport Live 06 HD (deu)
 rtp://239.186.68.73:10000
-#EXTINF:-1,blue Sport Live 09 HD (deu)
+#EXTINF:-1,blue Sport Live 07 HD (deu)
 rtp://239.186.68.74:10000
-#EXTINF:-1,blue Sport Live 10 HD (deu)
+#EXTINF:-1,blue Sport Live 08 HD (deu)
 rtp://239.186.68.75:10000
 #EXTINF:-1,blue Sport Live 11 HD (deu)
 rtp://239.186.68.76:10000
-#EXTINF:-1,blue Sport Live 12 HD (deu)
+#EXTINF:-1,blue Sport Live 10 HD (deu)
 rtp://239.186.68.77:10000
-#EXTINF:-1,blue Sport Live 13 HD (deu)
+#EXTINF:-1,blue Sport Live 11 HD (deu)
 rtp://239.186.68.78:10000
-#EXTINF:-1,blue Sport Live 14 HD (deu)
+#EXTINF:-1,blue Sport Live 12 HD (deu)
 rtp://239.186.68.79:10000
-#EXTINF:-1,blue Sport Live 15 HD (deu)
+#EXTINF:-1,blue Sport Live 13 HD (deu)
 rtp://239.186.68.80:10000
-#EXTINF:-1,blue Sport Live 16 HD (deu)
+#EXTINF:-1,blue Sport Live 14 HD (deu)
 rtp://239.186.68.81:10000
-#EXTINF:-1,blue Sport Live 17 HD (deu)
+#EXTINF:-1,blue Sport Live 15 HD (deu)
 rtp://239.186.68.82:10000
-#EXTINF:-1,blue Sport Live 18 HD (deu)
+#EXTINF:-1,blue Sport Live 16 HD (deu)
 rtp://239.186.68.83:10000
-#EXTINF:-1,blue Sport Live 19 HD (deu)
+#EXTINF:-1,blue Sport Live 17 HD (deu)
 rtp://239.186.68.84:10000
-#EXTINF:-1,blue Sport Live 20 HD (deu)
+#EXTINF:-1,blue Sport Live 18 HD (deu)
 rtp://239.186.68.85:10000
-#EXTINF:-1,blue Sport Live 21 HD (deu)
+#EXTINF:-1,blue Sport Live 19 HD (deu)
 rtp://239.186.68.86:10000
-#EXTINF:-1,blue Sport Live 22 HD (deu)
+#EXTINF:-1,blue Sport Live 20 HD (deu)
 rtp://239.186.68.87:10000
-#EXTINF:-1,blue Sport Live 23 HD (deu)
+#EXTINF:-1,blue Sport Live 21 HD (deu)
 rtp://239.186.68.88:10000
-#EXTINF:-1,blue Sport Live 24 HD (deu)
+#EXTINF:-1,blue Sport Live 22 HD (deu)
 rtp://239.186.68.89:10000
-#EXTINF:-1,blue Sport Live 25 HD (deu)
+#EXTINF:-1,blue Sport Live 23 HD (deu)
 rtp://239.186.68.90:10000
-#EXTINF:-1,blue Sport Live 26 HD (deu)
+#EXTINF:-1,blue Sport Live 24 HD (deu)
 rtp://239.186.68.91:10000
-#EXTINF:-1,blue Sport Live 27 HD (deu)
+#EXTINF:-1,blue Sport Live 25 HD (deu)
 rtp://239.186.68.92:10000
 #EXTINF:-1,DF1 HD (deu)
 rtp://239.186.68.93:10000
 #EXTINF:-1,SIC noticias HD (por)
 rtp://239.186.68.94:10000
-#EXTINF:-1,blue Sport direct 01 HD (fre)
+#EXTINF:-1,blue Sport F HD (fre)
 rtp://239.186.68.95:10000
 #EXTINF:-1,MySports 2 D HD (deu)
 rtp://239.186.68.96:10000
@@ -1357,7 +1357,7 @@ rtp://239.186.70.16:10000
 rtp://239.186.70.17:10000
 #EXTINF:-1,CT24 HD
 rtp://239.186.70.18:10000
-#EXTINF:-1,blue Sport Live 03 HD (deu)
+#EXTINF:-1,blue Sport Live 01 HD (deu)
 rtp://239.186.70.19:10000
 #EXTINF:-1,TV25 HD
 rtp://239.186.70.20:10000
@@ -1409,35 +1409,35 @@ rtp://239.186.70.42:10000
 rtp://239.186.70.43:10000
 #EXTINF:-1,TV8int HD (tur)
 rtp://239.186.70.44:10000
-#EXTINF:-1,blue Sport direct 02 HD (fre)
+#EXTINF:-1,blue Sport direct 01 HD (fre)
 rtp://239.186.70.45:10000
-#EXTINF:-1,blue Sport direct 03 HD (fre)
+#EXTINF:-1,blue Sport direct 02 HD (fre)
 rtp://239.186.70.46:10000
-#EXTINF:-1,blue Sport direct 04 HD (fre)
+#EXTINF:-1,blue Sport direct 03 HD (fre)
 rtp://239.186.70.47:10000
-#EXTINF:-1,blue Sport direct 05 HD (fre)
+#EXTINF:-1,blue Sport direct 04 HD (fre)
 rtp://239.186.70.48:10000
-#EXTINF:-1,blue Sport direct 06 HD (fre)
+#EXTINF:-1,blue Sport direct 05 HD (fre)
 rtp://239.186.70.49:10000
-#EXTINF:-1,blue Sport direct 07 HD (fre)
+#EXTINF:-1,blue Sport direct 06 HD (fre)
 rtp://239.186.70.50:10000
-#EXTINF:-1,blue Sport direct 08 HD (fre)
+#EXTINF:-1,blue Sport direct 07 HD (fre)
 rtp://239.186.70.51:10000
-#EXTINF:-1,blue Sport direct 09 HD (fre)
+#EXTINF:-1,blue Sport direct 08 HD (fre)
 rtp://239.186.70.52:10000
-#EXTINF:-1,blue Sport direct 10 HD (fre)
+#EXTINF:-1,blue Sport direct 09 HD (fre)
 rtp://239.186.70.53:10000
-#EXTINF:-1,blue Sport direct 11 HD (fre)
+#EXTINF:-1,blue Sport direct 10 HD (fre)
 rtp://239.186.70.54:10000
-#EXTINF:-1,blue Sport direct 12 HD (fre)
+#EXTINF:-1,blue Sport direct 11 HD (fre)
 rtp://239.186.70.55:10000
-#EXTINF:-1,blue Sport direct 13 HD (fre)
+#EXTINF:-1,blue Sport direct 12 HD (fre)
 rtp://239.186.70.56:10000
-#EXTINF:-1,blue Sport direct 14 HD (fre)
+#EXTINF:-1,blue Sport direct 13 HD (fre)
 rtp://239.186.70.57:10000
-#EXTINF:-1,blue Sport direct 15 HD (fre)
+#EXTINF:-1,blue Sport direct 14 HD (fre)
 rtp://239.186.70.58:10000
-#EXTINF:-1,blue Sport direct 16 HD (fre)
+#EXTINF:-1,blue Sport direct 15 HD (fre)
 rtp://239.186.70.59:10000
 #EXTINF:-1,MySports 5 D HD (deu)
 rtp://239.186.70.60:10000
@@ -1571,15 +1571,15 @@ rtp://239.186.70.131:10000
 rtp://239.186.70.132:10000
 #EXTINF:-1,Grand Geneve TV HD
 rtp://239.186.70.133:10000
-#EXTINF:-1,blue Sport direct 22 HD (fre)
+#EXTINF:-1,blue Sport direct 21 HD (fre)
 rtp://239.186.70.134:10000
-#EXTINF:-1,blue Sport direct 23 HD (fre)
+#EXTINF:-1,blue Sport direct 22 HD (fre)
 rtp://239.186.70.135:10000
-#EXTINF:-1,blue Sport direct 24 HD (fre)
+#EXTINF:-1,blue Sport direct 23 HD (fre)
 rtp://239.186.70.136:10000
-#EXTINF:-1,blue Sport direct 25 HD (fre)
+#EXTINF:-1,blue Sport direct 24 HD (fre)
 rtp://239.186.70.137:10000
-#EXTINF:-1,blue Sport direct 26 HD (fre)
+#EXTINF:-1,blue Sport direct 25 HD (fre)
 rtp://239.186.70.138:10000
 #EXTINF:-1,GEO Television HD (ger)
 rtp://239.186.70.144:10000
@@ -1737,15 +1737,15 @@ rtp://239.186.70.254:10000
 rtp://239.186.74.1:10000
 #EXTINF:-1,blue Retro (deu)
 rtp://239.186.74.3:10000
-#EXTINF:-1,blue Sport direct 22 (fre)
+#EXTINF:-1,blue Sport direct 21 (fre)
 rtp://239.186.74.4:10000
-#EXTINF:-1,blue Sport direct 23 (fre)
+#EXTINF:-1,blue Sport direct 22 (fre)
 rtp://239.186.74.5:10000
-#EXTINF:-1,blue Sport direct 24 (fre)
+#EXTINF:-1,blue Sport direct 23 (fre)
 rtp://239.186.74.6:10000
-#EXTINF:-1,blue Sport direct 25 (fre)
+#EXTINF:-1,blue Sport direct 24 (fre)
 rtp://239.186.74.7:10000
-#EXTINF:-1,blue Sport direct 26 (fre)
+#EXTINF:-1,blue Sport direct 25 (fre)
 rtp://239.186.74.8:10000
 #EXTINF:-1,1+1 int. (ukr)
 rtp://239.186.74.9:10000
