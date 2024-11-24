@@ -559,7 +559,7 @@ rtp://239.186.68.102:10000
 rtp://239.186.68.104:10000
 #EXTINF:-1,la tele HD
 rtp://239.186.68.107:10000
-#EXTINF:-1,crime time HD
+#EXTINF:-1,Crime Time HD (deu)
 rtp://239.186.68.111:10000
 #EXTINF:-1,folx.tv HD
 rtp://239.186.68.121:10000
@@ -1017,13 +1017,13 @@ rtp://239.186.74.95:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1,FreeDOM
 rtp://239.186.74.98:10000
-#EXTINF:-1,Crime Time
+#EXTINF:-1,Crime Time (deu)
 rtp://239.186.74.102:10000
 #EXTINF:-1,Schlager Deluxe
 rtp://239.186.74.105:10000
 #EXTINF:-1,Now 80s
 rtp://239.186.74.106:10000
-#EXTINF:-1,CBS Reality (eng)
+#EXTINF:-1,TRUE CRIME (eng)
 rtp://239.186.74.107:10000
 #EXTINF:-1,Now 70s
 rtp://239.186.74.108:10000
@@ -1043,7 +1043,7 @@ rtp://239.186.74.148:10000
 rtp://239.186.74.149:10000
 #EXTINF:-1,Just Cooking
 rtp://239.186.74.150:10000
-#EXTINF:-1,Hip Trip
+#EXTINF:-1,Hip Trips
 rtp://239.186.74.151:10000
 #EXTINF:-1,Deluxe Rap
 rtp://239.186.74.153:10000
