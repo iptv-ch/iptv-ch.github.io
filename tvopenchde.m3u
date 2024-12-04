@@ -186,8 +186,8 @@ rtp://239.186.68.32:10000
 rtp://239.186.70.119:10000
 #EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://static.epg.best/de/Welt.de.png" tvg-chno="336" channel-id="336",WeLT
 rtp://239.186.64.30:10000
-#EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",Just COOKING HD
-rtp://239.186.70.76:10000
+#EXTINF:-1 tvg-id="justcooking.de" tvg-name="JustCooking DE" tvg-logo="" tvg-chno="https://static.epg.best/de/justcooking.de.png" channel-id="" group-title="(kuche)",justcooking.tv
+rtp://239.186.74.150:10000
 #EXTREM:film, comedy, doku
 #EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="https://static.epg.best/ch/StarTV.ch.png" tvg-chno="288" channel-id="288",STAR TV CH HD
 rtp://239.186.68.188:10000
@@ -197,8 +197,8 @@ rtp://239.186.66.232:10000
 rtp://239.186.84.174:10000
 #EXTINF:-1 ,DOKUSAT HD
 rtp://239.186.70.42:10000
-#EXTINF:-1,CRIME TIME HD
-rtp://239.186.68.111:10000
+#EXTINF:-1,CRIME TIME
+rtp://239.186.74.102:10000
 #EXTREM:religion
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV DE" tvg-logo="https://static.epg.best/de/BibelTV.de.png" tvg-chno="192" channel-id="192",bibel.TV HD
 rtp://239.186.68.148:10000
@@ -213,12 +213,12 @@ rtp://239.186.70.91:10000
 rtp://239.186.84.1:10000
 #EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="Marco Polo TV DE" tvg-logo="https://static.epg.best/de/MarcoPoloTV.de.png" tvg-chno="" channel-id="",MARCO POLO TV HD
 rtp://239.186.84.60:10000
-#EXTINF:-1 tvg-id="xplore.de" tvg-name="xplore DE" tvg-logo="https://static.epg.best/de/xplore.de.png" tvg-chno="" channel-id="",xplore HD
-rtp://239.186.70.94:10000
-#EXTINF:-1 tvg-id="OneTerra.de" tvg-name="OneTerra DE" tvg-logo="https://static.epg.best/de/oneterra.de.png" tvg-chno="" channel-id="",One TERRA HD
-rtp://239.186.70.93:10000
-#EXTINF:-1 tvg-id="hiptrips.de" tvg-name="hiptrips DE" tvg-logo="https://static.epg.best/de/hiptrips.de.png" tvg-chno="" channel-id="",Hip Trips HD
-rtp://239.186.70.73:10000
+#EXTINF:-1 tvg-id="xplore.de" tvg-name="xplore DE" tvg-logo="https://static.epg.best/de/xplore.de.png" tvg-chno="" channel-id="",xplore
+rtp://239.186.74.146:10000
+#EXTINF:-1 tvg-id="OneTerra.de" tvg-name="OneTerra DE" tvg-logo="https://static.epg.best/de/oneterra.de.png" tvg-chno="" channel-id="",One TERRA
+rtp://239.186.74.149:10000
+#EXTINF:-1 tvg-id="hiptrips.de" tvg-name="hiptrips DE" tvg-logo="https://static.epg.best/de/hiptrips.de.png" tvg-chno="" channel-id="",Hip Trips
+rtp://239.186.74.151:10000
 #EXTREM:sport
 #EXTINF:-1 tvg-id="BlueZoomD.ch" tvg-name="Blue Zoom D CH" tvg-logo="https://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="317" channel-id="317",blue ZOOM D HD
 rtp://239.186.68.155:10000
@@ -232,8 +232,8 @@ rtp://239.186.84.80:10000
 rtp://239.186.70.10:10000
 #EXTINF:-1,More Than Sports TV Deutsch
 rtp://239.186.66.241:10000
-#EXTINF:-1 ,just.fishing HD
-rtp://239.186.70.92:10000
+#EXTINF:-1 ,just.fishing
+rtp://239.186.74.157:10000
 #EXTREM:Werbung
 #EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24 DE" tvg-logo="https://static.epg.best/de/HSE24.de.png" tvg-chno="218" channel-id="218",HSE HD
 rtp://239.186.84.162:10000
@@ -264,9 +264,9 @@ rtp://239.186.70.96:10000
 rtp://239.186.68.207:10000
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe DE" tvg-logo="https://static.epg.best/de/SchlagerDeluxe.de.png" tvg-chno="121" channel-id="121",SCHLAGER DELUXE
 rtp://239.186.74.105:10000
-#EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music RAP DE" tvg-logo="https://static.epg.best/de/DeluxeMusicRAP.de.png" tvg-chno="" channel-id="" group-title="music",DLX RAP HD
-rtp://239.186.70.68:10000
+#EXTINF:-1 tvg-id="DeluxeMusicRap.de" tvg-name="Deluxe Music RAP DE" tvg-logo="https://static.epg.best/de/DeluxeMusicRAP.de.png" tvg-chno="" channel-id="" group-title="music",DLX RAP
+rtp://239.186.74.153:10000
 #EXTINF:-1,TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
-#EXTINF:-1 tvg-id="DeluxeMusicDance.de" tvg-name="Deluxe Music Dance DE" tvg-logo="https://static.epg.best/de/DeluxeMusicDance.de.png" tvg-chno="" channel-id="" group-title="music",DLX DANCE HD (deu)
-rtp://239.186.70.62:10000
+#EXTINF:-1 tvg-id="DeluxeMusicDance.de" tvg-name="Deluxe Music Dance DE" tvg-logo="https://static.epg.best/de/DeluxeMusicDance.de.png" tvg-chno="" channel-id="" group-title="music",DLX DANCE (deu)
+rtp://239.186.74.128:10000
