@@ -51,7 +51,7 @@ rtp://239.186.64.27:10000
 rtp://239.186.64.28:10000
 #EXTINF:-1,n-tv CH (deu)
 rtp://239.186.64.29:10000
-#EXTINF:-1,WELT
+#EXTINF:-1,WeLT
 rtp://239.186.64.30:10000
 #EXTINF:-1,KiKa (AC3 deu)
 rtp://239.186.64.31:10000
@@ -1103,11 +1103,11 @@ rtp://239.186.84.35:10000
 rtp://239.186.84.36:10000
 #EXTINF:-1,Schlagerparadies TV HD
 rtp://239.186.84.37:10000
-#EXTINF:-1,EU Parlament+ HD (qaa)
+#EXTINF:-1,EU Parliament+ HD (qaa)
 rtp://239.186.84.42:10000
-#EXTINF:-1,EU Parlament HD (qaa)
+#EXTINF:-1,EU Parliament HD (qaa)
 rtp://239.186.84.45:10000
-#EXTINF:-1,Warner TV Italy HD
+#EXTINF:-1,Warner TV Italia HD
 rtp://239.186.84.46:10000
 #EXTINF:-1,TV5 Monde EU HD
 rtp://239.186.84.54:10000
