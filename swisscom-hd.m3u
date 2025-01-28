@@ -252,7 +252,7 @@ rtp://239.186.70.116:10000
 rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="https://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
-#EXTINF:-1 tvg-id="AlpenlandTV.de" tvg-name="AlpenlandTV DE" tvg-logo="https://static.epg.best/uk/AlpenlandTV.de.png" tvg-chno="180" channel-id="180",AlpenlandTV HD
+#EXTINF:-1 tvg-id="AW1.de" tvg-name="AW1 DE" tvg-logo="https://static.epg.best/de/AW1.de.png" tvg-chno="180" channel-id="180",AW1 HD
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="https://static.epg.best/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE SERIE HD
 rtp://239.186.68.7:10000
@@ -440,7 +440,7 @@ rtp://239.186.68.243:10000
 rtp://239.186.70.97:10000
 #EXTINF:-1 ,More Than Sports TV HD
 rtp://239.186.70.28:10000
-#EXTINF:-1 ,Hit Express TV HD HD
+#EXTINF:-1 ,AW2 TV HD
 rtp://239.186.84.22:10000
 #EXTINF:-1 ,Folx HD
 rtp://239.186.68.121:10000
@@ -615,8 +615,8 @@ rtp://239.186.84.90:10000
 rtp://239.186.74.69:10000
 #EXTINF:-1 tvg-id="Topcalcio24.it" tvg-name="Topcalcio24 IT" tvg-logo="https://static.epg.best/it/Topcalcio24.it.png" tvg-chno="420" channel-id="420",TOP CALCIO 24 HD
 rtp://239.186.84.105:10000
-#EXTINF:-1 ,senato italiano tv
-rtp://239.186.74.85:10000
+#EXTINF:-1 ,Senato TV HD
+rtp://239.186.70.114:10000
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DeejayTV IT" tvg-logo="https://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
 #EXTINF:-1 tvg-id="SMtvSanMarino.it" tvg-name="SMtv San Marino IT" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="" channel-id="",Rtv San Marino HD
@@ -629,8 +629,8 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 ,BIKE CHANNEL
-rtp://239.186.74.145:10000
+#EXTINF:-1 ,BIKE CHANNEL HD
+rtp://239.186.70.113:10000
 #EXTINF:-1 ,TRENTINO TV HD
 rtp://239.186.84.141:10000
 #EXTINF:-1 ,telenuovo HD
@@ -749,7 +749,7 @@ rtp://239.186.66.138:10000
 rtp://239.186.84.85:10000
 #EXTINF:-1 tvg-id="RTK.al" tvg-name="RTK AL" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1 SAT
 rtp://239.186.64.81:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD (kur)
 rtp://239.186.68.247:10000
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="https://static.epg.best/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV
 rtp://239.186.66.135:10000
@@ -795,3 +795,5 @@ rtp://239.186.84.163:10000
 rtp://239.186.84.167:10000
 #EXTINF:-1 ,BOYAH HD (ell)
 rtp://239.186.84.170:10000
+#EXTINF:-1 ,RTVI (rus)
+rtp://239.186.74.2:10000
