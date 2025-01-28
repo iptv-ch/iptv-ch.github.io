@@ -197,7 +197,7 @@ rtp://239.186.64.55:10000
 rtp://239.186.64.56:10000
 #EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="176" channel-id="176",4+
 rtp://239.186.64.142:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="179" channel-id="179",AlpenlandTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="179" channel-id="179",AW1 TV
 rtp://239.186.64.112:10000
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://static.epg.best/de/ARD.de.png" tvg-chno="182" channel-id="182",ARD Das Erste
 rtp://239.186.64.11:10000
@@ -584,3 +584,5 @@ rtp://239.186.74.98:10000
 rtp://239.186.74.158:10000
 #EXTINF:-1 ,1+1 int. (ukr)
 rtp://239.186.74.9:10000
+#EXTINF:-1 ,RTVI (rus)
+rtp://239.186.74.2:10000
