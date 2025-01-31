@@ -631,7 +631,7 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 ,BIKE CHANNEL HD
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel IT" tvg-logo="https://static.epg.best/it/BikeChannel.it.png" tvg-chno="" channel-id="",BIKE CHANNEL I HD
 rtp://239.186.70.113:10000
 #EXTINF:-1 ,TRENTINO TV HD
 rtp://239.186.84.141:10000
