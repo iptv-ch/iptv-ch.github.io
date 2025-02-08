@@ -96,7 +96,7 @@ rtp://239.186.70.155:10000
 rtp://239.186.70.132:10000
 #EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="https://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie TV HD
 rtp://239.186.70.180:10000
-#EXTINF:-1 tvg-id="verniervisions.ch" tvg-name="Vernier Visions CH" tvg-logo="https://static.epg.best/ch/verniervisions.ch.png" tvg-chno="88" channel-id="88",Vernier Visions HD
+#EXTINF:-1 tvg-id="icimediasports.ch" tvg-name="ICI MEDIA SPORTS CH" tvg-logo="https://static.epg.best/ch/icimediasports.ch.png" tvg-chno="88" channel-id="88",ICI MEDIA SPORTS HD
 rtp://239.186.70.203:10000
 #EXTINF:-1 ,Rhone TV HD
 rtp://239.186.84.172:10000
