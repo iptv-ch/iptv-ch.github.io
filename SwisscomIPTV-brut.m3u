@@ -2001,7 +2001,7 @@ rtp://239.186.76.8:10000
 rtp://239.186.76.9:10000
 #EXTINF:-1,blue Sport direct 01 UHD (fre)
 rtp://239.186.76.10:10000
-#EXTINF:-1, myzen4k UHD
+#EXTINF:-1, myzen.tv 4k UHD
 rtp://239.186.76.11:10000
 #EXTINF:-1,blue Sport Live 02 UHD (deu)
 rtp://239.186.76.13:10000
