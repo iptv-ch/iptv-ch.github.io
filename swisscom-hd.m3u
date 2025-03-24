@@ -36,8 +36,6 @@ rtp://239.186.70.121:10000
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="https://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
 rtp://239.186.70.30:10000
-#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="CStar" tvg-logo="https://static.epg.best/fr/CStar.fr.png" tvg-chno="19" channel-id="19",CSTAR HD
-rtp://239.186.70.24:10000
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" tvg-chno="24" channel-id="24",6ter HD
@@ -118,8 +116,8 @@ rtp://239.186.68.135:10000
 rtp://239.186.68.132:10000
 #EXTINF:-1,TV Monaco HD (fra)
 rtp://239.186.68.167:10000
-#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito FR" tvg-logo="http://static.epg.best/fr/cartoonito.fr.png" tvg-chno="" channel-id="",CARTOONITO F HD
-rtp://239.186.70.139:10000
+#EXTINF:-1,ESC F 25 HD
+rtp://239.186.70.109:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
 rtp://239.186.68.43:10000
@@ -486,6 +484,10 @@ rtp://239.186.68.53:10000
 rtp://239.186.74.102:10000
 #EXTINF:-1 ,DLX DANCE (deu)
 rtp://239.186.74.128:10000
+#EXTINF:-1,Hohenrausch HD
+rtp://239.186.70.140:10000
+#EXTINF:-1,ESC D 25 HD
+rtp://239.186.70.98:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
 rtp://239.186.76.24:10000
@@ -573,8 +575,8 @@ rtp://239.186.70.43:10000
 rtp://239.186.66.179:10000
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="https://static.epg.best/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie HD
 rtp://239.186.84.140:10000
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="https://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium HD
-rtp://239.186.68.180:10000
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="https://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium FullHD
+rtp://239.186.76.2:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="https://static.epg.best/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp HD
 rtp://239.186.84.18:10000
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" tvg-chno="401" channel-id="401",Rai Yoyo
@@ -645,6 +647,8 @@ rtp://239.186.84.152:10000
 rtp://239.186.84.156:10000
 #EXTINF:-1 ,R55 Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
+#EXTINF:-1,ESC I 25 HD
+rtp://239.186.70.107:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
