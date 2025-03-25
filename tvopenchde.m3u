@@ -270,3 +270,7 @@ rtp://239.186.74.153:10000
 rtp://239.186.68.53:10000
 #EXTINF:-1 tvg-id="DeluxeMusicDance.de" tvg-name="Deluxe Music Dance DE" tvg-logo="https://static.epg.best/de/DeluxeMusicDance.de.png" tvg-chno="" channel-id="" group-title="music",DLX DANCE (deu)
 rtp://239.186.74.128:10000
+#EXTINF:-1,Hohenrausch HD
+rtp://239.186.70.140:10000
+#EXTINF:-1,ESC D 25 FullHD
+rtp://239.186.76.12:10000
