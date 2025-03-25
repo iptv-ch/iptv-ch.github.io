@@ -128,5 +128,5 @@ rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTREM: Promotions temporaires
-#EXTINF:-1,ESC F 25 FullHD
-rtp://239.186.76.29:10000
+#EXTINF:-1,ESC F 25 HD
+rtp://239.186.70.109:10000
