@@ -87,6 +87,8 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
+#EXTINF:-1,Cartoonito F
+rtp://239.186.74.10:10000
 #EXTINF:-1,ESC F 25
 rtp://239.186.74.13:10000
 #EXTREM:english
