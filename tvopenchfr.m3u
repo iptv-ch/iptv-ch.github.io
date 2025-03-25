@@ -19,8 +19,6 @@ rtp://239.186.70.27:10000
 rtp://239.186.68.20:10000
 #EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="Arte" tvg-logo="http://static.epg.best/fr/ARTE.fr.png" tvg-chno="9" channel-id="9",arte F HD
 rtp://239.186.68.18:10000
-#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="C8" tvg-logo="http://static.epg.best/fr/C8.fr.png" tvg-chno="10" channel-id="10",C8 CH HD
-rtp://239.186.68.215:10000
 #EXTINF:-1 tvg-id="C119.api.telerama.fr" tvg-name="W9" tvg-logo="http://static.epg.best/fr/W9.fr.png" tvg-chno="11" channel-id="11",W9 CH HD
 rtp://239.186.70.38:10000
 #EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-name="TMC" tvg-logo="http://static.epg.best/fr/TMC.fr.png" tvg-chno="12" channel-id="12",TMC CH HD
@@ -29,8 +27,6 @@ rtp://239.186.70.37:10000
 rtp://239.186.70.34:10000
 #EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="14" channel-id="14",NRJ12 CH HD
 rtp://239.186.70.33:10000
-#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="CStar" tvg-logo="http://static.epg.best/fr/CStar.fr.png" tvg-chno="19" channel-id="19",CSTAR HD
-rtp://239.186.70.24:10000
 #EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="21" channel-id="21",6ter HD
 rtp://239.186.68.134:10000
 #EXTREM:Extra Generaliste francophonie
@@ -110,13 +106,13 @@ rtp://239.186.70.180:10000
 rtp://239.186.70.203:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
 rtp://239.186.70.21:10000
-#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="84" channel-id="84",carac1 HD (ex rouge TV HD)
+#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="84" channel-id="84",carac1 HD
 rtp://239.186.68.253:10000
-#EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="83" channel-id="83",carac2 HD (ex one.tv CH HD)
+#EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="83" channel-id="83",carac2 HD
 rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="carac3.ch" tvg-name="carac3 CH" tvg-logo="http://static.epg.best/ch/carac3.ch.png" tvg-chno="77" channel-id="77",carac3 HD (ex lfm TV HD)
+#EXTINF:-1 tvg-id="carac3.ch" tvg-name="carac3 CH" tvg-logo="http://static.epg.best/ch/carac3.ch.png" tvg-chno="77" channel-id="77",carac3 HD
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="",carac4 HD (ex TV SUISSE PLUS)
+#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="",carac4 HD
 rtp://239.186.70.104:10000
 #EXTINF:-1 ,Rhone TV HD
 rtp://239.186.84.172:10000
@@ -128,9 +124,9 @@ rtp://239.186.68.132:10000
 #EXTREM:Animations enfants / adolescents
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito FR" tvg-logo="http://static.epg.best/fr/cartoonito.fr.png" tvg-chno="" channel-id="",CARTOONITO F HD
-rtp://239.186.70.139:10000
 #EXTREM: Voyances / jeux ruinant / arnaques publicitaires
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTREM: Promotions temporaires
+#EXTINF:-1,ESC F 25 FullHD
+rtp://239.186.76.29:10000
