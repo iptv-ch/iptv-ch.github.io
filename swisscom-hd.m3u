@@ -26,8 +26,6 @@ rtp://239.186.70.38:10000
 rtp://239.186.70.37:10000
 #EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="TFX" tvg-logo="https://static.epg.best/fr/TFX.fr.png" tvg-chno="13" channel-id="13",TFX CH HD
 rtp://239.186.70.34:10000
-#EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" tvg-chno="14" channel-id="14",NRJ12 CH HD
-rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 rtp://239.186.84.35:10000
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
