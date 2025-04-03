@@ -23,8 +23,6 @@ rtp://239.186.64.39:10000
 rtp://239.186.64.40:10000
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://static.epg.best/fr/TMC.fr.png" tvg-chno="103" channel-id="103",TMC CH
 rtp://239.186.64.127:10000
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" tvg-chno="83" channel-id="83",NRJ12 CH
-rtp://239.186.64.58:10000
 #EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="https://static.epg.best/fr/TFX.fr.png" tvg-chno="101" channel-id="101",TFX CH
 rtp://239.186.64.42:10000
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://static.epg.best/fr/W9.fr.png" tvg-chno="113" channel-id="113",W9 CH
