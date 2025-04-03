@@ -25,8 +25,6 @@ rtp://239.186.70.38:10000
 rtp://239.186.70.37:10000
 #EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="TFX" tvg-logo="http://static.epg.best/fr/TFX.fr.png" tvg-chno="13" channel-id="13",TFX CH HD
 rtp://239.186.70.34:10000
-#EXTINF:-1 tvg-id="C444.api.telerama.fr" tvg-name="NRJ 12" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="14" channel-id="14",NRJ12 CH HD
-rtp://239.186.70.33:10000
 #EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="6ter" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="21" channel-id="21",6ter HD
 rtp://239.186.68.134:10000
 #EXTREM:Extra Generaliste francophonie
