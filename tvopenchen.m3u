@@ -77,8 +77,6 @@ rtp://239.186.68.171:10000
 rtp://239.186.70.65:10000
 #EXTINF:-1 ,France 24 E HD
 rtp://239.186.84.31:10000
-#EXTINF:-1 ,Voice of America HD
-rtp://239.186.84.32:10000
 #EXTINF:-1 ,GBNews.uk HD
 rtp://239.186.84.57:10000
 #EXTINF:-1 ,EU Parlament+ HD
