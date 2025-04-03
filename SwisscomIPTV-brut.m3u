@@ -109,10 +109,6 @@ rtp://239.186.64.55:10000
 rtp://239.186.64.56:10000
 #EXTINF:-1,Arte FR (AC3 fra)
 rtp://239.186.64.57:10000
-#EXTINF:-1,NRJ 12
-rtp://239.186.64.58:10000
-#EXTINF:-1,C8 CH (fra)
-rtp://239.186.64.59:10000
 #EXTINF:-1,Tele Bearn
 rtp://239.186.64.60:10000
 #EXTINF:-1,Comedy Central D (AC3)
@@ -1235,8 +1231,6 @@ rtp://239.186.68.212:10000
 rtp://239.186.68.213:10000
 #EXTINF:-1,BBC NEWS HD
 rtp://239.186.68.214:10000
-#EXTINF:-1,C8 CH HD (fra)
-rtp://239.186.68.215:10000
 #EXTINF:-1,Davos Klosters HD
 rtp://239.186.68.216:10000
 #EXTINF:-1,Tele D HD
@@ -1375,8 +1369,6 @@ rtp://239.186.70.30:10000
 rtp://239.186.70.31:10000
 #EXTINF:-1,Mezzo HD
 rtp://239.186.70.32:10000
-#EXTINF:-1,NRJ12 HD (fra)
-rtp://239.186.70.33:10000
 #EXTINF:-1,TFX CH HD (fra)
 rtp://239.186.70.34:10000
 #EXTINF:-1,MySports 2 F HD (fra)
@@ -2075,8 +2067,6 @@ rtp://239.186.84.5:10000
 rtp://239.186.84.6:10000
 #EXTINF:-1 , sky krimi HD
 rtp://239.186.84.7:10000
-#EXTINF:-1,pro 7 fun HD (ger)
-rtp://239.186.84.8:10000
 #EXTINF:-1,Stingray djazz HD
 rtp://239.186.84.9:10000
 #EXTINF:-1,Al Arabiya HD
@@ -2117,8 +2107,6 @@ rtp://239.186.84.29:10000
 rtp://239.186.84.30:10000
 #EXTINF:-1,France 24 E HD (AC3 eng)
 rtp://239.186.84.31:10000
-#EXTINF:-1,Voice of America HD
-rtp://239.186.84.32:10000
 #EXTINF:-1,TV  Galicia HD
 rtp://239.186.84.33:10000
 #EXTINF:-1,BN Music HD
