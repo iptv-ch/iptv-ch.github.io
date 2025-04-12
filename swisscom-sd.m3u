@@ -333,24 +333,12 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 tvg-id="morethansports.de" tvg-name="More Than Sports DE" tvg-logo="https://static.epg.best/de/morethansports.de.png" tvg-chno="205" channel-id="205",More Than Sports D
 rtp://239.186.66.241:10000
-#EXTINF:-1 ,xplore (deu)
-rtp://239.186.74.146:10000
 #EXTINF:-1 ,stimmungsgarten.tv (deu)
 rtp://239.186.74.148:10000
-#EXTINF:-1 ,One TERRA (deu)
-rtp://239.186.74.149:10000
 #EXTINF:-1 ,justcooking.tv (deu)
 rtp://239.186.74.150:10000
-#EXTINF:-1 ,Hip Trips (deu)
-rtp://239.186.74.151:10000
-#EXTINF:-1 ,DLX RAP  (deu)
-rtp://239.186.74.153:10000
 #EXTINF:-1 ,just.fishing (deu)
 rtp://239.186.74.157:10000
-#EXTINF:-1 ,CRIME TIME (deu)
-rtp://239.186.74.102:10000
-#EXTINF:-1 ,DLX DANCE  (deu)
-rtp://239.186.74.128:10000
 #EXTINF:-1,ESC D 25
 rtp://239.186.74.11:10000
 #EXTREM:italian
