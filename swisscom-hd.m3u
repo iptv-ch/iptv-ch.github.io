@@ -452,20 +452,12 @@ rtp://239.186.84.60:10000
 rtp://239.186.84.80:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.ro" tvg-name="Arcadia TV RO" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
-#EXTINF:-1 ,DMF HD Deutsches Musik Fernsehen HD
+#EXTINF:-1 ,DMF HD
 rtp://239.186.70.96:10000
-#EXTINF:-1 ,xplore (deu)
-rtp://239.186.74.146:10000
 #EXTINF:-1 ,stimmungsgarten.tv
 rtp://239.186.74.148:10000
-#EXTINF:-1 ,One TERRA (deu)
-rtp://239.186.74.149:10000
 #EXTINF:-1 ,justcooking.tv (deu)
 rtp://239.186.74.150:10000
-#EXTINF:-1 ,Hip Trips (deu)
-rtp://239.186.74.151:10000
-#EXTINF:-1 ,DLX RAP
-rtp://239.186.74.153:10000
 #EXTINF:-1 ,TV RT HD (deu) TV   TV Rheintal HD
 rtp://239.186.84.171:10000
 #EXTINF:-1 ,I-TV HD
@@ -478,10 +470,6 @@ rtp://239.186.70.126:10000
 rtp://239.186.68.93:10000
 #EXTINF:-1,TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
-#EXTINF:-1,CRIME TIME (deu)
-rtp://239.186.74.102:10000
-#EXTINF:-1 ,DLX DANCE (deu)
-rtp://239.186.74.128:10000
 #EXTINF:-1,Hohenrausch HD
 rtp://239.186.70.140:10000
 #EXTINF:-1,ESC D 25 HD
@@ -631,8 +619,8 @@ rtp://239.186.68.192:10000
 rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel IT" tvg-logo="https://static.epg.best/it/BikeChannel.it.png" tvg-chno="" channel-id="",BIKE CHANNEL I HD
-rtp://239.186.70.113:10000
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel IT" tvg-logo="https://static.epg.best/it/BikeChannel.it.png" tvg-chno="" channel-id="",BIKE CHANNEL HD
+rtp://239.186.74.145:10000
 #EXTINF:-1 ,TRENTINO TV HD
 rtp://239.186.84.141:10000
 #EXTINF:-1 ,telenuovo HD
