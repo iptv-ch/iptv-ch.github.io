@@ -1209,6 +1209,8 @@ rtp://239.186.68.200:10000
 rtp://239.186.68.201:10000
 #EXTINF:-1,SRFinfo HD (AC3 deu)
 rtp://239.186.68.202:10000
+#EXTINF:-1,sky Bundesliga 01 HD (deu)
+rtp://239.186.68.203:10000
 #EXTINF:-1,Canal J HD
 rtp://239.186.68.204:10000
 #EXTINF:-1,Tele Z HD
@@ -1281,6 +1283,8 @@ rtp://239.186.68.238:10000
 rtp://239.186.68.239:10000
 #EXTINF:-1,Cine+ Classic HD (fra)
 rtp://239.186.68.240:10000
+#EXTINF:-1,La Chaine Info HD (fra)
+rtp://239.186.68.241:10000
 #EXTINF:-1,RTL9 CH HD
 rtp://239.186.68.242:10000
 #EXTINF:-1,rroTV HD
@@ -1619,6 +1623,8 @@ rtp://239.186.70.163:10000
 rtp://239.186.70.164:10000
 #EXTINF:-1,Spiegel Geschichte HD
 rtp://239.186.70.165:10000
+#EXTINF:-1,Info channel HD (deu)
+rtp://239.186.70.168:10000
 #EXTINF:-1,TV Dukagjini HD
 rtp://239.186.70.178:10000
 #EXTINF:-1,Alf-TV HD
@@ -1709,6 +1715,22 @@ rtp://239.186.70.222:10000
 rtp://239.186.70.223:10000
 #EXTINF:-1,CNBC UK HD
 rtp://239.186.70.224:10000
+#EXTINF:-1,sky Bundesliga 02 HD (deu)
+rtp://239.186.70.225:10000
+#EXTINF:-1,sky Bundesliga 03 HD (deu)
+rtp://239.186.70.226:10000
+#EXTINF:-1,sky Bundesliga 04 HD (deu)
+rtp://239.186.70.227:10000
+#EXTINF:-1,sky Bundesliga 05 HD (deu)
+rtp://239.186.70.228:10000
+#EXTINF:-1,sky Bundesliga 06 HD (deu)
+rtp://239.186.70.229:10000
+#EXTINF:-1,sky Bundesliga 07 HD (deu)
+rtp://239.186.70.230:10000
+#EXTINF:-1,sky Bundesliga 08 HD (deu)
+rtp://239.186.70.231:10000
+#EXTINF:-1,sky Bundesliga 09 HD (deu)
+rtp://239.186.70.232:10000
 #EXTINF:-1,Nove HD
 rtp://239.186.70.233:10000
 #EXTINF:-1,First Channel HD
@@ -1999,6 +2021,8 @@ rtp://239.186.76.2:10000
 rtp://239.186.76.3:10000
 #EXTINF:-1,INULTRA UHD (deu)
 rtp://239.186.76.4:10000
+#EXTINF:-1,sky sport Bundesliga UHD (deu)
+rtp://239.186.76.5:10000
 #EXTINF:-1 ,travelxp 4K UHD (ger)
 rtp://239.186.76.6:10000
 #EXTINF:-1,3plus UHD
@@ -2053,6 +2077,8 @@ rtp://239.186.76.31:10000
 rtp://239.186.76.32:10000
 #EXTINF:-1,TV24 UHD
 rtp://239.186.76.33:10000
+#EXTINF:-1,Museum TV 4K UHD (eng/fra)
+rtp://239.186.76.34:10000
 #EXTINF:-1,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
 #EXTINF:-1,Quest HD (AC3 eng)
@@ -2139,6 +2165,8 @@ rtp://239.186.84.48:10000
 rtp://239.186.84.49:10000
 #EXTINF:-1,auto motor sport HD
 rtp://239.186.84.50:10000
+#EXTINF:-1,sky Bundesliga 10 HD (deu)
+rtp://239.186.84.53:10000
 #EXTINF:-1,TV5 MONDE EUROPE HD
 rtp://239.186.84.54:10000
 #EXTINF:-1,France 4 HD (fre)
@@ -2215,6 +2243,10 @@ rtp://239.186.84.111:10000
 rtp://239.186.84.112:10000
 #EXTINF:-1,TELENOVA HD
 rtp://239.186.84.113:10000
+#EXTINF:-1,sky sport Bundesliga HD (deu)
+rtp://239.186.84.114:10000
+#EXTINF:-1,sky sport golf HD (deu)
+rtp://239.186.84.115:10000
 #EXTINF:-1,C+ Docs HD (fra)
 rtp://239.186.84.120:10000
 #EXTINF:-1,Museum TV HD
