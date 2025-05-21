@@ -126,5 +126,4 @@ rtp://239.186.70.29:10000
 #EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
 rtp://239.186.68.208:10000
 #EXTREM: Promotions/evenements temporaires
-#EXTINF:-1,Eurovision Song Contest F 25 FullHD live show from 12 to 15 mai 2025
-rtp://239.186.76.29:10000
+
