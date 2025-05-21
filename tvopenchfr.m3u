@@ -57,8 +57,8 @@ rtp://239.186.70.121:10000
 rtp://239.186.68.196:10000
 #EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNews" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="18" channel-id="18",CNEWS HD
 rtp://239.186.70.30:10000
-#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI La Chaine Info
-rtp://239.186.66.94:10000
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/lci.fr.png" tvg-chno="28" channel-id="28",LCI HD La Chaine Info HD
+rtp://239.186.68.241:10000
 #EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
 rtp://239.186.84.35:10000
 #EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-name="Euronews" tvg-logo="http://static.epg.best/fr/Euronews.fr.png" tvg-chno="80" channel-id="80",euronews. F HD
