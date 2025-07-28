@@ -229,6 +229,8 @@ rtp://239.186.84.42:10000
 rtp://239.186.84.45:10000
 #EXTINF:-1 ,CGTN DOCUMENTARY HD
 rtp://239.186.84.147:10000
+#EXTINF:-1, Daystar HD (eng)
+rtp://239.186.70.149:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 FHD
 rtp://239.186.76.3:10000
