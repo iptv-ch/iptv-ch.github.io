@@ -114,5 +114,5 @@ rtp://239.186.74.53:10000
 rtp://239.186.74.55:10000
 #EXTINF:-1 ,GREAT! action
 rtp://239.186.74.58:10000
-#EXTINF:-1,ESC 25 FullHD live show from 12 to 15 may 2025
-rtp://239.186.76.32:10000
+#EXTINF:-1, Daystar HD
+rtp://239.186.70.149:10000
