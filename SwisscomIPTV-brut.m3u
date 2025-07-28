@@ -1743,6 +1743,8 @@ rtp://239.186.70.247:10000
 rtp://239.186.70.248:10000
 #EXTINF:-1,DW Englisch HD
 rtp://239.186.70.249:10000
+#EXTINF:-1, sky sport 2 D HD (deu)
+rtp://239.186.70.250:10000
 #EXTINF:-1 , sky crime HD
 rtp://239.186.70.251:10000
 #EXTINF:-1,BN2 HD
