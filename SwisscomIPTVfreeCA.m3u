@@ -847,6 +847,8 @@ rtp://239.186.70.133:10000
 rtp://239.186.70.140:10000
 #EXTINF:-1,Euronews F HD
 rtp://239.186.70.148:10000
+#EXTINF:-1, Daystar HD (eng)
+rtp://239.186.70.149:10000
 #EXTINF:-1,itv4 HD
 rtp://239.186.70.150:10000
 #EXTINF:-1,Channel 5 HD
