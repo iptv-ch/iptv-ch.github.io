@@ -1491,8 +1491,6 @@ rtp://239.186.70.92:10000
 rtp://239.186.70.93:10000
 #EXTINF:-1,xplore HD
 rtp://239.186.70.94:10000
-#EXTINF:-1,tafel WEF TV HD (deu)
-rtp://239.186.70.95:10000
 #EXTINF:-1 ,DMF HD (deu)
 rtp://239.186.70.96:10000
 #EXTINF:-1 ,volksmusik.tv HD (deu)
