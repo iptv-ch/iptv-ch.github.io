@@ -2317,8 +2317,6 @@ rtp://239.186.84.174:10000
 rtp://239.186.84.176:10000
 #EXTINF:-1 ,Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
-#EXTINF:-1 ,Juwelo TV HD (deu)
-rtp://239.186.84.179:10000
 #EXTINF:-1,Class TV Moda HD (ita)
 rtp://239.186.84.180:10000
 #EXTINF:-1 ,BOM CINE HD (spa)
