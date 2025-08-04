@@ -379,7 +379,7 @@ rtp://239.186.66.129:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1,Phoenix Info News
 rtp://239.186.66.132:10000
-#EXTINF:-1,Now 90s
+#EXTINF:-1,NOW ROCK (old Now 90s)
 rtp://239.186.66.133:10000
 #EXTINF:-1,Pro TV International
 rtp://239.186.66.135:10000
@@ -1211,6 +1211,7 @@ rtp://239.186.84.178:10000
 rtp://239.186.84.180:10000
 #EXTINF:-1,BOM Cine HD
 rtp://239.186.84.181:10000
+
 
 
 
