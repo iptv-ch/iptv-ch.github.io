@@ -94,23 +94,23 @@ rtp://239.186.70.133:10000
 rtp://239.186.68.199:10000
 #EXTINF:-1 tvg-id="NRTV.ch" tvg-name="NRTV CH" tvg-logo="http://static.epg.best/ch/nrtv.ch.png" tvg-chno="82" channel-id="82",nrtv HD
 rtp://239.186.70.66:10000
-#EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.epg.best/ch/grtv.ch.png" tvg-chno="85" channel-id="85",GRTV Geneve Région TV HD / TéléVersoix HD
+#EXTINF:-1 tvg-id="grtv.ch" tvg-name="GRTV CH" tvg-logo="http://static.epg.best/ch/grtv.ch.png" tvg-chno="85" channel-id="77",GRTV Geneve Région TV HD / TéléVersoix HD
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
 rtp://239.186.70.132:10000
 #EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie TV HD
 rtp://239.186.70.180:10000
-#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="84" channel-id="84",carac1 HD
+#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="" channel-id="83",carac1 HD
 rtp://239.186.68.253:10000
-#EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="83" channel-id="83",carac2 HD
+#EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="" channel-id="84",carac2 HD
 rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="carac3.ch" tvg-name="carac3 CH" tvg-logo="http://static.epg.best/ch/carac3.ch.png" tvg-chno="77" channel-id="77",carac3 HD
+#EXTINF:-1 tvg-id="carac3.ch" tvg-name="carac3 CH" tvg-logo="http://static.epg.best/ch/carac3.ch.png" tvg-chno="" channel-id="85",carac3 HD
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="",carac4 HD
+#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="86",carac4 HD
 rtp://239.186.70.104:10000
-#EXTINF:-1 tvg-id="carac5.ch" tvg-name="carac5 CH" tvg-logo="http://static.epg.best/ch/carac5.ch.png" tvg-chno="74" channel-id="74",carac5 HD
+#EXTINF:-1 tvg-id="carac5.ch" tvg-name="carac5 CH" tvg-logo="http://static.epg.best/ch/carac5.ch.png" tvg-chno="" channel-id="87",carac5 HD
 rtp://239.186.68.208:10000
-#EXTINF:-1 ,tvg-id="RhoneTV.ch" tvg-name="	Rhone TV CH" tvg-logo="https://static.epg.best/ch/Rhone.ch.png" tvg-chno="70" channel-id="", Rhone TV HD
+#EXTINF:-1 ,tvg-id="RhoneTV.ch" tvg-name="	Rhone TV CH" tvg-logo="https://static.epg.best/ch/Rhone.ch.png" tvg-chno="" channel-id="", Rhone TV HD
 rtp://239.186.84.172:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
 rtp://239.186.70.21:10000
