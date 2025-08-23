@@ -100,10 +100,6 @@ rtp://239.186.70.155:10000
 rtp://239.186.70.132:10000
 #EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie TV HD
 rtp://239.186.70.180:10000
-#EXTINF:-1 tvg-id="icimediasports.ch" tvg-name="ICI MEDIA SPORTS CH" tvg-logo="http://static.epg.best/ch/icimediasports.ch.png" tvg-chno="88" channel-id="88",ICI MEDIA SPORTS HD
-rtp://239.186.70.203:10000
-#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
-rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="84" channel-id="84",carac1 HD
 rtp://239.186.68.253:10000
 #EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="83" channel-id="83",carac2 HD
@@ -112,17 +108,20 @@ rtp://239.186.70.12:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="http://static.epg.best/ch/carac4.ch.png" tvg-chno="" channel-id="",carac4 HD
 rtp://239.186.70.104:10000
+#EXTINF:-1 tvg-id="carac5.ch" tvg-name="carac5 CH" tvg-logo="http://static.epg.best/ch/carac5.ch.png" tvg-chno="74" channel-id="74",carac5 HD
+rtp://239.186.68.208:10000
 #EXTINF:-1 ,tvg-id="RhoneTV.ch" tvg-name="	Rhone TV CH" tvg-logo="https://static.epg.best/ch/Rhone.ch.png" tvg-chno="70" channel-id="", Rhone TV HD
 rtp://239.186.84.172:10000
-#EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="http://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
-rtp://239.186.68.208:10000
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
+rtp://239.186.70.21:10000
 #EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
 rtp://239.186.68.132:10000
+#EXTINF:-1 tvg-id="icimediasports.ch" tvg-name="ICI MEDIA SPORTS CH" tvg-logo="http://static.epg.best/ch/icimediasports.ch.png" tvg-chno="88" channel-id="88",ICI MEDIA SPORTS HD
+rtp://239.186.70.203:10000
 #EXTREM:Animations enfants / adolescents
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
 #EXTREM: Promotions/evenements temporaires
-
