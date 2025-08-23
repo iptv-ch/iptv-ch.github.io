@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,carac5 (ex teleswizz)
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1,kto HD
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1,Video Italia HD
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
+#EXTINF:-1,Bloomberg HD
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1,CNBC
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1,Record.br
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1,Record news
+https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+#EXTINF:-1,tvri HD
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
+#EXTINF:-1,Al Maghribia HD
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1,Al Jazeera HD
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTINF:-1,cctv4 Europe HD
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
