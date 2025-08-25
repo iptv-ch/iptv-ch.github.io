@@ -49,7 +49,7 @@ https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 #EXTINF:-1 tvg-id="bluezoom.ch",blue zoom F HD (720p) ?
 https://viamotionhsi.netplus.ch/live/eds/bluezoomf/browser-dash/bluezoomf.mpd
-#EXTINF:-1 tvg-id="lequipe.fr",L'EQUIPE (720p) ?
+#EXTINF:-1 tvg-id="lequipe.fr",L'EQUIPE 720p
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 #EXTINF:-1 tvg-id="ab1.be",AB1 (720p)
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
@@ -95,8 +95,8 @@ https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 #EXTINF:-1 tvg-id="mezzo.fr",mezzo HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
-#EXTINF:-1 tvg-id="rhonetv.ch",rhone tv HD ?
-https://viamotionhsi.netplus.ch/live/eds/rhonetv/browser-dash/rhonetv.mpd
+#EXTINF:-1 tvg-id="rhonetv.ch",rhone tv HD
+https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 #EXTINF:-1,tvg-id="carac2.ch",carac2 HD 720p (ex onetv  HD)
 https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
 #EXTINF:-1,tvg-id="carac3.ch",carac3 HD 720p (ex lfmtv  HD)
@@ -195,13 +195,13 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1,tvg-id="la7d.it",LA7d HD 720p
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 tvg-id="bbcone.uk",BBC ONE HD (720p) ?
+#EXTINF:-1 tvg-id="bbcone.uk",BBC ONE HD ?
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
-#EXTINF:-1 tvg-id="bbctwo.uk",BBC TWO HD (720p)
+#EXTINF:-1 tvg-id="bbctwo.uk",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBBC HD (720p)
+#EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBeebies HD (720p) ?
+20p#EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBeebies HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-id="bbcnews.uk",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
@@ -247,8 +247,6 @@ https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1,tvg-id="rtk1.xk",RTK1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
-#EXTINF:-1,tvg-id="ptccbet.rs",PTC CBET ?
-https://viamotionhsi.netplus.ch/live/eds/ptc/browser-dash/ptc.mpd
 #EXTINF:-1,tvg-id="mne.me",MNE
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd
 #EXTINF:-1,tvg-id="trtturk.tr",TRT TURK HD
@@ -345,5 +343,3 @@ https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mp
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
 #EXTINF:-1 tvg-id="showturk.tr",show turk
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
-#EXTINF:-1 tvg-id="tvi.pt",tvi HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/canalq/browser-dash/canalq.mpd
