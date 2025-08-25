@@ -20,9 +20,9 @@ IPTV open channels from Netplus + Swisscom as language french only, english only
 
 special thanks to bendreth for their update for community and customers of CityCable TV Lausanne over ftth date 2019-12-18
 
-## Netplus TV HD + SD (codec video h264)
+## Netplus TV HD + SD (codec video h264) protocol mpeg dash
 
-**https://iptv-ch.github.io/netplus.m3u**
+**https://iptv-ch.github.io/netplus.mpd**
 
 Many of the channels available on [Netplus TV partners](https://citycable.ch/tv/chaines-tv/tv-numerique/).<br>
 This will only work on your home network if netplus partners like Citycable (old BoisyTV) is your broadband provider.<br>
