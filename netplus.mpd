@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTS1.ch",RTS 1 HD (1080p)
+#EXTINF:-1 tvg-id="RTS1.ch",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-#EXTINF:-1 tvg-id="RTS2.ch",RTS 2 HD (1080p)
+#EXTINF:-1 tvg-id="RTS2.ch",RTS 2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",TF1 HD (720p)
+#EXTINF:-1 tvg-id="TF1.fr",TF1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:-1 tvg-id="France2.fr",France2 HD (720p)
+#EXTINF:-1 tvg-id="France2.fr",France2 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTINF:-1 tvg-id="France3.fr",France3 HD (720p)
+#EXTINF:-1 tvg-id="France3.fr",France3 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:-1 tvg-id="France4.fr",France4 HD (720p)
+#EXTINF:-1 tvg-id="France4.fr",France4 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-#EXTINF:-1 tvg-id="France5.fr",France5 HD (720p)
+#EXTINF:-1 tvg-id="France5.fr",France5 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTINF:-1 tvg-id="m6.fr",M6 HD (720p)
+#EXTINF:-1 tvg-id="m6.fr",M6 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTINF:-1 tvg-id="canal9.ch",Canal9 HD (720p)
+#EXTINF:-1 tvg-id="canal9.ch",Canal9 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
-#EXTINF:-1 tvg-id="lemanbleu.ch",Léman bleu HD (720p)
+#EXTINF:-1 tvg-id="lemanbleu.ch",Léman bleu HD 720p
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
-#EXTINF:-1 tvg-id="latele.ch",LA TELE HD (720p)
+#EXTINF:-1 tvg-id="latele.ch",LA TELE HD 720p
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
-#EXTINF:-1 tvg-id="canalalphaju.ch",Canal Alpha JU HD (720p)
+#EXTINF:-1 tvg-id="canalalphaju.ch",Canal Alpha JU HD 720p
 https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
-#EXTINF:-1 tvg-id="canalalphane.ch",Canal Alpha NE HD (720p)
+#EXTINF:-1 tvg-id="canalalphane.ch",Canal Alpha NE HD 720p
 https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
-#EXTINF:-1 tvg-id="tmc.fr",TMC HD (720p)
+#EXTINF:-1 tvg-id="tmc.fr",TMC HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
-#EXTINF:-1 tvg-id="w9.fr",W9 HD (720p)
+#EXTINF:-1 tvg-id="w9.fr",W9 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-#EXTINF:-1 tvg-id="tfx.fr",TFX HD (720p)
+#EXTINF:-1 tvg-id="tfx.fr",TFX HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-#EXTINF:-1 tvg-id="t18.fr",T18 HD (720p)
+#EXTINF:-1 tvg-id="t18.fr",T18 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
-#EXTINF:-1 tvg-id="cstar.fr",CSTAR HD (720p)
+#EXTINF:-1 tvg-id="cstar.fr",CSTAR HD 720p
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
-#EXTINF:-1 tvg-id="rtl9.be",RTL9 HD (720p)
+#EXTINF:-1 tvg-id="rtl9.be",RTL9 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
-#EXTINF:-1 tvg-id="tf1seriesfilms.fr",TF1 Series Films HD (720p)
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr",TF1 Series Films HD 720p
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-#EXTINF:-1 tvg-id="6ter.fr",6ter HD (720p)
+#EXTINF:-1 tvg-id="6ter.fr",6ter HD 720p
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTINF:-1 tvg-id="cherie25.fr",Chérie 25 HD (720p)
+#EXTINF:-1 tvg-id="cherie25.fr",Chérie 25 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1,tvg-id="carac1.ch",carac1 HD 720p (ex rougetv  HD)
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
-#EXTINF:-1 tvg-id="rmcstory.fr",RMC STORY HD (720p)
+#EXTINF:-1 tvg-id="rmcstory.fr",RMC STORY HD 720p
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-#EXTINF:-1 tvg-id="bluezoom.ch",blue zoom F HD (720p) ?
+#EXTINF:-1 tvg-id="bluezoom.ch",blue zoom F HD 720p ?
 https://viamotionhsi.netplus.ch/live/eds/bluezoomf/browser-HLS8/bluezoomf.m3u8
 #EXTINF:-1 tvg-id="lequipe.fr",L'EQUIPE 720p
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-#EXTINF:-1 tvg-id="ab1.be",AB1 (720p)
+#EXTINF:-1 tvg-id="ab1.be",AB1 720p
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
-#EXTINF:-1 tvg-id="ab3.be",AB3 (720p)
+#EXTINF:-1 tvg-id="ab3.be",AB3 720p
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 tvg-id="paramount.fr",paramount network F HD
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:-1 tvg-id="tcm.fr",TCM CINEMA F HD
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.ch",CARTOON NETWORK (720p)
+#EXTINF:-1 tvg-id="cartoonnetwork.ch",CARTOON NETWORK 720p
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-id="gulli.fr",gulli (720p)
+#EXTINF:-1 tvg-id="gulli.fr",gulli 720p
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 #EXTINF:-1 tvg-id="game1.fr",G1 HD
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
-#EXTINF:-1 tvg-id="rmcdecouverte.fr",RMC DECOUVERTE HD (720p)
+#EXTINF:-1 tvg-id="rmcdecouverte.fr",RMC DECOUVERTE HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
-#EXTINF:-1 tvg-id="planeteplus.fr",PLANETE+ HD (720p)
+#EXTINF:-1 tvg-id="planeteplus.fr",PLANETE+ HD 720p
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
-#EXTINF:-1 tvg-id="animaux.fr",ANIMAUX HD (720p)
+#EXTINF:-1 tvg-id="animaux.fr",ANIMAUX HD 720p
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 #EXTINF:-1,tvg-id="trek.fr",TREK HD 720p
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
-#EXTINF:-1 tvg-id="arte.fr",arte HD (720p)
+#EXTINF:-1 tvg-id="arte.fr",arte HD 720p
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-#EXTINF:-1 tvg-id="bfmtv.fr",BFM TV HD (720p)
+#EXTINF:-1 tvg-id="bfmtv.fr",BFM TV HD 720p
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
-#EXTINF:-1 tvg-id="france24.fr",France24 HD (720p)
+#EXTINF:-1 tvg-id="france24.fr",France24 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
-#EXTINF:-1 tvg-id="euronews.fr",euronews F HD (720p)
+#EXTINF:-1 tvg-id="euronews.fr",euronews F HD 720p
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
-#EXTINF:-1 tvg-id="tv5monde.fr",TV5 MONDE FBSM HD (720p)
+#EXTINF:-1 tvg-id="tv5monde.fr",TV5 MONDE FBSM HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-#EXTINF:-1 tvg-id="cnews.fr",CNEWS HD (720p)
+#EXTINF:-1 tvg-id="cnews.fr",CNEWS HD 720p
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
-#EXTINF:-1 tvg-id="lci.fr",LCI HD (720p)
+#EXTINF:-1 tvg-id="lci.fr",LCI HD 720p
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-#EXTINF:-1 tvg-id="bfmbusiness.fr",BFM BUSINESS HD (720p)
+#EXTINF:-1 tvg-id="bfmbusiness.fr",BFM BUSINESS HD 720p
 https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
-#EXTINF:-1 tvg-id="lcp.fr",LCP Public Senat HD (720p)
+#EXTINF:-1 tvg-id="lcp.fr",LCP Public Senat HD 720p
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
-#EXTINF:-1 tvg-id="franceinfo.fr",Franceinfo HD (720p)
+#EXTINF:-1 tvg-id="franceinfo.fr",Franceinfo HD 720p
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
-#EXTINF:-1 tvg-id="mezzo.fr",mezzo HD (720p)
+#EXTINF:-1 tvg-id="mezzo.fr",mezzo HD 720p
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:-1 tvg-id="rhonetv.ch",rhone tv HD
 https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
@@ -121,17 +121,17 @@ https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1,tvg-id="valtv.ch",val TV HD
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch",SRF1 HD (720p)
+#EXTINF:-1 tvg-id="SRF1.ch",SRF1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch",SRF2 HD (720p)
+#EXTINF:-1 tvg-id="SRF1.ch",SRF2 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1 tvg-id="SRFinfo.ch",SRF info HD (720p)
+#EXTINF:-1 tvg-id="SRFinfo.ch",SRF info HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="zdf.de",ZDF HD (720p)
+#EXTINF:-1 tvg-id="zdf.de",ZDF HD 720p
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTINF:-1 tvg-id="orf1.at",ORF1 HD (720p)
+#EXTINF:-1 tvg-id="orf1.at",ORF1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1 tvg-id="orf2.at",ORF2 HD (720p)
+#EXTINF:-1 tvg-id="orf2.at",ORF2 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1 tvg-id="rtl.de",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
@@ -155,7 +155,7 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 #EXTINF:-1 tvg-id="sport1.de",sport1
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
-#EXTINF:-1 tvg-id="kanal9.ch",kanal9 HD (720p)
+#EXTINF:-1 tvg-id="kanal9.ch",kanal9 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
 #EXTINF:-1 tvg-id="teleBaern.ch",Tele Baern HD
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
@@ -163,23 +163,23 @@ https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
 #EXTINF:-1 tvg-id="tv24.ch",tv24
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:-1 tvg-id="bluezoomd.ch",blue zoom D HD (720p) ?
+#EXTINF:-1 tvg-id="bluezoomd.ch",blue zoom D HD 720p ?
 https://viamotionhsi.netplus.ch/live/eds/tczoomd/browser-HLS8/tczoomd.m3u8
-#EXTINF:-1 tvg-id="RSILa1.ch",RSI La 1 HD (720p)
+#EXTINF:-1 tvg-id="RSILa1.ch",RSI La 1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="RSILa2.ch",RSI La 2 HD (720p)
+#EXTINF:-1 tvg-id="RSILa2.ch",RSI La 2 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 tvg-id="Rai1.it",Rai 1 HD (720p)
+#EXTINF:-1 tvg-id="Rai1.it",Rai 1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="Rai2.it",Rai 2 HD (720p)
+#EXTINF:-1 tvg-id="Rai2.it",Rai 2 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 tvg-id="Rai3.it",Rai 3 HD (720p)
+#EXTINF:-1 tvg-id="Rai3.it",Rai 3 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1 tvg-id="Raisport1.it",Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-id="Rainews24.it",Rai News24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
-#EXTINF:-1 tvg-id="raiscuola.it",Rai Scuola HD (720p)
+#EXTINF:-1 tvg-id="raiscuola.it",Rai Scuola HD 720p
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 #EXTINF:-1 tvg-id="italia1.it",Italia1 HD
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
@@ -189,7 +189,7 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1,tvg-id="la7.it",LA7 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
-#EXTINF:-1 tvg-id="raigulp.it",Rai Gulp HD (720p)
+#EXTINF:-1 tvg-id="raigulp.it",Rai Gulp HD 720p
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 #EXTINF:-1 tvg-id="raistoria.it",Rai Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
@@ -331,9 +331,9 @@ https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
 #EXTINF:-1,tvg-id="startv.ch",startv D
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
-#EXTINF:-1 tvg-id="dmax.it",DMAX Italia HD (720p)
+#EXTINF:-1 tvg-id="dmax.it",DMAX Italia HD 720p
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
-#EXTINF:-1 tvg-id="nove.it",nove HD (720p)
+#EXTINF:-1 tvg-id="nove.it",nove HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.it",food network E
 https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
