@@ -101,6 +101,8 @@ https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
 https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-dash/lfmtv.mpd
 #EXTINF:-1,tvg-id="kto.fr",kto
 https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd
+#EXTINF:-1,tvg-id="canalj.fr",Canal J HD
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-dash/canalj.mpd
 #EXTINF:-1,tvg-id="canalplusclair.fr",canal+ en clair
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:-1,tvg-id="carac4.ch",carac4 HD 720p (ex tv suisse plus HD)
@@ -127,10 +129,15 @@ https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 #EXTINF:-1 tvg-id="orf1.at",ORF1 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:-1 tvg-id="orf2.at",ORF2 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 tvg-id="rtl.de",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:-1 tvg-id="rtlzwei.de",RTLZWEI
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+#EXTINF:-1 tvg-id="nitro.de",nitro.
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+
 #EXTINF:-1 tvg-id="prosieben.de",Pro Sieben ?
 https://viamotionhsi.netplus.ch/live/eds/prosieben/browser-dash/prosieben.mpd
 #EXTINF:-1 tvg-id="sat1.de",SAT.1 ?
@@ -167,10 +174,12 @@ https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-id="Rai3.it",Rai 3 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 tvg-id="Raisport.it",Rai Sport+ ?
-https://viamotionhsi.netplus.ch/live/eds/raisportplus/browser-dash/raisportplus.mpd
+#EXTINF:-1 tvg-id="Raisport1.it",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="Rainews24.it",Rai News24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 tvg-id="Rai3.it",Rai Scuola HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 tvg-id="italia1.it",Italia1 HD
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-id="rete4.it",Rete4 HD
@@ -181,16 +190,18 @@ https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="raigulp.it",Rai Gulp HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 tvg-id="raigulp.it",Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1,tvg-id="la7d.it",LA7d HD 720p
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-id="bbcone.uk",BBC ONE HD (720p) ?
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
 #EXTINF:-1 tvg-id="bbctwo.uk",BBC TWO HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBBC HD (720p) ?
-https://viamotionhsi.netplus.ch/live/eds/cbbc/browser-dash/cbbc.mpd
+#EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBBC HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBeebies HD (720p) ?
-https://viamotionhsi.netplus.ch/live/eds/cbeebies/browser-dash/cbeebies.mpd
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-id="bbcnews.uk",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:-1 tvg-id="itv1.uk",itv1 HD ?
@@ -219,6 +230,8 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1,tvg-id="film4.uk",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+#EXTINF:-1,tvg-id="more4.uk",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1,tvg-id="rtpi.pt",RTPi
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:-1,tvg-id="Rederecordinternacional.br",Rede Record internacional HD
@@ -237,7 +250,7 @@ https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 https://viamotionhsi.netplus.ch/live/eds/ptc/browser-dash/ptc.mpd
 #EXTINF:-1,tvg-id="mne.me",MNE
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd
-#EXTINF:-1,tvg-id="trtturk.tk",TRT TURK HD
+#EXTINF:-1,tvg-id="trtturk.tr",TRT TURK HD
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
 #EXTINF:-1,tvg-id="2m.ma",2M Maroc
 https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
@@ -281,8 +294,8 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-dash/kabel1doku.mpd
 #EXTINF:-1,tvg-id="pulsacht.de",puls acht ?
 https://viamotionhsi.netplus.ch/live/eds/pulsacht/browser-dash/pulsacht.mpd
-#EXTINF:-1,tvg-id="nickelodeon.de",nickelodeon d
-https://viamotionhsi.netplus.ch/live/eds/nickelodeon/browser-dash/nickelodeon.mpd
+#EXTINF:-1,tvg-id="nickelodeon.de",nickelodeon D
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 #EXTINF:-1,tvg-id="comedycentral.de",comedy central D HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:-1,tvg-id="7maxx.de",7MAXX ?
@@ -293,3 +306,25 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
 #EXTINF:-1,tvg-id="deluxmusic.de",DELUXE MUSIC
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1,tvg-id="rbb.de",rbb HD
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
+#EXTINF:-1,tvg-id="tvppolonia.pl",TVP POLONIA HD
+https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
+#EXTINF:-1,tvg-id="vox.de",VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1,tvg-id="atv.de",atv
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1,tvg-id="duna.hu",DUNA HD
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:-1,tvg-id="tunisie.tn",tunisie
+https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
+#EXTINF:-1,tvg-id="eurod.tr",EUROD
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1,tvg-id="dmsat.rs",DMSAT
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
+#EXTINF:-1,tvg-id="tvcnews.ng",TVCNEWS
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-dash/tvcnews.mpd
+#EXTINF:-1,tvg-id="disneychannel.de",Disney Channel D
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
+#EXTINF:-1,tvg-id="servustv.de",ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
