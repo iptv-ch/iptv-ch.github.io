@@ -96,7 +96,7 @@ https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 #EXTINF:-1 tvg-id="mezzo.fr",mezzo HD 720p
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:-1 tvg-id="rhonetv.ch",rhone tv HD
-https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.mpd
+https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 #EXTINF:-1,tvg-id="carac2.ch",carac2 HD 720p (ex onetv  HD)
 https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
 #EXTINF:-1,tvg-id="carac3.ch",carac3 HD 720p (ex lfmtv  HD)
