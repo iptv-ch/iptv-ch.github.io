@@ -251,7 +251,7 @@ https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-id="rtk1.xk",RTK1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
-#EXTINF:-1 tvg-id="mne.me",MNE
+#EXTINF:-1 tvg-id="mne.me",MNE HD
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd
 #EXTINF:-1 tvg-id="trtturk.tr",TRT TURK HD
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
@@ -311,7 +311,7 @@ https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 tvg-id="rbb.de",rbb HD
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
-#EXTINF:-1 tvg-id="tvppolonia.pl",TVP POLONIA HD
+#EXTINF:-1 tvg-id="tvppolonia.pl",TVP POLONIA
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 #EXTINF:-1 tvg-id="vox.de",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
