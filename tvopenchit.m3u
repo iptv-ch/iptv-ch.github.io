@@ -7,18 +7,6 @@ rtp://239.186.76.25:10000
 rtp://239.186.68.201:10000
 #EXTINF:-1 tvg-id="radioteleticino.ch" tvg-name="radioteleticino CH" tvg-logo="http://static.epg.best/ch/radioteleticino.ch.png" tvg-chno="" channel-id="",Radio Ticino channel HD
 rtp://239.186.68.192:10000
-#EXTINF:-1 tvg-id="7GTelecity.it" tvg-name="7G Telecity IT" tvg-logo="http://static.epg.best/it/7GTelecity.it.png" tvg-chno="346" channel-id="346",7G Telecity HD
-rtp://239.186.84.109:10000
-#EXTINF:-1 tvg-id="almatv.it" tvg-name="ALMATV IT" tvg-logo="http://static.epg.best/it/almatv.it.png" tvg-chno="347" channel-id="347",ALMA TV
-rtp://239.186.66.107:10000
-#EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.epg.best/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3 HD
-rtp://239.186.70.79:10000
-#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
-rtp://239.186.64.160:10000
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
-rtp://239.186.64.76:10000
-#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda HD
-rtp://239.186.84.180:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="http://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Real Time HD
 rtp://239.186.84.103:10000
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="http://static.epg.best/it/NOVE.it.png" tvg-chno="361" channel-id="361",NOVE HD
@@ -37,14 +25,16 @@ rtp://239.186.84.91:10000
 rtp://239.186.66.186:10000
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="http://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",HGTV Home & Garden I HD
 rtp://239.186.84.101:10000
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV IT"" tvg-logo="https://static.epg.best/it/WarnerTV.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
+rtp://239.186.84.46:10000
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="http://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
-#EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-name="Italia Channel IT" tvg-logo="http://static.epg.best/it/ItaliaChannel.it.png" tvg-chno="365" channel-id="365",ITALIA CHANNEL 123
-rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.epg.best/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
 rtp://239.186.70.7:10000
 #EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D IT" tvg-logo="http://static.epg.best/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d HD
 rtp://239.186.70.6:10000
+#EXTINF:-1 tvg-id="7GTelecity.it" tvg-name="7G Telecity IT" tvg-logo="http://static.epg.best/it/7GTelecity.it.png" tvg-chno="346" channel-id="346",7G Telecity HD
+rtp://239.186.84.109:10000
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="http://static.epg.best/it/Canale5.it.png" tvg-chno="372" channel-id="372",Canale5 HD
 rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.epg.best/it/Italia1.it.png" tvg-chno="376" channel-id="376",ITALIA1 HD
@@ -131,8 +121,6 @@ rtp://239.186.70.152:10000
 rtp://239.186.84.105:10000
 #EXTINF:-1 tvg-id="SMtvSanMarino.it" tvg-name="SMtv San Marino IT" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="421" channel-id="421",Rtv San Marino HD
 rtp://239.186.84.23:10000
-#EXTINF:-1 ,Italian Fishing TV
-rtp://239.186.74.69:10000
 #EXTINF:-1 ,Senato TV HD
 rtp://239.186.70.114:10000
 #EXTINF:-1 ,camera dei deputati
@@ -145,8 +133,6 @@ rtp://239.186.84.87:10000
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Consiglio degli Stati Svizzera HD
 rtp://239.186.70.128:10000
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV IT"" tvg-logo="https://static.epg.best/it/WarnerTV.it.png" tvg-chno="" channel-id="",Warner TV Italia HD
-rtp://239.186.84.46:10000
 #EXTINF:-1,Bike Channel
 rtp://239.186.74.145:10000
 #EXTINF:-1 ,TRENTINO TV HD
@@ -161,5 +147,15 @@ rtp://239.186.84.152:10000
 rtp://239.186.84.156:10000
 #EXTINF:-1 ,Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
-#EXTINF:-1,ESC I 25 FullHD live show from 12 to 15 may 2025
-rtp://239.186.76.32:10000
+#EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-name="Italia Channel IT" tvg-logo="http://static.epg.best/it/ItaliaChannel.it.png" tvg-chno="365" channel-id="365",ITALIA CHANNEL 123
+rtp://239.186.74.19:10000
+#EXTINF:-1 tvg-id="almatv.it" tvg-name="ALMATV IT" tvg-logo="http://static.epg.best/it/almatv.it.png" tvg-chno="347" channel-id="347",ALMA TV
+rtp://239.186.66.107:10000
+#EXTINF:-1 tvg-id="antenna3.it" tvg-name="antenna3 IT" tvg-logo="http://static.epg.best/it/antenna3.it.png" tvg-chno="348" channel-id="348",ANTENNA3 HD
+rtp://239.186.70.79:10000
+#EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
+rtp://239.186.64.160:10000
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
+rtp://239.186.64.76:10000
+#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda HD
+rtp://239.186.84.180:10000
