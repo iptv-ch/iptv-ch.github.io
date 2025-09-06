@@ -164,6 +164,8 @@ rtp://239.186.84.171:10000
 rtp://239.186.84.173:10000
 #EXTINF:-1 ,SYLT1 HD
 rtp://239.186.70.126:10000
+#EXTINF:-1,Hohenrausch HD
+rtp://239.186.70.140:10000
 #EXTREM:kinder
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
@@ -234,7 +236,9 @@ rtp://239.186.84.162:10000
 rtp://239.186.68.104:10000
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV DE" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",volksmusik.tv HD
 rtp://239.186.70.97:10000
-#EXTINF:-1 ,AW2 HD
+#EXTINF:-1 tvg-id="AW1.de" tvg-name="AW1 DE" tvg-logo="https://static.epg.best/de/AW1.de.png" tvg-chno="180" channel-id="180",AW1 HD
+rtp://239.186.70.9:10000
+#EXTINF:-1 tvg-id="AW2.de" tvg-name="AW2 DE" tvg-logo="https://static.epg.best/de/AW2.de.png" tvg-chno="" channel-id="",AW2 HD
 rtp://239.186.84.22:10000
 #EXTINF:-1 ,stimmungsgarten.tv
 rtp://239.186.74.148:10000
@@ -244,8 +248,6 @@ rtp://239.186.70.214:10000
 rtp://239.186.70.204:10000
 #EXTINF:-1 tvg-id="Folx.de" tvg-name="Folx DE" tvg-logo="https://static.epg.best/de/folx.de.png" tvg-chno="" channel-id="",Folx Music Television HD
 rtp://239.186.68.121:10000
-#EXTINF:-1 tvg-id="AW1.de" tvg-name="AW1 DE" tvg-logo="https://static.epg.best/de/AW1.de.png" tvg-chno="180" channel-id="180",AW1 HD
-rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="melodietv.at" tvg-name="Melodie.tv AT" tvg-logo="https://static.epg.best/at/melodietv.at.png" tvg-chno="231" channel-id="231",Melodie.tv
 rtp://239.186.74.15:10000
 #EXTINF:-1 tvg-id="SCHLAGERPARADIES.de" tvg-name="SCHLAGER PARADIES DE" tvg-logo="https://static.epg.best/de/SCHLAGERPARADIES.de.png" tvg-chno="" channel-id="",SCHLAGER PARADIES TV HD / Sonnenklar.tv HD
@@ -258,7 +260,3 @@ rtp://239.186.68.207:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1,TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
-#EXTINF:-1,Hohenrausch HD
-rtp://239.186.70.140:10000
-#EXTINF:-1,Eurovision Song Contest D 25 FullHD live show from 12 to 15 May 2025
-rtp://239.186.76.12:10000
