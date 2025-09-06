@@ -207,7 +207,7 @@ rtp://239.186.64.23:10000
 rtp://239.186.64.131:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="194" channel-id="194",BR
 rtp://239.186.64.26:10000
-#EXTINF:-1 tvg-id="Channel55.ch" tvg-name="Channel55 CH" tvg-logo="https://static.epg.best/ch/Channel55.ch.png" tvg-chno="198" channel-id="198",Channel55 D
+#EXTINF:-1 tvg-id="helvetiaone.ch" tvg-name="Helvetia One CH" tvg-logo="https://static.epg.best/ch/Helvetiaone.ch.png" tvg-chno="198" channel-id="198",HELVETIA ONE
 rtp://239.186.66.238:10000
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",DMF
 rtp://239.186.66.118:10000
