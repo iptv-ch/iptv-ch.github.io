@@ -85,8 +85,6 @@ rtp://239.186.64.98:10000
 rtp://239.186.66.130:10000
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ortb BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
-#EXTINF:-1,ESC F 25
-rtp://239.186.74.13:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/gb/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC ONE
 rtp://239.186.64.51:10000
@@ -339,8 +337,6 @@ rtp://239.186.74.148:10000
 rtp://239.186.74.150:10000
 #EXTINF:-1 ,just.fishing (deu)
 rtp://239.186.74.157:10000
-#EXTINF:-1,ESC D 25
-rtp://239.186.74.11:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
@@ -458,8 +454,6 @@ rtp://239.186.66.184:10000
 rtp://239.186.66.108:10000
 #EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="https://static.epg.best/it/espansione.it.png",Espansione TV
 rtp://239.186.74.22:10000
-#EXTINF:-1 ,Italian Fishing TV
-rtp://239.186.74.69:10000
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Warner Bros Discovery HGTV I
 rtp://239.186.74.71:10000
 #EXTINF:-1 ,TOP CALCIO 24
@@ -472,8 +466,6 @@ rtp://239.186.74.59:10000
 rtp://239.186.74.114:10000
 #EXTINF:-1 ,BIKE CHANNEL
 rtp://239.186.74.145:10000
-#EXTINF:-1,ESC I 25
-rtp://239.186.74.12:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record TV
 rtp://239.186.64.83:10000
