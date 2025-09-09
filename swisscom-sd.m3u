@@ -96,7 +96,7 @@ rtp://239.186.64.166:10000
 rtp://239.186.64.52:10000
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" tvg-chno="126" channel-id="126",BBC CBeebies / BBC Four
 rtp://239.186.64.113:10000
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC World News UK" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" tvg-chno="129" channel-id="129",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC NEWS UK" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" tvg-chno="129" channel-id="129",BBC NEWS (UK)
 rtp://239.186.64.176:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/gb/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
 rtp://239.186.64.177:10000
@@ -142,7 +142,7 @@ rtp://239.186.64.170:10000
 rtp://239.186.64.180:10000
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe
+#EXTINF:-1 tvg-id="ITVQuiz.uk" tvg-name="ITVQuiz UK" tvg-logo="https://static.epg.best/gb/ITVQuiz.uk.png" tvg-chno="164" channel-id="164",itv QUiZ
 rtp://239.186.74.14:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
@@ -150,7 +150,7 @@ rtp://239.186.64.185:10000
 rtp://239.186.64.179:10000
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="https://static.epg.best/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA UK
 rtp://239.186.66.242:10000
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBCParliament uk" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBCParliament uk" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC PARLIAMENT
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America UK" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
