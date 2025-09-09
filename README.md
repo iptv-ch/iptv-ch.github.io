@@ -23,9 +23,6 @@ special thanks to bendreth for their update for community and customers of CityC
 ## Netplus TV HD + SD protocol mpeg dash
 **https://iptv-ch.github.io/netplus.mpd**
 
-## Netplus TV HD + SD protocol hls8
-**https://iptv-ch.github.io/netplus.m3u8**
-
 Many of the channels available on [Netplus TV partners](https://citycable.ch/tv/chaines-tv/tv-numerique/).<br>
 work over stable mobile cellular network and wifi and wired network cooper, hybrid fiber cooper and full fiber wired whatever your internet service provider.
 Don't know if geoblocked to Switzerland or not, not tested outside country.
