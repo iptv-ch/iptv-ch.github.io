@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTurl-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
-#PLAYLIST: blue tv channels free
+#PLAYLIST: blue tv open channels
 #EXTREM:french
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="1" channel-id="1",RTS1 FHD
 rtp://239.186.76.26:10000
@@ -48,8 +48,6 @@ rtp://239.186.84.54:10000
 rtp://239.186.64.148:10000
 #EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="https://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
 rtp://239.186.70.74:10000
-#EXTINF:-1 tvg-id="teleswizz.ch" tvg-name="TeleSWizz CH" tvg-logo="https://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",TeleSWIZz HD
-rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="C421.api.telerama.fr" tvg-name="8 Mont-Blanc" tvg-logo="https://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="77" channel-id="77",Canal9 HD
@@ -80,6 +78,8 @@ rtp://239.186.70.12:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="https://static.epg.best/ch/carac4.ch.png" tvg-chno="79" channel-id="79",carac4 HD (ex TV SUISSE PLUS HD)
 rtp://239.186.70.104:10000
+#EXTINF:-1 tvg-id="carac5.ch" tvg-name="carac5 CH" tvg-logo="https://static.epg.best/ch/teleswizz.ch.png" tvg-chno="74" channel-id="74",carac5 HD (ex TeleSwizz HD)
+rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="TVM3 CH" tvg-logo="https://static.epg.best/ch/tvm3.ch.png" tvg-chno="80" channel-id="80",tvm3 HD
 rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="https://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD/DieuTV HD
@@ -114,21 +114,21 @@ rtp://239.186.68.135:10000
 rtp://239.186.68.132:10000
 #EXTINF:-1,TV Monaco HD (fra)
 rtp://239.186.68.167:10000
-#EXTINF:-1,ESC F 25 FullHD
-rtp://239.186.76.29:10000
 #EXTREM:english
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC One HD
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC ONE HD
 rtp://239.186.68.43:10000
-#EXTINF:-1 tvg-id="C17.api.telerama.fr" tvg-name="BBC2 UK" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" tvg-chno="91" channel-id="91",BBC Two HD
+#EXTINF:-1 tvg-id="C17.api.telerama.fr" tvg-name="BBC2 UK" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" tvg-chno="91" channel-id="91",BBC TWO HD
 rtp://239.186.68.41:10000
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" tvg-chno="92" channel-id="92",BBC THREE HD / CBBC HD
 rtp://239.186.68.153:10000
 #EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" tvg-chno="93" channel-id="93",BBC FOUR HD / BBC CBeebies HD
 rtp://239.186.68.158:10000
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="94" channel-id="94",BBC CBeebies HD / BBC Four HD
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="94" channel-id="94",BBC CBeebies HD / BBC FOUR HD
 rtp://239.186.68.152:10000
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News UK" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC News HD
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News UK" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC NEWS (UK) HD
 rtp://239.186.68.160:10000
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News UK" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC NEWS (Europe) HD
+rtp://239.186.68.214:10000
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="https://static.epg.best/uk/BBCParliament.uk.png" tvg-chno="97" channel-id="97",BBC PARLIAMENT HD
 rtp://239.186.70.65:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV UK" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="98" channel-id="98",Bloomberg TV UK HD
@@ -169,7 +169,7 @@ rtp://239.186.84.16:10000
 rtp://239.186.70.189:10000
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4 HD
 rtp://239.186.70.150:10000
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" tvg-chno="164" channel-id="164",itvBe HD
+#EXTINF:-1 tvg-id="ITVQuiz.uk" tvg-name="ITVQuiz UK" tvg-logo="https://static.epg.best/gb/ITVQuiz.uk.png" tvg-chno="164" channel-id="164",itvQuiz HD
 rtp://239.186.70.245:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
@@ -189,8 +189,6 @@ rtp://239.186.66.253:10000
 rtp://@239.186.84.2:10000
 #EXTINF:-1 tvg-id="France24E" tvg-name="France 24 E" tvg-logo="https://static.epg.best/fr/France24e.fr.png" tvg-chno="124" channel-id="124",France24 E HD
 rtp://239.186.84.31:10000
-#EXTINF:-1 tvg-id="voiceofamerica.uk" tvg-name="Voice of America UK" tvg-logo="https://static.epg.best/uk/voiceofamerica.uk.png" tvg-chno="125" channel-id="125",VOA Voice of America HD
-rtp://239.186.84.32:10000
 #EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star UK" tvg-logo="https://static.epg.best/uk/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
 #EXTINF:-1 tvg-id="5Select.uk" tvg-name="5Select UK" tvg-logo="https://static.epg.best/uk/5select.uk.png" tvg-chno="" channel-id="",5SELECT
@@ -474,8 +472,6 @@ rtp://239.186.68.93:10000
 rtp://239.186.68.53:10000
 #EXTINF:-1,Hohenrausch HD
 rtp://239.186.70.140:10000
-#EXTINF:-1,ESC D 25 FullHD
-rtp://239.186.76.12:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
 rtp://239.186.76.24:10000
@@ -603,8 +599,6 @@ rtp://239.186.66.184:10000
 rtp://239.186.84.73:10000
 #EXTINF:-1 tvg-id="Espansione.it" tvg-name="Espansione IT" tvg-logo="https://static.epg.best/it/Espansione.it.png" tvg-chno="414" channel-id="414",Espansione TV HD
 rtp://239.186.84.90:10000
-#EXTINF:-1 ,Italian Fishing TV
-rtp://239.186.74.69:10000
 #EXTINF:-1 tvg-id="Topcalcio24.it" tvg-name="Topcalcio24 IT" tvg-logo="https://static.epg.best/it/Topcalcio24.it.png" tvg-chno="420" channel-id="420",TOP CALCIO 24 HD
 rtp://239.186.84.105:10000
 #EXTINF:-1 ,Senato TV HD
@@ -635,8 +629,6 @@ rtp://239.186.84.152:10000
 rtp://239.186.84.156:10000
 #EXTINF:-1 ,R55 Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
-#EXTINF:-1,ESC I 25 FullHD
-rtp://239.186.76.32:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
