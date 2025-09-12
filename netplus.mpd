@@ -31,10 +31,12 @@ https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-id="tfx.fr",TFX HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
-#EXTINF:-1 tvg-id="t18.fr",T18 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
 #EXTINF:-1 tvg-id="cstar.fr",CSTAR HD 720p
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
+#EXTINF:-1 tvg-id="t18.fr",T18 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
+#EXTINF:-1 tvg-id="novo19.fr",NOVO19 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-dash/novo19.mpd
 #EXTINF:-1 tvg-id="rtl9.be",RTL9 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:-1 tvg-id="tf1seriesfilms.fr",TF1 Series Films HD 720p
