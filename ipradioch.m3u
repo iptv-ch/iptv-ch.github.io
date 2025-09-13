@@ -130,3 +130,7 @@ https://radio.upstream-cloud.ch/radiorasa-128.mp3
 https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3
 #EXTINF:-1 ,Radio4TNG
 https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
+#EXTINF:-1 ,WRS - Swiss Radio in English
+https://uksouth.streaming.broadcast.radio:10290/wrs
+#EXTINF:-1 ,Radio JAMES FM
+https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
