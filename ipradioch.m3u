@@ -118,7 +118,7 @@ http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
 #EXTINF:-1 ,ODS radio
 https://ods.ice.infomaniak.ch/ods-high.mp3
 #EXTINF:-1 ,Open Broadcast
-content="https://stream.openbroadcast.ch/256.mp3"
+https://stream.openbroadcast.ch/128.mp3
 #EXTINF:-1 ,Schweiz Podcast
 https://audiokanzlei.ice.infomaniak.ch/audiokanzlei-128.mp3
 #EXTINF:-1 ,Rundfunk.fm
