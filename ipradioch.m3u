@@ -103,11 +103,11 @@ https://stream.srg-ssr.ch/srgssr/rsj/mp3/128
 https://stream.srg-ssr.ch/srgssr/rsp/mp3/128
 #EXTINF:-1 ,Ticino
 https://streaming.smartradio.ch:8502/stream
-#EXTINF:-1 ,Radio Italia Solo Musica Italiana
+#EXTINF:-1 ,Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 ,Country Radio Switzerland
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
-#EXTINF:-1 ,Radio Tell - Heimatklang der Schweiz
+#EXTINF:-1 ,Radio Tell
 https://radiotell.dmd2streaming.com/radiotell.mp3?ver=870032
 #EXTINF:-1 ,GOAT Greatest Hits
 https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
@@ -129,7 +129,17 @@ https://radio.upstream-cloud.ch/radiorasa-128.mp3
 https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3
 #EXTINF:-1 ,Radio4TNG
 https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
-#EXTINF:-1 ,WRS - Swiss Radio in English
+#EXTINF:-1 ,WRS
 https://uksouth.streaming.broadcast.radio:10290/wrs
 #EXTINF:-1 ,Radio JAMES FM
 https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
+#EXTINF:-1 ,FLASHBACK FM
+https://stream.streambase.ch/ffm/mp3-128
+#EXTINF:-1 ,Sunshine Radio
+https://stream.streambase.ch/rsunshine/mp3-128
+#EXTINF:-1 ,Melody CH fr
+https://stream.rcs.revma.com/bsa1cyuup42vv
+#EXTINF:-1 ,Radio Melody CH de
+https://stream.streambase.ch/rm/mp3-128
+#EXTINF:-1 ,PHARE FM
+https://str0.creacast.com/pharefm
