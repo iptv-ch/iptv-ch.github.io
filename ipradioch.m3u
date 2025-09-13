@@ -20,7 +20,7 @@ https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=36766
 #EXTINF:-1 ,MaXXima
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,Spoon radio
-https://ic2527.c972.fastserv.com/spoonradio_aacp_128
+http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.aac/playlist.m3u
 #EXTINF:-1 ,Yes FM
 https://yesfm.ice.infomaniak.ch/yesfm-high.mp3
 #EXTINF:-1 ,Kiss Collector
@@ -113,9 +113,5 @@ https://radiotell.dmd2streaming.com/radiotell.mp3?ver=870032
 https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
 #EXTINF:-1 ,Sunradio
 https://stream.sunradio.ch/live
-#EXTINF:-1 ,Sunshine radio
-https://chmedia.streamabc.net/79-rsunshine-aacplus-64-7620108
-#EXTINF:-1 ,FLASHBACK FM
-https://chmedia.streamabc.net/79-ffm-aacplus-64-5584034
 #EXTINF:-1 ,toxic.fm
 http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
