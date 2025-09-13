@@ -9,8 +9,8 @@ https://radiofresh.ice.infomaniak.ch/radiofresh.aac
 https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.aac
 #EXTINF:-1 ,IP music
 https://live7.avf.ch/ipmusicaacplus96
-#EXTINF:-1 ,IP music slow
-https://live9.avf.ch/ipmusicaacplus128
+#EXTINF:-1 ,IP music SLOW
+https://live9.avf.ch/ipmusicslowaacp96
 #EXTINF:-1 ,Global Sport
 https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
 #EXTINF:-1 ,HopeRadio
@@ -33,8 +33,6 @@ https://dr2103.ice.infomaniak.ch/dr2103.mp3
 https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
 #EXTINF:-1 ,GRRIF
 https://grrif.ice.infomaniak.ch/grrif-high.mp3
-#EXTINF:-1 ,IP music SLOW
-https://live9.avf.ch/ipmusicslowaacp96
 #EXTINF:-1 ,LAC+
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
 #EXTINF:-1 ,LFM+
