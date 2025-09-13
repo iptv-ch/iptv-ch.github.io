@@ -67,25 +67,12 @@ This will only work on your home network if Swisscom is your broadband provider 
 --== Warning: This file list SD/HD/UHD channels by ip order stream free content access module ==--<br>
 No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
-## Sunrise TV SD/HD (codec video h264) (legacy network trough netstream network ended)
 
-iptv-ch.github.io/sunrise-tv.m3u end of life
+## ipradioch swiss stream ip radio should be listen from any swiss internet access provider.
 
-Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
-This will only work on your home network if Sunrise/netstream is your broadband provider.<br>
-This file lists the Sunrise TV SD/HD channels.<br>
-EPG information from https://xmltv.ch/ is included.<br>
-[More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille).
-
-## Sunrise Radio 
-(mpeg1-layer2 mpg-audio, datarate=256kbit/s sampling=48khz 32bit)
-
-iptv-ch.github.io/sunrise-radio.m3u (legacy network trough netstream network ended)
-
-Many of the channels available on [Sunrise TV](https://sunrise.ch/tv).<br>
-This will only work on your home network if Sunrise/netstream/Swisscom is your broadband provider<br>
-This file lists only radio channels.<br>
-[More information](https://www.regardtv.net/t6207-sunrise-iptv-libre-en-clair-non-brouille)
+**https://iptv-ch.github.io/ipradioch.m3u**
+(created as is, not tested on all case, only tested on windows 11 and vlc media player on wired fiber network isp wingo.ch, host swisscom network)
+Let me know if there any issue...
 
 ## Init7 TV7
 
