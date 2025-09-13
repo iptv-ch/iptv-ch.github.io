@@ -349,3 +349,13 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:-1 tvg-id="ptccbet.rs",PTC CBET HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:-1 tvg-id="africa24tv.com",Africa24 (1080i)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="africa24tv.com/sport",Africa24 Sport (1080i)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="africanews.com",africanews. (720i)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr",TV5Monde France Belgique Suisse Monaco (1080i) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
