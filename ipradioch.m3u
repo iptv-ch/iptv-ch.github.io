@@ -13,10 +13,10 @@ https://live7.avf.ch/ipmusicaacplus96
 https://live9.avf.ch/ipmusicslowaacp96
 #EXTINF:-1 ,Global Sport
 https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
-#EXTINF:-1 ,HopeRadio
+#EXTINF:-1 ,HopeRadio CH fr
 https://stream.hoperadio.fr/hoperadio-suisse
 #EXTINF:-1 ,JAZZ RADIO CH
-https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=36766
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
 #EXTINF:-1 ,MaXXima
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,Spoon radio
@@ -59,7 +59,7 @@ http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
 http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 #EXTINF:-1 ,Vertical
 https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
-#EXTINF:-1 ,Latina
+#EXTINF:-1 ,Latina CH
 https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
 #EXTINF:-1 ,TA RADIO
 https://stream.taradio.ch/dab
@@ -108,7 +108,7 @@ https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 ,Country Radio Switzerland
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 #EXTINF:-1 ,Radio Tell
-https://radiotell.dmd2streaming.com/radiotell.mp3?ver=870032
+https://radiotell.dmd2streaming.com/radiotell.mp3
 #EXTINF:-1 ,GOAT Greatest Hits
 https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
 #EXTINF:-1 ,Sunradio
