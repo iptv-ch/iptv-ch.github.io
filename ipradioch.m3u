@@ -11,7 +11,7 @@ https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.aac
 https://live7.avf.ch/ipmusicaacplus96
 #EXTINF:-1 ,IP music slow
 https://live9.avf.ch/ipmusicaacplus128
-#EXTINF:-1 ,Global sport vaud
+#EXTINF:-1 ,Global Sport
 https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
 #EXTINF:-1 ,HopeRadio
 https://stream.hoperadio.fr/hoperadio-suisse
@@ -23,8 +23,6 @@ https://maxxima.mine.nu/maxxima.mp3
 https://ic2527.c972.fastserv.com/spoonradio_aacp_128
 #EXTINF:-1 ,Yes FM
 https://yesfm.ice.infomaniak.ch/yesfm-high.mp3
-#EXTINF:-1 ,Melody CH
-https://n04a-eu.rcs.revma.com/bsa1cyuup42vv?rj-ttl=5&rj-tok=AAABmT_eeM8AjFDRPnljwWU3Dg
 #EXTINF:-1 ,Kiss Collector
 https://dr2101.ice.infomaniak.ch/dr2101.mp3
 #EXTINF:-1 ,Le ROCK ROCKSTAR
@@ -41,7 +39,7 @@ https://live9.avf.ch/ipmusicslowaacp96
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
 #EXTINF:-1 ,LFM+
 https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
-#EXTINF:-1 ,magic radio
+#EXTINF:-1 ,magic
 https://magicradio.ice.infomaniak.ch/magicradio-high.mp3?=&&___cb=272668440535652
 #EXTINF:-1 ,ONE FM+
 https://onefm.ice.infomaniak.ch/onefm-high.mp3
@@ -57,14 +55,18 @@ https://rjb.ice.infomaniak.ch/rjb-high.mp3
 https://rtn.ice.infomaniak.ch/rtn-high.mp3
 #EXTINF:-1 ,Rouge+
 http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
-#EXTINF:-1 ,Radio RTR
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/rr/master.m3u8
-#EXTINF:-1 ,RSI Rete Uno
-https://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/mp3/128
-#EXTINF:-1 ,RSI Rete Due
-https://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/mp3/128
-#EXTINF:-1 ,RSI Rete Tre
-https://livestreaming-node-4.srg-ssr.ch/srgssr/retetre/mp3/128
+#EXTINF:-1 ,Vibration 108
+http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
+#EXTINF:-1 ,Vertical
+https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
+#EXTINF:-1 ,Latina
+https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1 ,TA RADIO
+https://stream.taradio.ch/dab
+#EXTINF:-1 ,Vostok
+https://radiovostok.ice.infomaniak.ch/radiovostok.aac
+#EXTINF:-1 ,Virgin CH
+https://virginradio.ice.infomaniak.ch/virgin-radio.mp3
 #EXTINF:-1 ,RTS Premiere
 https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/mp3/128
 #EXTINF:-1 ,RTS Espace2
@@ -73,6 +75,14 @@ https://livestreaming-node-1.srg-ssr.ch/srgssr/espace-2/mp3/128
 https://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/mp3/128
 #EXTINF:-1 ,RTS Option Musique
 https://stream.srg-ssr.ch/srgssr/option-musique/mp3/128
+#EXTINF:-1 ,Radio RTR
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/rr/master.m3u8
+#EXTINF:-1 ,RSI Rete Uno
+https://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/mp3/128
+#EXTINF:-1 ,RSI Rete Due
+https://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/mp3/128
+#EXTINF:-1 ,RSI Rete Tre
+https://livestreaming-node-4.srg-ssr.ch/srgssr/retetre/mp3/128
 #EXTINF:-1 ,SRF1
 https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf1/variant-96.m3u8
 #EXTINF:-1 ,SRF2 Kultur
@@ -91,13 +101,21 @@ https://stream.srg-ssr.ch/srgssr/rsc_fr/mp3/128
 https://stream.srg-ssr.ch/srgssr/rsj/mp3/128
 #EXTINF:-1 ,Suisse Pop
 https://stream.srg-ssr.ch/srgssr/rsp/mp3/128
+#EXTINF:-1 ,Ticino
+https://streaming.smartradio.ch:8502/stream
 #EXTINF:-1 ,Radio Italia Solo Musica Italiana
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 ,Country Radio Switzerland
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
-#EXTINF:-1 ,GOAT Greatest Hits Radio
+#EXTINF:-1 ,Radio Tell - Heimatklang der Schweiz
+https://radiotell.dmd2streaming.com/radiotell.mp3?ver=870032
+#EXTINF:-1 ,GOAT Greatest Hits
 https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
+#EXTINF:-1 ,Sunradio
+https://stream.sunradio.ch/live
 #EXTINF:-1 ,Sunshine radio
 https://chmedia.streamabc.net/79-rsunshine-aacplus-64-7620108
 #EXTINF:-1 ,FLASHBACK FM
 https://chmedia.streamabc.net/79-ffm-aacplus-64-5584034
+#EXTINF:-1 ,toxic.fm
+http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
