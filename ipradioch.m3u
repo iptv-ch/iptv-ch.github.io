@@ -21,6 +21,9 @@ https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=36766
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,Spoon radio
 http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.aac/playlist.m3u
+#EXTINF:-1 ,SPOON BALLADS
+https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+
 #EXTINF:-1 ,Yes FM
 https://yesfm.ice.infomaniak.ch/yesfm-high.mp3
 #EXTINF:-1 ,Kiss Collector
@@ -113,3 +116,17 @@ https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
 https://stream.sunradio.ch/live
 #EXTINF:-1 ,toxic.fm
 http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
+#EXTINF:-1 ,ODS radio
+https://ods.ice.infomaniak.ch/ods-high.mp3
+#EXTINF:-1 ,Open Broadcast
+content="https://stream.openbroadcast.ch/256.mp3"
+#EXTINF:-1 ,Schweiz Podcast
+https://audiokanzlei.ice.infomaniak.ch/audiokanzlei-128.mp3
+#EXTINF:-1 ,Rundfunk.fm
+https://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3
+#EXTINF:-1 ,RADIORASA
+https://radio.upstream-cloud.ch/radiorasa-128.mp3
+#EXTINF:-1 ,radio sense
+https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3
+#EXTINF:-1 ,Radio4TNG
+https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
