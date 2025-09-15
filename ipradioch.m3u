@@ -35,13 +35,13 @@ https://dr2103.ice.infomaniak.ch/dr2103.mp3
 https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
 #EXTINF:-1 ,GRRIF
 https://grrif.ice.infomaniak.ch/grrif-high.mp3
-#EXTINF:-1 ,LAC+
+#EXTINF:-1 ,LAC
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
-#EXTINF:-1 ,LFM+
+#EXTINF:-1 ,LFM
 https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
 #EXTINF:-1 ,magic radio
 https://magicradio.ice.infomaniak.ch/magicradio-high.mp3
-#EXTINF:-1 ,ONE FM+
+#EXTINF:-1 ,ONE FM
 https://onefm.ice.infomaniak.ch/onefm-high.mp3
 #EXTINF:-1 ,RHONE FM+
 https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
@@ -138,7 +138,7 @@ https://stream.streambase.ch/rm/mp3-128
 #EXTINF:-1 ,Ellipticum
 https://live.ellipticum.radio/elli_it.mp3
 #EXTINF:-1 ,Radio X Basel
-https://mp3.radiox.ch/mobile.aac?rp_source=1&=&&___cb=940532205341726
+https://mp3.radiox.ch/mobile.aac
 #EXTINF:-1 ,Radio Zürisee
 https://mp3.radio.ch/radiozuerisee128k
 #EXTINF:-1 ,radio1
