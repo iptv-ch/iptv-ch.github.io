@@ -35,7 +35,7 @@ https://stream.radiofrance.fr/francemusique/francemusique_hifi.m3u8
 #EXTINF:-1 ,FUEGO
 https://stream.rcs.revma.com/myzzee8kwccwv
 #EXTINF:-1 ,FUN RADIO
-https://?
+http://streaming.radio.funradio.fr/fun-1-44-128
 #EXTINF:-1 ,GENERATIONS
 https://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 #EXTINF:-1 ,ICI PAYS SAVOIE
@@ -87,9 +87,9 @@ https://streaming.nrjaudio.fm/ou8o8xgk7oiu
 #EXTINF:-1 ,RMC
 https://audio.bfmtv.com/rmcradio_128.mp3
 #EXTINF:-1 ,RTL
-?
+http://streaming.radio.rtl.fr/rtl-1-44-128
 #EXTINF:-1 ,RTL2
-?
+http://streaming.radio.rtl2.fr/rtl2-1-44-128
 #EXTINF:-1 ,SCOOP Alpes
 https://radioscoopalpes.ice.infomaniak.ch/radioscoop-alpes-64.aac
 #EXTINF:-1 ,SKYROCK
