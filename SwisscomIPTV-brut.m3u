@@ -463,7 +463,7 @@ rtp://239.186.66.18:10000
 rtp://239.186.66.20:10000
 #EXTINF:-1,Eurosport 2 F (fre)
 rtp://239.186.66.21:10000
-#EXTINF:-1,C+ en clair
+#EXTINF:-1,CANAL+ en clair
 rtp://239.186.66.22:10000
 #EXTINF:-1,Gulli (fre)
 rtp://239.186.66.23:10000
@@ -497,13 +497,13 @@ rtp://239.186.66.43:10000
 rtp://239.186.66.44:10000
 #EXTINF:-1,infosport+
 rtp://239.186.66.45:10000
-#EXTINF:-1,C+ CH (fra)
+#EXTINF:-1,CANAL+ CH (fra)
 rtp://239.186.66.46:10000
-#EXTINF:-1,C+ Cinema CH (fra)
+#EXTINF:-1,CANAL+ Cinema CH (fra)
 rtp://239.186.66.47:10000
-#EXTINF:-1,C+ Sport CH (fra)
+#EXTINF:-1,CANAL+ Sport CH (fra)
 rtp://239.186.66.49:10000
-#EXTINF:-1,C+ Kids CH
+#EXTINF:-1,CANAL+ Kids CH
 rtp://239.186.66.50:10000
 #EXTINF:-1,CINE+ OCS
 rtp://239.186.66.51:10000
@@ -585,7 +585,7 @@ rtp://239.186.66.103:10000
 rtp://239.186.66.104:10000
 #EXTINF:-1,RTL Living (deu)
 rtp://239.186.66.105:10000
-#EXTINF:-1,C+ Series (fra)
+#EXTINF:-1,CANAL+ Series (fra)
 rtp://239.186.66.106:10000
 #EXTINF:-1,ALMA TV
 rtp://239.186.66.107:10000
@@ -879,7 +879,7 @@ rtp://239.186.68.36:10000
 rtp://239.186.68.37:10000
 #EXTINF:-1,Tele Baern HD
 rtp://239.186.68.38:10000
-#EXTINF:-1,C+ en clair HD
+#EXTINF:-1,CANAL+ en clair HD
 rtp://239.186.68.39:10000
 #EXTINF:-1,Channel 4 HD (AC3 eng)
 rtp://239.186.68.40:10000
@@ -1017,7 +1017,7 @@ rtp://239.186.68.105:10000
 rtp://239.186.68.106:10000
 #EXTINF:-1,la tele HD
 rtp://239.186.68.107:10000
-#EXTINF:-1,C+ CH HD (fra)
+#EXTINF:-1,CANAL+ CH HD (fra)
 rtp://239.186.68.108:10000
 #EXTINF:-1,Nat Geo Wild HD F
 rtp://239.186.68.109:10000
@@ -1029,7 +1029,7 @@ rtp://239.186.68.111:10000
 rtp://239.186.68.112:10000
 #EXTINF:-1,Stingray Classica HD F
 rtp://239.186.68.113:10000
-#EXTINF:-1,C+ Premier HD (fra)
+#EXTINF:-1,CANAL+ Premier HD (fra)
 rtp://239.186.68.114:10000
 #EXTINF:-1,Planete+ HD
 rtp://239.186.68.115:10000
@@ -1053,13 +1053,13 @@ rtp://239.186.68.123:10000
 rtp://239.186.68.124:10000
 #EXTINF:-1,Bloomberg TV HD
 rtp://239.186.68.125:10000
-#EXTINF:-1,C+ Cinema CH HD (fra)
+#EXTINF:-1,CANAL+ Cinema CH HD (fra)
 rtp://239.186.68.126:10000
 #EXTINF:-1,C Sport HD (fra)
 rtp://239.186.68.127:10000
 #EXTINF:-1 ,Mediaset EXTRA HD
 rtp://239.186.68.128:10000
-#EXTINF:-1,C+ Kids CH HD
+#EXTINF:-1,CANAL+ Kids CH HD
 rtp://239.186.68.129:10000
 #EXTINF:-1,RMC Decouverte HD (fra)
 rtp://239.186.68.130:10000
@@ -1083,7 +1083,7 @@ rtp://239.186.68.138:10000
 rtp://239.186.68.139:10000
 #EXTINF:-1,i24 News E HD
 rtp://239.186.68.140:10000
-#EXTINF:-1,C+ Series HD (fra)
+#EXTINF:-1,CANAL+ Series HD (fra)
 rtp://239.186.68.141:10000
 #EXTINF:-1,4+ HD
 rtp://239.186.68.142:10000
@@ -1217,7 +1217,7 @@ rtp://239.186.68.205:10000
 rtp://239.186.68.206:10000
 #EXTINF:-1,musig24 HD
 rtp://239.186.68.207:10000
-#EXTINF:-1,carac5 TeleSwizz HD
+#EXTINF:-1,carac5 HD (ex TeleSwizz HD)
 rtp://239.186.68.208:10000
 #EXTINF:-1,blue Sport direct 16 HD (fre)
 rtp://239.186.68.209:10000
@@ -1239,7 +1239,7 @@ rtp://239.186.68.217:10000
 rtp://239.186.68.218:10000
 #EXTINF:-1,Histoire HD
 rtp://239.186.68.219:10000
-#EXTINF:-1,C+ Famiz HD (fra)
+#EXTINF:-1,CANAL+ Famiz HD (fra)
 rtp://239.186.68.220:10000
 #EXTINF:-1,Trek HD (AAC)
 rtp://239.186.68.221:10000
@@ -1615,8 +1615,12 @@ rtp://239.186.70.163:10000
 rtp://239.186.70.164:10000
 #EXTINF:-1,Spiegel Geschichte HD
 rtp://239.186.70.165:10000
-#EXTINF:-1,Info channel HD (deu)
+#EXTINF:-1,Info channel HD
 rtp://239.186.70.168:10000
+#EXTINF:-1,CANAL+ SPORT EVENT1 HD
+rtp://239.186.70.170:10000
+#EXTINF:-1,CANAL+ SPORT EVENT2 HD
+rtp://239.186.70.171:10000
 #EXTINF:-1,TV Dukagjini HD
 rtp://239.186.70.178:10000
 #EXTINF:-1,Alf-TV HD
@@ -1919,7 +1923,7 @@ rtp://239.186.74.107:10000
 rtp://239.186.74.108:10000
 #EXTINF:-1,MySports 10 D (deu)
 rtp://239.186.74.109:10000
-#EXTINF:-1,C+ PREMIER LEAGUE
+#EXTINF:-1,CANAL+ PREMIER LEAGUE
 rtp://239.186.74.110:10000
 #EXTINF:-1,MySports EDGE (deu)
 rtp://239.186.74.111:10000
@@ -1937,11 +1941,11 @@ rtp://239.186.74.116:10000
 rtp://239.186.74.117:10000
 #EXTINF:-1,MTV France
 rtp://239.186.74.118:10000
-#EXTINF:-1,C+ Sport 360 (fra)
+#EXTINF:-1,CANAL+ Sport 360 (fra)
 rtp://239.186.74.119:10000
-#EXTINF:-1,C+ Docs (fra)
+#EXTINF:-1,CANAL+ Docs (fra)
 rtp://239.186.74.120:10000
-#EXTINF:-1,C+ Foot (fra)
+#EXTINF:-1,CANAL+ Foot (fra)
 rtp://239.186.74.121:10000
 #EXTINF:-1,Chasse et Peche
 rtp://239.186.74.123:10000
@@ -2127,7 +2131,7 @@ rtp://239.186.84.40:10000
 rtp://239.186.84.42:10000
 #EXTINF:-1,TV Klan HD
 rtp://239.186.84.43:10000
-#EXTINF:-1,C+ Sport 360 HD
+#EXTINF:-1,CANAL+ Sport 360 HD
 rtp://239.186.84.44:10000
 #EXTINF:-1 ,EU Parliament HD
 rtp://239.186.84.45:10000
@@ -2137,7 +2141,7 @@ rtp://239.186.84.46:10000
 rtp://239.186.84.47:10000
 #EXTINF:-1,Antena 3 HD
 rtp://239.186.84.48:10000
-#EXTINF:-1,C+ Foot HD (fra)
+#EXTINF:-1,CANAL+ Foot HD (fra)
 rtp://239.186.84.49:10000
 #EXTINF:-1,auto motor sport HD
 rtp://239.186.84.50:10000
@@ -2223,7 +2227,7 @@ rtp://239.186.84.113:10000
 rtp://239.186.84.114:10000
 #EXTINF:-1,sky sport golf HD (deu)
 rtp://239.186.84.115:10000
-#EXTINF:-1,C+ Docs HD (fra)
+#EXTINF:-1,CANAL+ Docs HD (fra)
 rtp://239.186.84.120:10000
 #EXTINF:-1,Museum TV HD
 rtp://239.186.84.121:10000
