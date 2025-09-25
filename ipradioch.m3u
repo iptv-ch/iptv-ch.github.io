@@ -15,8 +15,6 @@ https://live9.avf.ch/ipmusicslowaacp96
 https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
 #EXTINF:-1 ,HopeRadio CH fr
 https://stream.hoperadio.fr/hoperadio-suisse
-#EXTINF:-1 ,JAZZ RADIO CH
-https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
 #EXTINF:-1 ,MaXXima
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,SPOON radio
@@ -93,12 +91,12 @@ https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf4news/variant-96.m
 https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srfmw/variant-96.m3u8
 #EXTINF:-1 ,SRF Virus
 https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srfvirus/variant-96.m3u8
-#EXTINF:-1 ,Suisse Classique
-https://stream.srg-ssr.ch/srgssr/rsc_fr/mp3/128
+#EXTINF:-1 ,Swiss Classic
+https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
 #EXTINF:-1 ,Swiss Jazz
-https://stream.srg-ssr.ch/srgssr/rsj/mp3/128
+https://stream.srg-ssr.ch/srgssr/rsj/aac/96
 #EXTINF:-1 ,Swiss Pop
-https://stream.srg-ssr.ch/srgssr/rsp/mp3/128
+https://stream.srg-ssr.ch/srgssr/rsp/aac/96
 #EXTINF:-1 ,Ticino
 https://streaming.smartradio.ch:8502/stream
 #EXTINF:-1 ,Radio Italia
@@ -113,8 +111,8 @@ https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
 https://stream.sunradio.ch/live
 #EXTINF:-1 ,toxic.fm
 http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
-#EXTINF:-1 ,Open Broadcast
-https://stream.openbroadcast.ch/128.mp3
+#EXTINF:-1 ,OpenBroadcast
+https://stream-abr.openbroadcast.ch/hls/manifest.m3u8
 #EXTINF:-1 ,Schweiz Podcast
 https://audiokanzlei.ice.infomaniak.ch/audiokanzlei-128.mp3
 #EXTINF:-1 ,Rundfunk.fm
