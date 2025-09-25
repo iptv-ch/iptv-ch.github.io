@@ -64,21 +64,21 @@ https://stream.taradio.ch/dab
 #EXTINF:-1 ,Vostok
 https://radiovostok.ice.infomaniak.ch/radiovostok.aac
 #EXTINF:-1 ,RTS Premiere
-https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/mp3/128
+https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/aac/96
 #EXTINF:-1 ,RTS Espace2
-https://livestreaming-node-1.srg-ssr.ch/srgssr/espace-2/mp3/128
+https://livestreaming-node-1.srg-ssr.ch/srgssr/espace-2/aac/96
 #EXTINF:-1 ,RTS Couleur3
-https://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/mp3/128
+https://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/aac/96
 #EXTINF:-1 ,RTS Option Musique
-https://stream.srg-ssr.ch/srgssr/option-musique/mp3/128
+https://stream.srg-ssr.ch/srgssr/option-musique/aac/96
 #EXTINF:-1 ,Radio RTR
 https://stxt-audiostreaming.akamaized.net/hls/live/2117380/rr/master.m3u8
 #EXTINF:-1 ,RSI Rete Uno
-https://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/mp3/128
+https://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/aac/96
 #EXTINF:-1 ,RSI Rete Due
-https://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/mp3/128
+https://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/aac/96
 #EXTINF:-1 ,RSI Rete Tre
-https://livestreaming-node-4.srg-ssr.ch/srgssr/retetre/mp3/128
+https://livestreaming-node-4.srg-ssr.ch/srgssr/retetre/aac/96
 #EXTINF:-1 ,SRF1
 https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf1/variant-96.m3u8
 #EXTINF:-1 ,SRF2 Kultur
@@ -174,7 +174,7 @@ https://stream.streambase.ch/reviva/aac-64
 #EXTINF:-1 ,FM1
 https://stream.streambase.ch/radiofm1/aac-64
 #EXTINF:-1 ,Radio Grischa
-https://stream.radiogrischa.ch/radiogrischa/mp3_128
+https://stream.radiogrischa.ch/radiogrischa/aac_96
 #EXTINF:-1 ,Kanal K
 https://play.kanalk.ch/kanalk/mp3-192/radioplayer?rp_source=1
 #EXTINF:-1 ,LoRa
@@ -184,17 +184,17 @@ https://streaming.radiomunot.ch/munot/mp3_128
 #EXTINF:-1 ,neo1
 https://neo1.ice.infomaniak.ch/neo1.mp3
 #EXTINF:-1 ,Pilatus
-https://stream.streambase.ch/radiopilatus/aac-64
+https://stream.streambase.ch/radiopilatus/aac-96
 #EXTINF:-1 ,Power Up
 https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3
 #EXTINF:-1 ,Radio3i
 https://icecast.gruppocdt.ch/radio3i-256.mp3
 #EXTINF:-1 ,Radio Rottu Oberwallis
-https://streaming.rro.ch/rro/mp3_128/
+https://streaming.rro.ch/rro/aac-96/
 #EXTINF:-1 ,rro Hit Box
-https://streaming.rro.ch/rro_musigpur/mp3_128/
+https://streaming.rro.ch/rro_musigpur/aac_96/
 #EXTINF:-1 ,rro swiss melody
-https://streaming.rro.ch/rro_swissmelody/mp3_128/
+https://streaming.rro.ch/rro_swissmelody/aac_96/
 #EXTINF:-1 ,Spitalradio LuZ
 https://s10.streamingcloud.online:13552/radioluz320.mp3
 #EXTINF:-1 ,Radio Top
