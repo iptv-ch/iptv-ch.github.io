@@ -361,8 +361,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="francais.rt.com",RT en français 
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="adn.com",ADN Animation Digital Network
-https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
 #EXTINF:-1 tvg-id="theexplorers.com",The Explorers
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d7b8d2d2-30c5-4362-8735-ac91f9e17134/458be94d-45ec-44e7-a92b-eca318c910c6/2.m3u8
 #EXTINF:-1 tvg-id="",Voyages+
@@ -381,7 +379,19 @@ https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/667f837d-00c2-4049-ad93-c6161bd79f75/2.m3u8
 #EXTINF:-1 tvg-id="",AUTOMOTION
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
-#EXTINF:-1 tvg-id="",Frequence Novelas
-https://amg00711-zylo-amg00711c4-netgemtv-gb-2734.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-netgemtvgb/8716803c-9cb3-11f0-94cb-6aaeb158a5fe/139/854x480_1249600/index.m3u8
 #EXTINF:-1 tvg-id="",RTS info HD 720p
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index_5.m3u8
+#EXTINF:-1 tvg-id="",SCREAMIN
+https://amg00711-zylo-amg00711c6-netgemtv-gb-2735.playouts.now.amagi.tv/playlist/amg00711-zylofast-screamin-netgemtvgb/d1c864b6-9cb3-11f0-83e4-068da39d24c4/15/1920x1080_4716800/index.m3u8
+#EXTINF:-1 tvg-id="",Frequence Novelas
+https://amg00711-zylo-amg00711c4-netgemtv-gb-2734.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-netgemtvgb/8716803c-9cb3-11f0-94cb-6aaeb158a5fe/139/854x480_1249600/index.m3u8
+#EXTINF:-1 tvg-id="",Les Zamours FHD 1080p
+https://amg02393-awpg-amg02393c3-netgemtv-gb-2749.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-netgemtvgb/9428f72f-9cb4-11f0-aaa7-366dec2b7bb1/136/1920x1080_4300000/index.m3u8
+#EXTINF:-1 tvg-id="",Qui veut gagner des millions
+https://amg02393-awpg-amg02393c1-netgemtv-gb-2751.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-netgemtvgb/57721f6b-9cb5-11f0-8c77-f6f81fde257d/77/1920x1080_4300000/index.m3u8
+#EXTINF:-1 tvg-id="adn.com",ADN Animation Digital Network
+https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
+#EXTINF:-1 tvg-id="",Le meilleur d'Arthur FHD 1080p
+https://amg02393-awpg-amg02393c2-netgemtv-gb-2750.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-netgemtvgb/b5eacb49-9cb5-11f0-9200-2ec3f606a6d8/24/1920x1080_4300000/index.m3u8
+#EXTINF:-1 tvg-id="",Le meilleur de la tv réalité
+https://amg02393-awpg-amg02393c4-netgemtv-gb-2748.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-netgemtvgb/85baa46f-9cb6-11f0-81b3-beaffeb66eb6/117/1920x1080_4300000/index.m3u8
