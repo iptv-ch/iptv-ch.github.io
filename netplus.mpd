@@ -381,3 +381,5 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index_5.m3u8
 #EXTINF:-1 tvg-id="adn.com",ADN Animation Digital Network
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
+#EXTINF:-1 tvg-id="frequencenovelas.com",Fréquence Novelas
+https://amg00711-zylo-amg00711c4-netgemtv-gb-2734.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-netgemtvgb/2189a2fb-9fda-11f0-8c77-f6f81fde257d/180/1280x720_2657600/index.m3u8
