@@ -359,8 +359,6 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr",TV5MONDE Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr",TV5MONDE VOYAGE
-https://stream.ads.ottera.tv/cl/251003d3fhcqmm4al2bjb2gbog/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-id="francais.rt.com",RT Russia Today en français FHD
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="theexplorers.com",The Explorers FHDp
