@@ -19,6 +19,8 @@ https://stream.hoperadio.fr/hoperadio-suisse
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,SPOON radio
 http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.aac/playlist.m3u
+#EXTINF:-1 ,SPOON CLASSICS
+https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
 #EXTINF:-1 ,SPOON BALLADS
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 #EXTINF:-1 ,Yes FM
@@ -215,3 +217,5 @@ https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3
 https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 ,Radio Positive CH
 https://nl.digitalrm.pt:8106/stream
+#EXTINF:-1 ,Sout Al Khaleej
+https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
