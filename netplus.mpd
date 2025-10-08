@@ -229,8 +229,9 @@ https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:-1 tvg-id="Bloomberg.uk" tvg-logo="",bloomberg HD
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:-1 tvg-id="fashiontv.uk" tvg-logo="",fashiontv HD
-https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-dash/fashiontv.mpd
+#EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="",FASHIONTV HD
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#rem https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-dash/fashiontv.mpd
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="",channel4 HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-id="channel5.uk" tvg-logo="",channel5 HD
