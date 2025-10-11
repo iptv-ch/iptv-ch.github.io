@@ -250,6 +250,8 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveintern
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:-1 tvg-id="Aragontv.es" tvg-logo="",Aragon TV HD
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
+#EXTINF:-1 tvg-id="canalsur.es" tvg-logo="",CanalSur Andalucia HD
+https://youtu.be/UEZ-nvN5BmU
 #EXTINF:-1 tvg-id="bvn.nl" tvg-logo="",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-id="rtk1.xk" tvg-logo="",RTK1
@@ -260,6 +262,8 @@ https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
 #EXTINF:-1 tvg-id="2m.ma" tvg-logo="",2M Maroc
 https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="",Canal Algerie2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="",cctv4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:-1 tvg-id="VideoItalia.it" tvg-logo="",video italia HD
@@ -270,6 +274,10 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-dash/recordnews.mpd
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-id="almaghribia.ma" tvg-logo="", Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd
+#EXTINF:-1 tvg-id="alarabiya.net" tvg-logo="", Al Arabiya HD
+https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
+#EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="", Al Masriyah HD
+https://live.eu-north-1b.cf.dmcdn.net/sec2(PpOg7gp75VzrSfcC5wExmpzc4xAdn5unfVf1AMiiIY2EFDhieqoqflhfsItjxhahnDG-n1je7AZeFtLorbiXh3TpdL6zNv2opbCsETBHD04gJoVgKWBDXd7lTkDBCGWG)/dm/3/x84nun4/s/live-720.m3u8
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="",RTL nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 #EXTINF:-1 tvg-id="sixx.de" tvg-logo="",sixx HD ?
