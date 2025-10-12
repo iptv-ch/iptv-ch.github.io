@@ -277,7 +277,7 @@ https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mp
 #EXTINF:-1 tvg-id="alarabiya.net" tvg-logo="", Al Arabiya HD
 https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
 #EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="", Al Masriyah HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(PpOg7gp75VzrSfcC5wExmpzc4xAdn5unfVf1AMiiIY2EFDhieqoqflhfsItjxhahnDG-n1je7AZeFtLorbiXh3TpdL6zNv2opbCsETBHD04gJoVgKWBDXd7lTkDBCGWG)/dm/3/x84nun4/s/live-720.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-dash/almasriyah.mpd
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="",RTL nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 #EXTINF:-1 tvg-id="sixx.de" tvg-logo="",sixx HD ?
@@ -384,7 +384,5 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/667f837d-00c2-4049-ad93-c6161bd79f75/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",AUTOMOTION FHD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",RTS info HD 720p
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index_5.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="",ADN Animation Digital Network
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
