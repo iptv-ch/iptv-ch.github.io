@@ -66,33 +66,33 @@ https://stream.taradio.ch/dab
 #EXTINF:-1 ,Vostok
 https://radiovostok.ice.infomaniak.ch/radiovostok.aac
 #EXTINF:-1 ,RTS Premiere
-https://livestreaming-node-1.srg-ssr.ch/srgssr/la-1ere/aac/96
+https://stream.srg-ssr.ch/srgssr/la-1ere/aac/96
 #EXTINF:-1 ,RTS Espace2
-https://livestreaming-node-1.srg-ssr.ch/srgssr/espace-2/aac/96
+https://stream.srg-ssr.ch/srgssr/espace-2/aac/96
 #EXTINF:-1 ,RTS Couleur3
-https://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/aac/96
+https://stream.srg-ssr.ch/srgssr/couleur3/aac/96
 #EXTINF:-1 ,RTS Option Musique
 https://stream.srg-ssr.ch/srgssr/option-musique/aac/96
 #EXTINF:-1 ,Radio RTR
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/rr/master.m3u8
+https://stream.srg-ssr.ch/srgssr/rr/aac/96
 #EXTINF:-1 ,RSI Rete Uno
-https://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/aac/96
+https://stream.srg-ssr.ch/srgssr/reteuno/aac/96
 #EXTINF:-1 ,RSI Rete Due
-https://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/aac/96
+https://stream.srg-ssr.ch/srgssr/retedue/aac/96
 #EXTINF:-1 ,RSI Rete Tre
-https://livestreaming-node-4.srg-ssr.ch/srgssr/retetre/aac/96
+https://stream.srg-ssr.ch/srgssr/retetre/aac/96
 #EXTINF:-1 ,SRF1
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf1/variant-96.m3u8
+https://stream.srg-ssr.ch/srgssr/srf1/aac/96
 #EXTINF:-1 ,SRF2 Kultur
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf2/variant-96.m3u8
+https://stream.srg-ssr.ch/srgssr/srf2/aac/96
 #EXTINF:-1 ,SRF3 
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf3/variant-96.m3u8
+https://stream.srg-ssr.ch/srgssr/srf3/aac/96
 #EXTINF:-1 ,SRF4 News
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf4news/variant-96.m3u8
+https://stream.srg-ssr.ch/srgssr/srf4news/aac/96
 #EXTINF:-1 ,SRF Musikwelle
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srfmw/variant-96.m3u8
+https://stream.srg-ssr.ch/srgssr/srfmw/aac/96
 #EXTINF:-1 ,SRF Virus
-https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srfvirus/variant-96.m3u8
+https://stream.srg-ssr.ch/srgssr/srfvirus/aac/96
 #EXTINF:-1 ,Swiss Classic
 https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
 #EXTINF:-1 ,Swiss Jazz
@@ -154,7 +154,7 @@ https://stream.streambase.ch/radio32/aac-64
 #EXTINF:-1 ,Goldies
 https://stream.streambase.ch/r32goldies/aac-64
 #EXTINF:-1 ,Radio Argovia
-https://stream.streambase.ch/argovia/mp3-192
+https://stream.streambase.ch/argovia/aac-64
 #EXTINF:-1 ,Radio Basilisk
 https://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
 #EXTINF:-1 ,Radio BeO Berner Oberland
@@ -186,7 +186,7 @@ https://streaming.radiomunot.ch/munot/mp3_128
 #EXTINF:-1 ,neo1
 https://neo1.ice.infomaniak.ch/neo1.mp3
 #EXTINF:-1 ,Pilatus
-https://stream.streambase.ch/radiopilatus/aac-96
+https://stream.streambase.ch/radiopilatus/aac-64
 #EXTINF:-1 ,Power Up
 https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3
 #EXTINF:-1 ,Radio3i
