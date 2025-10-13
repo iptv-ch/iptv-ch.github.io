@@ -2,23 +2,21 @@
 #EXTINF:-1 ,Radio Net+
 https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
 #EXTINF:-1 ,Radio Chablais
-http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
+https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
 #EXTINF:-1 ,RadioFr.Fesh
 https://radiofresh.ice.infomaniak.ch/radiofresh.aac
 #EXTINF:-1 ,RadioFr. Fribourg
 https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.aac
 #EXTINF:-1 ,IP music
-https://live7.avf.ch/ipmusicaacplus96
+https://live9.avf.ch/ipmusicaacplus128
 #EXTINF:-1 ,IP music SLOW
 https://live9.avf.ch/ipmusicslowaacp96
 #EXTINF:-1 ,Global Sport
 https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
-#EXTINF:-1 ,HopeRadio CH fr
-https://stream.hoperadio.fr/hoperadio-suisse
 #EXTINF:-1 ,MaXXima
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,SPOON radio
-http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.aac/playlist.m3u
+https://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.aac/playlist.m3u
 #EXTINF:-1 ,SPOON CLASSICS
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
 #EXTINF:-1 ,SPOON BALLADS
@@ -38,7 +36,7 @@ https://grrif.ice.infomaniak.ch/grrif-high.mp3
 #EXTINF:-1 ,LAC
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
 #EXTINF:-1 ,LFM
-https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
+https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac
 #EXTINF:-1 ,magic radio
 https://magicradio.ice.infomaniak.ch/magicradio-high.mp3
 #EXTINF:-1 ,ONE FM
@@ -54,9 +52,9 @@ https://rjb.ice.infomaniak.ch/rjb-high.mp3
 #EXTINF:-1 ,RTN
 https://rtn.ice.infomaniak.ch/rtn-high.mp3
 #EXTINF:-1 ,Rouge
-http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+https://rougefm.ice.infomaniak.ch/rougefm-high.mp3
 #EXTINF:-1 ,Vibration 108
-http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
+https://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 #EXTINF:-1 ,Vertical
 https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
 #EXTINF:-1 ,Latina CH
@@ -94,7 +92,7 @@ https://stream.srg-ssr.ch/srgssr/srfmw/aac/96
 #EXTINF:-1 ,SRF Virus
 https://stream.srg-ssr.ch/srgssr/srfvirus/aac/96
 #EXTINF:-1 ,Swiss Classic de
-https://stream.srg-ssr.ch/srgssr/rsc/aac/96
+https://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
 #EXTINF:-1 ,Swiss Classique fr
 https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
 #EXTINF:-1 ,Swiss Jazz
@@ -165,12 +163,10 @@ https://streaming.radiobeo.ch/beo/mp3_192/web
 https://stream.streambase.ch/radiobern1/aac-64
 #EXTINF:-1 ,Radio Central
 https://stream.streambase.ch/rcentral/aac-64
-#EXTINF:-1 ,Radio Central2
-https://stream.streambase.ch/rcentralasz/aac-64
 #EXTINF:-1 ,Diis Radio
 https://cast4.asurahosting.com/proxy/diisradi/stream
 #EXTINF:-1 ,driftFM
-https://s4.radio.co/s5729f2e59/low?rp_source=1
+https://s4.radio.co/s5729f2e59/listen
 #EXTINF:-1 ,ERF+
 https://stream1.lifechannel.ch/ERFPLUS
 #EXTINF:-1 ,Radio EVIVA
@@ -180,7 +176,7 @@ https://stream.streambase.ch/radiofm1/aac-64
 #EXTINF:-1 ,Radio Grischa
 https://stream.radiogrischa.ch/radiogrischa/aac_96
 #EXTINF:-1 ,Kanal K
-https://play.kanalk.ch/kanalk/mp3-192/radioplayer?rp_source=1
+https://play.kanalk.ch/kanalk/mp3-192/
 #EXTINF:-1 ,LoRa
 https://lora.ice.infomaniak.ch/lora.mp3
 #EXTINF:-1 ,Radio Munot
@@ -194,11 +190,11 @@ https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3
 #EXTINF:-1 ,Radio3i
 https://icecast.gruppocdt.ch/radio3i-256.mp3
 #EXTINF:-1 ,Radio Rottu Oberwallis
-https://streaming.rro.ch/rro/aac-96/
+https://streaming.rro.ch/rro/mp3_128
 #EXTINF:-1 ,rro Hit Box
-https://streaming.rro.ch/rro_musigpur/aac_96/
+https://streaming.rro.ch/rro_musigpur/aac_96
 #EXTINF:-1 ,rro swiss melody
-https://streaming.rro.ch/rro_swissmelody/aac_96/
+https://streaming.rro.ch/rro_swissmelody/aac_96
 #EXTINF:-1 ,Spitalradio LuZ
 https://s10.streamingcloud.online:13552/radioluz320.mp3
 #EXTINF:-1 ,Radio Top
@@ -209,15 +205,15 @@ https://stream.streambase.ch/vrock/aac-64
 https://securestreams4.autopo.st:1558/Back2Noize
 #EXTINF:-1 ,RedLine Radio
 https://play.radioking.io/royale-radio/161119
-#EXTINF:-1 ,radiobus.fm
-https://radiobus.ice.infomaniak.ch/radiobox-live-128.aac
-#EXTINF:-1 ,Radio Maria Suisse Romande
-https://dreamsiteradiocp4.com/proxy/rmrsuisse2?mp=/stream
 #EXTINF:-1 ,Geneva Latina
 https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3
+#EXTINF:-1 ,Radio Maria Suisse Romande
+https://dreamsiteradiocp4.com/proxy/rmrsuisse2?mp=/stream
 #EXTINF:-1 ,albradio ON AIR
 https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 ,Radio Positive CH
 https://nl.digitalrm.pt:8106/stream
 #EXTINF:-1 ,Sout Al Khaleej
 https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
+#EXTINF:-1 ,radiobus.fm
+https://radiobus.ice.infomaniak.ch/radiobox-live-128.aac
