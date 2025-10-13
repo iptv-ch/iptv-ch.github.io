@@ -57,11 +57,12 @@ https://mfm.ice.infomaniak.ch/mfm-128.mp3
 #EXTINF:-1 ,Melody Radio vintage
 https://stream.rcs.revma.com/bsa1cyuup42vv
 #EXTINF:-1 ,NOSTALGIE
+https://nostalgie.ice.infomaniak.ch/nostalgie-96.aac
 https://streaming.nrjaudio.fm/ouwgwqsk6j4d
 #EXTINF:-1 ,NOVA
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 ,NRJ
-https://streaming.nrjaudio.fm/oufdfatx4thg
+#EXTINF:-1 ,NRJ Hits
+https://energyhits.ice.infomaniak.ch/energyhits-high.mp3
 #EXTINF:-1 ,ODS RADIO
 https://ods.ice.infomaniak.ch/ods-high.mp3
 #EXTINF:-1 ,ORIENT
@@ -108,5 +109,7 @@ https://virginradio.ice.infomaniak.ch/virgin-radio.mp3
 https://media.autorouteinfo.fr/direct_sud.mp3
 #EXTINF:-1 ,CINEMUSIC
 https://play.radioking.io/cinemusicradio/62785
-#EXTINF:-1 ,PLAY ZOUK ANTILLES
-https://stream.frequencecaraibe.fr:8050/stream.mp3
+#EXTINF:-1 ,TropiqueFM
+https://listen.radioking.com/radio/8916/stream/64357
+#EXTINF:-1 ,KISSFM L'esprit du Sud
+https://kissfm.ice.infomaniak.ch/kissfm-128.mp3
