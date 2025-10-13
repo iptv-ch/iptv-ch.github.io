@@ -93,7 +93,9 @@ https://stream.srg-ssr.ch/srgssr/srf4news/aac/96
 https://stream.srg-ssr.ch/srgssr/srfmw/aac/96
 #EXTINF:-1 ,SRF Virus
 https://stream.srg-ssr.ch/srgssr/srfvirus/aac/96
-#EXTINF:-1 ,Swiss Classic
+#EXTINF:-1 ,Swiss Classic de
+https://stream.srg-ssr.ch/srgssr/rsc/aac/96
+#EXTINF:-1 ,Swiss Classique fr
 https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
 #EXTINF:-1 ,Swiss Jazz
 https://stream.srg-ssr.ch/srgssr/rsj/aac/96
