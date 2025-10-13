@@ -112,7 +112,7 @@ https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
 #EXTINF:-1 ,Sunradio
 https://stream.sunradio.ch/live
 #EXTINF:-1 ,toxic.fm
-http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
+https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
 #EXTINF:-1 ,OpenBroadcast
 https://stream-abr.openbroadcast.ch/hls/manifest.m3u8
 #EXTINF:-1 ,Schweiz Podcast
@@ -209,10 +209,10 @@ https://play.radioking.io/royale-radio/161119
 https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3
 #EXTINF:-1 ,Radio Maria Suisse Romande
 https://dreamsiteradiocp4.com/proxy/rmrsuisse2?mp=/stream
-#EXTINF:-1 ,albradio ON AIR
-https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 ,Radio Positive CH
 https://nl.digitalrm.pt:8106/stream
+#EXTINF:-1 ,albradio ON AIR
+https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 ,Sout Al Khaleej
 https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 #EXTINF:-1 ,radiobus.fm
