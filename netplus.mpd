@@ -386,3 +386,5 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="",ADN Animation Digital Network
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png",franceinfo:
+https://youtu.be/Z-Nwo-ypKtM
