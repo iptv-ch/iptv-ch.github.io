@@ -405,3 +405,7 @@ https://youtu.be/CQ3KsEbsYHs
 https://youtu.be/_6dRRfnYJws
 #EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN français
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="figarotv.com" tvg-logo="https://picserve.netplus.ch/channels/figarotv.png",Figaro TV HD
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="canal32.ch" tvg-logo="https://picserve.netplus.ch/channels/canal32.png",Canal32 HD 1080p
+https://event.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
