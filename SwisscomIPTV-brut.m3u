@@ -1735,6 +1735,8 @@ rtp://239.186.70.232:10000
 rtp://239.186.70.233:10000
 #EXTINF:-1,First Channel HD
 rtp://239.186.70.244:10000
+#EXTINF:-1,itv QUiZ HD
+rtp://239.186.70.245:10000
 #EXTINF:-1,Dubai TV HD
 rtp://239.186.70.246:10000
 #EXTINF:-1,Premium Shopping CH HD
@@ -1769,6 +1771,8 @@ rtp://239.186.74.7:10000
 rtp://239.186.74.8:10000
 #EXTINF:-1,1+1 int. (ukr)
 rtp://239.186.74.9:10000
+#EXTINF:-1,itv QUiZ
+rtp://239.186.74.14:10000
 #EXTINF:-1,Melodie TV
 rtp://239.186.74.15:10000
 #EXTINF:-1,Geo Television (ger)
