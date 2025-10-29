@@ -27,7 +27,7 @@ rtp://239.186.84.16:10000
 rtp://239.186.70.189:10000
 #EXTINF:-1 ,itv4 HD
 rtp://239.186.70.150:10000
-#EXTINF:-1 ,itv Quiz (replace itvBe)
+#EXTINF:-1 ,itv QUiZ
 rtp://239.186.70.245:10000
 #EXTINF:-1 ,food network E
 rtp://239.186.66.58:10000
