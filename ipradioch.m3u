@@ -143,7 +143,7 @@ https://mp3.radiox.ch/mobile.aac
 https://mp3.radio.ch/radiozuerisee128k
 #EXTINF:-1 ,radio1
 https://stream.radio1.ch/64k
-#EXTINF:-1 ,Radio 2Go
+#EXTINF:-1 ,Radio2Go.fm
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1 ,3FACH
 https://stream01.3fach.ch/live
@@ -202,7 +202,7 @@ https://radiotop.ice.infomaniak.ch/radiotop48.aac
 #EXTINF:-1 ,Virgin Radio CH de
 https://stream.streambase.ch/vrock/aac-64
 #EXTINF:-1 ,Virage Radio La Rock Station
-https://virageradio.ice.infomaniak.ch/virageradiopremiumweb-320.mp3?aw_0_1st.playerId=virageradio_web
+https://virageradio.ice.infomaniak.ch/virageradiopremiumweb-320.mp3
 #EXTINF:-1 ,Back2Noize
 https://securestreams4.autopo.st:1558/Back2Noize
 #EXTINF:-1 ,RedLine Radio
@@ -219,3 +219,21 @@ https://ec6.yesstreaming.net:1800/stream
 https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 #EXTINF:-1 ,radiobus.fm
 https://radiobus.ice.infomaniak.ch/radiobox-live-128.aac
+#EXTINF:-1 ,Thaalam Radio
+https://thaalam.out.airtime.pro/thaalam_b
+#EXTINF:-1 ,105 dj radio
+https://my105.stream37.radiohost.de/my105-djradio_mp3-192
+#EXTINF:-1 ,Agaune Radio
+https://play.radioking.io/agauneradio
+#EXTINF:-1 ,radio du bord de l'eau
+https://play.radioking.io/radio-du-bord-de-l-eau/223426
+#EXTINF:-1 ,Radio Crans-Montana CMRadio
+https://listen.radioking.com/radio/605899/stream/669205
+#EXTINF:-1 ,GDS.FM
+https://gdsfm.out.airtime.pro/gdsfm_a
+#EXTINF:-1 ,Radio Luzern
+https://edge17.streamonkey.net/radioluzern-live/stream/mp3
+#EXTINF:-1 ,radiologisch.ch
+http://82.220.3.107:8000/stream/2/
+#EXTINF:-1 ,Radio One Dance onedance.fm
+https://ice04.fluidstream.net/rn1_2.aac
