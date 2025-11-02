@@ -101,7 +101,7 @@ https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 #EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png",mezzo HD 720p
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:-1 tvg-id="rhonetv.ch" tvg-logo="https://picserve.netplus.ch/channels/rhonetv.png",rhone tv HD
-https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/rhonetv.m3u
+https://rhonetv.vedge.infomaniak.com/livecast/rhonetv/manifest.m3u8
 #EXTINF:-1 tvg-id="carac1.ch" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png",carac1 FHD
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd
