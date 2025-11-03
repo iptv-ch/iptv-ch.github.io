@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Radio Net+
 https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
 #EXTINF:-1 ,Radio Chablais
-https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
+https://radiochablais.ice.infomaniak.ch/radiochablais-high.aac
 #EXTINF:-1 ,RadioFr.Fesh
 https://radiofresh.ice.infomaniak.ch/radiofresh.aac
 #EXTINF:-1 ,RadioFr. Fribourg
@@ -16,49 +16,49 @@ https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
 #EXTINF:-1 ,MaXXima
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 ,SPOON radio
-https://spoonradio.ice.infomaniak.ch/spoonradio-high.aac
+https://spoonradio.ice.infomaniak.ch/spoonradio-hd.aac
 #EXTINF:-1 ,SPOON CLASSICS
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
 #EXTINF:-1 ,SPOON BALLADS
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 #EXTINF:-1 ,Yes FM
-https://yesfm.ice.infomaniak.ch/yesfm-high.mp3
+https://yesfm.ice.infomaniak.ch/yesfm-high.aac
 #EXTINF:-1 ,Kiss Collector
-https://dr2101.ice.infomaniak.ch/dr2101.mp3
+https://dr2101.ice.infomaniak.ch/dr2101.aac
 #EXTINF:-1 ,Le ROCK ROCKSTAR
-https://dr2102.ice.infomaniak.ch/dr2102.mp3
+https://dr2102.ice.infomaniak.ch/dr2102.aac
 #EXTINF:-1 ,Le MIX URBN
-https://dr2103.ice.infomaniak.ch/dr2103.mp3
+https://dr2103.ice.infomaniak.ch/dr2103.aac
 #EXTINF:-1 ,LUX Radio
 https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
 #EXTINF:-1 ,GRRIF
 https://grrif.ice.infomaniak.ch/grrif-high.mp3
 #EXTINF:-1 ,LAC
-https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
+https://radiolac.ice.infomaniak.ch/radiolac-high.aac
 #EXTINF:-1 ,LFM
 https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac
 #EXTINF:-1 ,magic radio
 https://magicradio.ice.infomaniak.ch/magicradio-high.mp3
 #EXTINF:-1 ,ONE FM
-https://onefm.ice.infomaniak.ch/onefm-high.mp3
+https://onefm.ice.infomaniak.ch/onefm-high.aac
 #EXTINF:-1 ,RHONE FM+
-https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
+https://rhonefm.ice.infomaniak.ch/rhonefm-high.aac
 #EXTINF:-1 ,RADIO R
-https://radior.ice.infomaniak.ch/radior-128.mp3
+https://radior.ice.infomaniak.ch/radior-96.aac
 #EXTINF:-1 ,RFJ
-https://rfj.ice.infomaniak.ch/rfj-high.mp3
+https://rfj.ice.infomaniak.ch/rfj-high.aac
 #EXTINF:-1 ,RJB
-https://rjb.ice.infomaniak.ch/rjb-high.mp3
+https://rjb.ice.infomaniak.ch/rjb-high.aac
 #EXTINF:-1 ,RTN
-https://rtn.ice.infomaniak.ch/rtn-high.mp3
+https://rtn.ice.infomaniak.ch/rtn-high.aac
 #EXTINF:-1 ,Rouge
-https://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+https://rougefm.ice.infomaniak.ch/rougefm-high.aac
 #EXTINF:-1 ,Vibration 108
 https://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 #EXTINF:-1 ,Vertical
-https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
+https://verticalradio.ice.infomaniak.ch/verticalradio-128.aac
 #EXTINF:-1 ,Latina CH
-https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+https://start-latina.ice.infomaniak.ch/start-latina-high.aac
 #EXTINF:-1 ,TA RADIO
 https://stream.taradio.ch/dab
 #EXTINF:-1 ,Vostok
@@ -106,7 +106,7 @@ https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 ,Country Radio Switzerland
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 #EXTINF:-1 ,Radio Tell
-https://radiotell.dmd2streaming.com/radiotell.mp3
+https://radiotell.dmd2streaming.com/radiotell.aac
 #EXTINF:-1 ,GOAT Greatest Hits
 https://20min.dmd2streaming.com/20minuten_swrp_128.mp3
 #EXTINF:-1 ,Sunradio
@@ -128,7 +128,7 @@ https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
 #EXTINF:-1 ,WRS
 https://uksouth.streaming.broadcast.radio:10290/wrs
 #EXTINF:-1 ,Radio JAMES FM
-https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
+https://jamesfm.ice.infomaniak.ch/jamesfm.aac
 #EXTINF:-1 ,FLASHBACK FM
 https://stream.streambase.ch/ffm/mp3-128
 #EXTINF:-1 ,Sunshine Radio
@@ -136,7 +136,7 @@ https://stream.streambase.ch/rsunshine/mp3-128
 #EXTINF:-1 ,Radio Melody CH de
 https://stream.streambase.ch/rm/mp3-128
 #EXTINF:-1 ,Ellipticum
-https://live.ellipticum.radio/elli_it.mp3
+https://live.ellipticum.radio/elli_it.aac
 #EXTINF:-1 ,Radio X Basel
 https://mp3.radiox.ch/mobile.aac
 #EXTINF:-1 ,Radio Zürisee
@@ -198,7 +198,7 @@ https://streaming.rro.ch/rro_swissmelody/aac_96
 #EXTINF:-1 ,Spitalradio LuZ
 https://s10.streamingcloud.online:13552/radioluz320.mp3
 #EXTINF:-1 ,Radio Top
-https://radiotop.ice.infomaniak.ch/radiotop48.aac
+https://radiotop.ice.infomaniak.ch/radiotop96.aac
 #EXTINF:-1 ,Virgin Radio CH de
 https://stream.streambase.ch/vrock/aac-64
 #EXTINF:-1 ,Virage Radio La Rock Station
