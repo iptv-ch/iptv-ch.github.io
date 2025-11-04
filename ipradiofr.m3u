@@ -1,7 +1,7 @@
 #EXTM3U
 #REM ipradiofr ip radio France
 #EXTINF:-1 ,ADO DAB+
-https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
+https://start-adofm.ice.infomaniak.ch/start-adofm-high.aac
 #EXTINF:-1 ,airzen
 https://stream.rcs.revma.com/pr5cwsxhr18uv
 #EXTINF:-1 ,BFM Business
