@@ -68,14 +68,14 @@ This will only work on your home network if Swisscom is your broadband provider 
 No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
 
-## ipradioch.m3u Swiss and ipradiofr.m3u France stream ip radio should be listen from any swiss internet access provider.
+## ipradioch.m3u Swiss ##
 
 **https://iptv-ch.github.io/ipradioch.m3u**
 
+ipradiofr.m3u France stream ip radio
 **https://iptv-ch.github.io/ipradiofr.m3u**
 
-(created as is, not tested on all case, only tested on windows 11 and vlc media player on wired fiber network isp wingo.ch, host swisscom network)
-Let me know if there any issue...
+(created as is, not tested on all case, only tested on windows 11 and vlc media player on wired fiber network isp wingo.ch, host swisscom network and cellular network wingo mobile)
 
 ## Init7 TV7
 
