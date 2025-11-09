@@ -237,3 +237,7 @@ https://edge17.streamonkey.net/radioluzern-live/stream/mp3
 http://82.220.3.107:8000/stream/2/
 #EXTINF:-1 ,Radio One Dance onedance.fm
 https://ice04.fluidstream.net/rn1_2.aac
+#EXTINF:-1 ,U Radio - Your Radio
+https://uradio-aac.ice.infomaniak.ch/uradio.aac
+#EXTINF:-1 ,Viva FM - La radio des hits en Suisse romande
+https://vivafm.ice.infomaniak.ch/vivafm-96.mp3
