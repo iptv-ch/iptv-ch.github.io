@@ -409,3 +409,5 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="canal32.ch" tvg-logo="https://picserve.netplus.ch/channels/canal32.png",Canal32 HD 1080p
 https://event.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
+#EXTINF:-1 tvg-id="agalega.gal" tvg-logo="",TV Galicia
+https://youtu.be/dBiXJlm6YWc
