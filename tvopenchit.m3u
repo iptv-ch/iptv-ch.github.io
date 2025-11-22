@@ -31,7 +31,7 @@ rtp://239.186.84.46:10000
 rtp://239.186.64.153:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.epg.best/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
 rtp://239.186.70.7:10000
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D IT" tvg-logo="http://static.epg.best/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d HD
+#EXTINF:-1 tvg-id="La7cinema.it" tvg-name="La7cinema IT" tvg-logo="http://static.epg.best/it/La7cinema.it.png" tvg-chno="368" channel-id="368",LA7 CINEMA HD
 rtp://239.186.70.6:10000
 #EXTINF:-1 tvg-id="7GTelecity.it" tvg-name="7G Telecity IT" tvg-logo="http://static.epg.best/it/7GTelecity.it.png" tvg-chno="346" channel-id="346",7G Telecity HD
 rtp://239.186.84.109:10000
