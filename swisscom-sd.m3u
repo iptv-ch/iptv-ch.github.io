@@ -380,7 +380,7 @@ rtp://239.186.64.153:10000
 rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="https://static.epg.best/it/La7.it.png" tvg-chno="366" channel-id="366",LA7
 rtp://239.186.64.49:10000
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D IT" tvg-logo="https://static.epg.best/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d
+#EXTINF:-1 tvg-id="La7cinama.it" tvg-name="La7cinema IT" tvg-logo="https://static.epg.best/it/La7cinema.it.png" tvg-chno="368" channel-id="368",LA7 CINEMA
 rtp://239.186.64.164:10000
 #EXTINF:-1 tvg-id="20mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="https://static.epg.best/it/20mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET
 rtp://239.186.74.67:10000
