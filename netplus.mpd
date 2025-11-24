@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png",RTS 1 HD 720p
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png",RTS 2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
@@ -105,7 +105,7 @@ https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 #EXTINF:-1 tvg-id="rhonetv.ch" tvg-logo="https://picserve.netplus.ch/channels/rhonetv.png",rhone tv HD
 https://rhonetv.vedge.infomaniak.com/livecast/rhonetv/manifest.m3u8
-#EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png",mezzo live HD 720p
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png",mezzo HD 720p
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:-1 tvg-id="carac2.ch" tvg-logo="https://picserve.netplus.ch/channels/onetv.png",carac2 FHD (ex onetv  HD)
 https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/manifest.m3u8
@@ -138,9 +138,9 @@ https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-dash/valtv.mpd
 #EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png",Canal J HD
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-dash/canalj.mpd
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="",SRF1 HD 720p
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="",SRF1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="",SRF2 HD 720p
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="",SRF2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:-1 tvg-id="SRFinfo.ch" tvg-logo="",SRF info HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
@@ -184,9 +184,9 @@ https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-dash/telebielingu
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-dash/tv24.mpd
 #EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="",blue zoom D HD 720p
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="",RSI La 1 HD 720p
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="",RSI La 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="",RSI La 2 HD 720p
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="",RSI La 2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="",Rai 1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
