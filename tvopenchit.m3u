@@ -93,8 +93,8 @@ rtp://239.186.70.2:10000
 rtp://239.186.84.20:10000
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5TV IT" tvg-logo="http://static.epg.best/it/RTL1025TV.it.png" tvg-chno="141" channel-id="141",RTL 102.5 TV HD
 rtp://239.186.70.181:10000
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="http://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
-rtp://239.186.66.177:10000
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="http://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24 HD
+rtp://239.186.70.109:10000
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport italia Plus HD
 rtp://239.186.70.14:10000
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="SportitaliaSolocalcio IT" tvg-logo="http://static.epg.best/it/SportitaliaSolocalcio.it.png" tvg-chno="" channel-id="",Sport italia SOLOCALCIO HD
@@ -155,7 +155,10 @@ rtp://239.186.66.107:10000
 rtp://239.186.70.79:10000
 #EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="http://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
-rtp://239.186.64.76:10000
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="http://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo HD
+rtp://239.186.70.172:10000
 #EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="http://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda HD
 rtp://239.186.84.180:10000
+#EXTINF:-1, Radio24 tv Il Sole 24 ORE HD
+rtp://239.186.70.33:10000
+
