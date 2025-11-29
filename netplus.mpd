@@ -214,23 +214,23 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 tvg-id="la7cinema.it" tvg-logo="",LA7 CINEMA HD 720p
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="",BBC ONE HD ?
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png",BBC ONE HD ?
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
-#EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="",BBC TWO HD 
+#EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="",BBC CBBC HD
+#EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png",BBC CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="",BBC CBeebies HD 
+#EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png",BBC CBeebies HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="",BBC NEWS HD
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
-#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="",itv1 HD ?
+#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://picserve.netplus.ch/channels/itv1.png",itv1 HD ?
 https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
-#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="",itv2 HD
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://picserve.netplus.ch/channels/itv2.png",itv2 HD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 tvg-id="itv3.uk" tvg-logo="",itv3 HD
+#EXTINF:-1 tvg-id="itv3.uk" tvg-logo="https://picserve.netplus.ch/channels/itv3.png",itv3 HD
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:-1 tvg-id="itv4.uk" tvg-logo="",itv4 HD
+#EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://picserve.netplus.ch/channels/itv4.png",itv4 HD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-id="skynews.uk" tvg-logo="",sky news
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
@@ -309,10 +309,10 @@ https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-id="zdfinfo.de" tvg-logo="",zdf info HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:-1 tvg-id="sat.1gold.de" tvg-logo="",SAT.1 GOLD HD ?
+#EXTINF:-1 tvg-id="sat.1gold.de" tvg-logo="",SAT.1 GOLD HD
 https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-dash/sat1gold.mpd
-#EXTINF:-1 tvg-id="welt.de" tvg-logo="",WeLT ?
-https://viamotionhsi.netplus.ch/live/eds/welt/browser-dash/welt.mpd
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://picserve.netplus.ch/channels/n24.png",WeLT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="",ntv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 #EXTINF:-1 tvg-id="phoenix.de" tvg-logo="",phoenix HD
@@ -339,9 +339,9 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mp
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
 #EXTINF:-1 tvg-id="tvppolonia.pl" tvg-logo="",TVP POLONIA
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
-#EXTINF:-1 tvg-id="vox.de" tvg-logo="",VOX
+#EXTINF:-1 tvg-id="vox.de" tvg-logo="https://picserve.netplus.ch/channels/vox.png",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:-1 tvg-id="atv.de" tvg-logo="",atv
+#EXTINF:-1 tvg-id="atv.at" tvg-logo="",atv
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 tvg-id="duna.hu" tvg-logo="",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
