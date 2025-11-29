@@ -1633,6 +1633,10 @@ rtp://239.186.70.170:10000
 rtp://239.186.70.171:10000
 #EXTINF:-1,cielo HD
 rtp://239.186.70.172:10000
+#EXTINF:-1,Canal B D HD (start 1.1.2026)
+rtp://239.186.70.173:10000
+#EXTINF:-1,Canal B F HD (start 1.1.2026)
+rtp://239.186.70.174:10000
 #EXTINF:-1,World Economic Forum TV 2 HD
 rtp://239.186.70.175:10000
 #EXTINF:-1,World Economic Forum TV 1 HD
