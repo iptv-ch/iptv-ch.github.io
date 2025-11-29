@@ -233,7 +233,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://picserve.netplus.ch/channels/itv4.png",itv4 HD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-id="skynews.uk" tvg-logo="",sky news
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="cnn.uk" tvg-logo="",cnn europe HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:-1 tvg-id="aljazeera.com" tvg-logo="",Al Jazeera HD
