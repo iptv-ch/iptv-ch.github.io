@@ -128,7 +128,8 @@ https://edge17.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="nrtv.ch" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png",nrtv HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-dash/nrtv.mpd
 #EXTINF:-1 tvg-id="maxtv.ch" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png",maxtv / DieuTV
-https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-dash/maxtv.mpd
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-dash/maxtv.mpd
+https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png",tvm3 HD
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
@@ -224,8 +225,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
-#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://picserve.netplus.ch/channels/itv1.png",itv1 HD ?
-https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
+#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://picserve.netplus.ch/channels/itv.png",itv1 HD ?
+https://viamotionhsi.netplus.ch/live/eds/itv/browser-dash/itv.mpd
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://picserve.netplus.ch/channels/itv2.png",itv2 HD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1 tvg-id="itv3.uk" tvg-logo="https://picserve.netplus.ch/channels/itv3.png",itv3 HD
@@ -233,6 +234,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://picserve.netplus.ch/channels/itv4.png",itv4 HD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-id="skynews.uk" tvg-logo="",sky news
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="cnn.uk" tvg-logo="",cnn europe HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
@@ -246,7 +248,7 @@ https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-dash/quest.mpd
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="",FASHIONTV HD
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#rem https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-dash/fashiontv.mpd
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-dash/fashiontv.mpd
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="",channel4 HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-id="channel5.uk" tvg-logo="",channel5 HD
@@ -419,3 +421,5 @@ https://youtu.be/dBiXJlm6YWc
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="swisssport.tv" tvg-logo="https://picserve.netplus.ch/channels/swissport.png",swiss sport tv HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B (start 1.1.2026)
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalb.mpd
