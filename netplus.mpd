@@ -423,3 +423,17 @@ https://streaming.meteonews.net/hls/stream.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B (start 1.1.2026)
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalb.mpd
+#EXTINF:-1 tvg-id="teletop.ch" tvg-logo="https://picserve.netplus.ch/channels/teletop.png",TeleTop
+https://teletop.vedge.infomaniak.com/livecast/teletop/manifest.m3u8
+#EXTINF:-1 tvg-id="telebasel.ch" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png",TeleBasel
+https://telebasel.vedge.infomaniak.com/livecast/telebasel/manifest.m3u8
+#EXTINF:-1 tvg-id="telezueri.ch" tvg-logo="https://picserve.netplus.ch/channels/telezueri.png",TeleZüri
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/VhYG1bBAxmL8o2oDQj_gPg/index-s32.m3u8
+#EXTINF:-1 tvg-id="telem1.ch" tvg-logo="https://picserve.netplus.ch/channels/telem1.png",Tele M1
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/kfXPNZDgr_dXTsaaChhTBQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="tele1.ch" tvg-logo="https://picserve.netplus.ch/channels/tele1.png",Tele1
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/wV_SSlEQskAVSpwtofzL6A/index-s32.m3u8
+#EXTINF:-1 tvg-id="telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
+#EXTINF:-1 tvg-id="teletecino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png",TeleTecino
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
