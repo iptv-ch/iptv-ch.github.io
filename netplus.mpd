@@ -419,7 +419,7 @@ https://event.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
 https://youtu.be/dBiXJlm6YWc
 #EXTINF:-1 tvg-id="wetter.tv" tvg-logo="https://picserve.netplus.ch/channels/wetter.png",wetter.tv HD
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="swisssport.tv" tvg-logo="https://picserve.netplus.ch/channels/swissport.png",swiss sport tv HD
+#EXTINF:-1 tvg-id="swiss-sport.tv/" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png",swiss sport tv HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B (start 1.1.2026)
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalb.mpd
@@ -437,3 +437,5 @@ https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/ma
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
 #EXTINF:-1 tvg-id="teletecino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png",TeleTecino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-id="bfmtv.com" tvg-logo="https://picserve.netplus.ch/channels/alsace20.png",BFMTV Alsace
+https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8
