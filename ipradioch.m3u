@@ -25,9 +25,9 @@ https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 https://yesfm.ice.infomaniak.ch/yesfm-high.aac
 #EXTINF:-1 ,Kiss Collector
 https://dr2101.ice.infomaniak.ch/dr2101.aac
-#EXTINF:-1 ,Le ROCK ROCKSTAR
+#EXTINF:-1 ,ROCKSTAR
 https://dr2102.ice.infomaniak.ch/dr2102.aac
-#EXTINF:-1 ,Le MIX URBN
+#EXTINF:-1 ,URBN
 https://dr2103.ice.infomaniak.ch/dr2103.aac
 #EXTINF:-1 ,LUX Radio
 https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
@@ -184,7 +184,7 @@ https://streaming.radiomunot.ch/munot/mp3_128
 #EXTINF:-1 ,neo1
 https://neo1.ice.infomaniak.ch/neo1.mp3
 #EXTINF:-1 ,Pilatus
-https://stream.streambase.ch/radiopilatus/aac-64
+https://stream.streambase.ch/radiopilatus/mp3
 #EXTINF:-1 ,Power Up
 https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3
 #EXTINF:-1 ,Radio3i
@@ -245,3 +245,7 @@ https://vivafm.ice.infomaniak.ch/vivafm-96.mp3
 https://stream.radiojar.com/h6eddm4h9quvv
 #EXTINF:-1 ,clubbing radio
 https://radioclubbing.stream.laut.fm/radioclubbing
+#EXTINF:-1 ,Life Channel radio
+https://stream1.lifechannel.ch/LIFECHANNEL
+#EXTINF:-1 ,Break Radio
+https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
