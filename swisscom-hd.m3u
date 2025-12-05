@@ -26,7 +26,7 @@ rtp://239.186.70.38:10000
 rtp://239.186.70.37:10000
 #EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="TFX" tvg-logo="https://static.epg.best/fr/TFX.fr.png" tvg-chno="13" channel-id="13",TFX CH HD
 rtp://239.186.70.34:10000
-#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP Public Sénat HD
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="LCP Public Sénat" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" tvg-chno="15" channel-id="15",LCP8 Public Sénat HD
 rtp://239.186.84.35:10000
 #EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="franceinfo:" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="29" channel-id="29",franceinfo HD
 rtp://239.186.70.121:10000
@@ -114,6 +114,10 @@ rtp://239.186.68.135:10000
 rtp://239.186.68.132:10000
 #EXTINF:-1,TV Monaco HD (fra)
 rtp://239.186.68.167:10000
+#EXTINF:-1,T18 HD
+rtp://239.186.70.24:10000
+#EXTINF:-1,canalb F HD démarrage 1.1.2026
+rtp://239.186.70.174:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC ONE HD
 rtp://239.186.68.43:10000
@@ -152,7 +156,7 @@ rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" tvg-chno="111" channel-id="111",euronews E HD
 rtp://239.186.70.105:10000
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" tvg-chno="112" channel-id="112",Fashion TV HD
-rtp://239.186.70.200:10000
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="113" channel-id="113",Film4
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" tvg-chno="114" channel-id="114",Channel5 CH HD
@@ -472,6 +476,12 @@ rtp://239.186.68.93:10000
 rtp://239.186.68.53:10000
 #EXTINF:-1,Hohenrausch HD
 rtp://239.186.70.140:10000
+#EXTINF:-1,canalb D HD 
+rtp://239.186.70.173:10000
+#EXTINF:-1,World Economic Forum TV2 HD
+rtp://239.186.70.175:10000
+#EXTINF:-1,World Economic Forum TV1 HD
+rtp://239.186.70.176:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
 rtp://239.186.76.24:10000
@@ -487,8 +497,8 @@ rtp://239.186.66.107:10000
 rtp://239.186.70.79:10000
 #EXTINF:-1 tvg-id="canaleitalia.it" tvg-name="Canale Italia IT" tvg-logo="https://static.epg.best/it/canaleitalia.it.png" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="https://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
-rtp://239.186.64.76:10000
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="https://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo HD
+rtp://239.186.70.172:10000
 #EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="https://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda HD
 rtp://239.186.84.180:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="https://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Warner Bros. Discovery Real Time HD
@@ -577,8 +587,8 @@ rtp://239.186.70.2:10000
 rtp://239.186.84.20:10000
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5TV IT" tvg-logo="https://static.epg.best/it/RTL1025TV.it.png" tvg-chno="141" channel-id="141",RTL 102.5 TV HD
 rtp://239.186.70.181:10000
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="https://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24
-rtp://239.186.66.177:10000
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 IT" tvg-logo="https://static.epg.best/it/SkyTG24.it.png" tvg-chno="406" channel-id="406",sky tg24 HD
+rtp://239.186.70.109:10000
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia IT" tvg-logo="https://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport italia plus HD
 rtp://239.186.70.14:10000
 #EXTINF:-1 tvg-id="SoloCalcio.it" tvg-name="SoloCalcio IT" tvg-logo="https://static.epg.best/it/SoloCalcio.it.png" tvg-chno="407" channel-id="407",Si SOLOCALCIO HD
@@ -629,6 +639,8 @@ rtp://239.186.84.152:10000
 rtp://239.186.84.156:10000
 #EXTINF:-1 ,R55 Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
+#EXTINF:-1, Radio24 tv Il Sole 24 ORE HD
+rtp://239.186.70.33:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
