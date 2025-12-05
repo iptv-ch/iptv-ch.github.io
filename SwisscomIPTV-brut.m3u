@@ -517,7 +517,7 @@ rtp://239.186.66.53:10000
 rtp://239.186.66.54:10000
 #EXTINF:-1,CINE+ classic (fra)
 rtp://239.186.66.55:10000
-#EXTINF:-1,CINE festival (fra)
+#EXTINF:-1,CINE+ festival (fra)
 rtp://239.186.66.56:10000
 #EXTINF:-1,Planete+
 rtp://239.186.66.57:10000
@@ -1279,7 +1279,7 @@ rtp://239.186.68.235:10000
 rtp://239.186.68.236:10000
 #EXTINF:-1,Animaux HD (AAC fra)
 rtp://239.186.68.237:10000
-#EXTINF:-1,Cine+ Club HD (fra)
+#EXTINF:-1,CINE+ festival HD (fra)
 rtp://239.186.68.238:10000
 #EXTINF:-1,MySports 4 F HD (fra)
 rtp://239.186.68.239:10000
@@ -1633,9 +1633,9 @@ rtp://239.186.70.170:10000
 rtp://239.186.70.171:10000
 #EXTINF:-1,cielo HD
 rtp://239.186.70.172:10000
-#EXTINF:-1,Canal B D HD (start 1.1.2026)
+#EXTINF:-1,canalb D HD (demnächst start 1.1.2026)
 rtp://239.186.70.173:10000
-#EXTINF:-1,Canal B F HD (start 1.1.2026)
+#EXTINF:-1,canalb F HD (prochainement démarrage 1.1.2026)
 rtp://239.186.70.174:10000
 #EXTINF:-1,World Economic Forum TV 2 HD
 rtp://239.186.70.175:10000
@@ -1663,7 +1663,7 @@ rtp://239.186.70.186:10000
 rtp://239.186.70.187:10000
 #EXTINF:-1,Rete 4 HD (AC3 ita)
 rtp://239.186.70.188:10000
-#EXTINF:-1,itv3 HD (AC3 eng)
+#EXTINF:-1,3 HD (AC3 eng)
 rtp://239.186.70.189:10000
 #EXTINF:-1,SR Fernsehen HD (AC3 deu)
 rtp://239.186.70.190:10000
@@ -1787,8 +1787,6 @@ rtp://239.186.74.7:10000
 rtp://239.186.74.8:10000
 #EXTINF:-1,1+1 int. (ukr)
 rtp://239.186.74.9:10000
-#EXTINF:-1,itv QUiZ
-rtp://239.186.74.14:10000
 #EXTINF:-1,Melodie TV
 rtp://239.186.74.15:10000
 #EXTINF:-1,Geo Television (ger)
