@@ -16,7 +16,7 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png",M6 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png",Canal9 FHD
-https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
+https://livehd.vedge.infomaniak.com/livecast/livehd/manifest.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canal9/browser-dash/canal9.mpd
 #EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png",Léman bleu FHD
 https://livevideo.infomaniak.com/streaming/livecast/naxoo/manifest.m3u8
