@@ -166,6 +166,8 @@ rtp://239.186.84.173:10000
 rtp://239.186.70.126:10000
 #EXTINF:-1,Hohenrausch HD
 rtp://239.186.70.140:10000
+#EXTINF:-1,canalb D HD
+rtp://239.186.70.173:10000
 #EXTREM:kinder
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo plus DE" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
@@ -199,6 +201,10 @@ rtp://239.186.66.232:10000
 rtp://239.186.84.174:10000
 #EXTINF:-1 ,DOKUSAT HD
 rtp://239.186.70.42:10000
+#EXTINF:-1,World Economic Forum TV2 HD
+rtp://239.186.70.175:10000
+#EXTINF:-1,World Economic Forum TV1 HD
+rtp://239.186.70.176:10000
 #EXTREM:religion
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV DE" tvg-logo="https://static.epg.best/de/BibelTV.de.png" tvg-chno="192" channel-id="192",bibel.TV HD
 rtp://239.186.68.148:10000
@@ -260,3 +266,4 @@ rtp://239.186.68.207:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1,TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
+
