@@ -142,8 +142,6 @@ rtp://239.186.64.170:10000
 rtp://239.186.64.180:10000
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
-#EXTINF:-1 tvg-id="ITVQuiz.uk" tvg-name="ITVQuiz UK" tvg-logo="https://static.epg.best/gb/ITVQuiz.uk.png" tvg-chno="164" channel-id="164",itv QUiZ
-rtp://239.186.74.14:10000
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="https://static.epg.best/gb/SkyNews.uk.png" tvg-chno="170" channel-id="170",sky news international
