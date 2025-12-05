@@ -116,6 +116,8 @@ rtp://239.186.68.208:10000
 rtp://239.186.84.172:10000
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-name="tvm3 CH" tvg-logo="http://static.epg.best/ch/tvm3.ch.png" tvg-chno="" channel-id="",tvm3 HD
 rtp://239.186.70.21:10000
+#EXTINF:-1 tvg-id="canalb.ch" tvg-name="canalb CH" tvg-logo="http://static.epg.best/ch/canalb.ch.png" tvg-chno="" channel-id="",canalb F HD
+rtp://239.186.70.174:10000
 #EXTREM:Sports
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue ZoomF CH" tvg-logo="http://static.epg.best/ch/BlueZoomF.ch.ch.png" tvg-chno="89" channel-id="89",blue zoom F HD
 rtp://239.186.68.244:10000
