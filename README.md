@@ -68,15 +68,15 @@ This will only work on your home network if Swisscom is your broadband provider 
 No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
 ****
-**TV over the top tv ott**
+## TV over the top tv ott ##
 
-https://iptv-ch.github.io/tvott.m3u
+**https://iptv-ch.github.io/tvott.m3u**
 
 ## ipradioch.m3u Swiss ##
 
 **https://iptv-ch.github.io/ipradioch.m3u**
 
-ipradiofr.m3u France stream ip radio
+**ipradiofr.m3u France stream ip radio**
 
 **https://iptv-ch.github.io/ipradiofr.m3u**
 
