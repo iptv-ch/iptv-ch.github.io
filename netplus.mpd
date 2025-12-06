@@ -349,8 +349,6 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 tvg-id="duna.hu" tvg-logo="",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
-#EXTINF:-1 tvg-id="tunisie.tn" tvg-logo="",tunisie
-https://youtu.be/SRAZ8uIxtcE
 #EXTINF:-1 tvg-id="eurod.tr" tvg-logo="",EUROD
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:-1 tvg-id="dmsat.rs" tvg-logo="",DMSAT
@@ -377,18 +375,10 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:-1 tvg-id="ptccbet.rs" tvg-logo="",PTC CBET HD
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
-#EXTINF:-1 tvg-id="africa24tv.com" tvg-logo="",Africa24
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="",Africa24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="africanews.com" tvg-logo="",africanews.
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="",TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="",TV5MONDE Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="francais.rt.com" tvg-logo="",RT Russia Today en français
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="theexplorers.com" tvg-logo="",The Explorers
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d7b8d2d2-30c5-4362-8735-ac91f9e17134/458be94d-45ec-44e7-a92b-eca318c910c6/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Voyages+ FHD
@@ -405,53 +395,7 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="",ADN Animation Digital Network
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
-#EXTINF:-1 tvg-id="franceinfo.fr" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png",franceinfo:
-https://youtu.be/Z-Nwo-ypKtM
-#EXTINF:-1 tvg-id="de.euronews.com" tvg-logo="https://picserve.netplus.ch/channels/euronewsde.png",euronews de
-https://youtu.be/CQ3KsEbsYHs
-#EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN news english
-https://youtu.be/_6dRRfnYJws
-#EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN français
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="figarotv.com" tvg-logo="https://picserve.netplus.ch/channels/figarotv.png",Figaro TV HD
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-id="canal32.ch" tvg-logo="https://picserve.netplus.ch/channels/canal32.png",Canal32 HD 1080p
-https://event.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
-#EXTINF:-1 tvg-id="agalega.gal" tvg-logo="",TV Galicia
-https://youtu.be/dBiXJlm6YWc
-#EXTINF:-1 tvg-id="wetter.tv" tvg-logo="https://picserve.netplus.ch/channels/wetter.png",wetter.tv HD
-https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="swiss-sport.tv/" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png",swiss sport tv HD
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B (start 1.1.2026)
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalb.mpd
-#EXTINF:-1 tvg-id="teletop.ch" tvg-logo="https://picserve.netplus.ch/channels/teletop.png",TeleTop
-https://teletop.vedge.infomaniak.com/livecast/teletop/manifest.m3u8
-#EXTINF:-1 tvg-id="telebasel.ch" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png",TeleBasel
-https://telebasel.vedge.infomaniak.com/livecast/telebasel/manifest.m3u8
-#EXTINF:-1 tvg-id="telezueri.ch" tvg-logo="https://picserve.netplus.ch/channels/telezueri.png",TeleZüri
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/VhYG1bBAxmL8o2oDQj_gPg/index-s32.m3u8
-#EXTINF:-1 tvg-id="telem1.ch" tvg-logo="https://picserve.netplus.ch/channels/telem1.png",Tele M1
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/kfXPNZDgr_dXTsaaChhTBQ/index-s32.m3u8
-#EXTINF:-1 tvg-id="tele1.ch" tvg-logo="https://picserve.netplus.ch/channels/tele1.png",Tele1
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/wV_SSlEQskAVSpwtofzL6A/index-s32.m3u8
-#EXTINF:-1 tvg-id="telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
-#EXTINF:-1 tvg-id="teletecino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png",TeleTecino
-https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 tvg-id="bfmtv.com" tvg-logo="https://picserve.netplus.ch/channels/alsace20.png",BFMTV Alsace
-https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8
-#EXTINF:-1 tvg-id="myafroculture.com" tvg-logo="https://picserve.netplus.ch/channels.afroculturetv.png",Afro Culture HD
-https:///streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
-#EXTINF:-1 tvg-id="al24news.dz" tvg-logo="https://picserve.netplus.ch/channels/al24news.png",Al24news HD
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="www.alpe.tv" tvg-logo="https://picserve.netplus.ch/channels/alpe.png",alpe d'huez tv HD
-https://adhtv.vedge.infomaniak.com/livecast/adhtv/manifest.m3u8
-#EXTINF:-1 tvg-id="angerstele.fr" tvg-logo="https://picserve.netplus.ch/channels/angerstele.png",Angers Tele HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(6IYgsiZVZawqCX2n4m1xgaLC3JAQ7clspkmB6keMnk4uIfuBQEbcxoqY1D0v9pjbXWTdFRXwgfrsFm-pYyEuXAi3zk0lnekTUy6t6d_23KQXRoFssx99zns6FdJeA4tA)/dm/3/x8r7256/s/live-720.m3u8
-#EXTINF:-1 tvg-id="equidia.fr" tvg-logo="https://picserve.netplus.ch/channels/equidia.png",Equidia
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-id="www.plus.fifa.com" tvg-logo="https://picserve.netplus.ch/channels/fifaplus.png",FIFA+
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="www.haitinewstv.com" tvg-logo="https://picserve.netplus.ch/channels/haitinewstv.png",Haiti News
-https://haititivi.com/website/haitinews/tracks-v1/index.fmp4.m3u8
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B fr (start 1.1.2026)
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalbfr.mpd
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B de (start 1.1.2026)
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalbde.mpd
