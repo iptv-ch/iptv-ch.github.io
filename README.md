@@ -70,7 +70,7 @@ No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 ****
 ## TV over the top tv ott ##
 
-**https://iptv-ch.github.io/tvott.m3u**
+**https://iptv-ch.github.io/tvott.mpd**
 
 ## ipradioch.m3u Swiss ##
 
