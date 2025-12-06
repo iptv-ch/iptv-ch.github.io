@@ -67,8 +67,10 @@ This will only work on your home network if Swisscom is your broadband provider 
 --== Warning: This file list SD/HD/UHD channels by ip order stream free content access module ==--<br>
 No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
-**https://iptv-ch.github.io/tvott.m3u**
-TV over the top tv ott
+****
+**TV over the top tv ott**
+
+https://iptv-ch.github.io/tvott.m3u
 
 ## ipradioch.m3u Swiss ##
 
