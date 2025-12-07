@@ -448,8 +448,6 @@ https:///streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="www.alpe.tv" tvg-logo="https://picserve.netplus.ch/channels/alpe.png",alpe d'huez tv HD
 https://adhtv.vedge.infomaniak.com/livecast/adhtv/manifest.m3u8
-#EXTINF:-1 tvg-id="angerstele.fr" tvg-logo="https://picserve.netplus.ch/channels/angerstele.png",Angers Tele HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(6IYgsiZVZawqCX2n4m1xgaLC3JAQ7clspkmB6keMnk4uIfuBQEbcxoqY1D0v9pjbXWTdFRXwgfrsFm-pYyEuXAi3zk0lnekTUy6t6d_23KQXRoFssx99zns6FdJeA4tA)/dm/3/x8r7256/s/live-720.m3u8
 #EXTINF:-1 tvg-id="equidia.fr" tvg-logo="https://picserve.netplus.ch/channels/equidia.png",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="www.plus.fifa.com" tvg-logo="https://picserve.netplus.ch/channels/fifaplus.png",FIFA+
