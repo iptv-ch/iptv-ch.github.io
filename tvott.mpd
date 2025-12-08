@@ -22,10 +22,10 @@ https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="latele.ch" tvg-logo="https://picserve.netplus.ch/channels/latele.png",LA TELE FHD
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png",Canal Alpha JU HD 720p
+#EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png",Canal Alpha JU FHD
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/manifest.m3u8
-#EXTINF:-1 tvg-id="canalalphane.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png",Canal Alpha NE HD 720p
-https://canalalpha..infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
+#EXTINF:-1 tvg-id="canalalphane.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png",Canal Alpha NE FHD
+https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 #EXTINF:-1 tvg-id="tmc.fr" tvg-logo="https://picserve.netplus.ch/channels/tmc.png",TMC HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
 #EXTINF:-1 tvg-id="w9.fr" tvg-logo="https://picserve.netplus.ch/channels/w9.png",W9 HD 720p
@@ -392,8 +392,6 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="",ADN Animation Digital Network
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
-#EXTINF:-1 tvg-id="franceinfo.fr" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png",franceinfo:
-https://youtu.be/Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="de.euronews.com" tvg-logo="https://picserve.netplus.ch/channels/euronewsde.png",euronews de
 https://youtu.be/CQ3KsEbsYHs
 #EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN news english
