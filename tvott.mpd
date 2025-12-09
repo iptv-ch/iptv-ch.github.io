@@ -480,3 +480,17 @@ https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screami
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews_prime.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfm2.png",BFM2. HD
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8
+#EXTINF:-1 tvg-id="europe1.fr" tvg-logo="https://picserve.netplus.ch/channels/europe1.png",Europe1 HD
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(zgx0ajjD2p7fB2cBDFBuh5q9SxhmEmVViciBbgfdMfBDS7jbCFmaEsTs-4WBOHCVzw0n_oIT0aQJfTU8dtoi3D3DBBl5x7Brk0WTFPZgccY34vuilzyyq9tQ9rhJ0vEj)/cloud/3/xqjkfz/d/live-720@60.m3u8
+#EXTINF:-1 tvg-id="melody.tv" tvg-logo="https://picserve.netplus.ch/channels/melody.png",Melody HD
+https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+#EXTINF:-1 channel-id="GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-chno="4684" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-chno="4685" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 channel-id="GB35000017V" tvg-id="GB35000017V" tvg-chno="4682" tvg-name="Vevo Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251028T010351SQUARE.png" group-title="Music",Vevo Christmas
+https://jmp2.uk/stvp-GB35000017V
+#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-chno="4686" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" tvg-chno="4683" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
