@@ -283,3 +283,191 @@ https://energyluzern.ice.infomaniak.ch/energyluzern-high.mp3
 https://energystgallen.ice.infomaniak.ch/energystgallen-high.mp3
 #EXTINF:-1 ,BBlack Radio
 https://stunnel1.cyber-streaming.com:9162/stream
+
+#EXTM3U
+#REM ipradiofr ip radios de France
+#EXTINF:-1 ,ADO DAB+
+https://start-adofm.ice.infomaniak.ch/start-adofm-high.aac
+#EXTINF:-1 ,airzen
+https://stream.rcs.revma.com/pr5cwsxhr18uv
+#EXTINF:-1 ,BFM Business
+https://hls-bfmbusiness.nextradiotv.com/ssai/master.m3u8
+#EXTINF:-1 ,BFM RADIO
+https://hls-bfmradio.nextradiotv.com/ssai/master.m3u8
+#EXTINF:-1 ,Chante France
+https://chantefrance.ice.infomaniak.ch/chantefrance-96.aac
+#EXTINF:-1 ,CHERIE FM
+https://streaming.nrjaudio.fm/ou2n2epw5hs7
+#EXTINF:-1 ,CROONER RADIO
+http://croonerradio.ice.infomaniak.ch/croonerradio-midfi.mp3
+#EXTINF:-1 ,EUROPE1
+https://europe1.lmn.fm/europe1-live/playlist.m3u8
+#EXTINF:-1 ,EUROPE2
+https://europe2.lmn.fm/europe2-live/playlist.m3u8
+#EXTINF:-1 ,FC RADIO
+https://fcradioluisandre.ice.infomaniak.ch/fcradiodab.mp3
+#EXTINF:-1 ,FG. DJ RADIO
+https://stream.rcs.revma.com/wknqhm4yuchvv
+#EXTINF:-1 ,FRANCE INTER
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1 ,FRANCE INFO
+https://icecast.radiofrance.fr/franceinfo-hifi.aac
+#EXTINF:-1 ,ICI PAYS SAVOIE
+https://direct.radiofrance.fr/live/fbpaysdesavoie-midfi.mp3
+#EXTINF:-1 ,FRANCE CULTURE
+https://icecast.radiofrance.fr/franceculture-hifi.aac
+#EXTINF:-1 ,FRANCE MUSIQUE
+https://icecast.radiofrance.fr/francemusique-hifi.aac
+#EXTINF:-1 ,FIP
+https://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1 ,Mouv'Radio Musique Rap & Hip Hop Nation
+https://icecast.radiofrance.fr/mouv-hifi.aac
+#EXTINF:-1 ,FUEGO
+https://stream.rcs.revma.com/myzzee8kwccwv
+#EXTINF:-1 ,FUN RADIO
+http://streaming.radio.funradio.fr/fun-1-44-128
+#EXTINF:-1 ,GENERATIONS
+https://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+#EXTINF:-1 ,JAZZ RADIO CH
+https://jazzradio.ice.infomaniak.ch/jazzradio-suisse.aac
+#EXTINF:-1 ,KTO Radio
+https://live-radio-kto.akamaized.net/hls/live/2103303-b/KTO/04.m3u8
+#EXTINF:-1 ,LA RADIO PLUS
+https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac
+#EXTINF:-1 ,LATINA
+https://start-latina.ice.infomaniak.ch/start-latina-high.aac
+#EXTINF:-1 ,Lifestyle 74
+http://radio74.ice.infomaniak.ch/radio74-high.mp3
+#EXTINF:-1 ,M RADIO
+https://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1 ,Melody Radio vintage
+https://stream.rcs.revma.com/bsa1cyuup42vv
+#EXTINF:-1 ,NOSTALGIE
+https://streaming.nrjaudio.fm/ouwgwqsk6j4d
+#EXTINF:-1 ,NOVA
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1 ,NRJ Hits
+https://energyhits.ice.infomaniak.ch/energyhits-high.mp3
+#EXTINF:-1 ,ODS RADIO
+https://ods.ice.infomaniak.ch/ods-high.aac
+#EXTINF:-1 ,ORIENT
+https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3
+#EXTINF:-1 ,OUI FM ab+
+https://ouifm.ice.infomaniak.ch/ouifm-high.aac
+#EXTINF:-1 ,PHARE FM
+https://str0.creacast.com/pharefm
+#EXTINF:-1 ,PLAYLIST RADIO
+https://playlist.ice.infomaniak.ch/playlist-192.mp3
+#EXTINF:-1 ,PLEIN AIR
+https://stream-1.pleinair.net:8443/dr_pontarlier.mp3
+#EXTINF:-1 ,RADIO CLASSIQUE
+https://radioclassique.ice.infomaniak.ch/radioclassique-high.aac
+#EXTINF:-1 ,RADIO MONT-BLANC
+https://radiomontblanc1.ice.infomaniak.ch/radiomontblanc1-128.mp3
+#EXTINF:-1 ,RADIO PITCHOUN
+https://webradio.tvradio-pitchoun.fr:8443/radiopitchoun.aac
+#EXTINF:-1 ,RCF SMB
+https://rcf.streamakaci.com/rcfdigital.aac
+#EXTINF:-1 ,RFM
+https://rfm.lmn.fm/rfm-live/playlist.m3u8
+#EXTINF:-1 ,RIRE ET CHANSONS
+https://streaming.nrjaudio.fm/ou8o8xgk7oiu
+#EXTINF:-1 ,RMC
+https://audio.bfmtv.com/rmcradio_128.mp3
+#EXTINF:-1 ,RTL
+http://streaming.radio.rtl.fr/rtl-1-44-128
+#EXTINF:-1 ,RTL2
+http://streaming.radio.rtl2.fr/rtl2-1-44-128
+#EXTINF:-1 ,SCOOP Alpes
+https://radioscoopalpes.ice.infomaniak.ch/radioscoop-alpes-64.aac
+#EXTINF:-1 ,SKYROCK
+https://icecast.skyrock.net/s/natio_aac_128k
+#EXTINF:-1 ,SKYROCK KLASSIKS
+https://icecast.skyrock.net/s/klassiks_aac_128k
+#EXTINF:-1 ,SUD RADIO
+https://live.sudradio.fr/sudradio
+#EXTINF:-1 ,TSF Jazz
+https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+#EXTINF:-1 ,VIRGIN RADIO
+https://virginradio.ice.infomaniak.ch/virgin-radio.aac
+#EXTINF:-1 ,Autoroute INFO Rhône-Alpes
+https://media.autorouteinfo.fr/direct_sud.mp3
+#EXTINF:-1 ,CINEMUSIC
+https://play.radioking.io/cinemusicradio/62785
+#EXTINF:-1 ,TropiqueFM
+https://listen.radioking.com/radio/8916/stream/64357
+#EXTINF:-1 ,KISSFM L'esprit du Sud
+https://kissfm.ice.infomaniak.ch/kissfm-128.mp3
+#EXTINF:-1 ,Guadeloupe
+https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3
+#EXTINF:-1 ,Martinique
+https://martinique.ice.infomaniak.ch/martinique-128.mp3
+#EXTINF:-1 ,Diversité FM la radio musicale et citoyenne
+https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3
+#EXTINF:-1 ,CANAL FM
+https://ice01.canalfm.ovh/canalfm.aac
+#EXTINF:-1 ,Attitude - Des rythmes et du style
+https://podcast.attitudefm.com:8443/;
+#EXTINF:-1 ,Azur FM 1ère radio associative d'Alsace
+https://listen.radioking.com/radio/74173/stream/112150
+#EXTINF:-1 ,DIRECT FM 
+https://stream.rcs.revma.com/ew93f4vhy7uvv?aw_0_1st.rpfr=1
+#EXTINF:-1 ,NICE RADIO
+https://niceradio.ice.infomaniak.ch/niceradio.aac
+#EXTINF:-1 ,Radio Caroline - la radio de Bretagne
+https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
+#EXTINF:-1 ,Radio Bonheur . 100% chansons françaises
+https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
+#EXTINF:-1 ,K6FM - Toute les infos de Dijon Beaune et Côte d'Or
+https://k6fm.ice.infomaniak.ch/k6fm-128.mp3
+#EXTINF:-1 ,BOA - Bretagne On Air
+https://stream.radios.bzh/hls/boa/aac_hifi.m3u8
+#EXTINF:-1 ,Yellow Radio
+https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
+#EXTINF:-1 ,Beur FM
+https://beurfm.ice.infomaniak.ch/beurfm-high.aac
+#EXTINF:-1 ,France Maghreb2
+https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.aac
+#EXTINF:-1 ,Cannes Radio - La radio côte d'Azur
+https://stream.rcs.revma.com/2ykc70sauwzuv
+#EXTINF:-1 ,Radio Cactus
+https://manager5.streamradio.fr:1435/stream
+#EXTINF:-1 ,Africa radio
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:-1 ,Cerise FM - Les tubes d'hier, les hits d'aujourd'hui
+https://n41a-eu.rcs.revma.com/q90fb3dwnwzuv
+#EXTINF:-1 ,Happy Radio - région Dordogne
+https://bergerac95.ice.infomaniak.ch/happyradio-perigueux.mp3
+#EXTINF:-1 ,Active Radio - Encore plus de Hits!
+https://stunnel2.cyber-streaming.com:9028/stream
+#EXTINF:-1 ,Radio Vitamine
+https://srv.webradiomanager.fr:1295/stream
+#EXTINF:-1 ,echo FM - LA radio du Sud-Avesnois
+https://radio5.pro-fhi.net/flux-ghergigw/stream
+#EXTINF:-1 ,MIXX FM - Un Maxx de Hits
+https://mixxfm2.ice.infomaniak.ch/mixxfmnet.mp3
+#EXTINF:-1 ,Toulouse FM - 1ère radio locale à Toulouse
+https://stream.rcs.revma.com/1x41712gy7uvv
+#EXTINF:-1 ,EXO FM REUNION
+https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac
+#EXTINF:-1 ,Le Bon Mix radio
+https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio
+#EXTINF:-1 ,Crystal FM - Un média de proximité à l’écoute de ses auditeurs
+https://radio3.pro-fhi.net/radio/9025/stream.mp3
+#EXTINF:-1 ,Banquise FM - la radio autrement. Radio des Hauts de France
+https://ecoute.banquisefm.com/listen.mp3
+#EXTINF:-1 ,h2o lac d'Annecy
+https://stream.radiotools.fr:8443/h2o-lac-hd.mp3
+#EXTINF:-1 ,Soleil FM Pays d'Arles
+https://stunnel1.cyber-streaming.com:9120/
+#EXTINF:-1 ,Transat FM
+https://transatfm.ice.infomaniak.ch/transatfm-128.aac
+#EXTINF:-1 ,Radio Arc-En-Ciel - Radio pluraliste à Strasbourg
+https://str0.creacast.com/arcencielweb
+#EXTINF:-1 ,Radio Quetsch
+https://stream.quets.ch/live
+#EXTINF:-1 ,Radio Laser - Média citoyen de Rennes
+https://stream.radios.bzh/listen/radiolaser/radio.mp3
+#EXTINF:-1 ,L'ONDE PORTEUSE
+https://listen.radioking.com/radio/141961/stream/182095
+
