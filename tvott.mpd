@@ -442,8 +442,12 @@ http://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8
 https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="ivoire.fr" tvg-logo="https://picserve.netplus.ch/channels/ivoire.png",Ivoire TV
 https://video1.getstreamhosting.com:1936/8244/8244/manifest.m3u8
-#EXTINF:-1 tvg-id="trace." tvg-logo="https://picserve.netplus.ch/channels/traceurban.png",TRACE URBAN TV
+#EXTINF:-1 tvg-id="traceurban.fr" tvg-logo="https://picserve.netplus.ch/channels/traceurban.png",TRACE URBAN TV
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="tracelatina.fr" tvg-logo="https://picserve.netplus.ch/channels/tracelatina.png",TRACE LATINA TV
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyGospelTV.fr" tvg-name="My Gospel TV" tvg-logo="https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png" group-title="music;religious",My Gospel TV
+https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblack.png",BB BLACK! HD
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackafrica.png",BB BLACK! Africa HD
