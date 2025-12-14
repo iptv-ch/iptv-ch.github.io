@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTREM tvott tv over the top Switzerland unrelated to your internet provider and tv operator but could geoblocked.
+#EXTREM tvott tv over the top available in Switzerland unrelated to your internet provider and tv operator but could geoblocked.
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png",RTS 2 HD 1080p
@@ -478,17 +478,31 @@ https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screami
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews_prime.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfm2.png",BFM2. HD
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="BSmartTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/b-smart-fr.png" group-title="Informations Françaises",B SMART
+https://youtu.be/oh7jzc-nlKU
+#EXTINF:-1 tvg-chno="" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="Informations Françaises",LE MÉDIA TV
+https://youtu.be/0aI87TDsc9c
 #EXTINF:-1 tvg-id="europe1.fr" tvg-logo="https://picserve.netplus.ch/channels/europe1.png",Europe1 HD
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(SLMMiUb-Yn3YRkH4-G-eyzsgB2eaAFpz7xCPWZfQ2pVdGtIY1831_mJQC5ZmdhXIV3YQfeFIiz-Lb1CrJ53SF2cFvy5fpywIYyTlxoJ79iqWLiWdpJnKUuSrrurlrRn-)/cloud/3/xqjkfz/d/live-1080@60.m3u8
 #EXTINF:-1 tvg-id="melody.tv" tvg-logo="https://picserve.netplus.ch/channels/melody.png",Melody HD
 https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
-#EXTINF:-1 channel-id="GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-chno="4684" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music",Vevo '70s & '80s
+#EXTINF:-1 channel-id="GBBD1900009UD" tvg-id="GBBD1900009UD" group-title="Musique" tvg-chno="" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music",Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
-#EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-chno="4685" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music",Vevo '90s & '00s
+#EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" group-title="Musique" tvg-chno="" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music",Vevo '90s & '00s
 https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1 channel-id="GB35000017V" tvg-id="GB35000017V" tvg-chno="4682" tvg-name="Vevo Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251028T010351SQUARE.png" group-title="Music",Vevo Christmas
+#EXTINF:-1 channel-id="GB35000017V" tvg-id="GB35000017V" group-title="Musique" tvg-chno="" tvg-name="Vevo Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251028T010351SQUARE.png" group-title="Music",Vevo Christmas
 https://jmp2.uk/stvp-GB35000017V
-#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-chno="4686" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
+#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" group-title="Musique" tvg-chno="" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" tvg-chno="4683" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop
+#EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" group-title="Musique" tvg-chno="" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-chno="" tvg-id="FR3000139Z" group-title="Cinéma",SONY ONE HITS ACTION
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="FR300009JQ" group-title="Cinéma",SONY ONE HITS COMEDIE
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="FR300011G9" group-title="Cinéma",SONY ONE FAVORIS
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="FR3000082K" group-title="Cinéma",SONY ONE SERIES COMEDIES
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="FR3000125U" group-title="Cinéma",SONY ONE SERIES THRILLER
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
