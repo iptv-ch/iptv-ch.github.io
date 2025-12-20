@@ -220,7 +220,7 @@ https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 ,Sout Al Khaleej
 https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 #EXTINF:-1 ,radiobus.fm
-https://radiobus.ice.infomaniak.ch/radiobox-live-128.aac
+https://radiobus.ice.infomaniak.ch/radiobus-128.aac
 #EXTINF:-1 ,Thaalam Radio
 https://thaalam.out.airtime.pro/thaalam_b
 #EXTINF:-1 ,105 dj radio
@@ -255,8 +255,6 @@ https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
 https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio
 #EXTINF:-1 ,Jam On
 https://jam-on.ice.infomaniak.ch/jam-on-128.mp3
-#EXTINF:-1 ,NETRADIO
-https://c22.radioboss.fm:8847/stream
 #EXTINF:-1 ,Radio ORBITAL
 https://orbital.ice.infomaniak.ch/orbital.mp3
 #EXTINF:-1 ,RADIO GLORIA
@@ -285,9 +283,6 @@ https://energyluzern.ice.infomaniak.ch/energyluzern-high.mp3
 https://energystgallen.ice.infomaniak.ch/energystgallen-high.mp3
 #EXTINF:-1 ,BBlack Radio
 https://stunnel1.cyber-streaming.com:9162/stream
-
-#EXTM3U
-#REM ipradiofr ip radios de France
 #EXTINF:-1 ,ADO DAB+
 https://start-adofm.ice.infomaniak.ch/start-adofm-high.aac
 #EXTINF:-1 ,airzen
