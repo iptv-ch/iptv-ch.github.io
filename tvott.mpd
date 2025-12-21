@@ -456,8 +456,6 @@ https://bblackafrica.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackclassik.png",BB BLACK! Classik HD
 http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-#EXTINF:-1 tvg-id="www.madrasfm.tv" tvg-logo="https://picserve.netplus.ch/channels/www.madrasfm.png",Madras FM TV HD
-https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id=".fr" tvg-logo="https://picserve.netplus.ch/channels/mondeduloisir.png",MDL Monde Du Loisir TV
 https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="eurosport.fr" tvg-logo="https://picserve.netplus.ch/channels/eurosport1fr.png",Eurosport1 F HD
