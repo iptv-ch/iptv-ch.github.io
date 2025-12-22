@@ -765,8 +765,6 @@ rtp://239.186.70.191:10000
 rtp://239.186.70.18:10000
 #EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al arabiya HD (ara)
 rtp://239.186.84.11:10000
-#EXTINF:-1 tvg-id="RTSH3.al" tvg-name="RTSH 3 AL" tvg-logo="https://static.epg.best/al/RTSH3.al.png" tvg-chno="" channel-id="",RTSH3
-rtp://239.186.74.90:10000
 #EXTINF:-1 ,bn music HD (bos)
 rtp://239.186.84.34:10000
 #EXTINF:-1 ,TV Duga+ (bos)
