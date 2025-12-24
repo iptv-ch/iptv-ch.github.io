@@ -475,7 +475,7 @@ rtp://239.186.66.24:10000
 rtp://239.186.66.25:10000
 #EXTINF:-1,Nickelodeon F (fre)
 rtp://239.186.66.28:10000
-#EXTINF:-1,Science and Vie (AAC)
+#EXTINF:-1,Science et Vie (AAC)
 rtp://239.186.66.31:10000
 #EXTINF:-1,Boomerang F (fra)
 rtp://239.186.66.32:10000
@@ -1267,7 +1267,7 @@ rtp://239.186.68.229:10000
 rtp://239.186.68.230:10000
 #EXTINF:-1,Toute l Histoire HD (AAC)
 rtp://239.186.68.231:10000
-#EXTINF:-1,Science Vie HD (AAC)
+#EXTINF:-1,Science et Vie HD (AAC)
 rtp://239.186.68.232:10000
 #EXTINF:-1,Seasons HD
 rtp://239.186.68.233:10000
