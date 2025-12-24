@@ -346,6 +346,8 @@ https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-dash/tvcnews.mpd
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
 #EXTINF:-1 tvg-id="servustv.de" tvg-logo="",ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
+#EXTINF:-1 tvg-id="anixe.de" tvg-logo="https://picserve.netplus.ch/channels/anixe.png",ANIXE
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-dash/anixe.mpd
 #EXTINF:-1 tvg-id="ric.ch" tvg-logo="",RiC D
 https://viamotionhsi.netplus.ch/live/eds/ric/browser-dash/ric.mpd
 #EXTINF:-1 tvg-id="startv.ch" tvg-logo="",startv D
