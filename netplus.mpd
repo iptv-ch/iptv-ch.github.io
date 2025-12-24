@@ -331,7 +331,7 @@ https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 #EXTINF:-1 tvg-id="vox.de" tvg-logo="https://picserve.netplus.ch/channels/vox.png",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:-1 tvg-id="atv.at" tvg-logo="",atv
+#EXTINF:-1 tvg-id="atv.at" tvg-logo="",atv2
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 tvg-id="duna.hu" tvg-logo="",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
@@ -381,3 +381,5 @@ https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalbfr.mpd
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B de (start 1.1.2026)
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalbde.mpd
+#EXTINF:-1 tvg-id="anixe.de" tvg-logo="https://picserve.netplus.ch/channels/anixe.png",ANIXE
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-dash/anixe.mpd
