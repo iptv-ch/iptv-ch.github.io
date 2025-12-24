@@ -67,7 +67,7 @@ https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
 https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-dash/cartoonnetwork.mpd
 #EXTINF:-1 tvg-id="gulli.fr" tvg-logo="https://picserve.netplus.ch/channels/gulli.png",gulli 720p
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
-#EXTINF:-1 tvg-id="game1.fr" tvg-logo="https://picserve.netplus.ch/channels/gameone.png",G1 HD
+#EXTINF:-1 tvg-id="game1.fr" tvg-logo="https://picserve.netplus.ch/channels/gameone.png",Game 1 HD
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-dash/gameone.mpd
 #EXTINF:-1 tvg-id="trek.fr" tvg-logo="https://picserve.netplus.ch/channels/escales.png",TREK HD 720p
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-dash/escales.mpd
@@ -167,8 +167,6 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="",kanal9 HD
 https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-#EXTINF:-1 tvg-id="teleBaern.ch" tvg-logo="",Tele Baern HD
-https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
 #EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="",Tele Bielingue
 https://telebielinguech.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:-1 tvg-id="tv24.ch" tvg-logo="",tv24
@@ -408,8 +406,10 @@ https://youtu.be/dBiXJlm6YWc
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="swiss-sport.tv/" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png",swiss sport tv HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalb.png",Canal B (start 1.1.2026)
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalb/browser-dash/canalb.mpd
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png",Canal B (start 1.1.2026)
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbd/browser-dash/canalbd.mpd
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png",Canal B (start 1.1.2026)
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbf/browser-dash/canalbf.mpd
 #EXTINF:-1 tvg-id="teletop.ch" tvg-logo="https://picserve.netplus.ch/channels/teletop.png",TeleTop
 https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
 #EXTINF:-1 tvg-id="telebasel.ch" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png",TeleBasel
@@ -420,8 +420,8 @@ https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/ma
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/kfXPNZDgr_dXTsaaChhTBQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="tele1.ch" tvg-logo="https://picserve.netplus.ch/channels/tele1.png",Tele1
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/wV_SSlEQskAVSpwtofzL6A/index-s32.m3u8
-#EXTINF:-1 tvg-id="telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/MXIadUe7y-vL4RZUT-FaBg/index-s32.m3u8
+#EXTINF:-1 tvg-id="www.telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
 #EXTINF:-1 tvg-id="teletecino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png",TeleTecino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-id="bfmtv.com" tvg-logo="https://picserve.netplus.ch/channels/alsace20.png",BFMTV Alsace
