@@ -538,3 +538,7 @@ https://jmp2.uk/stvp-FRBC4000001IO
 https://jmp2.uk/stvp-FR1800004EP
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
+#EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us" tvg-logo="https://i.imgur.com/fU0ZhKD.png" group-title="Religious",Global Buddhist Network
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="lifestyle",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
