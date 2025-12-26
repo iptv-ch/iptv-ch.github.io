@@ -552,3 +552,5 @@ https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist_w408685025_b5500000.m3u8
 #EXTINF:-1 tvg-id="www.die-neue-zeit.tv" tvg-logo="https://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png",Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/chunklist_w2089923846_b2000000_slde.m3u8
+#EXTINF:-1 ,Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
