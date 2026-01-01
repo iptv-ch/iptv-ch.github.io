@@ -466,8 +466,8 @@ rtp://239.186.74.150:10000
 rtp://239.186.84.171:10000
 #EXTINF:-1 ,I-TV HD
 rtp://239.186.70.91:10000
-#EXTINF:-1 ,just.fishing HD (deu)
-rtp://239.186.70.92:10000
+#EXTINF:-1 ,just.fishing (deu)
+rtp://239.186.74.157:10000
 #EXTINF:-1 ,SYLT1 HD
 rtp://239.186.70.126:10000
 #EXTINF:-1 ,DF1 HD (deu)
