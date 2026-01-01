@@ -580,7 +580,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="ClubbingTV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/274_8e77a87554.png" group-title="Musique",CLUBBING TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="ViaMatele.fr@SD",ViàMatélé (1080i)
+#EXTINF:-1 tvg-id="",Matélé (1080i)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="riksat.cy",RIK SAT
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="radioitalia.it" tvg-logo="https://picserve.netplus.ch/channels/radioitalia.png",Radio Italia
+https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="deejaytv.it" tvg-logo="",Deejay TV HD
+https://streamcdng19-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3304217.m3u8
+#EXTINF:-1 tvg-id="telelombardia.it" tvg-logo="",TELELOMBARDIA TV HD
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1767296085~acl=/*~hmac=1aee7d4a689cc901af1365da5eab7614601fa1b521ba646f96ee83129bdeb89b
+#EXTINF:-1 tvg-id="reggiotv.it" tvg-logo="",Reggio TV HD
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="trentinotv.it" tvg-logo="",TRENTINO TV HD
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="telenord.it" tvg-logo="",TELENORD HD
+https://64b16f23efbee.streamlock.net/telenord/telenord/chunklist.m3u8
+#EXTINF:-1 tvg-id="radiofrecciatv.it" tvg-logo="",RADIO FRECCIA TV HD
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
+#EXTINF:-1 tvg-id="kisskiss.it" tvg-logo="",KISS KISS HD
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
