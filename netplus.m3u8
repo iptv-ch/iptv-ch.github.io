@@ -283,8 +283,8 @@ https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
 #EXTINF:-1,tvg-id="sat.1gold.de",SAT.1 GOLD HD ?
 https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-HLS8/sat1gold.m3u8
-#EXTINF:-1,tvg-id="welt.de",WeLT ?
-https://viamotionhsi.netplus.ch/live/eds/welt/browser-HLS8/welt.m3u8
+#EXTINF:-1,tvg-id="welt.de",WeLT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1,tvg-id="ntv.de",ntv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 #EXTINF:-1,tvg-id="phoenix.de",phoenix HD
