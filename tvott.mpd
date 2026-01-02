@@ -591,7 +591,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/st
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-logo="",Deejay TV HD
 https://streamcdng19-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3304217.m3u8
 #EXTINF:-1 tvg-id="telelombardia.it" tvg-logo="",TELELOMBARDIA TV HD
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1767296085~acl=/*~hmac=1aee7d4a689cc901af1365da5eab7614601fa1b521ba646f96ee83129bdeb89b
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1767560077~acl=/*~hmac=085451a953e9ea1d74ed78fdce73f4901e0709316f31c68862525ef3530cb8eb
 #EXTINF:-1 tvg-id="reggiotv.it" tvg-logo="",Reggio TV HD
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="trentinotv.it" tvg-logo="",TRENTINO TV HD
@@ -602,3 +602,5 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/chunklist.m3u8
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
 #EXTINF:-1 tvg-id="kisskiss.it" tvg-logo="",KISS KISS HD
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="www.weo.fr" tvg-logo="",Wéo TV
+https://live-weo.digiteka.com/1189023466/tracks-v3a1/mono.ts.m3u8
