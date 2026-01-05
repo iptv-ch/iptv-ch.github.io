@@ -4,6 +4,8 @@
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png",RTS 2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 tvg-id="rtsinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/rtsinfo.png",RTS Info HD
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png",TF1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png",France2 HD 720p
@@ -79,8 +81,6 @@ https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mp
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png",arte HD 720p
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
-#EXTINF:-1 tvg-id="rtsinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/rtsinfo.png",RTS Info
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png",BFM TV HD 720p
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
 #EXTINF:-1 tvg-id="france24.fr" tvg-logo="https://picserve.netplus.ch/channels/france24.png",France24 HD 720p
@@ -101,6 +101,8 @@ https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 #EXTINF:-1 tvg-id="franceinfo.fr" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png",Franceinfo HD 720p
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
+#EXTINF:-1 tvg-id="outremer.fr" tvg-logo="https://picserve.netplus.ch/channels/outremer.png",Outre Mer info continue HD 720p
+https://live-outremer.ftven.fr/ZXhwPTE3Njc2NzUyMDR+YWNsPSUyZip+aG1hYz1iMjczMmY3MmJhNTE1YmY3MjU4ZDZiZGI0NGFhOTViMmUxYWU1NmY4MWEyY2IyNTdlOWU1NjZkMmU4ZGNiY2E1/372a0c4d-b466-4c86-9e40-73ee3e1b7073_0_HLS-m/video_10801920_p_0.m3u8
 #EXTINF:-1 tvg-id="rhonetv.ch" tvg-logo="https://picserve.netplus.ch/channels/rhonetv.png",rhone tv HD
 https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 #EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png",mezzo HD 720p
@@ -121,7 +123,7 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.
 https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="nrtv.ch" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png",nrtv HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-dash/nrtv.mpd
-#EXTINF:-1 tvg-id="maxtv.ch" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png",maxtv / DieuTV
+#EXTINF:-1 tvg-id="maxtv.ch" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png",DieuTV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png",tvm3 HD
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
