@@ -245,6 +245,8 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveintern
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1,tvg-id="Aragontv.es",Aragon TV HD
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1,tvg-id="Aragontv.es",star tve HD
+https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
 #EXTINF:-1,tvg-id="bvn.nl",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1,tvg-id="rtk1.xk",RTK1
