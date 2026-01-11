@@ -19,15 +19,15 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 #EXTINF:-1 tvg-id="m6.fr",M6 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="canal9.ch",Canal9 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
+https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1 tvg-id="lemanbleu.ch",Léman bleu HD 720p
-https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
+https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="latele.ch",LA TELE HD 720p
-https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
+https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1 tvg-id="canalalphaju.ch",Canal Alpha JU HD 720p
-https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/manifest.m3u8
 #EXTINF:-1 tvg-id="canalalphane.ch",Canal Alpha NE HD 720p
-https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
+https://canalalphane.vedge.infomaniak.com/livecast/ik:canalalphane/manifest.m3u8
 #EXTINF:-1 tvg-id="tmc.fr",TMC HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 tvg-id="w9.fr",W9 HD 720p
@@ -46,8 +46,8 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id="cherie25.fr",Chérie 25 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
-#EXTINF:-1,tvg-id="carac1.ch",carac1 HD 720p (ex rougetv  HD)
-https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+#EXTINF:-1,tvg-id="carac1.ch",carac1 HD
+https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 tvg-id="rmcstory.fr",RMC STORY HD 720p
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 #EXTINF:-1 tvg-id="bluezoom.ch",blue zoom F HD 720p ?
@@ -100,10 +100,10 @@ https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:-1 tvg-id="rhonetv.ch",rhone tv HD
 https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
-#EXTINF:-1,tvg-id="carac2.ch",carac2 HD 720p (ex onetv  HD)
-https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
-#EXTINF:-1,tvg-id="carac3.ch",carac3 HD 720p (ex lfmtv  HD)
-https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+#EXTINF:-1,tvg-id="carac2.ch",carac2 HD
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1,tvg-id="carac3.ch",carac3 HD
+https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 #EXTINF:-1,tvg-id="mtvfrance.fr",MTV France HD 720p
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1,tvg-id="kto.fr",kto
@@ -112,23 +112,23 @@ https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1,tvg-id="canalplusclair.fr",canal+ en clair
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
-#EXTINF:-1,tvg-id="carac4.ch",carac4 HD 720p (ex tv suisse plus HD)
-https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
-#EXTINF:-1,tvg-id="carac5.ch",carac5 HD 720p (ex teleswizz HD)
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1,tvg-id="carac4.ch",carac4 HD
+https://edge20.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1,tvg-id="carac5.ch",carac5 HD
+https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1,tvg-id="nrtv.ch",nrtv HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 #EXTINF:-1,tvg-id="maxtv.ch",maxtv / DieuTV
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 #EXTINF:-1,tvg-id="tvm3.ch",tvm3 HD
-https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
+https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
 #EXTINF:-1,tvg-id="tvmonaco.fr",TVMONACO HD
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1,tvg-id="valtv.ch",val TV HD
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch",SRF1 HD 720p
+#EXTINF:-1 tvg-id="SRF1.ch",SRF1 HD 
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch",SRF2 HD 720p
+#EXTINF:-1 tvg-id="SRF1.ch",SRF2 HD
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRFinfo.ch",SRF info HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
@@ -161,12 +161,12 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 #EXTINF:-1 tvg-id="sport1.de",sport1
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 #EXTINF:-1 tvg-id="kanal9.ch",kanal9 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
+https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 #EXTINF:-1 tvg-id="teleBaern.ch",Tele Baern HD
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTINF:-1 tvg-id="telebielingue.ch",Tele Bielingue
+#EXTINF:-1 tvg-id="telebielingue.ch",Tele Bielingue HD
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTINF:-1 tvg-id="tv24.ch",tv24
+#EXTINF:-1 tvg-id="tv24.ch",tv24 HD
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 #EXTINF:-1 tvg-id="bluezoomd.ch",blue zoom D HD 720p ?
 https://viamotionhsi.netplus.ch/live/eds/tczoomd/browser-HLS8/tczoomd.m3u8
@@ -574,9 +574,7 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="radioitalia.it" tvg-logo="https://picserve.netplus.ch/channels/radioitalia.png",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-logo="",Deejay TV HD
-https://streamcdng19-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3304217.m3u8
-#EXTINF:-1 tvg-id="telelombardia.it" tvg-logo="",TELELOMBARDIA TV HD
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/01799D67529C76C0E8C7E86A8F7ABDDEAE625C46/index.m3u8?hdnts=exp=1767560077~acl=/*~hmac=085451a953e9ea1d74ed78fdce73f4901e0709316f31c68862525ef3530cb8eb
+https://streamcdng19-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/index.m3u8
 #EXTINF:-1 tvg-id="reggiotv.it" tvg-logo="",Reggio TV HD
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="trentinotv.it" tvg-logo="",TRENTINO TV HD
