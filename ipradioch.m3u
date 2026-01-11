@@ -275,7 +275,7 @@ https://streaming.smartradio.ch:9502/stream
 https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 #EXTINF:-1 ,BBlack Radio
 https://stunnel1.cyber-streaming.com:9162/stream
-#EXTINF:-1 ,ADO DAB+
+#EXTINF:-1 ,ADO
 https://start-adofm.ice.infomaniak.ch/start-adofm-high.aac
 #EXTINF:-1 ,airzen
 https://stream.rcs.revma.com/pr5cwsxhr18uv
@@ -463,3 +463,43 @@ https://listen.radioking.com/radio/141961/stream/182095
 https://cast5.asurahosting.com/proxy/mfm_radio/mfmradio-128
 #EXTINF:-1 ,SUNSHINE LIVE ELECTRONIC MUSIC
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
+#EXTINF:-1,100% Radio Albi
+http://100radio-albi.ice.infomaniak.ch/100radio-albi-128.mp3
+#EXTINF:-1,Agora Côte d'Azur
+http://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
+#EXTINF:-1,Alpes 1 Gap
+https://alpes1gap.ice.infomaniak.ch/alpes1gap-high.mp3
+#EXTINF:-1,Alouette
+https://alouette.ice.infomaniak.ch/alouette-high.mp3
+#EXTINF:-1,Beaub'FM
+https://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3
+#EXTINF:-1,Clash FM
+https://fusionfm.ice.infomaniak.ch/clashfm-64.aac
+#EXTINF:-1,Clin d'Oeil FM 106.1
+http://clindoeilfm1061.ice.infomaniak.ch/clindoeilfm1061-128.mp3
+#EXTINF:-1,Collines La Radio
+https://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3
+#EXTINF:-1,La 1ère - Outre-Mer
+https://outremer.ice.infomaniak.ch/outremer-128.mp3
+#EXTINF:-1,MFM
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1,MTI
+http://radiomti.ice.infomaniak.ch/radiomti.mp3
+#EXTINF:-1,Open FM
+https://radioopenfm.ice.infomaniak.ch/radioopenfm.mp3
+#EXTINF:-1,Planète FM
+https://planetefm.ice.infomaniak.ch/planetefm-128.mp3
+#EXTINF:-1,Plein Cœur
+http://pleincoeur.ice.infomaniak.ch/pleincoeur-128.mp3
+#EXTINF:-1,Radio 6 Calais
+http://radio6-calais.ice.infomaniak.ch/radio6-calais-128.mp3
+#EXTINF:-1,Radio Alpine Meilleure
+https://ramradiolibre.ice.infomaniak.ch/ramradiolibre-96.mp3
+#EXTINF:-1,Radio Cristal
+https://stream.inovacast.net:58888/stream
+#EXTINF:-1,Radio Espace
+http://radioespace.ice.infomaniak.ch/radioespace-high.mp3
+#EXTINF:-1,Radio Mille Pattes (Reggae)
+http://millepattes.ice.infomaniak.ch/millepattes-high
+#EXTINF:-1,RQQG Radio Qui Qu'en Grogne
+http://radioquiquengrogne.ice.infomaniak.ch/radioquiquengrogne-128.mp3
