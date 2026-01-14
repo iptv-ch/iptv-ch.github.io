@@ -364,3 +364,5 @@ https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbf/browser-dash/canalbf.mpd
 #EXTINF:-1 tvg-id="telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
+#EXTINF:-1 tvg-id="bnt4.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png",BNT World
+https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-dash/bntworld.mpd
