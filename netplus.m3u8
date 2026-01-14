@@ -226,7 +226,7 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1,tvg-id="Bloomberg.uk",bloomberg HD
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1,tvg-id="fashiontv.uk",fashiontv HD
-https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1,tvg-id="channel4.uk",channel4 HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1,tvg-id="channel5.uk",channel5 HD
