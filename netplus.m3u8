@@ -159,7 +159,7 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 #EXTINF:-1 tvg-id="kanal9.ch",kanal9 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
-#EXTINF:-1 tvg-id="teleBaern.ch",Tele Baern HD
+#EXTINF:-1 tvg-id="telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 #EXTINF:-1 tvg-id="telebielingue.ch",Tele Bielingue
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
@@ -348,7 +348,5 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u8
 #EXTINF:-1,tvg-id="ptccbet.rs",PTC CBET HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
-#EXTINF:-1 tvg-id="telebaern.tv" tvg-logo="https://picserve.netplus.ch/channels/telebearn.png",TeleBärn
-https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTINF:-1 tvg-id="bnt4.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png",BNT4
+#EXTINF:-1 tvg-id="bnt4.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png",BNT4 HD
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
