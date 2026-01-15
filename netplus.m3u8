@@ -303,6 +303,8 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentra
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 #EXTINF:-1,tvg-id="7maxx.de",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
+#EXTINF:-1 tvg-id="dmax.de",DMAX CH
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
 #EXTINF:-1,tvg-id="tele5.de",tele5 D
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
 #EXTINF:-1,tvg-id="alpha.de",ARD alpha
