@@ -175,7 +175,7 @@ rtp://239.186.64.94:10000
 rtp://239.186.64.95:10000
 #EXTINF:-1,Tele Top
 rtp://239.186.64.96:10000
-#EXTINF:-1,SHf
+#EXTINF:-1,SHf Schaffhauser Fernsehen
 rtp://239.186.64.97:10000
 #EXTINF:-1,TVM3
 rtp://239.186.64.98:10000
@@ -1081,7 +1081,7 @@ rtp://239.186.68.136:10000
 rtp://239.186.68.137:10000
 #EXTINF:-1,RTL Living HD (deu)
 rtp://239.186.68.138:10000
-#EXTINF:-1,SHf HD
+#EXTINF:-1,SHf Schaffhauser Fernsehen HD
 rtp://239.186.68.139:10000
 #EXTINF:-1,i24 News E HD
 rtp://239.186.68.140:10000
@@ -1095,7 +1095,7 @@ rtp://239.186.68.143:10000
 rtp://239.186.68.144:10000
 #EXTINF:-1,Kanal9 HD
 rtp://239.186.68.145:10000
-#EXTINF:-1,n-tv CH HD (deu)
+#EXTINF:-1,ntv CH HD (deu)
 rtp://239.186.68.146:10000
 #EXTINF:-1,S1 HD
 rtp://239.186.68.147:10000
@@ -2027,7 +2027,7 @@ rtp://239.186.76.2:10000
 rtp://239.186.76.3:10000
 #EXTINF:-1,INULTRA UHD (deu)
 rtp://239.186.76.4:10000
-#EXTINF:-1,sky sport Bundesliga UHD (deu)
+#EXTINF:-1,sky Bundesliga UHD (deu)
 rtp://239.186.76.5:10000
 #EXTINF:-1 ,travelxp 4K UHD (ger)
 rtp://239.186.76.6:10000
