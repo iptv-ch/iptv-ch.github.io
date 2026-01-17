@@ -148,8 +148,8 @@ https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:-1 tvg-id="nitro.de" tvg-logo="https://picserve.netplus.ch/channels/nitro.png",nitro.
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
-#EXTINF:-1 tvg-id="pro7.ch" tvg-logo="https://picserve.netplus.ch/channels/pro7.png",Pro7 ?
-https://viamotionhsi.netplus.ch/live/eds/pro7hd/browser-dash/pro7hd.mpd
+#EXTINF:-1 tvg-id="pro7" tvg-logo="https://picserve.netplus.ch/channels/pro7.png",ProSieben HD
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://picserve.netplus.ch/channels/sat1.png",SAT.1 ?
 https://viamotionhsi.netplus.ch/live/eds/sat1/browser-dash/sat1.mpd
 #EXTINF:-1 tvg-id="kabel1.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1.png", Kabel 1 ?
@@ -280,12 +280,14 @@ https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-dash/almasriyah.mpd
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png",RTL nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
-#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://picserve.netplus.ch/channels/sixx.png",sixx HD ?
-https://viamotionhsi.netplus.ch/live/eds/sixx/browser-dash/sixx.mpd
+#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://picserve.netplus.ch/channels/sixx.png",sixx HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="br.de" tvg-logo="https://picserve.netplus.ch/channels/br.png",BR HD
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-dash/brhdsud.mpd
 #EXTINF:-1 tvg-id="wdr.de" tvg-logo="" tvg-logo="https://picserve.netplus.ch/channels/wdr.png",WDR HD
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="https://picserve.netplus.ch/channels/ndr.png",ndr HD
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:-1 tvg-id="hr.de" tvg-logo="https://picserve.netplus.ch/channels/hr.png",hr HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 #EXTINF:-1 tvg-id="mdr.de" tvg-logo="https://picserve.netplus.ch/channels/mdr.png",mdr HD
@@ -304,7 +306,7 @@ https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png",eurosport1 D
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1doku.png",kabel eins DOKU
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1doku.png",kabel eins DOKU ?
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-dash/kabel1doku.mpd
 #EXTINF:-1 tvg-id="pulsacht.de" tvg-logo="https://picserve.netplus.ch/channels/puls8.png",puls acht ?
 https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
