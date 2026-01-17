@@ -272,10 +272,10 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1,tvg-id="almaghribia.ma", Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
-#EXTINF:-1,tvg-id="nitro.de",nitro HD ?
+#EXTINF:-1,tvg-id="nitro.de",nitro
 https://viamotionhsi.netplus.ch/live/eds/nitro/browser-HLS8/nitro.m3u8
-#EXTINF:-1,tvg-id="sixx.de",sixx HD ?
-https://viamotionhsi.netplus.ch/live/eds/sixx/browser-HLS8/sixx.m3u8
+#EXTINF:-1,tvg-id="sixx.de",sixx HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1,tvg-id="br.de",BR HD ?
 https://viamotionhsi.netplus.ch/live/eds/br/browser-HLS8/br.m3u8
 #EXTINF:-1,tvg-id="wdr.de",WDR HD
@@ -594,3 +594,5 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="www.weo.fr" tvg-logo="",Wéo TV
 https://live-weo.digiteka.com/1189023466/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://i.postimg.cc/SQzVnq0S/dokusat.png" group-title="documentary",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
