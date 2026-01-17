@@ -47,8 +47,8 @@ https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 #EXTINF:-1 tvg-id="rmcstory.fr",RMC STORY HD 720p
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-#EXTINF:-1 tvg-id="bluezoom.ch",blue zoom F HD 720p ?
-https://viamotionhsi.netplus.ch/live/eds/bluezoomf/browser-HLS8/bluezoomf.m3u8
+#EXTINF:-1 tvg-id="bluezoom.ch",blue zoom F HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-id="lequipe.fr",L'EQUIPE 720p
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 #EXTINF:-1 tvg-id="ab1.be",AB1 720p
@@ -149,8 +149,8 @@ https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
 https://viamotionhsi.netplus.ch/live/eds/kabeleins/browser-HLS8/kabeleins.m3u8
 #EXTINF:-1 tvg-id="3sat.de", 3sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-id="swr.de", SWR HD ?
-https://viamotionhsi.netplus.ch/live/eds/swr-hd/browser-HLS8/swr-hd.m3u8
+#EXTINF:-1 tvg-id="swr.de", SWR HD
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 #EXTINF:-1 tvg-id="rtlsuper.de",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 #EXTINF:-1 tvg-id="kika.de",KIKA HD
@@ -165,8 +165,8 @@ https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
 #EXTINF:-1 tvg-id="tv24.ch",tv24
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:-1 tvg-id="bluezoomd.ch",blue zoom D HD 720p ?
-https://viamotionhsi.netplus.ch/live/eds/tczoomd/browser-HLS8/tczoomd.m3u8
+#EXTINF:-1 tvg-id="bluezoomd.ch",blue zoom D HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-id="RSILa1.ch",RSI La 1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSILa2.ch",RSI La 2 HD 720p
