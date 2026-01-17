@@ -267,14 +267,16 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1,tvg-id="almaghribia.ma", Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
-#EXTINF:-1,tvg-id="nitro.de",nitro HD ?
-https://viamotionhsi.netplus.ch/live/eds/nitro/browser-HLS8/nitro.m3u8
+#EXTINF:-1,tvg-id="nitro.de",nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1,tvg-id="sixx.de",sixx HD ?
 https://viamotionhsi.netplus.ch/live/eds/sixx/browser-HLS8/sixx.m3u8
 #EXTINF:-1,tvg-id="br.de",BR HD ?
 https://viamotionhsi.netplus.ch/live/eds/br/browser-HLS8/br.m3u8
 #EXTINF:-1,tvg-id="wdr.de",WDR HD
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="https://picserve.netplus.ch/channels/ndr.png",ndr HD
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
 #EXTINF:-1,tvg-id="hr.de",hr HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
 #EXTINF:-1,tvg-id="mdr.de",mdr HD
