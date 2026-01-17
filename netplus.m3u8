@@ -271,8 +271,8 @@ https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1,tvg-id="sixx.de",sixx HD ?
 https://viamotionhsi.netplus.ch/live/eds/sixx/browser-HLS8/sixx.m3u8
-#EXTINF:-1,tvg-id="br.de",BR HD ?
-https://viamotionhsi.netplus.ch/live/eds/br/browser-HLS8/br.m3u8
+#EXTINF:-1,tvg-id="br.de",BR HD
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 #EXTINF:-1,tvg-id="wdr.de",WDR HD
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
 #EXTINF:-1 tvg-id="ndr.de" tvg-logo="https://picserve.netplus.ch/channels/ndr.png",ndr HD
