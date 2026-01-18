@@ -308,7 +308,7 @@ https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="kabeleinsdocu.de" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png",kabel eins DOKU ?
 https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
-#EXTINF:-1 tvg-id="pulsacht.de" tvg-logo="https://picserve.netplus.ch/channels/puls8.png",puls acht ?
+#EXTINF:-1 tvg-id="puls8.de" tvg-logo="https://picserve.netplus.ch/channels/puls8.png",puls acht ?
 https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png",comedy central D HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
