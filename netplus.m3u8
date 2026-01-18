@@ -355,5 +355,5 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u8
 #EXTINF:-1, tvg-id="ptccbet.rs",PTC CBET HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
-#EXTINF:-1, tvg-id="bnt4.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png",BNT4 HD
+#EXTINF:-1, tvg-id="bntworld.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png",BNT4 HD
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
