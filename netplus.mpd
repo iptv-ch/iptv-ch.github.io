@@ -352,6 +352,8 @@ https://viamotionhsi.netplus.ch/live/eds/ric/browser-dash/ric.mpd
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png",DMAX Italia HD 720p
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 tvg-id="canaleit.it",CANALE Italia
+https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="https://picserve.netplus.ch/channels/nove.png",nove HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png",food network E
