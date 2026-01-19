@@ -267,7 +267,7 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 #EXTINF:-1 tvg-id="dmax.it",DMAX Italia HD 720p
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
-#EXTINF:-1 tvg-id="canaleit.it",CANALE Italia 720p
+#EXTINF:-1 tvg-id="canaleit.it",CANALE Italia
 https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u8
 #EXTINF:-1 tvg-id="VideoItalia.it",video italia HD
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
