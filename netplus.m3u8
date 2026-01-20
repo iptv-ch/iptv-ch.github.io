@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTS1.ch",RTS 1 HD 1080p
+#EXTREM netplus.ch tv over the top HTTP Live Stream in Switzerland unrelated to your internet provider and tv operator but could geoblocked.
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch",RTS 2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
@@ -135,7 +136,7 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRFinfo.ch",SRF info HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="daserstehd.de" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png", ARD Das Erste
+#EXTINF:-1 tvg-id="daserstehd.de" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png", ARD1 Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1 tvg-id="zdf.de",ZDF HD 720p
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
@@ -329,7 +330,7 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveintern
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="Aragontv.es",Aragon TV HD
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-#EXTINF:-1 tvg-id="Aragontv.es",star tve HD
+#EXTINF:-1 tvg-id="star.es",star HD (spa)
 https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
 #EXTINF:-1 tvg-id="recordnews.br",Record news
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
@@ -337,6 +338,8 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
 #EXTINF:-1 tvg-id="almaghribia.ma", Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="https://picserve.netplus.ch/channels/almasriyah.png",Al Masriyah HD
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 tvg-id="dmsat.rs",DMSAT
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 tvg-id="showturk.tr",show turk
