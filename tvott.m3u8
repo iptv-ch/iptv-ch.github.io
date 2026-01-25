@@ -395,18 +395,14 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="",ADN Animation Digital Network HD
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
-#EXTINF:-1 tvg-id="de.euronews.com" tvg-logo="https://picserve.netplus.ch/channels/euronewsde.png",euronews de
-https://youtu.be/CQ3KsEbsYHs
 #EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN news english
-https://youtu.be/_6dRRfnYJws
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN français
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="figarotv.com" tvg-logo="https://picserve.netplus.ch/channels/figarotv.png",Figaro TV HD
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="canal32.ch" tvg-logo="https://picserve.netplus.ch/channels/canal32.png",Canal32 HD 1080p
 https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
-#EXTINF:-1 tvg-id="agalega.gal" tvg-logo="",TV Galicia
-https://youtu.be/dBiXJlm6YWc
 #EXTINF:-1 tvg-id="wetter.tv" tvg-logo="https://picserve.netplus.ch/channels/wetter.png",wetter.tv HD
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="swiss-sport.tv/" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png",swiss sport tv HD
@@ -461,32 +457,18 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id=".fr" tvg-logo="https://picserve.netplus.ch/channels/mondeduloisir.png",MDL Monde Du Loisir TV HD
 https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="eurosport.fr" tvg-logo="https://picserve.netplus.ch/channels/eurosport1fr.png",Eurosport1 F HD
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
-#EXTINF:-1 tvg-id="eurosport.fr" tvg-logo="https://picserve.netplus.ch/channels/eurosport2fr.png",Eurosport2 F HD
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
 #EXTINF:-1 tvg-id="trace.tv" tvg-logo="https://picserve.netplus.ch/channels/tracesportstars.png",Trace Sport Stars HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.millenium.org" tvg-logo="https://picserve.netplus.ch/channels/mggesport.png",MGG ESport HD
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-id="motorvision.tv" tvg-logo="https://picserve.netplus.ch/channels/motorvision.png",MotorVision F HD
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:-1 tvg-id="sportenfrance.com" tvg-logo="https://picserve.netplus.ch/channels/sportenfrance.png",Sport en France HD
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
-#EXTINF:-1 tvg-id="canalplus.com" tvg-logo="https://picserve.netplus.ch/channels/canalplusclair.png",Canal+ en clair HD
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/canalplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/frequencenovelas.png",Frequence Novelas F HD
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/screamin.png",SCREAM IN F HD
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="cnews.fr" tvg-logo="https://picserve.netplus.ch/channels/cnewsprime.png",Cnews Prime HD
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews_prime.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfm2.png",BFM2. HD
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="BSmartTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/b-smart-fr.png" group-title="Informations Françaises",B SMART
-https://youtu.be/oh7jzc-nlKU
-#EXTINF:-1 tvg-chno="" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="Informations Françaises",LE MÉDIA TV
-https://youtu.be/0aI87TDsc9c
 #EXTINF:-1 tvg-id="melody.tv" tvg-logo="https://picserve.netplus.ch/channels/melody.png",Melody HD
 https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
 #EXTINF:-1 channel-id="GBBD1900009UD" tvg-id="GBBD1900009UD" group-title="Musique" tvg-chno="" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music",Vevo '70s & '80s
@@ -522,7 +504,7 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="01TV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_logo_TECH_and_Co_fondblanc_freebox_1000x1000_dbcd77195a.png" group-title="informations",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="" tvg-id="MaisonEtTravaux.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Maison_and_Travaux_TV_format_reduit_3_2_bis_d218712130.png" group-title="Style de vie/Pratique",MAISON & TRAVAUX
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1A0dZRzHTic2Yc0ef1PBQVRzjfXlF3pqTwbCi41lhgNncsx9uXkj7VWI1f_aPOI0Yt0O20O34hEwI7bvo22HuBCg36i3GvTtfP2bM2ITB9OnoCpRXNyc3qCfa9Yp1o4L)/dm/3/x85e5l8/s/live-720.m3u8
 #EXTINF:-1 channel-id="samsung-FRBC900003KP" tvg-id="FRBC900003KP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250923T010349SQUARE.png" group-title="Divertissement" tvg-chno="",Y'a que la vérité qui compte
 https://jmp2.uk/stvp-FRBC900003KP
 #EXTINF:-1 channel-id="samsung-FR3600003DS" tvg-id="FR3600003DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20251209T004448SQUARE.png" group-title="Divertissement" tvg-chno="",100% Comedy
@@ -605,3 +587,5 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",tagesschau24
+https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
