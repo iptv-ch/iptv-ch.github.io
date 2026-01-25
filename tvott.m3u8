@@ -587,5 +587,5 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",tagesschau24
+#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",Bénin TV HD
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
