@@ -161,4 +161,5 @@ rtp://239.186.70.172:10000
 rtp://239.186.84.180:10000
 #EXTINF:-1, Radio24 tv Il Sole 24 ORE HD
 rtp://239.186.70.33:10000
-
+#EXTINF:-1 tvg-id="discovery.it" tvg-name="discovery IT" tvg-logo="http://static.epg.best/it/discovery.it.png" tvg-chno="" channel-id="",Discovery I HD
+rtp://239.186.68.149:10000
