@@ -454,6 +454,8 @@ rtp://239.186.66.108:10000
 rtp://239.186.74.22:10000
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV IT" tvg-logo="https://static.epg.best/it/HGTV.it.png" tvg-chno="" channel-id="",Warner Bros Discovery HGTV I
 rtp://239.186.74.71:10000
+#EXTINF:-1 tvg-id="discovery.it" tvg-name="discovery IT" tvg-logo="http://static.epg.best/it/discovery.it.png" tvg-chno="" channel-id="",Discovery I
+rtp://239.186.64.191:10000
 #EXTINF:-1 ,TOP CALCIO 24
 rtp://239.186.74.79:10000
 #EXTINF:-1 ,senato italiano tv
