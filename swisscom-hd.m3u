@@ -505,6 +505,8 @@ rtp://239.186.64.160:10000
 rtp://239.186.70.172:10000
 #EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="ClassTV Moda IT" tvg-logo="https://static.epg.best/it/ClassTVModa.it.png" tvg-chno="354" channel-id="354",Class TV Moda HD
 rtp://239.186.84.180:10000
+#EXTINF:-1 tvg-id="discovery.it" tvg-name="Discovery IT" tvg-logo="https://static.epg.best/it/discovery.it.png" tvg-chno="" channel-id="",Discovery I HD
+rtp://239.186.68.149:10000
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="https://static.epg.best/it/RealTime.it.png" tvg-chno="362" channel-id="362",Warner Bros. Discovery Real Time HD
 rtp://239.186.84.103:10000
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE IT" tvg-logo="https://static.epg.best/it/NOVE.it.png" tvg-chno="361" channel-id="361",Warner Bros. Discovery NOVE HD
@@ -797,3 +799,5 @@ rtp://239.186.84.167:10000
 rtp://239.186.84.170:10000
 #EXTINF:-1 ,RTVI (rus)
 rtp://239.186.74.2:10000
+#EXTINF:-1,Info Channel HD
+rtp://239.186.70.168:10000
