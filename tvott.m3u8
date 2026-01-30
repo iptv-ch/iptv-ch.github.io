@@ -321,8 +321,9 @@ https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
 #EXTINF:-1 tvg-id="alpha.de",ARD alpha
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
-#EXTINF:-1 tvg-id="deluxmusic.de",DELUXE MUSIC
-https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+#EXTINF:-1 tvg-id="deluxmusic.de",DELUXE MUSIC HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
 #EXTINF:-1 tvg-id="rbb.de",rbb HD
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
 #EXTINF:-1 tvg-id="tvppolonia.pl",TVP POLONIA HD
@@ -579,8 +580,6 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/chunklist.m3u8
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
 #EXTINF:-1 tvg-id="kisskiss.it" tvg-logo="",KISS KISS HD
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="www.weo.fr" tvg-logo="",Wéo TV
-https://live-weo.digiteka.com/1189023466/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://i.postimg.cc/SQzVnq0S/dokusat.png" group-title="documentary",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV" tvg-logo="https://i.postimg.cc/L5DYvxw9/morethansportstv.png" group-title="sports",More Than Sports TV HD
