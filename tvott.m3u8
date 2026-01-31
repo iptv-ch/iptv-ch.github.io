@@ -540,8 +540,8 @@ https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/chunklist_w20
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png",ACTION TOTALE ADRÉNALINE
 https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",PUISSANCE TÉLÉVISION
-https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",PTV PUISSANCE TV
+https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png",ETV GUADELOUPE
 https://etvgp.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg",FUSION TV HD
@@ -588,3 +588,7 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",Bénin TV HD
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
+#EXTINF:-1 KALAC TV HD
+https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
+#EXTINF:-1 Musig24 Schweizer musik schlager
+https://tv.musig24.tv/hls/0/stream.m3u8
