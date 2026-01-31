@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png",Canal9 FHD
 https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
-#EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png",Léman bleu FHD
+#EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png",Léman bleu HD
 https://lemanbleu.vedge.infomaniak.com/livecast/ik:lemanbleu/manifest.m3u8
 #EXTINF:-1 tvg-id="latele.ch" tvg-logo="https://picserve.netplus.ch/channels/latele.png",LA TELE FHD
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
@@ -32,13 +32,13 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="",Africa24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="canal32.ch" tvg-logo="https://picserve.netplus.ch/channels/canal32.png",Canal32 HD 1080p
-https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-id="teletop.ch" tvg-logo="https://picserve.netplus.ch/channels/teletop.png",TeleTop
 https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
 #EXTINF:-1 tvg-id="www.alpe.tv" tvg-logo="https://picserve.netplus.ch/channels/alpe.png",alpe d'huez tv HD
 https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="dbmtv.com" tvg-logo="https://picserve.netplus.ch/channels/dbmtv.png",DBMTV HD Digital Black Music HD
-https://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8
+https://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="generations.fr" tvg-logo="https://picserve.netplus.ch/channels/generations.png",Generations TV HD
 https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblack.png",BB BLACK! HD
@@ -53,3 +53,5 @@ https://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3
 https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 KALAC TV HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
+#EXTINF:-1 PTV Puissance TV
+https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
