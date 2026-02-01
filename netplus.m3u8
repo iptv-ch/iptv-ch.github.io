@@ -142,7 +142,7 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 #EXTINF:-1 tvg-id="rtl.de" tvg-logo="https://picserve.netplus.ch/channels/rtl.png",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTINF:-1 tvg-id="rtl2.de" tvg-logo="https://picserve.netplus.ch/channels/rtlzwei.png",RTLZWEI
+#EXTINF:-1 tvg-id="rtl2.de" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png",RTLZWEI
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-id="pro7.de" tvg-logo="https://picserve.netplus.ch/channels/pro7.png",ProSieben HD
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
