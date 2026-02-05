@@ -218,7 +218,7 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychan
 https://viamotionhsi.netplus.ch/live/eds/ric/browser-dash/ric.mpd
 #EXTINF:-1 tvg-id="7maxx.de" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
-#EXTINF:-1, tvg-id="dmax.de" tvg-logo="https://picserve.netplus.ch/channels/dmax.png",DMAX CH
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://picserve.netplus.ch/channels/dmax.png",DMAX CH
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:-1 tvg-id="deluxmusic.de" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png",DELUXE MUSIC
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
