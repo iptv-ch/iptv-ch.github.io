@@ -152,15 +152,15 @@ https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-id="prosieben.de",Pro Sieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="sat1.de",SAT.1 ?
-https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
+#EXTINF:-1 tvg-id="sat1.de",SAT.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kabeleins.de", Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/kabel1/browser-HLS8/kabel1.m3u8
 #EXTINF:-1 tvg-id="3sat.de", 3sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-id="swr.de", SWR HD ?
-https://viamotionhsi.netplus.ch/live/eds/swr-hd/browser-HLS8/swr-hd.m3u8
+#EXTINF:-1 tvg-id="swr.de", SWR HD
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 #EXTINF:-1 tvg-id="rtlsuper.de",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 #EXTINF:-1 tvg-id="kika.de",KIKA HD
@@ -175,7 +175,7 @@ https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
 #EXTINF:-1 tvg-id="tv24.ch",tv24 HD
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png",blue zoom D HD 720p ?
+#EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png",blue zoom D HD 720p
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-id="RSILa1.ch",RSI La 1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
@@ -295,8 +295,8 @@ https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 #EXTINF:-1 tvg-id="zdfinfo.de",zdf info HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
-#EXTINF:-1 tvg-id="sat.1gold.de",SAT.1 GOLD HD ?
-https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-HLS8/sat1gold.m3u8
+#EXTINF:-1 tvg-id="sat.1gold.de",SAT.1 GOLD HD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="welt.de",WeLT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 tvg-id="ntv.de",ntv
@@ -330,6 +330,8 @@ https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
 #EXTINF:-1 tvg-id="vox.de",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-id="atv.de",atv HD
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 #EXTINF:-1 tvg-id="atv.de",atv2 HD
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
 #EXTINF:-1 tvg-id="onehd.de" tvg-logo="https://picserve.netplus.ch/channels/onehd.png",ARD one HD
@@ -592,3 +594,5 @@ https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 #EXTINF:-1 Musig24 Schweizer musik schlager
 https://tv.musig24.tv/hls/0/stream.m3u8
+#EXTINF:-1 TVPolonia info HD
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
