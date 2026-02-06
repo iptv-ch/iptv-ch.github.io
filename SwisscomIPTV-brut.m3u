@@ -171,7 +171,7 @@ rtp://239.186.64.91:10000
 rtp://239.186.64.92:10000
 #EXTINF:-1,TVO
 rtp://239.186.64.94:10000
-#EXTINF:-1,Tele Bielingue
+#EXTINF:-1,TeleBielingue
 rtp://239.186.64.95:10000
 #EXTINF:-1,Tele Top
 rtp://239.186.64.96:10000
@@ -997,7 +997,7 @@ rtp://239.186.68.94:10000
 rtp://239.186.68.95:10000
 #EXTINF:-1,MySports 2 D HD (deu)
 rtp://239.186.68.96:10000
-#EXTINF:-1,Swiss 1 HD
+#EXTINF:-1,Swiss1 HD
 rtp://239.186.68.97:10000
 #EXTINF:-1,RTL CH HD
 rtp://239.186.68.98:10000
@@ -1473,7 +1473,7 @@ rtp://239.186.70.79:10000
 rtp://239.186.70.80:10000
 #EXTINF:-1,Crime District HD (fra)
 rtp://239.186.70.81:10000
-#EXTINF:-1,Tele Bielingue HD
+#EXTINF:-1,TeleBielingue HD
 rtp://239.186.70.82:10000
 #EXTINF:-1,Universal TV HD (deu)
 rtp://239.186.70.83:10000
@@ -1637,9 +1637,9 @@ rtp://239.186.70.172:10000
 rtp://239.186.70.173:10000
 #EXTINF:-1,canalb F HD (prochainement démarrage 1.1.2026)
 rtp://239.186.70.174:10000
-#EXTINF:-1,World Economic Forum TV 2 HD
+#EXTINF:-1,World Economic Forum TV 2 HD eng
 rtp://239.186.70.175:10000
-#EXTINF:-1,World Economic Forum TV 1 HD
+#EXTINF:-1,World Economic Forum TV 1 HD deu
 rtp://239.186.70.176:10000
 #EXTINF:-1,TV Dukagjini HD
 rtp://239.186.70.178:10000
@@ -1941,7 +1941,7 @@ rtp://239.186.74.106:10000
 rtp://239.186.74.107:10000
 #EXTINF:-1,Now 70s
 rtp://239.186.74.108:10000
-#EXTINF:-1,MySports 10 D (deu)
+#EXTINF:-1,MySports Uno I (ita)
 rtp://239.186.74.109:10000
 #EXTINF:-1,CANAL+ PREMIER LEAGUE
 rtp://239.186.74.110:10000
@@ -2237,7 +2237,7 @@ rtp://239.186.84.107:10000
 rtp://239.186.84.109:10000
 #EXTINF:-1,MySports 10 F HD (fra)
 rtp://239.186.84.110:10000
-#EXTINF:-1,MySports 10 D HD (deu)
+#EXTINF:-1,MySports Uno I HD (ita)
 rtp://239.186.84.111:10000
 #EXTINF:-1,CANAL+ PREMIER LEAGUE HD
 rtp://239.186.84.112:10000
