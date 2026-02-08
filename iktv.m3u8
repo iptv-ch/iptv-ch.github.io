@@ -51,9 +51,9 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 https://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdnMrZn/a24.png",AFRICA 24 EN HD
 https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 KALAC TV HD
+#EXTINF:-1 ,""KALAC TV HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
-#EXTINF:-1 PTV Puissance TV
+#EXTINF:-1 ,PTV Puissance TV
 https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png",ETV GUADELOUPE HD
 https://etvgp.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
@@ -67,5 +67,9 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="MUSIQUE",FUN RADIO TV BE HD
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:-1 TVD TV Découverte
+#EXTINF:-1 ,TVD TV Découverte
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
+#EXTINF:-1 ,RHT Radio Haute Tension Guadeloupe
+https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5tbzFI.png",Espace TV Ghana
+https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
