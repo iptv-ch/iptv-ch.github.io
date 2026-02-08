@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png",léman bleu HD
+https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png",Canal9 FHD
 https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
-#EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png",Léman bleu HD
-https://lemanbleu.vedge.infomaniak.com/livecast/ik:lemanbleu/manifest.m3u8
 #EXTINF:-1 tvg-id="latele.ch" tvg-logo="https://picserve.netplus.ch/channels/latele.png",LA TELE FHD
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png",Canal Alpha JU FHD
@@ -13,19 +13,19 @@ https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 #EXTINF:-1 tvg-id="carac1.ch" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png",carac1 FHD
 https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
-#EXTINF:-1 tvg-id="carac2.tv" tvg-logo="https://picserve.netplus.ch/channels/onetv.png",carac2 FHD (ex onetv  HD)
+#EXTINF:-1 tvg-id="carac2.tv" tvg-logo="https://picserve.netplus.ch/channels/onetv.png",carac2 FHD
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="carac3.tv" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png",carac3 FHD  (ex lfmtv  HD)
+#EXTINF:-1 tvg-id="carac3.tv" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png",carac3 FHD
 https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="carac4.tv" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png",carac4 FHD (ex tv suisse plus HD)
+#EXTINF:-1 tvg-id="carac4.tv" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png",carac4 FHD
 https://edge20.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
-#EXTINF:-1 tvg-id="carac5.tv" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png",carac5 FHD (ex teleswizz HD)
+#EXTINF:-1 tvg-id="carac5.tv" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png",carac5 FHD
 https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png",tvm3 HD
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
-#EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="",kanal9 HD
+#EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png",kanal9 HD
 https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="",Tele Bielingue
+#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="",TeleBielingue HD
 https://telebielinguech.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:-1 tvg-id="africa24tv.com" tvg-logo="",Africa24
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
@@ -51,7 +51,7 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 https://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdnMrZn/a24.png",AFRICA 24 EN HD
 https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 ,""KALAC TV HD
+#EXTINF:-1 ,KALAC TV HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 #EXTINF:-1 ,PTV Puissance TV
 https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
@@ -67,7 +67,7 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="MUSIQUE",FUN RADIO TV BE HD
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:-1 ,TVD TV Découverte
+#EXTINF:-1 ,TVD TV Découverte HD
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
 #EXTINF:-1 ,RHT Radio Haute Tension Guadeloupe
 https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
