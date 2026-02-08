@@ -610,7 +610,3 @@ https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manif
 https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 ,Madras FM TV HD
 https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 ,TVK Cambodia
-https://live.kh.malimarcdn.com/live/tvk.stream/manifest.m3u8
-#EXTINF:-1 ,TVK2 Cambodia
-https://live.kh.malimarcdn.com/live/tvk2.stream/manifest.m3u8
