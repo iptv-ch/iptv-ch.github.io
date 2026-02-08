@@ -608,3 +608,5 @@ https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
 https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5tbzFI.png",Espace TV Ghana
 https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1, Madras FM TV HD
+https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
