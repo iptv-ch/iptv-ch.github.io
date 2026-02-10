@@ -625,3 +625,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png",SUR 1 ANDALUCÍA
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1 tvg-id="arte.de",arte d HD 720p
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang.kr",arirang korea HD 720p
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
