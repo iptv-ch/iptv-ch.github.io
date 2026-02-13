@@ -1,5 +1,9 @@
 # IPTV m3u Playlists for Swiss Providers
 
+Warning legal: 
+usage solely private home use only, totally forbidden business paid piracy at all without consent from the official source operator.
+there no piracy at all, list from my own free time as is for tv open community.
+
 Still waiting iptv stream multicast from upc (now: sunrise upc)
 
 This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:
