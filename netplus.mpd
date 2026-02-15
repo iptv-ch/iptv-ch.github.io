@@ -191,8 +191,8 @@ https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:-1 tvg-id="hr.de" tvg-logo="https://picserve.netplus.ch/channels/hr.png",hr HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 #EXTINF:-1 tvg-id="mdr.de" tvg-logo="https://picserve.netplus.ch/channels/mdr.png",mdr HD
-EXTREM https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png",zdf neo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-id="zdfinfohd.de" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png",zdf info HD
