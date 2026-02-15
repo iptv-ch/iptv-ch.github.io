@@ -81,5 +81,5 @@ https://rtbguiriko-1.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
 #EXTREM https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
 #EXTREM #EXTINF:-1 ,Impact TV [Not 24/7] to check if still live
 #EXTREM https://fluxtvimpact.vedge.infomaniak.com/livecast/ik:fluxtvimpact/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png",na tv HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png",na tv HD région Nouvelle-Aquitaine
 https://naradio.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
