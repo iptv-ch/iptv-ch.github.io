@@ -75,9 +75,9 @@ This will only work on your home network if Swisscom is your broadband provider 
 No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 
 ****
-## TV over the top tv ott hls ##
+## webtv ##
 
-**https://iptv-ch.github.io/tvott.m3u8**
+**https://iptv-ch.github.io/webtv.m3u**
 
 ## ipradioch.m3u Swiss ##
 
