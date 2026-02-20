@@ -122,7 +122,7 @@ https://edge20.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
 https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="nrtv.ch",nrtv HD 720p
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
-#EXTINF:-1 tvg-id="maxtv.ch",maxtv / DieuTV
+#EXTINF:-1 tvg-id="maxtv.ch",DieuTV
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch",tvm3 HD
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
@@ -268,8 +268,6 @@ https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 #EXTINF:-1 tvg-id="trtturk.tr",TRT TURK HD
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
-#EXTINF:-1 tvg-id="2m.ma",2M Maroc
-https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-HLS8/2mmaroc.m3u8
 #EXTINF:-1 tvg-id="cctv4.cn",cctv4 HD
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 #EXTINF:-1 tvg-id="VideoItalia.it",video italia HD
@@ -323,9 +321,7 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
 #EXTINF:-1 tvg-id="alpha.de",ARD alpha
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
 #EXTINF:-1 tvg-id="deluxmusic.de",DELUXE MUSIC HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
-#EXTINF:-1 tvg-id="deluxmusic.de",DELUXE MUSIC HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="rbb.de",rbb HD
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
@@ -341,8 +337,6 @@ https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 #EXTINF:-1 tvg-id="duna.hu",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
-#EXTINF:-1 tvg-id="tunisie.tn",tunisie
-https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-HLS8/tunisienationale.m3u8
 #EXTINF:-1 tvg-id="eurod.tr",EUROD HD
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
 #EXTINF:-1 tvg-id="dmsat.rs",DMSAT
@@ -421,12 +415,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
 https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
 #EXTINF:-1 tvg-id="telebasel.ch" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png",TeleBasel HD
 https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8
-#EXTINF:-1 tvg-id="telezueri.ch" tvg-logo="https://picserve.netplus.ch/channels/telezueri.png",TeleZüri HD
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/VhYG1bBAxmL8o2oDQj_gPg/index-s32.m3u8
-#EXTINF:-1 tvg-id="telem1.ch" tvg-logo="https://picserve.netplus.ch/channels/telem1.png",Tele M1 HD
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/kfXPNZDgr_dXTsaaChhTBQ/index-s32.m3u8
-#EXTINF:-1 tvg-id="tele1.ch" tvg-logo="https://picserve.netplus.ch/channels/tele1.png",Tele1 HD
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/wV_SSlEQskAVSpwtofzL6A/index-s32.m3u8
 #EXTINF:-1 tvg-id="teletecino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png",teletecino HD
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-id="bfmtv.com" tvg-logo="https://picserve.netplus.ch/channels/alsace20.png",BFMTV Alsace
@@ -509,8 +497,6 @@ https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="01TV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_logo_TECH_and_Co_fondblanc_freebox_1000x1000_dbcd77195a.png" group-title="informations",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="" tvg-id="MaisonEtTravaux.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Maison_and_Travaux_TV_format_reduit_3_2_bis_d218712130.png" group-title="Style de vie/Pratique",MAISON & TRAVAUX
-https://live.eu-north-1a.cf.dmcdn.net/sec2(1A0dZRzHTic2Yc0ef1PBQVRzjfXlF3pqTwbCi41lhgNncsx9uXkj7VWI1f_aPOI0Yt0O20O34hEwI7bvo22HuBCg36i3GvTtfP2bM2ITB9OnoCpRXNyc3qCfa9Yp1o4L)/dm/3/x85e5l8/s/live-720.m3u8
 #EXTINF:-1 channel-id="samsung-FRBC900003KP" tvg-id="FRBC900003KP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250923T010349SQUARE.png" group-title="Divertissement" tvg-chno="",Y'a que la vérité qui compte
 https://jmp2.uk/stvp-FRBC900003KP
 #EXTINF:-1 channel-id="samsung-FR3600003DS" tvg-id="FR3600003DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20251209T004448SQUARE.png" group-title="Divertissement" tvg-chno="",100% Comedy
@@ -601,6 +587,8 @@ https://tv.musig24.tv/hls/0/stream.m3u8
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 ,Euronews. english HD
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 ,Euronews. german HD
+https://www.youtube.com/euronewsde/live
 #EXTINF:-1 ,STINGRAY iConcerts HD
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 ,English Club TV
