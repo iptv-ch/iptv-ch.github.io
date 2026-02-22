@@ -280,13 +280,13 @@ https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png",BBC ONE HD ?
 https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
-#EXTINF:-1 tvg-id="bbctwo.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png",BBC TWO HD 
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png",BBC CBBC HD
+#EXTINF:-1 tvg-id="bbc3cbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png",BBC CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:-1 tvg-id="bbccbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png",BBC FOUR CBeebies HD 
+#EXTINF:-1 tvg-id="bbc4cbeebies.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png",BBC FOUR CBeebies HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png",BBC NEWS HD
+#EXTINF:-1 tvg-id="bbcworld.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:-1 tvg-id="itv.uk" tvg-logo="https://picserve.netplus.ch/channels/itv.png",itv1 HD ?
 https://viamotionhsi.netplus.ch/live/eds/itv/browser-dash/itv.mpd
