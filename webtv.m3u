@@ -278,8 +278,6 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
 #EXTINF:-1 tvg-id="almaghribia.ma", Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
-#EXTINF:-1 tvg-id="nitro.de",NITRO.
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-id="sixx.de",sixx HD
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="br.de",BR HD
@@ -467,9 +465,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 channel-id="GBBC2100002HP" tvg-id="GBBC2100002HP" group-title="Musique" tvg-chno="" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music",Vevo '90s & '00s
 https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1 channel-id="GB35000017V" tvg-id="GB35000017V" group-title="Musique" tvg-chno="" tvg-name="Vevo Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251028T010351SQUARE.png" group-title="Music",Vevo Christmas
-https://jmp2.uk/stvp-GB35000017V
-#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" group-title="Musique" tvg-chno="" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
+#EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" group-title="Musique" tvg-chno="" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & RnB
 https://jmp2.uk/stvp-GBBD2300001C0
 #EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" group-title="Musique" tvg-chno="" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
@@ -551,7 +547,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="ClubbingTV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/274_8e77a87554.png" group-title="Musique",CLUBBING TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="",Matélé (1080i)
+#EXTINF:-1 tvg-id="matele.be",MATELE (1080i)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="riksat.cy",RIK SAT HD
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
