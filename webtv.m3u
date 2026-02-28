@@ -125,7 +125,7 @@ https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 #EXTINF:-1 tvg-id="maxtv.ch",DieuTV
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch",tvm3 HD
-https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
+https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="tvmonaco.fr",TVMONACO HD
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-id="valtv.ch",val TV HD
@@ -609,5 +609,9 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang.kr",arirang korea HD 720p
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec
+#EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec HD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
+#EXTINF:-1 tvg-logo="rtb3.bf",rtb3 HD
+https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="letrot.com",RACING TROT HD
+https://letrot-racingtrot-p32-cdn.hexaglobe.net/eb3bcad7cfe1c998b3dff59be0fc7880/69a2451e/letrot/letrot-mobileapp-ios-1/eqdracingtrot_fre.smil/slot10_1080p.m3u8
