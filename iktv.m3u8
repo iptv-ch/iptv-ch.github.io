@@ -18,11 +18,11 @@ https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 #EXTINF:-1 tvg-id="carac3.tv" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png",carac3 FHD
 https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-id="carac4.tv" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png",carac4 FHD
-https://edge20.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+https://compack_media_1.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 #EXTINF:-1 tvg-id="carac5.tv" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png",carac5 FHD
 https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png",tvm3 HD
-https://livevideo.infomaniak.com/streaming/livecast/tvm3/manifest.m3u8
+https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png",kanal9 HD
 https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 #EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="",TeleBielingue HD
@@ -83,3 +83,7 @@ https://rtbguiriko-1.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
 #EXTREM https://fluxtvimpact.vedge.infomaniak.com/livecast/ik:fluxtvimpact/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png",na tv HD région Nouvelle-Aquitaine
 https://naradio.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
+#EXTINF:-1 tvg-logo="rtb1.bf",rtb1 La Radiodiffusion-télévision du Burkina
+https://edge17.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-logo="rtb3.bf",rtb3 langues nationales HD La Radiodiffusion-télévision du Burkina
+https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
