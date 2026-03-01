@@ -85,5 +85,10 @@ https://rtbguiriko-1.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
 https://naradio.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
 #EXTINF:-1 tvg-logo="rtb1.bf",rtb1 La Radiodiffusion-télévision du Burkina
 https://edge17.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
-#EXTINF:-1 tvg-logo="rtb3.bf",rtb3 langues nationales HD La Radiodiffusion-télévision du Burkina
+#EXTINF:-1 tvg-id="rtb3.bf",rtb3 langues nationales HD La Radiodiffusion-télévision du Burkina
 https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="bamtv.live",BamTV BelAfrika
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-id="lnradio.be",LNRadio Belqique
+https://funlive.vedge.infomaniak.com/livecast/ik:funlive/manifest.m3u8
+
