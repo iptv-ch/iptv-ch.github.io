@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTREM netplus.ch tv over the top mpeg dash Dynamic Adaptive Streaming over HTTP player available in Switzerland unrelated to your internet provider and tv operator but could geoblocked.
+#EXTREM netplus.ch tv over the top mpeg dash Dynamic Adaptive Streaming over HTTP player available in Switzerland unrelated to your internet provider and tv operator but could be geoblocked and scrambled if not real customer of netplus.ch
+#EXTREM strictly private home use without business piracy and need official aknowledge of owners and paid due if you make business and win money with it.
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png",RTS 2 HD 1080p
@@ -206,10 +207,10 @@ https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png",eurosport1 D
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:-1 tvg-id="kabeleinsdocu.de" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png",kabel eins DOKU ?
-https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
-#EXTINF:-1 tvg-id="puls8.de" tvg-logo="https://picserve.netplus.ch/channels/puls8.png",puls acht ?
-https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash/puls8.mpd
+#EXTINF:-1 tvg-id="kabeleinsdocu.de" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png",kabel eins DOKU scrambled
+https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash-VMX/kabeleinsdocu.mpd
+#EXTINF:-1 tvg-id="puls8.de" tvg-logo="https://picserve.netplus.ch/channels/puls8.png",puls acht scrambled
+https://viamotionhsi.netplus.ch/live/eds/puls8/browser-dash-VMX/puls8.mpd
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png",comedy central D HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png",comedy central+1 D
@@ -218,8 +219,8 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedyce
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
 #EXTINF:-1 tvg-id="ric.ch" tvg-logo="https://picserve.netplus.ch/channels/ric.png",RiC D
 https://viamotionhsi.netplus.ch/live/eds/ric/browser-dash/ric.mpd
-#EXTINF:-1 tvg-id="7maxx.de" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png",7MAXX ?
-https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
+#EXTINF:-1 tvg-id="7maxx.de" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png",7MAXX scrambled
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
 #EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://picserve.netplus.ch/channels/dmax.png",DMAX CH
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:-1 tvg-id="deluxmusic.de" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png",DELUXE MUSIC
@@ -278,8 +279,8 @@ https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mp
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:-1 tvg-id="la7cinema.it" tvg-logo="https://picserve.netplus.ch/channels/la7d.png",LA7 CINEMA HD 720p
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png",BBC ONE HD ?
-https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png",BBC ONE HD scrambled
+https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-dash-VMX/bbc1.mpd
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-id="bbc3cbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png",BBC CBBC HD
@@ -288,8 +289,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-id="bbcworld.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
-#EXTINF:-1 tvg-id="itv.uk" tvg-logo="https://picserve.netplus.ch/channels/itv.png",itv1 HD ?
-https://viamotionhsi.netplus.ch/live/eds/itv/browser-dash/itv.mpd
+#EXTINF:-1 tvg-id="itv.uk" tvg-logo="https://picserve.netplus.ch/channels/itv.png",itv1 HD scrambled 
+https://viamotionhsi.netplus.ch/live/eds/itv/browser-dash-VMX/itv.mpd
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://picserve.netplus.ch/channels/itv2.png",itv2 HD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1 tvg-id="itv3.uk" tvg-logo="https://picserve.netplus.ch/channels/itv3.png",itv3 HD
