@@ -118,6 +118,8 @@ rtp://239.186.68.167:10000
 rtp://239.186.70.24:10000
 #EXTINF:-1,canalb F HD
 rtp://239.186.70.174:10000
+#EXTINF:-1,NOVO19 HD (fra)
+rtp://239.186.70.167:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC ONE HD
 rtp://239.186.68.43:10000
@@ -215,11 +217,13 @@ rtp://239.186.74.108:10000
 rtp://239.186.74.106:10000
 #EXTINF:-1 tvg-id="NowRock.uk" tvg-name="Now 90s UK" tvg-logo="https://static.epg.best/gb/NowRocks.uk.png" tvg-chno="" channel-id="",Now Rock
 rtp://239.186.66.133:10000
+#EXTINF:-1 tvg-id="GreatMystery.uk" tvg-name="Great! Mystery UK" tvg-logo="https://static.epg.best/gb/Greatmystery.uk.png" tvg-chno="" channel-id="",GREAT! Mystery
+rtp://239.186.74.11:10000
 #EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime UK" tvg-logo="https://static.epg.best/gb/TrueCrime.uk.png" tvg-chno="" channel-id="",TRUE CRIME
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance UK" tvg-logo="https://static.epg.best/gb/GreatClassic.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
-#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies UK" tvg-logo="https://static.epg.best/gb/GreatMovies.uk.png" tvg-chno="" channel-id="",GREAT! movies
+#EXTINF:-1 tvg-id="GreatMystery.uk" tvg-name="Great! Mystery UK" tvg-logo="https://static.epg.best/gb/GreatMystery.uk.png" tvg-chno="" channel-id="",GREAT! Mystery
 rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! action
 rtp://239.186.74.58:10000
