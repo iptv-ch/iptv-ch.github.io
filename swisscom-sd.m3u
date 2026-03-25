@@ -174,10 +174,10 @@ rtp://239.186.74.95:10000
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance UK" tvg-logo="https://static.epg.best/gb/GreatRomance.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
-#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies UK" tvg-logo="https://static.epg.best/gb/GreatMovies.uk.png" tvg-chno="" channel-id="",GREAT! movies
-rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! action
 rtp://239.186.74.58:10000
+#EXTINF:-1 tvg-id="GreatMystery.uk" tvg-name="Great! Mystery UK" tvg-logo="https://static.epg.best/gb/GreatMystery.uk.png" tvg-chno="" channel-id="",GREAT! Mystery
+rtp://239.186.74.11:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
 rtp://239.186.64.2:10000
