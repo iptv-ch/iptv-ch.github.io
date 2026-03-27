@@ -1635,9 +1635,9 @@ rtp://239.186.70.170:10000
 rtp://239.186.70.171:10000
 #EXTINF:-1,cielo HD
 rtp://239.186.70.172:10000
-#EXTINF:-1,canalb D HD (demnächst start 1.1.2026)
+#EXTINF:-1,canalb D HD (demnächst start 1.7.2026)
 rtp://239.186.70.173:10000
-#EXTINF:-1,canalb F HD (prochainement démarrage 1.1.2026)
+#EXTINF:-1,canalb F HD (prochainement démarrage 1.7.2026)
 rtp://239.186.70.174:10000
 #EXTINF:-1,World Economic Forum TV 2 HD eng
 rtp://239.186.70.175:10000
