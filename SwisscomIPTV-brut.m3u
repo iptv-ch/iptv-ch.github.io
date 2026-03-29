@@ -1345,6 +1345,8 @@ rtp://239.186.70.14:10000
 rtp://239.186.70.15:10000
 #EXTINF:-1,MySports 5 F HD (fra)
 rtp://239.186.70.16:10000
+#EXTINF:-1,ATV Avrupa HD
+rtp://239.186.70.17:10000
 #EXTINF:-1,CT24 HD
 rtp://239.186.70.18:10000
 #EXTINF:-1,blue Sport Live 01 HD (deu)
