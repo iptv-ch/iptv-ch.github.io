@@ -517,3 +517,8 @@ https://webradiostream.eu:8200/stream
 https://maxxima.mine.nu/lemixx
 #EXTINF:-1,Max Radio
 https://maxfm.ice.infomaniak.ch/maxfm-grenoble-64.aac
+#EXTINF:-1,NETRADIO
+https://c22.radioboss.fm:8847/stream
+#EXTINF:-1,radio zones
+http://radiozones.dyndns.org:8000/radiozones
+
