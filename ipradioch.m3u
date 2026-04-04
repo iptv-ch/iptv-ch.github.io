@@ -515,4 +515,5 @@ http://nancy-webradio.ice.infomaniak.ch/nancy-webradio-32.aac
 https://webradiostream.eu:8200/stream
 #EXTINF:-1,LeMiXX RADIO
 https://maxxima.mine.nu/lemixx
-
+#EXTINF:-1,Max Radio
+https://maxfm.ice.infomaniak.ch/maxfm-grenoble-64.aac
