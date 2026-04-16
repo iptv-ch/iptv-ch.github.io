@@ -127,7 +127,7 @@ rtp://239.186.64.74:10000
 rtp://239.186.64.75:10000
 #EXTINF:-1,cielo
 rtp://239.186.64.76:10000
-#EXTINF:-1,RTP Int.
+#EXTINF:-1,RTP mundo_
 rtp://239.186.64.77:10000
 #EXTINF:-1,DM Sat
 rtp://239.186.64.79:10000
@@ -971,11 +971,11 @@ rtp://239.186.74.25:10000
 rtp://239.186.74.40:10000
 #EXTINF:-1,Duna TV
 rtp://239.186.74.52:10000
-#EXTINF:-1,Great! movies classic
+#EXTINF:-1,Great! Romance
 rtp://239.186.74.53:10000
-#EXTINF:-1,Great! movies
+#EXTINF:-1,Great! Mystery
 rtp://239.186.74.55:10000
-#EXTINF:-1,Great! movies action
+#EXTINF:-1,Great! ACTION
 rtp://239.186.74.58:10000
 #EXTINF:-1,Camera dei Deputati
 rtp://239.186.74.59:10000
@@ -1231,5 +1231,3 @@ rtp://239.186.84.178:10000
 rtp://239.186.84.180:10000
 #EXTINF:-1,BOM Cine HD
 rtp://239.186.84.181:10000
-
-
