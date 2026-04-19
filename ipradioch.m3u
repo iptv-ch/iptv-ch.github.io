@@ -521,4 +521,9 @@ https://maxfm.ice.infomaniak.ch/maxfm-grenoble-64.aac
 https://c22.radioboss.fm:8847/stream
 #EXTINF:-1,radio zones
 http://radiozones.dyndns.org:8000/radiozones
-
+#EXTINF:-1,BBC one radio
+https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1,skynews radio
+http://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1,GBNews radio
+https://listen-gbnews.sharp-stream.com/gbnews.mp3
