@@ -305,74 +305,74 @@ https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" tvg-country="EN" tvg-language="English" group-title="UK news",CNBC 720p
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png",bloomberg HD
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" tvg-country="EN" tvg-language="English" group-title="UK news",bloomberg HD
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
-#EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png",QUEST HD
+#EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",QUEST HD
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
-#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png",channel4 HD
+#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",channel4 HD
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-id="channel5.uk" tvg-logo="https://picserve.netplus.ch/channels/channel5.png",channel5 HD
+#EXTINF:-1 tvg-id="channel5.uk" tvg-logo="https://picserve.netplus.ch/channels/channel5.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",channel5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png",FILM4
+#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png" tvg-country="EN" tvg-language="English" group-title="UK movie",FILM4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://picserve.netplus.ch/channels/more4.png",More4
+#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://picserve.netplus.ch/channels/more4.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
-#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png",food network E
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png" tvg-country="EN" tvg-language="English" group-title="UK food",food network E
 https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
-#EXTINF:-1 tvg-id="tvcnews.ng" tvg-logo="https://picserve.netplus.ch/channels/tvcnews.png",TVCNEWS
+#EXTINF:-1 tvg-id="tvcnews.ng" tvg-logo="https://picserve.netplus.ch/channels/tvcnews.png" tvg-country="NG" tvg-language="English" group-title="EN news",TVCNEWS
 https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
-#EXTINF:-1 tvg-id="nhkworldjapan.jp" tvg-logo="https://picserve.netplus.ch/channels/nhk.png",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhkworldjapan.jp" tvg-logo="https://picserve.netplus.ch/channels/nhk.png" tvg-country="JP" tvg-language="English" group-title="EN generalist",NHK WORLD JAPAN
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
-#EXTINF:-1 tvg-id="rtpi.pt" tvg-logo="https://picserve.netplus.ch/channels/rtpi.png",RTP internacional
+#EXTINF:-1 tvg-id="rtpi.pt" tvg-logo="https://picserve.netplus.ch/channels/rtpi.png" tvg-country="PT" tvg-language="Portuguese" group-title="PT generalist",RTP mundo_
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
-#EXTINF:-1 tvg-id="Rederecordinternacional.br" tvg-logo="https://picserve.netplus.ch/channels/rederecordinternacional.png",Rede Record internacional HD
+#EXTINF:-1 tvg-id="Rederecordinternacional.br" tvg-logo="https://picserve.netplus.ch/channels/rederecordinternacional.png" tvg-country="BR" tvg-language="Portuguese" group-title="BR generalist",Rede Record internacional HD
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
-#EXTINF:-1 tvg-id="tveinternacional.es" tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png",tve internacional HD
+#EXTINF:-1 tvg-id="tveinternacional.es" tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",tve internacional HD
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-#EXTINF:-1 tvg-id="canal24horas.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png",24h HD
+#EXTINF:-1 tvg-id="canal24horas.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png" tvg-country="ES" tvg-language="Spanish" group-title="ES news",24h HD
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
-#EXTINF:-1 tvg-id="Aragontv.es" tvg-logo="https://picserve.netplus.ch/channels/aragontv.png",Aragon TV HD
+#EXTINF:-1 tvg-id="Aragontv.es" tvg-logo="https://picserve.netplus.ch/channels/aragontv.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Aragon TV HD
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-#EXTINF:-1 tvg-id="starhd.es" tvg-logo="https://picserve.netplus.ch/channels/starhd.png",star ES HD
+#EXTINF:-1 tvg-id="starhd.es" tvg-logo="https://picserve.netplus.ch/channels/starhd.png" tvg-country="ES" tvg-language="Spanish" group-title="ES novelas",star ES HD
 https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
-#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://picserve.netplus.ch/channels/recordnews.png",Record news internacional
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://picserve.netplus.ch/channels/recordnews.png" tvg-country="BR" tvg-language="Portuguese" group-title="BR news",Record news internacional
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
-#EXTINF:-1 tvg-id="alarabiya.net" tvg-logo="https://picserve.netplus.ch/channels/alarabiya.png",Al Arabiya HD
+#EXTINF:-1 tvg-id="alarabiya.net" tvg-logo="https://picserve.netplus.ch/channels/alarabiya.png" tvg-country="UA" tvg-language="Arabic" group-title="UA generalist",Al Arabiya HD
 https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
-#EXTINF:-1 tvg-id="almaghribia.ma" tvg-logo="https://picserve.netplus.ch/channels/almaghribia.png",Al Maghribia HD
+#EXTINF:-1 tvg-id="almaghribia.ma" tvg-logo="https://picserve.netplus.ch/channels/almaghribia.png" tvg-country="MA" tvg-language="Arabic" group-title="MA generalist",Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
-#EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="https://picserve.netplus.ch/channels/almasriyah.png",Al Masriyah HD
+#EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="https://picserve.netplus.ch/channels/almasriyah.png" tvg-country="EG" tvg-language="Arabic" group-title="EG generalist",Al Masriyah HD
 https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-#EXTINF:-1 tvg-id="dmsat.rs" tvg-logo="https://picserve.netplus.ch/channels/dmsat.png",DMSAT
+#EXTINF:-1 tvg-id="dmsat.rs" tvg-logo="https://picserve.netplus.ch/channels/dmsat.png" tvg-country="RS" tvg-language="Serbia" group-title="RS generalist",DMSAT
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
-#EXTINF:-1 tvg-id="showturk.tr" tvg-logo="https://picserve.netplus.ch/channels/showturk.png",show turk
+#EXTINF:-1 tvg-id="showturk.tr" tvg-logo="https://picserve.netplus.ch/channels/showturk.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",show turk
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u8
-#EXTINF:-1 tvg-id="eurod.tr" tvg-logo="https://picserve.netplus.ch/channels/eurod.png",EUROD
+#EXTINF:-1 tvg-id="eurod.tr" tvg-logo="https://picserve.netplus.ch/channels/eurod.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",EUROD
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
-#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-logo="https://picserve.netplus.ch/channels/tvpolonia.png",TVP POLONIA
+#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-logo="https://picserve.netplus.ch/channels/tvpolonia.png" tvg-country="PL" tvg-language="Polonia" group-title="PL generalist",TVP POLONIA
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
-#EXTINF:-1 tvg-id="duna.hu" tvg-logo="https://picserve.netplus.ch/channels/duna.png",DUNA HD
+#EXTINF:-1 tvg-id="duna.hu" tvg-logo="https://picserve.netplus.ch/channels/duna.png" tvg-country="HU" tvg-language="Hungarian" group-title="HU generalist",DUNA HD
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
-#EXTINF:-1 tvg-id="bntworld.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png",BNT4 HD
+#EXTINF:-1 tvg-id="bntworld.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png" tvg-country="BG" tvg-language="Bulgarian" group-title="BG generalist",BNT4 HD
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
-#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-logo="https://picserve.netplus.ch/channels/tvrinternational.png",TVRomania int
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-logo="https://picserve.netplus.ch/channels/tvrinternational.png" tvg-country="RO" tvg-language="Romanian" group-title="RO generalist",TVRomania int
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
-#EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://picserve.netplus.ch/channels/bvn.png",BVN
+#EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://picserve.netplus.ch/channels/bvn.png" tvg-country="NL" tvg-language="Dutch" group-title="NL generalist",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
-#EXTINF:-1 tvg-id="rtk1.al" tvg-logo="https://picserve.netplus.ch/channels/rtk1.png",RTK1 SAT HD
+#EXTINF:-1 tvg-id="rtk1.al" tvg-logo="https://picserve.netplus.ch/channels/rtk1.png" tvg-country="AL" tvg-language="Albanian" group-title="AL generalist",RTK1 SAT HD
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ptccbet.rs" tvg-logo="https://picserve.netplus.ch/channels/rtssat.png",PTC CBET HD
+#EXTINF:-1 tvg-id="ptccbet.rs" tvg-logo="https://picserve.netplus.ch/channels/rtssat.png" tvg-country="RS" tvg-language="Serbia" group-title="RS generalist",PTC CBET HD
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
-#EXTINF:-1 tvg-id="mne.me" tvg-logo="https://picserve.netplus.ch/channels/rtcg.png",MNE HD
+#EXTINF:-1 tvg-id="mne.me" tvg-logo="https://picserve.netplus.ch/channels/rtcg.png" tvg-country="ME" tvg-language="Serbia" group-title="RS generalist",MNE HD
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://picserve.netplus.ch/channels/trtturk.png",TRT TURK HD
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://picserve.netplus.ch/channels/trtturk.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",TRT TURK HD
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
-#EXTINF:-1 tvg-id="2m.ma" tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png",2M Maroc FHD
+#EXTINF:-1 tvg-id="2m.ma" tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png" tvg-country="MA" tvg-language="Arabic" group-title="MA generalist",2M Maroc FHD
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png",Canal Algerie2
+#EXTINF:-1 tvg-id="canalalgerie." tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png" tvg-country="DZ" tvg-language="Arabic" group-title="DZ generalist",Canal Algerie2
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png",cctv4 HD
+#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" tvg-country="CN" tvg-language="Chinese" group-title="CN generalist",cctv4 HD
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",Canal B (start 1.7.2026)
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbd/browser-dash/canalbd.mpd
