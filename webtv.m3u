@@ -634,7 +634,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/332e7648-7a68-4f2e-a4d0-684758925fc2/0.m3u8
 #EXTINF:-1,TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://static.epg.best/uk/bbcearth.uk.png" tvg-country="GB" group-title="documentary"
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://static.epg.best/uk/bbcearth.uk.png" tvg-country="GB" group-title="documentary",BBC Earth HD
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="GB News HD" tvg-logo="https://static.epg.best/gb/gbnews.gb.png" tvg-country="GB" tvg-language="English" group-title="UK News"
+#EXTINF:-1 tvg-name="GB News HD" tvg-logo="https://static.epg.best/gb/gbnews.gb.png" tvg-country="GB" tvg-language="English" group-title="UK News",GB News HD
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
