@@ -229,8 +229,9 @@ https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="itv4.uk",itv4 HD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 tvg-id="skynews.uk" group-title="news",sky news
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" group-title="news",sky news HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream07/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="cnn.uk",cnn europe HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-id="aljazeera.uk" group-title="news", Al Jazeera HD
@@ -633,3 +634,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/332e7648-7a68-4f2e-a4d0-684758925fc2/0.m3u8
 #EXTINF:-1,TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://static.epg.best/uk/bbcearth.uk.png" tvg-country="GB" group-title="documentary"
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="GB News HD" tvg-logo="https://static.epg.best/gb/gbnews.gb.png" tvg-country="GB" tvg-language="English" group-title="UK News"
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
