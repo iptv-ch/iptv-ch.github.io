@@ -574,25 +574,25 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",Bénin TV HD
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
-#EXTINF:-1 ,KALAC TV HD
+#EXTINF:-1,KALAC TV HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
-#EXTINF:-1 ,Musig24 Schweizer musik schlager
+#EXTINF:-1,Musig24 Schweizer musik schlager
 https://tv.musig24.tv/hls/0/stream.m3u8
-#EXTINF:-1 ,TVPolonia info HD
+#EXTINF:-1,TVPolonia info HD
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 ,Euronews. english HD
+#EXTINF:-1,Euronews. english HD
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 ,STINGRAY iConcerts HD
+#EXTINF:-1,STINGRAY iConcerts HD
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 ,English Club TV
+#EXTINF:-1,English Club TV
 https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 ,TVD TV Découverte
+#EXTINF:-1,TVD TV Découverte
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
-#EXTINF:-1 ,RHT Radio Haute Tension Guadeloupe
+#EXTINF:-1,RHT Radio Haute Tension Guadeloupe
 https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5tbzFI.png",Espace TV Ghana
 https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
-#EXTINF:-1 ,Madras FM TV HD
+#EXTINF:-1,Madras FM TV HD
 https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.postimg.cc/xdWDWzXr/now70s.png" group-title="music",Now 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
@@ -614,3 +614,19 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
 #EXTINF:-1 tvg-logo="rtb3.bf",rtb3 HD
 https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1,SPORTDIGITAL FREE
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9bcd487b-9eb2-48d2-8f3f-76f730e8f91f/0.m3u8
+#EXTINF:-1,Movie Music by STINGRAY
+https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8
+#EXTINF:-1,dJazz STINGRAY
+https://8af87da5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5REpBWlpfSExT/a1941365-77da-4bb2-98b2-307abbb35d4e/3.m3u8
+#EXTINF:-1,Classica STINGRAY
+https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5Q2xhc3NpY2FfSExT/4547056c-4a43-4209-b017-81137f725997/3.m3u8
+#EXTINF:-1,MotorVision english HD
+https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1,MotorVision classic HD
+https://mvg-mv-cl-wedotv.otteravision.com/mvg/mv_cl/mv_cl_1080.m3u8
+#EXTINF:-1,DELUXE LOUNGE HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/66f05a9c-a09d-4fd3-91da-3fd23162d320/0.m3u8
+#EXTINF:-1,Just COOKING deutsch HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/332e7648-7a68-4f2e-a4d0-684758925fc2/0.m3u8
