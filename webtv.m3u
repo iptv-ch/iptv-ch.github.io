@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTREM tvott tv over the top hls8 available in Switzerland unrelated to your internet provider and tv operator but could geoblocked.
+#EXTREM tvott tv over the top hls8 available in Switzerland unrelated to your internet provider and tv operator but could be geoblocked or content hidden.
 #EXTINF:-1 tvg-id="RTS1.ch",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch",RTS 2 HD 1080p
@@ -8,7 +8,7 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 #EXTINF:-1 tvg-id="rtsinfo.ch" group-title="news",RTS Info HD
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="rtscouleur3.ch",RTS Couleur3 TV
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8
+https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr",TF1 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="France2.fr",France2 HD 720p
@@ -520,8 +520,6 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-id="lessecretsdenosregions.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_lessecretsdenosregions.png",Les secrets de nos régions France
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/cb7d3e4f7b706f8c9b983b6cd2f346a0d1526081563ad66167ab5e9327934953d4bcf590e71abe6a0fbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05946c66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f395d30e82989171bd51b630515d7a7c9bcd7cc2980afb8bcb6f69d1297e1f4d18b3f1c1f81c6ed016115aada7f98b0f897b2c48e7e01a559828da24b727837fb00cb5ed4faea9c9ae28231c91b497e5bac29fc6afee273cad6381c2a3bd213ff1f26547bfe51834d00c18e9809313a0ca3ad69669e8917c0f37d0940aa188a08aecb8b7edfd4fd7eafb82344e42624b57c80de2d25ad227d977bfdd530f680d15fdd4059fc6ee573e341bddc046824752f9fa9b93d30b0ccf623053fc2f8c0852229f622c34ce05cdb71020c92a038e307ddc5d368b4db5f80ffdb5d4e80374e48a940caf21bffb5a92c503af6c2e504de6a17b11161a3df5ea6142612d900bb49d9aaf277b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c8e394f4d7d13059917d96fcb72202d27ca0cdcbf0672917c4f08e2a03a1d172ca1c1bf8588c1d906d25bd6dcf62d202b5302e4d36486de021cebddd314b3c5cdd69a841913574b9a2b48/9/1920x1080_4300000/index.m3u8
-#EXTINF:-1 tvg-id="qs24.tv" tvg-logo="https://picserve.netplus.ch/channels/qs24.png",QS24.tv HD
-https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="www.die-neue-zeit.tv" tvg-logo="https://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png",Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/manifest.m3u8
 #EXTINF:-1 ,Fox LiveNOW
@@ -613,9 +611,7 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang.kr",arirang korea HD 720p
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec HD
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
-#EXTINF:-1 tvg-logo="rtb3.bf",rtb3 HD
-https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,SPORTDIGITAL FREE HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9bcd487b-9eb2-48d2-8f3f-76f730e8f91f/0.m3u8
 #EXTINF:-1,Movie Music by STINGRAY HD
@@ -628,13 +624,15 @@ https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1,MotorVision classic HD
 https://mvg-mv-cl-wedotv.otteravision.com/mvg/mv_cl/mv_cl_1080.m3u8
-#EXTINF:-1,DELUXE LOUNGE HD
+#EXTINF:-1 tvg-id="deluxelounge.de" tvg-logo="https://static.epg.best/br/deluxelounge.br.png" tvg-country="DE" group-title="music",DELUXE LOUNGE HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/66f05a9c-a09d-4fd3-91da-3fd23162d320/0.m3u8
 #EXTINF:-1,Just COOKING deutsch HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/332e7648-7a68-4f2e-a4d0-684758925fc2/0.m3u8
-#EXTINF:-1,TRACE BRASIL HD
+#EXTINF:-1 tvg-name="TRACE Brasil HD" tvg-logo="https://static.epg.best/br/tracebrasil.br.png" tvg-country="BR" group-title="music",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://static.epg.best/uk/bbcearth.uk.png" tvg-country="GB" group-title="documentary",BBC Earth HD
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="GB News HD" tvg-logo="https://static.epg.best/gb/gbnews.gb.png" tvg-country="GB" tvg-language="English" group-title="UK News",GB News HD
+#EXTINF:-1 tvg-name="GBNews HD" tvg-logo="https://static.epg.best/gb/gbnews.gb.png" tvg-country="GB" tvg-language="English" group-title="UK News",GB News HD
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://static.epg.best/ca/icitele.ca.png" tvg-country="CA" tvg-language="French" group-title="CA generalist",ICI Télé - Radio Canada HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
