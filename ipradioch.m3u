@@ -527,3 +527,5 @@ https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_rad
 http://video.news.sky.com/snr/news/snrnews.mp3
 #EXTINF:-1,GBNews radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1,DELUXE music lounge
+https://audiostreams.deluxemusic.tv/lounge/mp3-192/audiostreams.deluxemusic.tv/play.m3u
