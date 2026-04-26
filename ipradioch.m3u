@@ -529,3 +529,7 @@ http://video.news.sky.com/snr/news/snrnews.mp3
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1,DELUXE music lounge
 https://audiostreams.deluxemusic.tv/lounge/mp3-192/audiostreams.deluxemusic.tv/play.m3u
+#EXTINF:-1,FMR Rumilly
+https://www.radiofmr.com/listen.m3u
+#EXTINF:-1,H20 la radio du lac d'Annecy
+https://stream.radiotools.fr:8443/h2o-annecy-hd.mp3
