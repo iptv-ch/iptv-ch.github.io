@@ -210,8 +210,8 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-id="canaleit.it",CANALE Italia
 https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u8
-#EXTINF:-1 tvg-id="bbcone.uk",BBC ONE HD ?
-https://viamotionhsi.netplus.ch/live/eds/bbc/browser-HLS8/bbc.m3u8
+#EXTREM #EXTINF:-1 tvg-id="bbcone.uk",BBC ONE HD ?
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/bbc/browser-HLS8/bbc.m3u8
 #EXTINF:-1 tvg-id="bbctwo.uk",BBC TWO HD 
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:-1 tvg-id="bbccbbc.uk",BBC CBBC HD
@@ -221,8 +221,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.
 #EXTINF:-1 tvg-id="bbcnews.uk" group-title="news",BBC NEWS (EUROPE) HD
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
-#EXTINF:-1 tvg-id="itv1.uk",itv1 HD ?
-https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8
+#EXTREM #EXTINF:-1 tvg-id="itv1.uk",itv1 HD ?
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8
 #EXTINF:-1 tvg-id="itv2.uk",itv2 HD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:-1 tvg-id="itv3.uk",itv3 HD
@@ -230,7 +230,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="itv4.uk",itv4 HD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" group-title="news",sky news HD
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_720_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="cnn.uk",cnn europe HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-id="aljazeera.uk" group-title="news", Al Jazeera HD
@@ -305,14 +305,14 @@ https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 #EXTINF:-1 tvg-id="kabeleinsdoku.de",kabel eins DOKU
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
-#EXTINF:-1 tvg-id="pulsacht.de",puls acht ?
-https://viamotionhsi.netplus.ch/live/eds/pulsacht/browser-HLS8/pulsacht.m3u8
+#EXTREM #EXTINF:-1 tvg-id="pulsacht.de",puls acht ?
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/pulsacht/browser-HLS8/pulsacht.m3u8
 #EXTINF:-1 tvg-id="comedycentral.de",comedy central D HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 #EXTINF:-1 tvg-id="comedycentralnick.de",comedy central+1 D
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 tvg-id="7maxx.de",7MAXX ?
-https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
+#EXTREM #EXTINF:-1 tvg-id="7maxx.de",7MAXX ?
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
 #EXTINF:-1 tvg-id="dmax.de",DMAX CH
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
 #EXTINF:-1 tvg-id="tele5.de",tele5 D
@@ -560,7 +560,7 @@ https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="trentinotv.it" tvg-logo="",TRENTINO TV HD
 https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="telenord.it" tvg-logo="",TELENORD
-https://64b16f23efbee.streamlock.net/telenord/telenord/chunklist.m3u8
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="radiofrecciatv.it" tvg-logo="",RADIO FRECCIA TV HD
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
 #EXTINF:-1 tvg-id="kisskiss.it" tvg-logo="",KISS KISS HD
@@ -635,5 +635,5 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTINF:-1,auto motor sport HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c9a20a06-f601-4af9-b4f5-c6b256b1a5c2/0.m3u8
-#EXTINF:-1,NAUTICAL CHANNEL
+#EXTINF:-1,NAUTICAL CHANNEL HD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8
