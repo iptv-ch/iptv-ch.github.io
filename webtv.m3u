@@ -637,3 +637,7 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c9a20a06-f601-4af9-b4f5-c6b256b1a5c2/0.m3u8
 #EXTINF:-1,NAUTICAL CHANNEL HD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8
+#EXTINF:-1 tvg-name="LMTVR HD" tvg-logo="https://static.epg.best/fr/le-meilleur-de-la-tv-realite.fr.png" tvg-country="FR" tvg-language="french" group-title="FR entertainment",Le meilleur de la tv réalité
+https://amg02393-awpg-amg02393c4-netgemtv-gb-2748.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02393-awpg-lemeilleurdelatvrealite-netgemtvgb/17b8e00f-46c8-11f1-9ebc-7ea54d1a8e88/192/1920x1080_4300000/index.m3u8
+#EXTINF:-1,BSMART tv live HD
+https://live.eu-north-1b.cf.dmcdn.net/sec2(s5RP5zFDaUewdG21wIzxhFfV7RVUm7agAfWBid_Yg7gJLZ8VfIGwO0aaJU2gA7VySDCjI_pxj2NDRjiTX2wKZ7yWcNY6Jq0sJpuPycSPxyZQUufVBW4Oeey261M9BLyN)/dm/3/x7tn4fp/d/live-1080p.m3u8
