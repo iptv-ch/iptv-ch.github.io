@@ -137,8 +137,9 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRFinfo.ch" group-title="news",SRF info HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="daserste.de" tvg-logo="https://picserve.netplus.ch/channels/daserste.png",ARD Das Erste  HD
-https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTINF:-1 tvg-id="daserste.de" tvg-logo="https://picserve.netplus.ch/channels/daserste.png",ARD Das Erste HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="zdf.de",ZDF HD 720p
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 #EXTINF:-1 tvg-id="orf1.at",ORF1 HD 720p
@@ -285,6 +286,8 @@ https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 #EXTINF:-1 tvg-id="wdr.de",WDR HD
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="ndr.de",NDR HD
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-id="hr.de",hr HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
 #EXTINF:-1 tvg-id="mdr.de",mdr HD
@@ -571,7 +574,7 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV" tvg-logo="https://i.postimg.cc/L5DYvxw9/morethansportstv.png" group-title="sports",More Than Sports TV HD
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",Bénin TV HD
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
