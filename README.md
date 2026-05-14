@@ -30,6 +30,8 @@ special thanks to bendreth for their update for community and customers of CityC
 ## Netplus TV HD + SD protocol hls http live stream ((better with mpv fail with vlc)
 **https://iptv-ch.github.io/netplus.m3u8**
 
+**https://iptv-ch.github.io/netplus-zappr.m3u8**
+
 Many of the channels available on [Netplus TV partners](https://citycable.ch/tv/chaines-tv/tv-numerique/).<br>
 work over stable mobile cellular network and wifi and wired network cooper, hybrid fiber cooper and full fiber wired whatever your internet service provider.
 Not geoblocked to Switzerland, tested outside Switzerland, in France, work sucessfully trough Bytel mobile and Free fiber over wifi
