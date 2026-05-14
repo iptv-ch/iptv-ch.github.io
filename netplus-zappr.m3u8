@@ -1,0 +1,381 @@
+#EXTM3U8
+#EXTREM netplus.ch tv over the top HTTP Live Stream in Switzerland unrelated to your internet provider and tv operator but could be geoblocked.
+#EXTREM Some channels are available only trough true home network netplus.ch partners.
+#EXTREM new url https://netplus.zappr.stream/ to be updated, working on...
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" tvg-country="CH" tvg-language="French" group-title="CH Generalist",RTS 1 HD 1080p
+https://netplus.zappr.stream/rts1hd.m3u8
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" tvg-country="CH" tvg-language="French" group-title="CH Generalist",RTS 2 HD 1080p
+https://netplus.zappr.stream/rts2hd.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",TF1 CH HD 720p
+https://netplus.zappr.stream/tf1hd.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",France2 HD 720p
+https://netplus.zappr.stream/france2hd.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",France3 HD 720p
+https://netplus.zappr.stream/france3hd.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" tvg-country="FR" tvg-language="French" group-title="FR Child/music",France4 HD 720p
+https://netplus.zappr.stream/france4hd.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" tvg-country="FR" tvg-language="French" group-title="FR travel documentary",France5 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",M6 CH HD 720p
+https://netplus.zappr.stream/m6hd.m3u8
+#EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Canal9 FHD
+https://netplus.zappr.stream/canal9.m3u8
+#EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Léman bleu HD
+https://netplus.zappr.stream/lemanbleu.m3u8
+#EXTINF:-1 tvg-id="latele.ch" tvg-logo="https://picserve.netplus.ch/channels/latele.png" tvg-country="CH" tvg-language="French" group-title="CH Regional VD",LA TELE HD
+https://netplus.zappr.stream/latele.m3u8
+#EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" tvg-country="CH" tvg-language="French" group-title="CH Regional JU",Canal Alpha JU HD
+https://netplus.zappr.stream/canalalphaju.m3u8
+#EXTINF:-1 tvg-id="canalalphane.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" tvg-country="CH" tvg-language="French" group-title="CH Regional NE",Canal Alpha NE HD
+https://netplus.zappr.stream/canalalphane.m3u8
+#EXTINF:-1 tvg-id="tmc.fr" tvg-logo="https://picserve.netplus.ch/channels/tmc.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",TMC HD 720p
+https://netplus.zappr.stream/tmc.m3u8
+#EXTINF:-1 tvg-id="w9.fr" tvg-logo="https://picserve.netplus.ch/channels/w9.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",W9 HD 720p
+https://netplus.zappr.stream/w9.m3u8
+#EXTINF:-1 tvg-id="carac1.ch" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png" tvg-country="CH" tvg-language="French" group-title="CH generalist",carac1 HD
+https://netplus.zappr.stream/rougetv.m3u8
+#EXTINF:-1 tvg-id="tfx.fr" tvg-logo="https://picserve.netplus.ch/channels/nt1.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",TFX HD 720p
+https://netplus.zappr.stream/nt1.m3u8
+#EXTINF:-1 tvg-id="t18.fr" tvg-logo="https://picserve.netplus.ch/channels/t18.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",T18 HD 720p
+https://netplus.zappr.stream/t18.m3u8
+#EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://picserve.netplus.ch/channels/d17.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",CSTAR HD 720p
+https://netplus.zappr.stream/d17.m3u8
+#EXTINF:-1 tvg-id="rtl9.be" tvg-logo="https://picserve.netplus.ch/channels/rtl9.png" tvg-country="FR" tvg-language="French" group-title="FR movies/documentary",RTL9 HD 720p
+https://netplus.zappr.stream/rtl9.m3u8
+#EXTINF:-1 tvg-id="ab1.tv" tvg-logo="https://picserve.netplus.ch/channels/ab1.png" tvg-country="BE" tvg-language="French" group-title="FR Series",AB1 720p
+https://netplus.zappr.stream/ab1.m3u8
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-logo="https://picserve.netplus.ch/channels/hd1.png" tvg-country="FR" tvg-language="French" group-title="FR series films",TF1 Series Films HD 720p
+https://netplus.zappr.stream/hd1.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://picserve.netplus.ch/channels/6ter.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",6ter CH HD 720p
+https://netplus.zappr.stream/6ter.m3u8
+#EXTINF:-1 tvg-id="rmclife.fr" tvg-logo="https://picserve.netplus.ch/channels/cherie25.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",RMC Life HD 720p
+https://netplus.zappr.stream/cherie25.m3u8
+#EXTINF:-1 tvg-id="novo19.fr" tvg-logo="https://picserve.netplus.ch/channels/novo19.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",NOVO19 HD 720p
+https://netplus.zappr.stream/novo19.m3u8
+#EXTINF:-1 tvg-id="numero23.fr" tvg-logo="https://picserve.netplus.ch/channels/numero23.png" tvg-country="FR" tvg-language="French" group-title="FR documentary",RMC STORY HD 720p
+https://netplus.zappr.stream/numero23.m3u8
+#EXTINF:-1 tvg-id="bluezoom.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" tvg-country="CH" tvg-language="French" group-title="CH sport",blue zoom F HD 720p
+https://netplus.zappr.stream/bluezoomfr.m3u8
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" tvg-country="FR" tvg-language="French" group-title="FR sport",La chaine L'EQUIPE 720p
+https://netplus.zappr.stream/lequipe21.m3u8
+#EXTINF:-1 tvg-id="ab3.tv" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" tvg-country="BE" tvg-language="French" group-title="FR series",AB3 720p
+https://netplus.zappr.stream/ab3.m3u8
+#EXTREM #EXTINF:-1 tvg-id="paramount.fr" tvg-logo="https://picserve.netplus.ch/channels/paramount.png" tvg-country="FR" tvg-language="French" group-title="FR movie",paramount network F HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1 tvg-id="tcm.fr" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" tvg-country="FR" tvg-language="French" group-title="FR movie",TCM CINEMA F HD
+https://netplus.zappr.stream/tcm.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" tvg-country="FR" tvg-language="French" group-title="FR child",CARTOON NETWORK 720p
+https://netplus.zappr.stream/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="gulli.fr" tvg-logo="https://picserve.netplus.ch/channels/gulli.png" tvg-country="FR" tvg-language="French" group-title="FR child",gulli 720p
+https://netplus.zappr.stream/gulli.m3u8
+#EXTREM #EXTINF:-1 tvg-id="gameone.fr" tvg-logo="https://picserve.netplus.ch/channels/gameone.png" tvg-country="FR" tvg-language="French" group-title="FR esport",Game 1 HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
+#EXTINF:-1 tvg-id="escales.fr" tvg-logo="https://picserve.netplus.ch/channels/escales.png" tvg-country="FR" tvg-language="French" group-title="FR travel",TREK HD 720p
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png" tvg-country="FR" tvg-language="French" group-title="FR documentary",RMC DECOUVERTE HD 720p
+https://netplus.zappr.stream/rmcdecouverte.m3u8
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://picserve.netplus.ch/channels/planeteplus.png" tvg-country="FR" tvg-language="French" group-title="FR documentary",PLANETE+ HD 720p
+https://netplus.zappr.stream/planeteplus.m3u8
+#EXTINF:-1 tvg-id="animaux.fr" tvg-logo="https://picserve.netplus.ch/channels/animaux.png" tvg-country="FR" tvg-language="French" group-title="FR animals",ANIMAUX HD 720p
+https://netplus.zappr.stream/animaux.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png" tvg-country="FR" tvg-language="French" group-title="FR generalist",arte F HD 720p
+https://netplus.zappr.stream/artehd.m3u8
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png" tvg-country="FR" tvg-language="French" group-title="FR news",BFM TV HD 720p
+https://netplus.zappr.stream/bfmtv.m3u8
+#EXTINF:-1 tvg-id="france24.fr" tvg-logo="https://picserve.netplus.ch/channels/france24.png" tvg-country="FR" tvg-language="French" group-title="FR news",France24 HD 720p
+https://netplus.zappr.stream/france24.m3u8
+#EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://picserve.netplus.ch/channels/euronews.png" tvg-country="FR" tvg-language="French" group-title="FR news",euronews F HD 720p
+https://netplus.zappr.stream/euronews.m3u8
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png" tvg-country="FR" tvg-language="French" group-title="FR generalist",TV5 MONDE FBSM HD 720p
+https://netplus.zappr.stream/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="itele.fr" tvg-logo="https://picserve.netplus.ch/channels/itele.png" tvg-country="FR" tvg-language="French" group-title="FR news",CNEWS HD 720p
+https://netplus.zappr.stream/itele.m3u8
+#EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://picserve.netplus.ch/channels/lci.png" tvg-country="FR" tvg-language="French" group-title="FR news",LCI HD 720p
+https://netplus.zappr.stream/lci.m3u8
+#EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png" tvg-country="FR" tvg-language="French" group-title="FR financial news",BFM BUSINESS HD 720p
+https://netplus.zappr.stream/bfmbusiness.m3u8
+#EXTINF:-1 tvg-id="lcp.fr" tvg-logo="https://picserve.netplus.ch/channels/lcp.png" tvg-country="FR" tvg-language="French" group-title="FR politic news",LCP8 Public Senat HD 720p
+https://netplus.zappr.stream/lcp.m3u8
+#EXTINF:-1 tvg-id="monacotv.fr" tvg-logo="https://picserve.netplus.ch/channels/monacotv.png" tvg-country="FR" tvg-language="French" group-title="FR generalist",TVMONACO HD
+https://netplus.zappr.stream/monacotv.m3u8
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png" tvg-country="FR" tvg-language="French" group-title="FR news",Franceinfo HD 720p
+https://netplus.zappr.stream/franceinfo.m3u8
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png" tvg-country="FR" tvg-language="French" group-title="FR music",mezzo HD 720p
+https://netplus.zappr.stream/mezzo.m3u8
+#EXTINF:-1 tvg-id="carac2.ch" tvg-logo="https://picserve.netplus.ch/channels/onetv.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",carac2 HD
+https://netplus.zappr.stream/onetv.m3u8
+#EXTINF:-1 tvg-id="carac3.ch" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",carac3 HD
+https://netplus.zappr.stream/lfmtv.m3u8
+#EXTINF:-1 tvg-id="mtvfrance.fr" tvg-logo="https://picserve.netplus.ch/channels/mtvfrance.png" tvg-country="FR" tvg-language="French" group-title="FR people",MTV France HD 720p
+https://netplus.zappr.stream/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="kto.fr" tvg-logo="https://picserve.netplus.ch/channels/kto.png" tvg-country="FR" tvg-language="French" group-title="FR religion",kto
+https://netplus.zappr.stream/kto.m3u8
+#EXTINF:-1 tvg-id="canalplusclair.fr" tvg-logo="https://picserve.netplus.ch/channels/canalplusclair.png" tvg-country="FR" tvg-language="French" group-title="FR generalist",canal+ en clair CH
+https://netplus.zappr.stream/canalplusclair.m3u8
+#EXTINF:-1 tvg-id="carac4.ch" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",carac4 HD
+https://netplus.zappr.stream/tvsuisseplus.m3u8
+#EXTINF:-1 tvg-id="carac5.ch" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",carac5 HD
+https://netplus.zappr.stream/teleswizz.m3u8
+#EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png" tvg-country="FR" tvg-language="French" group-title="FR child",Canal J HD
+https://netplus.zappr.stream/canalj.m3u8
+#EXTINF:-1 tvg-id="nrtv.ch" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",nrtv HD 720p
+https://netplus.zappr.stream/nrtv.m3u8
+#EXTINF:-1 tvg-id="maxtv.ch" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" tvg-country="FR" tvg-language="French" group-title="FR Religion",DieuTV HD
+https://netplus.zappr.stream/maxtv.m3u8
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png" tvg-country="CH" tvg-language="French" group-title="music",tvm3 HD
+https://netplus.zappr.stream/tvm3.m3u8
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" tvg-country="FR" tvg-language="French" group-title="FR regional", 8Mont-Blanc HD
+https://netplus.zappr.stream/tv8montblanc.m3u8
+#EXTINF:-1 tvg-id="valtv.ch" tvg-logo="https://picserve.netplus.ch/channels/valtv.png" tvg-country="CH" tvg-language="French" group-title="CH regional VD",Val TV HD
+https://netplus.zappr.stream/valtv.m3u8
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" tvg-country="CH" tvg-language="German" group-title="CH generalist",SRF1 HD 1080p
+https://netplus.zappr.stream/srf1hd.m3u8
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" tvg-country="CH" tvg-language="German" group-title="CH generalist",SRF2 HD 1080p
+https://netplus.zappr.stream/srf2hd.m3u8
+#EXTINF:-1 tvg-id="SRFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" tvg-country="CH" tvg-language="German" group-title="CH news",SRF info HD 720p
+https://netplus.zappr.stream/srfinfo.m3u8
+#EXTINF:-1 tvg-id="daserstehd.de" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png" tvg-country="DE" tvg-language="German" group-title="DE generalist", ARD1 Das Erste HD
+https://netplus.zappr.stream/daserstehd.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://picserve.netplus.ch/channels/zdf.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",ZDF HD 720p
+https://netplus.zappr.stream/zdfhd.m3u8
+#EXTINF:-1 tvg-id="orf1.at" tvg-logo="https://picserve.netplus.ch/channels/orf1.png" tvg-country="AT" tvg-language="German" group-title="AT generalist",ORF1 HD 720p
+https://netplus.zappr.stream/orf1.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-logo="https://picserve.netplus.ch/channels/rtl.png" tvg-country="CH" tvg-language="German" group-title="DE generalist",RTL HD
+https://netplus.zappr.stream/rtl.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",RTLZWEI HD
+https://netplus.zappr.stream/rtl2.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-logo="https://picserve.netplus.ch/channels/pro7.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",ProSieben HD
+#EXTREM https://netplus.zappr.stream/pro7.m3u8
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://picserve.netplus.ch/channels/sat1.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",SAT.1 HD
+#EXTREM https://netplus.zappr.stream/sateins.m3u8
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-logo="https://picserve.netplus.ch/channels/vox.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",VOX HD
+https://netplus.zappr.stream/vox.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1.png" tvg-country="DE" tvg-language="German" group-title="DE generalist", Kabel1 HD
+#EXTREM https://netplus.zappr.stream/kabeleins.m3u8
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://picserve.netplus.ch/channels/3sat.png" tvg-country="DE" tvg-language="German" group-title="DE generalist", 3sat HD
+https://netplus.zappr.stream/3sathd.m3u8
+#EXTINF:-1 tvg-id="swr.de" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" tvg-country="DE" tvg-language="German" group-title="DE generalist", SWR HD
+https://netplus.zappr.stream/swrbw.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png" tvg-country="DE" tvg-language="German" group-title="DE child",RTL SUPER HD
+https://netplus.zappr.stream/superrtl.m3u8
+#EXTINF:-1 tvg-id="kika.de" tvg-logo="https://picserve.netplus.ch/channels/kika.png" tvg-country="DE" tvg-language="German" group-title="DE child",KIKA HD
+https://netplus.zappr.stream/kikahd.m3u8
+#EXTINF:-1 tvg-id="sport1.de" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" tvg-country="DE" tvg-language="German" group-title="DE sport",sport1 HD
+https://netplus.zappr.stream/sport1.m3u8
+#EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",kanal9 HD
+https://netplus.zappr.stream/kanal9.m3u8
+#EXTINF:-1 tvg-id="telebaern.ch" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",TeleBärn HD
+https://netplus.zappr.stream/telebaern.m3u8
+#EXTINF:-1 tvg-id="tv24.ch" tvg-logo="https://picserve.netplus.ch/channels/tv24.png" tvg-country="CH" tvg-language="German" group-title="CH Generalist",tv24 HD
+https://netplus.zappr.stream/tv24.m3u8
+#EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" tvg-country="CH" tvg-language="German" group-title="CH Sport",blue zoom D HD 720p
+https://netplus.zappr.stream/bluezoomde.m3u8
+#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",Tele Bielingue HD
+https://netplus.zappr.stream/telebielingue.m3u8
+#EXTINF:-1 tvg-id="orf2.at" tvg-logo="https://picserve.netplus.ch/channels/orf2.png" tvg-country="AT" tvg-language="German" group-title="AT generalist",ORF2 HD 720p
+https://netplus.zappr.stream/orf2.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",NITRO. HD
+https://netplus.zappr.stream/rtlnitro.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://picserve.netplus.ch/channels/sixx.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",sixx HD
+#EXTREM https://netplus.zappr.stream/sixx.m3u8
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="brhdsud.de" tvg-logo="https://picserve.netplus.ch/channels/brhdsud.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",BR HD
+https://netplus.zappr.stream/brhdsud.m3u8
+#EXTINF:-1 tvg-id="wdrhd.de" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",WDR HD
+https://netplus.zappr.stream/wdrhd.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",ndr HD
+https://netplus.zappr.stream/ndr.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-logo="https://picserve.netplus.ch/channels/hr.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",hr HD
+https://netplus.zappr.stream/hr.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",mdr HD
+https://netplus.zappr.stream/mdr.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",zdf neo HD
+https://netplus.zappr.stream/zdfneohd.m3u8
+#EXTINF:-1 tvg-id="zdfinfohd.de" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png" tvg-country="DE" tvg-language="German" group-title="DE news",zdf info HD
+https://netplus.zappr.stream/zdfinfohd.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-logo="https://picserve.netplus.ch/channels/sat1gold.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",SAT.1 GOLD
+#EXTREM https://netplus.zappr.stream/sateinsgold.m3u8
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://picserve.netplus.ch/channels/n24.png" tvg-country="DE" tvg-language="German" group-title="DE news",WeLT
+https://netplus.zappr.stream/n24.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://picserve.netplus.ch/channels/ntv.png" tvg-country="DE" tvg-language="German" group-title="DE news",ntv
+https://netplus.zappr.stream/ntv.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",phoenix HD
+https://netplus.zappr.stream/phoenixhd.m3u8
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" tvg-country="DE" tvg-language="German" group-title="DE sport",eurosport1 D
+https://netplus.zappr.stream/eurosportde.m3u8
+#EXTREM #EXTINF:-1 tvg-id="kabeleinsdocu.de" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",kabel eins DOKU ?
+#EXTREM https://netplus.zappr.stream/kabel1doku.m3u8
+#EXTREM #EXTINF:-1 tvg-id="puls8.de" tvg-logo="https://picserve.netplus.ch/channels/puls8.png" tvg-country="CH" tvg-language="German" group-title="CH generalist",puls acht ?
+#EXTREM https://netplus.zappr.stream/pulsacht.m3u8
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png" tvg-country="DE" tvg-language="German" group-title="DE comedy",comedy central D HD
+https://netplus.zappr.stream/comedycentral.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png" tvg-country="DE" tvg-language="German" group-title="DE comedy",comedy central+1 D
+https://netplus.zappr.stream/comedycentralnick.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png" tvg-country="DE" tvg-language="German" group-title="DE child",Disney Channel D
+https://netplus.zappr.stream/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="ric.ch" tvg-logo="https://picserve.netplus.ch/channels/ric.png" tvg-country="DE" tvg-language="German" group-title="DE child",RiC D
+https://netplus.zappr.stream/ric.m3u8
+#EXTREM #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",7MAXX ?
+#EXTREM https://netplus.zappr.stream/prosiebenmaxx.m3u8
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://picserve.netplus.ch/channels/dmax.png" tvg-country="CH" tvg-language="German" group-title="DE generalist",DMAX CH
+https://netplus.zappr.stream/dmax.m3u8
+#EXTINF:-1 tvg-id="deluxmusic.de" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png" tvg-country="DE" tvg-language="German" group-title="DE music",DELUXE MUSIC HD
+#EXTREM https://netplus.zappr.stream/deluxemusic.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="servustv.de" tvg-logo="https://picserve.netplus.ch/channels/servustvhd.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",ServusTV HD
+https://netplus.zappr.stream/servustvhd.m3u8
+#EXTINF:-1 tvg-id="anixe.de" tvg-logo="https://picserve.netplus.ch/channels/anixe.png" tvg-country="DE" tvg-language="German" group-title="DE series",ANIXE SERIE HD
+https://netplus.zappr.stream/anixe.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-logo="https://picserve.netplus.ch/channels/tele5.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",tele5 D
+https://netplus.zappr.stream/tele5.m3u8
+#EXTINF:-1 tvg-id="alpha.de" tvg-logo="https://picserve.netplus.ch/channels/bralpha.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",ARD alpha HD
+https://netplus.zappr.stream/bralpha.m3u8
+#EXTINF:-1 tvg-id="rbb.de" tvg-logo="https://picserve.netplus.ch/channels/rbb.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",rbb HD
+https://netplus.zappr.stream/rbb.m3u8
+#EXTINF:-1 tvg-id="atv.at" tvg-logo="https://picserve.netplus.ch/channels/atv.png" tvg-country="AT" tvg-language="German" group-title="AT generalist",atv2 HD
+https://netplus.zappr.stream/atv.m3u8
+#EXTINF:-1 tvg-id="onehd.de" tvg-logo="https://picserve.netplus.ch/channels/onehd.png" tvg-country="DE" tvg-language="German" group-title="DE generalist",ARD one HD
+https://netplus.zappr.stream/onehd.m3u8
+#EXTINF:-1 tvg-id="startv.ch" tvg-logo="https://picserve.netplus.ch/channels/startv.png" tvg-country="CH" tvg-language="German" group-title="DE generalist",STAR TV D HD
+https://netplus.zappr.stream/startv.m3u8
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila1.png" tvg-country="CH" tvg-language="Italian" group-title="IT generalist",RSI La 1 HD 1080p
+https://netplus.zappr.stream/rsila1hd.m3u8
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila2.png" tvg-country="CH" tvg-language="Italian" group-title="IT generalist",RSI La 2 HD 1080p
+https://netplus.zappr.stream/rsila2hd.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",Rai 1 HD 720p
+https://netplus.zappr.stream/rai1.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://picserve.netplus.ch/channels/rai2.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",Rai 2 HD 720p
+https://netplus.zappr.stream/rai2.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://picserve.netplus.ch/channels/rai3.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",Rai 3 HD 720p
+https://netplus.zappr.stream/rai3.m3u8
+#EXTINF:-1 tvg-id="Raisport1.it" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" tvg-country="IT" tvg-language="Italian" group-title="IT sport",Rai Sport HD
+https://netplus.zappr.stream/raisport1.m3u8
+#EXTINF:-1 tvg-id="Rainews24.it" tvg-logo="https://picserve.netplus.ch/channels/rainews.png" tvg-country="IT" tvg-language="Italian" group-title="IT news",Rai News24 HD
+https://netplus.zappr.stream/rainews.m3u8
+#EXTINF:-1 tvg-id="italia1.it" tvg-logo="https://picserve.netplus.ch/channels/italia1.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",Italia1 HD
+https://netplus.zappr.stream/italia1.m3u8
+#EXTINF:-1 tvg-id="rete4.it" tvg-logo="https://picserve.netplus.ch/channels/rete4.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",Rete4 HD
+https://netplus.zappr.stream/rete4.m3u8
+#EXTINF:-1 tvg-id="canale5.it" tvg-logo="https://picserve.netplus.ch/channels/canale5.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",canale5 HD 720p
+https://netplus.zappr.stream/canale5.m3u8
+#EXTINF:-1 tvg-id="la7.it" tvg-logo="https://picserve.netplus.ch/channels/la7.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",LA7 HD 720p
+https://netplus.zappr.stream/la7.m3u8
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png" tvg-country="IT" tvg-language="Italian" group-title="IT child",Rai Gulp HD 720p
+https://netplus.zappr.stream/raigulp.m3u8
+#EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://picserve.netplus.ch/channels/raistoria.png" tvg-country="IT" tvg-language="Italian" group-title="IT documentary",Rai Storia FHD
+https://netplus.zappr.stream/raistoria.m3u8
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-logo="https://picserve.netplus.ch/channels/raiscuola.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",Rai Scuola HD 720p
+https://netplus.zappr.stream/raiscuola.m3u8
+#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",DMAX Italia HD 720p
+https://netplus.zappr.stream/dmaxitalia.m3u8
+#EXTINF:-1 tvg-id="canaleit.it" tvg-logo="https://picserve.netplus.ch/channels/canaleit.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",CANALE Italia
+https://netplus.zappr.stream/canaleit.m3u8
+#EXTINF:-1 tvg-id="VideoItalia.it" tvg-logo="https://picserve.netplus.ch/channels/videoitalia.png" tvg-country="IT" tvg-language="Italian" group-title="IT music",VIDEO ITALIA HD
+https://netplus.zappr.stream/videoitalia.m3u8
+#EXTINF:-1 tvg-id="nove.it" tvg-logo="https://picserve.netplus.ch/channels/nove.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",nove HD 720p
+https://netplus.zappr.stream/nove.m3u8
+#EXTINF:-1 tvg-id="la7cinema.it" tvg-logo="https://picserve.netplus.ch/channels/la7d.png" tvg-country="IT" tvg-language="Italian" group-title="IT movie",LA7 CINEMA HD 720p
+https://netplus.zappr.stream/la7d.m3u8
+#EXTREM #EXTINF:-1 tvg-id="bbc1.uk"tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",BBC ONE HD ?
+#EXTREM https://netplus.zappr.stream/bbc1.m3u8
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",BBC TWO HD
+https://netplus.zappr.stream/bbc2.m3u8
+#EXTINF:-1 tvg-id="bbc3cbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",BBC THREE CBBC HD
+https://netplus.zappr.stream/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="bbc4cbeebies.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",BBC FOUR CBeebies HD 
+https://netplus.zappr.stream/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-id="bbcworld.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png" tvg-country="EN" tvg-language="English" group-title="UK news",BBC NEWS HD
+https://netplus.zappr.stream/bbcworld.m3u8
+#EXTREM #EXTINF:-1 tvg-id="itv.uk" tvg-logo="https://picserve.netplus.ch/channels/itv.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",itv1 HD ?
+#EXTREM https://netplus.zappr.stream/itv.m3u8
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://picserve.netplus.ch/channels/itv2.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",itv2 HD
+https://netplus.zappr.stream/itv2.m3u8
+#EXTINF:-1 tvg-id="itv3.uk" tvg-logo="https://picserve.netplus.ch/channels/itv3.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",itv3 HD
+https://netplus.zappr.stream/itv3.m3u8
+#EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://picserve.netplus.ch/channels/itv4.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",itv4 HD
+https://netplus.zappr.stream/itv4.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-logo="https://picserve.netplus.ch/channels/skynews.png" tvg-country="EN" tvg-language="English" group-title="UK news",sky news
+https://netplus.zappr.stream/skynews.m3u8
+#EXTINF:-1 tvg-id="cnn.uk" tvg-logo="https://picserve.netplus.ch/channels/cnn.png" tvg-country="US" tvg-language="English" group-title="US news",cnn europe HD
+https://netplus.zappr.stream/cnn.m3u8
+#EXTINF:-1 tvg-id="aljazeera.com" tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png" tvg-country="EN" tvg-language="English" group-title="UK news",AlJazeera En HD
+https://netplus.zappr.stream/aljazeera.m3u8
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" tvg-country="EN" tvg-language="English" group-title="UK news",CNBC 720p
+https://netplus.zappr.stream/cnbc.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" tvg-country="EN" tvg-language="English" group-title="UK news",bloomberg HD
+https://netplus.zappr.stream/bloomberg.m3u8
+#EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",QUEST HD
+https://netplus.zappr.stream/quest.m3u8
+#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",channel4 HD
+https://netplus.zappr.stream/channel4.m3u8
+#EXTINF:-1 tvg-id="channel5.uk" tvg-logo="https://picserve.netplus.ch/channels/channel5.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",channel5 HD
+https://netplus.zappr.stream/channel5.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png" tvg-country="EN" tvg-language="English" group-title="UK movie",FILM4
+https://netplus.zappr.stream/film4.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://picserve.netplus.ch/channels/more4.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",More4
+https://netplus.zappr.stream/more4.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png" tvg-country="EN" tvg-language="English" group-title="UK food",food network E HD
+https://netplus.zappr.stream/foodnetwork.m3u8
+#EXTINF:-1 tvg-id="tvcnews.ng" tvg-logo="https://picserve.netplus.ch/channels/tvcnews.png" tvg-country="NG" tvg-language="English" group-title="EN news",TVCNEWS
+https://netplus.zappr.stream/tvcnews.m3u8
+#EXTINF:-1 tvg-id="nhkworldjapan.jp" tvg-logo="https://picserve.netplus.ch/channels/nhk.png" tvg-country="JP" tvg-language="English" group-title="EN generalist",NHK WORLD JAPAN HD
+https://netplus.zappr.stream/nhk.m3u8
+#EXTINF:-1 tvg-id="rtpi.pt" tvg-logo="https://picserve.netplus.ch/channels/rtpi.png" tvg-country="PT" tvg-language="Portuguese" group-title="PT generalist",RTP mundo_
+https://netplus.zappr.stream/rtpi.m3u8
+#EXTINF:-1 tvg-id="Rederecordinternacional.br" tvg-logo="https://picserve.netplus.ch/channels/rederecordinternacional.png" tvg-country="BR" tvg-language="Portuguese" group-title="BR generalist",Rede Record internacional HD
+https://netplus.zappr.stream/rederecordinternacional.m3u8
+#EXTINF:-1 tvg-id="tveinternacional.es" tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",tve internacional HD
+https://netplus.zappr.stream/tveinternacional.m3u8
+#EXTINF:-1 tvg-id="canal24horas.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png" tvg-country="ES" tvg-language="Spanish" group-title="ES news",24h HD
+https://netplus.zappr.stream/canal24horas.m3u8
+#EXTINF:-1 tvg-id="Aragontv.es" tvg-logo="https://picserve.netplus.ch/channels/aragontv.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Aragon TV HD
+https://netplus.zappr.stream/aragontv.m3u8
+#EXTINF:-1 tvg-id="starhd.es" tvg-logo="https://picserve.netplus.ch/channels/starhd.png" tvg-country="ES" tvg-language="Spanish" group-title="ES novelas",star ES HD
+https://netplus.zappr.stream/starhd.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://picserve.netplus.ch/channels/recordnews.png" tvg-country="BR" tvg-language="Portuguese" group-title="BR news",Record news internacional HD
+https://netplus.zappr.stream/recordnews.m3u8
+#EXTINF:-1 tvg-id="alarabiya.net" tvg-logo="https://picserve.netplus.ch/channels/alarabiya.png" tvg-country="UA" tvg-language="Arabic" group-title="UA generalist",Al Arabiya HD
+https://netplus.zappr.stream/alarabiya.m3u8
+#EXTINF:-1 tvg-id="almaghribia.ma" tvg-logo="https://picserve.netplus.ch/channels/almaghribia.png" tvg-country="MA" tvg-language="Arabic" group-title="MA generalist",Al Maghribia HD
+https://netplus.zappr.stream/almaghribia.m3u8
+#EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="https://picserve.netplus.ch/channels/almasriyah.png" tvg-country="EG" tvg-language="Arabic" group-title="EG generalist",Al Masriyah HD
+https://netplus.zappr.stream/almasriyah.m3u8
+#EXTINF:-1 tvg-id="dmsat.rs" tvg-logo="https://picserve.netplus.ch/channels/dmsat.png" tvg-country="RS" tvg-language="Serbia" group-title="RS generalist",DMSAT
+https://netplus.zappr.stream/dmsat.m3u8
+#EXTINF:-1 tvg-id="showturk.tr" tvg-logo="https://picserve.netplus.ch/channels/showturk.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",show turk HD
+https://netplus.zappr.stream/showturk.m3u8
+#EXTINF:-1 tvg-id="eurod.tr" tvg-logo="https://picserve.netplus.ch/channels/eurod.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",EUROD HD
+https://netplus.zappr.stream/eurod.m3u8
+#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-logo="https://picserve.netplus.ch/channels/tvpolonia.png" tvg-country="PL" tvg-language="Polonia" group-title="PL generalist",TVP POLONIA HD
+https://netplus.zappr.stream/tvpolonia.m3u8
+#EXTINF:-1 tvg-id="duna.hu" tvg-logo="https://picserve.netplus.ch/channels/duna.png" tvg-country="HU" tvg-language="Hungarian" group-title="HU generalist",DUNA HD
+https://netplus.zappr.stream/duna.m3u8
+#EXTINF:-1 tvg-id="bntworld.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png" tvg-country="BG" tvg-language="Bulgarian" group-title="BG generalist",BNT4 HD
+https://netplus.zappr.stream/bntworld.m3u8
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-logo="https://picserve.netplus.ch/channels/tvrinternational.png" tvg-country="RO" tvg-language="Romanian" group-title="RO generalist",TVRomania int HD
+https://netplus.zappr.stream/tvrinternational.m3u8
+#EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://picserve.netplus.ch/channels/bvn.png" tvg-country="NL" tvg-language="Dutch" group-title="NL generalist",BVN
+https://netplus.zappr.stream/bvn.m3u8
+#EXTINF:-1 tvg-id="rtk1.al" tvg-logo="https://picserve.netplus.ch/channels/rtk1.png" tvg-country="AL" tvg-language="Albanian" group-title="AL generalist",RTK1 SAT HD
+#EXTREM https://netplus.zappr.stream/rtk-sat.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ptccbet.rs" tvg-logo="https://picserve.netplus.ch/channels/rtssat.png" tvg-country="RS" tvg-language="Serbia" group-title="RS generalist",PTC CBET HD
+https://netplus.zappr.stream/rtssat.m3u8
+#EXTINF:-1 tvg-id="mne.me" tvg-logo="https://picserve.netplus.ch/channels/rtcg.png" tvg-country="ME" tvg-language="Serbia" group-title="RS generalist",MNE HD
+https://netplus.zappr.stream/rtcg.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://picserve.netplus.ch/channels/trtturk.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",TRT TURK HD
+https://netplus.zappr.stream/trtturk.m3u8
+#EXTINF:-1 tvg-id="2m.ma" tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png" tvg-country="MA" tvg-language="Arabic" group-title="MA generalist",2M Maroc FHD
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="canalalgerie." tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png" tvg-country="DZ" tvg-language="Arabic" group-title="DZ generalist",Canal Algerie2
+https://netplus.zappr.stream/canalalgerie.mpd
+#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" tvg-country="CN" tvg-language="Chinese" group-title="CN generalist",cctv4 HD
+https://netplus.zappr.stream/cctv4.m3u8
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",Canal B (start 1.7.2026)
+#EXTREM https://netplus.zappr.stream/canalbd.mpd
+#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Canal B (start 1.7.2026)
+#EXTREM https://netplus.zappr.stream/canalbf.mpd
