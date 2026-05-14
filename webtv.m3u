@@ -239,7 +239,8 @@ https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 tvg-id="CNBC.uk" group-title="news", CNBC 720p
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.uk" group-title="news",bloomberg HD
-https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/983ab2c0-54d9-4f61-b87a-1d094ea6ffad:GRQ/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
 #EXTINF:-1 tvg-id="fashiontv.uk",fashiontv HD
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="channel4.uk",channel4 HD
@@ -393,7 +394,7 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 #EXTINF:-1 tvg-id="travelxp.com" tvg-logo="",travelxp HD
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 tvg-id="wellbeingmag.tv" tvg-logo="",Wellbeing TV HD
-https://amg01736-harmonysecomgro-myzentv-netgemuk-5yjaw.amagi.tv/ts-eu-w1-n2/playlist/amg01736-harmonysecomgro-myzentv-netgemuk/cb573d1a7f6c67909bcb3978d1f24682967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dc6cbfb102488b2f57f383459fd74eed81dd469746d773ec159cc4f096824682878c30f851b2305c5d752ac0d57bc9be37c6db9e7a779b7538542156e9ad80fb4028f424293da8a5a4d50dfe17ddc722857025c963f22ed56aff01c408a3f200b5be84cf50482fa5c7421344ca84f0d0bc5f5dbc62e8ece8cd63439be31a7c4bcc1fad48583b9ff0851a81d71293bb6d8bb17d1a3dcd8553c1e6d8efeeb49e049d35daf8fa9930473c086e6ba858b69d68d669e94ef2be79485d4957e3995ad496d82c53082ed6da0ebe621abdc8c582cf1e04d9741448ed5fcc49091eb75e1574f139e9896623c6311d927b33fe4c32854fb2bb23bbb2d0aa5c50dfbac046ef7d9dd660b3a758da07505e06a3e0135c4a426ed5e0727f5313a215be82a086760d13a2f3c4fab21552433d40510f89e7b429d6db90784f5b940b7e62391247c2569b3c8d5419517b9a48d7ad5922df774b47f3b4004d486580c9b298f5b5a025e525bda59a382b281767b327774504b2e6bf46974e239cbb9fe175066095453171fd9cddff9c9262cf9260d849087646f080dbc5943009052f8e8267c75b98fc75794a083dbe87aa00408b3fab041edca4b48f3a2fe0b52d3cbfd03e2a689bdc33cd663fc95db241ec80258ce00745746e317cf0c99416a79effe3dcc8d5006ba57e5ea0159e89f1bcc66319dd84583a30016fb01e386b0103a2d3d9680134b9f277a615d1e25bad4d43207f69eac2510ec8b82c5cab3c7036f1fb8b93fb9e4a50eb7ee479cc5706a47c043aae996bbdcde1a5bacf447c34f49ae70cb7a883848cf1cf2575042570b8c94d5a7add69a1d857affd532ca1d9cbd6db689667eb7aeed7e160b76ae0eeb809e1c1c9aeb527590e14078eb49d9023d2b20e4aac689b1c7d6afba4d0b434ab94ec7d378034cd8c047ca12d715bddd99229c128aae92a25e1931337f07035c4a0b2662bc12aa32f256eb3aaa56b28c4d7008347f8c4a356acedd3d633e13806125dd7f777510e94cc257cb6cec35b/149/1920x1080_4716800/index.m3u8
+https://amg01736-harmonysecomgro-myzentv-netgemuk-5yjaw.amagi.tv/ts-eu-w1-n2/playlist/amg01736-harmonysecomgro-myzentv-netgemuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Just for laughs HD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/44084380-d002-4590-b1e2-2dfce0bc4a42/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/fast_nauticalchannel.png",Nautical Channel HD
@@ -478,7 +479,8 @@ https://jmp2.uk/stvp-GBBC2100002HP
 #EXTINF:-1 channel-id="GBBD2300001C0" tvg-id="GBBD2300001C0" group-title="Musique" tvg-chno="" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & RnB
 https://jmp2.uk/stvp-GBBD2300001C0
 #EXTINF:-1 channel-id="GBBC19000017V" tvg-id="GBBC19000017V" group-title="Musique" tvg-chno="" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop
-https://jmp2.uk/stvp-GBBC19000017V
+#EXTREM https://jmp2.uk/stvp-GBBC19000017V
+https://amg00056-amg00056c7-rakuten-ch-6786.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FR3000139Z" group-title="Cinéma",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FR300009JQ" group-title="Cinéma",SONY ONE HITS COMEDIE
@@ -526,7 +528,7 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="ertnews.gr" tvg-name="EPT NEWS" tvg-logo="https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg" group-title="lifestyle",EPT NEWS HD
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-id="lessecretsdenosregions.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_lessecretsdenosregions.png",Les secrets de nos régions France
-https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/cb7d3e4f7b706f8c9b983b6cd2f346a0d1526081563ad66167ab5e9327934953d4bcf590e71abe6a0fbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05946c66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f395d30e82989171bd51b630515d7a7c9bcd7cc2980afb8bcb6f69d1297e1f4d18b3f1c1f81c6ed016115aada7f98b0f897b2c48e7e01a559828da24b727837fb00cb5ed4faea9c9ae28231c91b497e5bac29fc6afee273cad6381c2a3bd213ff1f26547bfe51834d00c18e9809313a0ca3ad69669e8917c0f37d0940aa188a08aecb8b7edfd4fd7eafb82344e42624b57c80de2d25ad227d977bfdd530f680d15fdd4059fc6ee573e341bddc046824752f9fa9b93d30b0ccf623053fc2f8c0852229f622c34ce05cdb71020c92a038e307ddc5d368b4db5f80ffdb5d4e80374e48a940caf21bffb5a92c503af6c2e504de6a17b11161a3df5ea6142612d900bb49d9aaf277b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c8e394f4d7d13059917d96fcb72202d27ca0cdcbf0672917c4f08e2a03a1d172ca1c1bf8588c1d906d25bd6dcf62d202b5302e4d36486de021cebddd314b3c5cdd69a841913574b9a2b48/9/1920x1080_4300000/index.m3u8
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="www.die-neue-zeit.tv" tvg-logo="https://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png",Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/manifest.m3u8
 #EXTINF:-1 ,Fox LiveNOW
@@ -607,6 +609,8 @@ https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="NOW Rock" tvg-logo="https://i.postimg.cc/gjHCXtNd/nowrock.png" group-title="music",that's ROCK
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Now00.uk" tvg-name="NOW 00" tvg-logo="https://i.postimg.cc/gjHCXtNd/now00.png" group-title="music",that's 00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Totalmusic2000s.uk" tvg-name="Totalmusic 2000s" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="music",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English",DW English (1080p)
@@ -631,8 +635,6 @@ https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1,MotorVision classic HD
 https://mvg-mv-cl-wedotv.otteravision.com/mvg/mv_cl/mv_cl_1080.m3u8
-#EXTINF:-1,Just COOKING deutsch HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/332e7648-7a68-4f2e-a4d0-684758925fc2/0.m3u8
 #EXTINF:-1 tvg-name="TRACE Brasil HD" tvg-logo="https://static.epg.best/br/tracebrasil.br.png" tvg-country="BR" group-title="music",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://static.epg.best/uk/bbcearth.uk.png" tvg-country="GB" group-title="documentary",BBC Earth HD
@@ -657,3 +659,7 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
 #EXTINF:-1,SWR DASDING HD
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY FHD
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1,Reuters TV HD
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
