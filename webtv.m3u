@@ -394,12 +394,12 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 tvg-id="wellbeingmag.tv" tvg-logo="",Wellbeing TV HD
 https://amg01736-harmonysecomgro-myzentv-netgemuk-5yjaw.amagi.tv/ts-eu-w1-n2/playlist/amg01736-harmonysecomgro-myzentv-netgemuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Just for laughs HD
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/44084380-d002-4590-b1e2-2dfce0bc4a42/2.m3u8
+#EXTINF:-1 tvg-id="justforlaughs.com" tvg-logo="https://picserve.netplus.ch/channels/fast_justforlaughs.png",Just for laughs HD
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/cb6e197e-fdf9-4dcd-860d-b8c519ef288f/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/fast_nauticalchannel.png",Nautical Channel HD
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/21be0e92-f6ac-4bed-bc5f-51b707870ac7/2.m3u8
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/1.m3u8
 #EXTINF:-1 tvg-id="automotiontv.com" tvg-logo="https://picserve.netplus.ch/channels/automotion.png",AUTOMOTION FHD
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/1.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="",ADN Animation Digital Network HD
 https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
 #EXTINF:-1 tvg-id="cgtn.com" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png",CGTN news english
@@ -644,8 +644,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 #EXTINF:-1,auto motor sport HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c9a20a06-f601-4af9-b4f5-c6b256b1a5c2/0.m3u8
-#EXTINF:-1,NAUTICAL CHANNEL HD
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8
 #EXTINF:-1,N24 Doku HD
 https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
 #EXTINF:-1,Bild TV HD
