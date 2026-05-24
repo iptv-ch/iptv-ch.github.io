@@ -545,3 +545,5 @@ https://st8.hotradio.fr/34
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/chunklist_ao.m3u8
 #EXTINF:-1,STUDiO STAR feel the music
 https://nr5.newradio.it/proxy/madresti?mp=/stream
+#EXTINF:-1,radio france international
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
