@@ -18,7 +18,7 @@ https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 #EXTINF:-1 tvg-id="carac3.tv" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png",carac3 FHD
 https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-id="carac4.tv" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png",carac4 FHD
-https://compack_media_1.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+https://carac4.vedge.infomaniak.com/livecast/ik:compack_media_1/0.m3u8
 #EXTINF:-1 tvg-id="carac5.tv" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png",carac5 FHD
 https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png",tvm3 HD
