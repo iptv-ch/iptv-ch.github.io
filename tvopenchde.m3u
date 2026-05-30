@@ -25,10 +25,10 @@ rtp://239.186.68.26:10000
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="https://static.epg.best/de/HR.de.png" tvg-chno="217" channel-id="217",hr HD
 rtp://239.186.68.156:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins CH HD
-rtp://239.186.68.15:10000
-#EXTINF:-1 tvg-id="Kabel1Doku.de" tvg-name="Kabel 1 Doku DE" tvg-logo="https://static.epg.best/de/Kabel1Doku.de.png" tvg-chno="221" channel-id="221",kabel eins Doku CH HD
-rtp://239.186.70.86:10000
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins CH
+rtp://239.186.64.20:10000
+#EXTINF:-1 tvg-id="Kabel1Doku.de" tvg-name="Kabel 1 Doku DE" tvg-logo="https://static.epg.best/de/Kabel1Doku.de.png" tvg-chno="221" channel-id="221",kabel eins Doku CH
+rtp://239.186.66.230:10000
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR DE" tvg-logo="https://static.epg.best/de/MDR.de.png" tvg-chno="230" channel-id="230",mdr HD
 rtp://239.186.68.162:10000
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR DE" tvg-logo="https://static.epg.best/de/ndr.de.png" tvg-chno="237" channel-id="237",NDR HD
@@ -43,10 +43,10 @@ rtp://239.186.68.13:10000
 rtp://239.186.70.122:10000
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://static.epg.best/de/Phoenix.de.png" tvg-chno="250" channel-id="250",phoenix HD
 rtp://239.186.68.30:10000
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben CH HD
-rtp://239.186.68.17:10000
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" tvg-chno="252" channel-id="252",ProSieben MAXX CH HD
-rtp://239.186.70.87:10000
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben DE" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="251" channel-id="251",ProSieben CH
+rtp://239.186.64.19:10000
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" tvg-chno="252" channel-id="252",ProSieben MAXX CH
+rtp://239.186.66.109:10000
 #EXTINF:-1 tvg-id="PULSacht.ch" tvg-name="Puls acht CH" tvg-logo="https://static.epg.best/ch/PULSacht.ch.png" tvg-chno="254" channel-id="254",Puls acht HD
 rtp://239.186.68.191:10000
 #EXTINF:-1 tvg-id="r-9.at" tvg-name="R-9 AT" tvg-logo="https://static.epg.best/at/r-9.at.png" tvg-chno="255" channel-id="255",R9 Oesterreich HD
@@ -61,18 +61,18 @@ rtp://239.186.64.16:10000
 rtp://239.186.66.201:10000
 #EXTINF:-1 tvg-id="S1.ch" tvg-name="S1 CH" tvg-logo="https://static.epg.best/ch/S1.ch.png" tvg-chno="263" channel-id="263",S1 HD
 rtp://239.186.68.147:10000
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH HD
-rtp://239.186.68.16:10000
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold DE" tvg-logo="https://static.epg.best/de/Sat1Gold.de.png" tvg-chno="264" channel-id="265",SAT.1 GOLD CH HD
-rtp://239.186.70.88:10000
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
+rtp://239.186.64.18:10000
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold DE" tvg-logo="https://static.epg.best/de/Sat1Gold.de.png" tvg-chno="264" channel-id="265",SAT.1 GOLD CH
+rtp://239.186.64.143:10000
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://static.epg.best/de/ServusTV.de.png" tvg-chno="270" channel-id="270",ServusTV Deutschland
 rtp://239.186.64.136:10000
 #EXTINF:-1 tvg-id="SessionNationalrat.ch" tvg-name="Session Nationalrat CH" tvg-logo="https://static.epg.best/ch/SessionNationalrat.ch.png" tvg-chno="272" channel-id="272",SessionNationalrat HD
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="SessionStaendenrat.ch" tvg-name="SessionStaendenrat CH" tvg-logo="https://static.epg.best/ch/SessionStaendenrat.ch.png" tvg-chno="274" channel-id="274",SessionStaendenrat HD
 rtp://239.186.70.128:10000
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH HD
-rtp://239.186.68.34:10000
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
+rtp://239.186.64.70:10000
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" tvg-chno="290" channel-id="290",RTL SUPER
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://static.epg.best/de/SWRSR.de.png" tvg-chno="294" channel-id="294",SWR >> HD
@@ -112,8 +112,7 @@ rtp://239.186.68.93:10000
 #EXTREM:regio
 #EXTINF:-1 tvg-id="DavosKlosters.ch" tvg-name="Davos Klosters CH" tvg-logo="https://static.epg.best/ch/DavosKlosters.ch.png" tvg-chno="200" channel-id="200",Davos Klosters HD
 rtp://239.186.68.216:10000
-#EXTINF:-1 ,rro tv radio rottu oberwallis HD
-rtp://239.186.68.243:10000
+
 #EXTINF:-1 tvg-id="Alf-TV.ch" tvg-name="Alf-TV CH" tvg-logo="https://static.epg.best/de/Alf-tv.ch.png" tvg-chno="127" channel-id="127",ALF-TV CH HD
 rtp://239.186.70.179:10000
 #EXTINF:-1 tvg-id="lilotv.ch" tvg-name="lilo tv CH" tvg-logo="https://static.epg.best/ch/lilotv.ch.png" tvg-chno="" channel-id="" group-title="(No group)",lilo TV
@@ -201,10 +200,6 @@ rtp://239.186.66.232:10000
 rtp://239.186.84.174:10000
 #EXTINF:-1 ,DOKUSAT HD
 rtp://239.186.70.42:10000
-#EXTINF:-1,World Economic Forum TV2 HD
-rtp://239.186.70.175:10000
-#EXTINF:-1,World Economic Forum TV1 HD
-rtp://239.186.70.176:10000
 #EXTREM:religion
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV DE" tvg-logo="https://static.epg.best/de/BibelTV.de.png" tvg-chno="192" channel-id="192",bibel.TV HD
 rtp://239.186.68.148:10000
@@ -266,4 +261,3 @@ rtp://239.186.68.207:10000
 rtp://239.186.74.105:10000
 #EXTINF:-1,TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
-
