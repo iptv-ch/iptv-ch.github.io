@@ -69,8 +69,6 @@ rtp://239.186.70.148:10000
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="I24news" tvg-logo="http://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
-rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Conseil National Suisse
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.epg.best/ch/conseilnational.png" tvg-chno="" channel-id="",Conseil Etats Suisse
@@ -90,7 +88,7 @@ rtp://239.186.68.194:10000
 rtp://239.186.68.107:10000
 #EXTINF:-1 tvg-id="telebielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="http://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="303" channel-id="303",TeleBielingue HD
 rtp://239.186.70.82:10000
-#EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="http://static.epg.best/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
+#EXTINF:-1 tvg-id="icitv.ch" tvg-name="icitv CH" tvg-logo="http://static.epg.best/ch/icitv.ch.png" tvg-chno="71" channel-id="71",Ici TV HD
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="MaxTV CH" tvg-logo="http://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD/DieuTV HD
 rtp://239.186.68.199:10000
@@ -100,8 +98,6 @@ rtp://239.186.70.66:10000
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="http://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
 rtp://239.186.70.132:10000
-#EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="http://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie TV HD
-rtp://239.186.70.180:10000
 #EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="http://static.epg.best/ch/carac1.ch.png" tvg-chno="" channel-id="83",carac1 HD
 rtp://239.186.68.253:10000
 #EXTINF:-1 tvg-id="carac2.ch" tvg-name="carac2 CH" tvg-logo="http://static.epg.best/ch/carac2.ch.png" tvg-chno="" channel-id="84",carac2 HD
@@ -123,8 +119,6 @@ rtp://239.186.70.174:10000
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",L'Equipe HD
 rtp://239.186.68.132:10000
-#EXTINF:-1 tvg-id="icimediasports.ch" tvg-name="ICI MEDIA SPORTS CH" tvg-logo="http://static.epg.best/ch/icimediasports.ch.png" tvg-chno="88" channel-id="88",ICI MEDIA SPORTS HD
-rtp://239.186.70.203:10000
 #EXTREM:Animations enfants / adolescents
 #EXTINF:-1 tvg-id="C482.api.telerama.fr" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="20" channel-id="20",gulli HD
 rtp://239.186.70.29:10000
