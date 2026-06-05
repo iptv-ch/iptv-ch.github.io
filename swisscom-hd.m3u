@@ -651,6 +651,8 @@ rtp://239.186.84.156:10000
 rtp://239.186.84.178:10000
 #EXTINF:-1, Radio24 tv Il Sole 24 ORE HD
 rtp://239.186.70.33:10000
+#EXTINF:-1,wedotv Movies IT HD (ita)
+rtp://239.186.70.169:10000
 #EXTREM:portuguese
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" tvg-chno="471" channel-id="471",Record HD
 rtp://239.186.68.246:10000
