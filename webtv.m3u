@@ -665,3 +665,11 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1,France24 English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FuelTV" tvg-logo="https://picserve.netplus.ch/channels/fast_fueltv.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",FUEL TV
+https://amg01074-fueltv-netgem.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-netgem/8e626d9e-61f2-11f1-a4d1-56e92c19a593/22/1920x1080_4716800/index.m3u8
+#EXTINF:-1 tvg-name="Rugby Zone" tvg-logo="https://picserve.netplus.ch/channels/fast_rugbyzone.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",Rugby Zone
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d98c73d-ddae-4260-a640-e2e443a0b6ce/27173802-f7ef-4e18-ab7e-f4c2e3da9326/2.m3u8
+#EXTINF:-1 tvg-name="Horse&Country" tvg-logo="https://picserve.netplus.ch/channels/fast_horseandcountry.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",Hors&Country
+https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/ts-us-w2-n1/playlist/sportstri-hncfree-sportstribal/2d0d79c4-61f4-11f1-9d4e-9ed934dcfd3c/174/640x360_1020800/index.m3u8
+#EXTINF:-1 tvg-name="wired2fish" tvg-logo="https://picserve.netplus.ch/channels/fast_wired2fish.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",Wired2fish
+https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
