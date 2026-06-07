@@ -90,10 +90,6 @@ rtp://239.186.70.66:10000
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch" tvg-name="TV Onex CH" tvg-logo="https://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
 rtp://239.186.70.132:10000
-#EXTINF:-1 tvg-id="ajoie.ch" tvg-name="Ajoie CH" tvg-logo="https://static.epg.best/ch/ajoie.ch.png" tvg-chno="87" channel-id="87",Ajoie TV HD
-rtp://239.186.70.180:10000
-#EXTINF:-1 tvg-id="icimediasports.ch" tvg-name="ICI MEDIA SPORTS CH" tvg-logo="https://static.epg.best/ch/icimediasports.ch.png" tvg-chno="88" channel-id="88",ICI MEDIA SPORTS HD
-rtp://239.186.70.203:10000
 #EXTINF:-1 ,Rhone TV HD
 rtp://239.186.84.172:10000
 #EXTINF:-1 tvg-id="BlueZoomF.ch" tvg-name="Blue Zoom F CH" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="89" channel-id="89",blue ZOOM F HD
@@ -157,8 +153,6 @@ rtp://239.186.70.249:10000
 rtp://239.186.64.53:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="EuroNews UK" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" tvg-chno="111" channel-id="111",euronews E HD
 rtp://239.186.70.105:10000
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" tvg-chno="112" channel-id="112",Fashion TV HD
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="113" channel-id="113",Film4
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" tvg-chno="114" channel-id="114",Channel5 CH HD
@@ -480,10 +474,6 @@ rtp://239.186.68.53:10000
 rtp://239.186.70.140:10000
 #EXTINF:-1,canalb D HD 
 rtp://239.186.70.173:10000
-#EXTINF:-1,World Economic Forum TV2 HD
-rtp://239.186.70.175:10000
-#EXTINF:-1,World Economic Forum TV1 HD
-rtp://239.186.70.176:10000
 #EXTINF:-1,lilo TV
 rtp://239.186.74.82:10000
 #EXTINF:-1,network tv HD
@@ -631,8 +621,6 @@ rtp://239.186.84.23:10000
 rtp://239.186.74.59:10000
 #EXTINF:-1 ,Radio Ticino channel HD
 rtp://239.186.68.192:10000
-#EXTINF:-1 ,WarnerTV Italia HD
-rtp://239.186.84.46:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
 #EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel IT" tvg-logo="https://static.epg.best/it/BikeChannel.it.png" tvg-chno="" channel-id="",BIKE CHANNEL HD
@@ -727,8 +715,6 @@ rtp://239.186.74.98:10000
 rtp://239.186.84.176:10000
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="Al Jazeera Arabic QA" tvg-logo="https://static.epg.best/qa/AlJazeeraArabic.qa.png" tvg-chno="151" channel-id="151",ALJAZEERA Arabic HD
-rtp://239.186.70.199:10000
 #EXTINF:-1 tvg-id="tunisienationale.tn" tvg-name="Tunisie Nationale TN" tvg-logo="https://static.epg.best/tn/tunisienationale.tn.png" tvg-chno="153" channel-id="153",Tunisie Nationale
 rtp://239.186.74.89:10000
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN NL" tvg-logo="https://static.epg.best/nl/BVN.nl.png" tvg-chno="434" channel-id="434",bvn.
@@ -755,8 +741,6 @@ rtp://239.186.66.203:10000
 rtp://239.186.66.132:10000
 #EXTINF:-1 tvg-id="RTRplaneta.ru" tvg-name="RTRPlaneta RU" tvg-logo="https://static.epg.best/ru/rtrplaneta.ru.png" tvg-chno="452" channel-id="452",PLANETA RTR
 rtp://239.186.66.138:10000
-#EXTINF:-1 tvg-id="RiK.sk" tvg-name="RiK SK" tvg-logo="https://static.epg.best/sk/RiK.sk.png" tvg-chno="456" channel-id="456",RiK Sat HD
-rtp://239.186.84.85:10000
 #EXTINF:-1 tvg-id="RTK.al" tvg-name="RTK AL" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1 SAT
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD (kur)
@@ -765,10 +749,6 @@ rtp://239.186.68.247:10000
 rtp://239.186.66.135:10000
 #EXTINF:-1 tvg-id="tvri.ro" tvg-name="TVRomania RO" tvg-logo="https://static.epg.best/ro/tvri.ro.png" tvg-chno="465" channel-id="465",TVRi TV Romania International
 rtp://239.186.66.148:10000
-#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 RO" tvg-logo="https://static.epg.best/ro/digi24.ro.png" tvg-chno="" channel-id="",Digi 24 (rom)
-rtp://239.186.74.64:10000
-#EXTINF:-1 tvg-id="z1.hr" tvg-name="Z1 HR" tvg-logo="https://static.epg.best/hr/z1.hr.png" tvg-chno="466" channel-id="466",Z1 TV
-rtp://239.186.66.149:10000
 #EXTINF:-1 tvg-id="ptccbet.rs" tvg-name="PTC CBET RS" tvg-logo="https://static.epg.best/rs/ptccbet.rs.png" tvg-chno="473" channel-id="473",PTC CBET HD
 rtp://239.186.70.164:10000
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World KR" tvg-logo="https://static.epg.best/kr/KBSWorld.kr.png" tvg-chno="160" channel-id="160",KBS World HD
