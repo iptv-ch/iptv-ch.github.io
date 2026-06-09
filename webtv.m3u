@@ -276,8 +276,8 @@ https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
 #EXTINF:-1 tvg-id="recordnews.br",Record news
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
-#EXTINF:-1 tvg-id="tvri.br",TVRi
-https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
+#EXTINF:-1 tvg-id="tvri.br",TVRi TV Romania international HD
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/index.m3u8
 #EXTINF:-1 tvg-id="almaghribia.ma", Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 tvg-id="sixx.de",sixx HD
@@ -669,3 +669,5 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d98c73d-ddae-4260-a640-e2e443a0b6ce/27173802-f7ef-4e18-ab7e-f4c2e3da9326/2.m3u8
 #EXTINF:-1 tvg-name="wired2fish" tvg-logo="https://picserve.netplus.ch/channels/fast_wired2fish.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",Wired2fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
+#EXTINF:-1 tvg-id="tvri.br",TVR INFO TV Romania INFO HD
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8
