@@ -673,3 +673,5 @@ https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8
 #EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-country="BJ" tvg-language="French" group-title="BJ generalist",BéninTV HD
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://static.epg.best/lu/RTL.bj.png" tvg-country="LU" tvg-language="Lëtzebuergesch" group-title="LU generalist",RTL Luxembourg HD
+https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
