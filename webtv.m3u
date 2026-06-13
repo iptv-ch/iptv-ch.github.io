@@ -671,3 +671,5 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
 #EXTINF:-1 tvg-id="tvri.br",TVR INFO TV Romania INFO HD
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8
+#EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-country="BJ" tvg-language="French" group-title="BJ generalist",BéninTV HD
+https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
