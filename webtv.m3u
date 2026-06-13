@@ -81,7 +81,7 @@ https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 #EXTINF:-1 tvg-id="trek.fr",TREK HD 
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
-#EXTINF:-1 tvg-id="arte.fr",arte HD 
+#EXTINF:-1 tvg-id="arte.fr",arte fr HD 
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" group-title="news",BFM TV HD 
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
@@ -235,7 +235,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_720_30/Live
 #EXTINF:-1 tvg-id="cnn.uk",cnn europe HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-id="aljazeera.uk" group-title="news", Al Jazeera HD
-https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.uk" group-title="news", CNBC 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.uk" group-title="news",bloomberg HD
@@ -622,11 +623,11 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 tvg-id="arte.de",arte d HD 
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang.kr",arirang korea HD 
-https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8
 #EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec HD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,SPORTDIGITAL FREE HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3d4ce299-d207-4d99-a253-6643b94e24cc/0.m3u8
+https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/930f20d8-cf68-c365-113c-7cb8aebed17b/d/manifest.m3u8
 #EXTINF:-1,Movie Music by STINGRAY HD
 https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8
 #EXTINF:-1,dJazz STINGRAY HD
@@ -645,8 +646,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://static.epg.best/ca/icitele.ca.png" tvg-country="CA" tvg-language="French" group-title="CA generalist",ICI Télé - Radio Canada HD
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1,auto motor sport HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c9a20a06-f601-4af9-b4f5-c6b256b1a5c2/0.m3u8
 #EXTINF:-1,N24 Doku HD
 https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
 #EXTINF:-1,Bild TV HD
@@ -675,3 +674,7 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://static.epg.best/lu/RTL.bj.png" tvg-country="LU" tvg-language="Lëtzebuergesch" group-title="LU generalist",RTL Luxembourg HD
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
+#EXTINF:-1 tvg-id="TRTWORLD.TR" tvg-logo="https://static.epg.best/tr/trtworld.tr.png" tvg-country="TR" tvg-language="English" group-title="TR news",TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="automotorsport.de" tvg-logo="https://static.epg.best/de/automotorsport.de.png" tvg-country="DE" tvg-language="german" group-title="DE news sport",AUTO MOTOR SPORT DE HD
+https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8
