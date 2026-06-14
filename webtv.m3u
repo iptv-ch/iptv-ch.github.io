@@ -527,8 +527,8 @@ https://jmp2.uk/stvp-FR1800004EP
 https://us.gbnus.com/live/dhamma_high/playlist.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="lifestyle",HANDICAP TV HD
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTREM #EXTINF:-1 tvg-id="ertnews.gr" tvg-name="EPT NEWS" tvg-logo="https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg" group-title="GR news",EPT NEWS HD
-#EXTREM https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Seasonal2/default/index.mpd
+#EXTINF:-1 tvg-id="ertnews.gr" tvg-name="EPT NEWS" tvg-logo="https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg" group-title="GR news",ERT news HD EPT news HD
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="lessecretsdenosregions.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_lessecretsdenosregions.png",Les secrets de nos régions France
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="www.die-neue-zeit.tv" tvg-logo="https://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png",Die Neue Zeit TV
