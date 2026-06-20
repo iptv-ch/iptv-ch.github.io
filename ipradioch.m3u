@@ -108,7 +108,7 @@ https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1,Country Radio Switzerland
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 #EXTINF:-1,Radio Tell
-https://radiotell.dmd2streaming.com/radiotell.aac
+https://radiotell.dmd2streaming.com/radiotell.mp3
 #EXTINF:-1,GOAT Radio
 https://20min.dmd2streaming.com/20minuten_radio_64.aac
 #EXTINF:-1,Sunradio
@@ -547,3 +547,5 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/c
 https://nr5.newradio.it/proxy/madresti?mp=/stream
 #EXTINF:-1,radio france international
 https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
+#EXTINF:-1,radiosouvenir.com
+https://radio12.pro-fhi.net/live/RadioSouvenir.com
