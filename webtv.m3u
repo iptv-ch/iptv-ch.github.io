@@ -24,7 +24,7 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="canal9.ch",Canal9 HD
 https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1 tvg-id="lemanbleu.ch",Léman bleu HD
-https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
+https://lemanbleu.vedge.infomaniak.com/livecast/ik:lemanbleu/manifest.m3u8
 #EXTINF:-1 tvg-id="latele.ch",LA TELE HD
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1 tvg-id="canalalphaju.ch",Canal Alpha JU HD
@@ -680,11 +680,7 @@ https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94
 https://1936287162.rsc.cdn77.org/hls/54jCArWE/stream.m3u8
 #EXTINF:-1 tvg-id="rts1.sn" tvg-logo="https://static.epg.best/sn/rts1.sn.png" tvg-country="SN" tvg-language="french" group-title="SN generalist",RTS1 Sénégal1
 https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8
-#EXTINF:-1 tvg-id="justcooking.de" tvg-logo="https://static.epg.best/de/justcooking.de.png" tvg-country="DE" tvg-language="german" group-title="DE cooking",just COOKING DE
-https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/a4d767b0-82b8-92c2-62ef-945f929580f2/d/manifest.m3u8
-#EXTINF:-1 tvg-id="oneterra.de" tvg-logo="https://static.epg.best/de/oneterra.de.png" tvg-country="DE" tvg-language="german" group-title="DE wild",One TERRA DE
-https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/d2b407bf-6d21-839b-f212-9cc563222254/d/manifest.m3u8
-#EXTINF:-1 tvg-id="dlxdeutschpop.de" tvg-logo="https://static.epg.best/de/dlxdeutschpop.de.png" tvg-country="DE" tvg-language="german" group-title="DE music",DELUXE DLX DEUTSCHPOP DE
-https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/0154408e-ad77-745f-d252-bc7cc2ee3e3e/d/manifest.m3u8
-#EXTINF:-1 tvg-id="hohenrausch.de" tvg-logo="https://static.epg.best/de/hohenrausch.de.png" tvg-country="DE" tvg-language="german" group-title="DE wild",HOHENRAUSCH DE
-https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/2a615042-f13f-1e13-f9ea-7fa9da8953bf/d/manifest.m3u8
+#EXTREM #EXTINF:-1 tvg-id="justcooking.de" tvg-logo="https://static.epg.best/de/justcooking.de.png" tvg-country="DE" tvg-language="german" group-title="DE cooking",just COOKING DE
+#EXTREM #EXTINF:-1 tvg-id="oneterra.de" tvg-logo="https://static.epg.best/de/oneterra.de.png" tvg-country="DE" tvg-language="german" group-title="DE wild",One TERRA DE
+#EXTREM #EXTINF:-1 tvg-id="dlxdeutschpop.de" tvg-logo="https://static.epg.best/de/dlxdeutschpop.de.png" tvg-country="DE" tvg-language="german" group-title="DE music",DELUXE DLX DEUTSCHPOP DE
+#EXTREM #EXTINF:-1 tvg-id="hohenrausch.de" tvg-logo="https://static.epg.best/de/hohenrausch.de.png" tvg-country="DE" tvg-language="german" group-title="DE wild",HOHENRAUSCH DE
