@@ -863,6 +863,8 @@ rtp://239.186.70.164:10000
 rtp://239.186.70.167:10000
 #EXTINF:-1,Info Channel HD
 rtp://239.186.70.168:10000
+#EXTINF:-1,wedotv Movies HD (ita)
+rtp://239.186.70.169:10000
 #EXTINF:-1,Cielo HD
 rtp://239.186.70.172:10000
 #EXTINF:-1,canalb D HD (de)
