@@ -686,3 +686,5 @@ https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8
 #EXTREM #EXTINF:-1 tvg-id="hohenrausch.de" tvg-logo="https://static.epg.best/de/hohenrausch.de.png" tvg-country="DE" tvg-language="german" group-title="DE wild",HOHENRAUSCH DE
 #EXTINF:-1 tvg-id="funbox.uk" tvg-logo="https://static.epg.best/de/funbox.uk.png" tvg-country="UK" tvg-language="english" group-title="UK sport",FAST & FUNBOX HD
 https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews.de" tvg-logo="https://static.epg.best/de/euronews.de.png" tvg-country="DE" tvg-language="german" group-title="DE news",euronews. deutsch HD
+https://amg00882-amg00882c3-wedotv-eu-4535.playouts.now.amagi.tv/playlist.m3u8
