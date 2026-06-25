@@ -466,8 +466,8 @@ https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/manifest.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.millenium.org" tvg-logo="https://picserve.netplus.ch/channels/mggesport.png",MGG ESport HD
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-#EXTINF:-1 tvg-id="motorvision.tv" tvg-logo="https://picserve.netplus.ch/channels/motorvision.png",MotorVision F HD
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTREM #EXTINF:-1 tvg-id="motorvision.tv" tvg-logo="https://picserve.netplus.ch/channels/motorvision.png",MotorVision F HD
+#EXTERM https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/frequencenovelas.png",Frequence Novelas F HD
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/screamin.png",SCREAM IN F HD
@@ -674,8 +674,8 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
 #EXTINF:-1 tvg-id="TRTWORLD.TR" tvg-logo="https://static.epg.best/tr/trtworld.tr.png" tvg-country="TR" tvg-language="English" group-title="TR news",TRT WORLD HD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="automotorsport.de" tvg-logo="https://static.epg.best/de/automotorsport.de.png" tvg-country="DE" tvg-language="german" group-title="DE news sport",AUTO MOTOR SPORT DE HD
-https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8
+#EXTREM #EXTINF:-1 tvg-id="automotorsport.de" tvg-logo="https://static.epg.best/de/automotorsport.de.png" tvg-country="DE" tvg-language="german" group-title="DE news sport",AUTO MOTOR SPORT DE HD
+#EXTREM https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8
 #EXTINF:-1 tvg-id="1plus1news.ua" tvg-logo="https://static.epg.best/ua/1plus1.ua.png" tvg-country="UA" tvg-language="Ukrainian" group-title="UA news",1+1 NEWS Ukrain
 https://1936287162.rsc.cdn77.org/hls/54jCArWE/stream.m3u8
 #EXTINF:-1 tvg-id="rts1.sn" tvg-logo="https://static.epg.best/sn/rts1.sn.png" tvg-country="SN" tvg-language="french" group-title="SN generalist",RTS1 Sénégal1
