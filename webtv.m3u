@@ -231,7 +231,8 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="itv4.uk",itv4 HD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" tvg-country="UK" tvg-language="english" group-title="news",sky news HD
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+https://jmp2.uk/stvp-CH34000014Q
 #EXTINF:-1 tvg-id="cnn.uk",cnn europe HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-id="aljazeera.uk" group-title="news", Al Jazeera HD
@@ -627,7 +628,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.
 #EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec HD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,SPORTDIGITAL FREE HD
-https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/930f20d8-cf68-c365-113c-7cb8aebed17b/d/manifest.m3u8
+https://jmp2.uk/stvp-DEAJ0500429A
 #EXTINF:-1,Movie Music by STINGRAY HD
 https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8
 #EXTINF:-1,dJazz STINGRAY HD
@@ -688,3 +689,5 @@ https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8
 https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews.de" tvg-logo="https://static.epg.best/de/euronews.de.png" tvg-country="DE" tvg-language="german" group-title="DE news",euronews. deutsch HD
 https://amg00882-amg00882c3-wedotv-eu-4535.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="2686" tvg-id="CH700006GD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png" tvg-country="CH" group-title="News",2686. Brut.
+https://jmp2.uk/stvp-CH700006GD
