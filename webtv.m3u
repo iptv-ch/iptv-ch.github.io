@@ -691,3 +691,7 @@ https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 https://amg00882-amg00882c3-wedotv-eu-4535.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="2686" tvg-id="CH700006GD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png" tvg-country="CH" group-title="News",2686. Brut.
 https://jmp2.uk/stvp-CH700006GD
+#EXTINF:-1 tvg-id="eptnews.gr" tvg-logo="https://static.epg.best/gr/eptnews.gr.png" tvg-country="GR" tvg-language="greek" group-title="GR news",EPT news HD
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://static.epg.best/gr/ertcosmos.gr.png" tvg-country="GR" tvg-language="greek" group-title="GR generic",ERT cosmos HD
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8
