@@ -27,7 +27,7 @@ https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 https://lemanbleu.vedge.infomaniak.com/livecast/ik:lemanbleu/manifest.m3u8
 #EXTINF:-1 tvg-id="latele.ch",LA TELE HD
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1 tvg-id="canalalphaju.ch",Canal Alpha JU HD
+#EXTINF:-1 tvg-id="alphaju.ch", Alpha JU HD
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/manifest.m3u8
 #EXTINF:-1 tvg-id="canalalphane.ch",Canal Alpha NE HD
 https://canalalphane.vedge.infomaniak.com/livecast/ik:canalalphane/manifest.m3u8
@@ -418,10 +418,6 @@ https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="swiss-sport.tv/" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png",swiss sport tv HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png",Canal B (start 1.1.2026)
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbd/browser-dash/canalbd.mpd
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png",Canal B (start 1.1.2026)
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbf/browser-dash/canalbf.mpd
 #EXTINF:-1 tvg-id="teletop.ch" tvg-logo="https://picserve.netplus.ch/channels/teletop.png",TeleTop
 https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
 #EXTINF:-1 tvg-id="telebasel.ch" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png",TeleBasel HD
@@ -695,3 +691,7 @@ https://jmp2.uk/stvp-CH700006GD
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://static.epg.best/gr/ertcosmos.gr.png" tvg-country="GR" tvg-language="greek" group-title="GR generic",ERT cosmos HD
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:-1 tvg-id="canalb-f.ch" tvg-logo="https://static.epg.best/ch/canalb-f.ch.png" tvg-country="CH" tvg-language="french" group-title="CH local",canalb fr HD
+https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8
+#EXTINF:-1 tvg-id="canalb-d.ch" tvg-logo="https://static.epg.best/ch/canalb-d.ch.png" tvg-country="CH" tvg-language="deutsch" group-title="CH local",canalb de HD
+https://canalb-d.vedge.infomaniak.com/livecast/ik:canalb-d/manifest.m3u8
