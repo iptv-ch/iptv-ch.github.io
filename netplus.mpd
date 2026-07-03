@@ -86,7 +86,7 @@ https://viamotionhsi.netplus.ch/live/eds/france24/browser-dash/france24.mpd
 #EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://picserve.netplus.ch/channels/euronews.png",euronews HD
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
 #EXTINF:-1 tvg-id="tv5monde.fr" tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png",TV5 MONDE FBSM HD
-#EXTREM  https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
 #EXTINF:-1 tvg-id="cnews.fr" tvg-logo="https://picserve.netplus.ch/channels/itele.png",CNEWS HD
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
 #EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://picserve.netplus.ch/channels/lci.png",LCI HD
@@ -373,7 +373,6 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png",cctv4 HD
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png",Canal B (start 1.1.2026)
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbd/browser-dash/canalbd.mpd
+
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png",Canal B (start 1.1.2026)
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbf/browser-dash/canalbf.mpd
