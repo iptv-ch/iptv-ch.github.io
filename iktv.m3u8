@@ -91,4 +91,7 @@ https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 #EXTINF:-1 tvg-id="lnradio.be",LNRadio Belqique
 https://funlive.vedge.infomaniak.com/livecast/ik:funlive/manifest.m3u8
-
+#EXTINF:-1,canal b fr HD
+https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8
+#EXTINF:-1,canal b de HD
+https://canalb-d.vedge.infomaniak.com/livecast/ik:canalb-d/manifest.m3u8
