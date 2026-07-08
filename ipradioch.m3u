@@ -543,3 +543,9 @@ https://nr5.newradio.it/proxy/madresti?mp=/stream
 https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
 #EXTINF:-1,radiosouvenir.com
 https://radio12.pro-fhi.net/live/RadioSouvenir.com
+#EXTINF:-1,Ouest Track Radio
+https://stream.ouest-track.com:9030/stream
+#EXTINF:-1,RPL Radio
+https://listen.radioking.com/radio/2966/stream/9128
+#EXTINF:-1,ATOMIC RADIO
+http://radios.topymedia.com:8032/stream
