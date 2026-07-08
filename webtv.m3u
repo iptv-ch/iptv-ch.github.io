@@ -675,8 +675,6 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTREM https://tvplus-cdn.www.funke.video/5DF64831-00F8-4FF9-A87E-BC875CD3049E/asset/94b463b9-a7bc-3661-84ed-78f570aed993/d/manifest.m3u8
 #EXTINF:-1 tvg-id="1plus1news.ua" tvg-logo="https://static.epg.best/ua/1plus1.ua.png" tvg-country="UA" tvg-language="Ukrainian" group-title="UA news",1+1 NEWS Ukrain
 https://1936287162.rsc.cdn77.org/hls/54jCArWE/stream.m3u8
-#EXTINF:-1 tvg-id="rts1.sn" tvg-logo="https://static.epg.best/sn/rts1.sn.png" tvg-country="SN" tvg-language="french" group-title="SN generalist",RTS1 Sénégal1
-https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8
 #EXTREM #EXTINF:-1 tvg-id="justcooking.de" tvg-logo="https://static.epg.best/de/justcooking.de.png" tvg-country="DE" tvg-language="german" group-title="DE cooking",just COOKING DE
 #EXTREM #EXTINF:-1 tvg-id="oneterra.de" tvg-logo="https://static.epg.best/de/oneterra.de.png" tvg-country="DE" tvg-language="german" group-title="DE wild",One TERRA DE
 #EXTREM #EXTINF:-1 tvg-id="dlxdeutschpop.de" tvg-logo="https://static.epg.best/de/dlxdeutschpop.de.png" tvg-country="DE" tvg-language="german" group-title="DE music",DELUXE DLX DEUTSCHPOP DE
