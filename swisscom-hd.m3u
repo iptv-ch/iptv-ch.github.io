@@ -62,7 +62,7 @@ rtp://239.186.70.148:10000
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="" tvg-logo="https://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 tvg-id="GrandGeneveTV.ch" tvg-name="GrandGeneveTV CH" tvg-logo="https://static.epg.best/ch/GrandGeneveTV.ch.png" tvg-chno="71" channel-id="71",GrandGeneveTV HD
+#EXTINF:-1 tvg-id="icitv.ch" tvg-name="icitv CH" tvg-logo="https://static.epg.best/ch/icitv.ch.png" tvg-chno="71" channel-id="71",ici tv HD
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="latele.ch" tvg-name="LA TELE CH" tvg-logo="https://static.epg.best/ch/latele.ch.png" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
@@ -108,13 +108,13 @@ rtp://239.186.68.130:10000
 rtp://239.186.68.135:10000
 #EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="LEquipe21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",La chaine L'EQUIPE HD
 rtp://239.186.68.132:10000
-#EXTINF:-1,TV Monaco HD (fra)
+#EXTINF:-1 tvg-id="tvmonaco.fr" tvg-name="tvmonaco FR" tvg-logo="https://static.epg.best/fr/tvmonaco.fr.png" tvg-chno="" channel-id="",TV Monaco HD
 rtp://239.186.68.167:10000
-#EXTINF:-1,T18 HD
+#EXTINF:-1 tvg-id="t18.fr" tvg-name="T18 FR" tvg-logo="https://static.epg.best/fr/t18.fr.png" tvg-chno="" channel-id="",T18 HD
 rtp://239.186.70.24:10000
-#EXTINF:-1,canalb F HD
+#EXTINF:-1 tvg-id="canalb.ch" tvg-name="canalb CH" tvg-logo="https://static.epg.best/ch/canalb.ch.png" tvg-chno="" channel-id="",Canalb HD
 rtp://239.186.70.174:10000
-#EXTINF:-1,NOVO19 HD (fra)
+#EXTINF:-1 tvg-id="novo19.fr" tvg-name="NOVO19 FR" tvg-logo="https://static.epg.best/fr/novo19.fr.png" tvg-chno="" channel-id="",NOVO19 HD
 rtp://239.186.70.167:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC1 UK" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="90" channel-id="90",BBC ONE HD
