@@ -167,7 +167,7 @@ https://stream.streambase.ch/radiobern1/aac-64
 https://stream.streambase.ch/rcentral/aac-64
 #EXTINF:-1,Diis Radio
 https://cast4.asurahosting.com/proxy/diisradi/stream
-#EXTINF:-1,driftFM
+#EXTINF:-1,The Stage
 https://teakmedia-1.streaming.deliver.media/thestage_aac_128
 #EXTINF:-1,ERF+
 https://stream1.lifechannel.ch/ERFPLUS
@@ -317,6 +317,8 @@ https://icecast.funradio.fr/fun-1-44-128
 https://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 #EXTINF:-1,JAZZ RADIO CH
 https://jazzradio.ice.infomaniak.ch/jazzradio-suisse.aac
+#EXTINF:-1,KTO Radio
+https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/02.m3u8
 #EXTINF:-1,LA RADIO PLUS
 https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac
 #EXTINF:-1,LATINA
