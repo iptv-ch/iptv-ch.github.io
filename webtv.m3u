@@ -111,8 +111,8 @@ https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-id="mtvfrance.fr",MTV France HD
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
-#EXTINF:-1 tvg-id="kto.fr",kto
-https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1 tvg-id="kto.fr",kto HD
+https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 #EXTINF:-1 tvg-id="canalj.fr",Canal J HD
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1 tvg-id="canalplusclair.fr",canal+ en clair
