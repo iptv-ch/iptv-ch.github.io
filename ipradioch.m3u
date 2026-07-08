@@ -168,7 +168,7 @@ https://stream.streambase.ch/rcentral/aac-64
 #EXTINF:-1,Diis Radio
 https://cast4.asurahosting.com/proxy/diisradi/stream
 #EXTINF:-1,driftFM
-https://s4.radio.co/s5729f2e59/listen
+https://teakmedia-1.streaming.deliver.media/thestage_aac_128
 #EXTINF:-1,ERF+
 https://stream1.lifechannel.ch/ERFPLUS
 #EXTINF:-1,Radio EVIVA
@@ -241,8 +241,6 @@ https://stream01.radiologisch.ch/stream/
 https://ice04.fluidstream.net/rn1_2.aac
 #EXTINF:-1,U Radio Your Radio
 https://uradio-aac.ice.infomaniak.ch/uradio.aac
-#EXTINF:-1,Viva FM
-https://vivafm.ice.infomaniak.ch/vivafm-96.mp3
 #EXTINF:-1,Radio Gwendalyn
 https://stream.radiojar.com/h6eddm4h9quvv
 #EXTINF:-1,clubbing radio
@@ -319,8 +317,6 @@ https://icecast.funradio.fr/fun-1-44-128
 https://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 #EXTINF:-1,JAZZ RADIO CH
 https://jazzradio.ice.infomaniak.ch/jazzradio-suisse.aac
-#EXTINF:-1,KTO Radio
-https://live-radio-kto.akamaized.net/hls/live/2103303-b/KTO/04.m3u8
 #EXTINF:-1,LA RADIO PLUS
 https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac
 #EXTINF:-1,LATINA
@@ -432,7 +428,7 @@ https://stunnel2.cyber-streaming.com:9028/stream
 #EXTINF:-1,echo FM - LA radio du Sud-Avesnois
 https://radio5.pro-fhi.net/flux-ghergigw/stream
 #EXTINF:-1,MIXX FM Un Maxx de Hits
-https://mixxfm2.ice.infomaniak.ch/mixxfmnet.mp3
+https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3
 #EXTINF:-1,Toulouse FM 1ère radio locale à Toulouse
 https://stream.rcs.revma.com/1x41712gy7uvv
 #EXTINF:-1,EXO FM REUNION
