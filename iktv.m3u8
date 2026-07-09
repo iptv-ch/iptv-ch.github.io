@@ -26,7 +26,7 @@ https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png",kanal9 HD
 https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 #EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="",TeleBielingue HD
-https://telebielinguech.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+https://telebielingue.vedge.infomaniak.com/livecast/ik:backup_5/manifest.m3u8
 #EXTINF:-1 tvg-id="africa24tv.com" tvg-logo="",Africa24
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="",Africa24 Sport
