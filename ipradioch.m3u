@@ -549,3 +549,5 @@ https://stream.ouest-track.com:9030/stream
 https://listen.radioking.com/radio/2966/stream/9128
 #EXTINF:-1,ATOMIC RADIO
 http://radios.topymedia.com:8032/stream
+#EXTINF:-1,GAMMA RADIO
+https://rn2.fluidstream.eu/gammaradio.mp3
