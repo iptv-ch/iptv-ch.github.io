@@ -373,6 +373,7 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png",cctv4 HD
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
-
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png",Canal B (start 1.1.2026)
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbf/browser-dash/canalbf.mpd
+#EXTINF:-1 tvg-id="canalbfr.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png",Canal B français (start 1.7.2026)
+https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-dash/canalbfr.mpd
+#EXTINF:-1 tvg-id="canalbfr.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png",Canal B deutsch (start 1.7.2026)
+https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-dash/canalbde.mpd
