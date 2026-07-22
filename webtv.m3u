@@ -693,3 +693,5 @@ https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/inde
 https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8
 #EXTINF:-1 tvg-id="canalb-d.ch" tvg-logo="https://static.epg.best/ch/canalb-d.ch.png" tvg-country="CH" tvg-language="deutsch" group-title="CH local",canalb de HD
 https://canalb-d.vedge.infomaniak.com/livecast/ik:canalb-d/manifest.m3u8
+#EXTINF:-1 tvg-id="antennatre.it" tvg-logo="https://static.epg.best/ch/antennatre.it.png" tvg-country="IT" tvg-language="italia" group-title="IT local",ANTENNA TRE HD
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist.m3u8
