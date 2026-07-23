@@ -15,7 +15,7 @@ https://netplus.zappr.stream/france3hd.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" tvg-country="FR" tvg-language="French" group-title="FR Child/music",France4 HD 720p
 https://netplus.zappr.stream/france4hd.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" tvg-country="FR" tvg-language="French" group-title="FR travel documentary",France5 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+https://netplus.zappr.stream/france5hd.m3u8
 #EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" tvg-country="FR" tvg-language="French" group-title="FR Generalist",M6 CH HD 720p
 https://netplus.zappr.stream/m6hd.m3u8
 #EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Canal9 FHD
@@ -71,7 +71,7 @@ https://netplus.zappr.stream/gulli.m3u8
 #EXTREM #EXTINF:-1 tvg-id="gameone.fr" tvg-logo="https://picserve.netplus.ch/channels/gameone.png" tvg-country="FR" tvg-language="French" group-title="FR esport",Game 1 HD
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
 #EXTINF:-1 tvg-id="escales.fr" tvg-logo="https://picserve.netplus.ch/channels/escales.png" tvg-country="FR" tvg-language="French" group-title="FR travel",TREK HD 720p
-https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+https://netplus.zappr.stream/escales.m3u8
 #EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png" tvg-country="FR" tvg-language="French" group-title="FR documentary",RMC DECOUVERTE HD 720p
 https://netplus.zappr.stream/rmcdecouverte.m3u8
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://picserve.netplus.ch/channels/planeteplus.png" tvg-country="FR" tvg-language="French" group-title="FR documentary",PLANETE+ HD 720p
@@ -375,7 +375,9 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://netplus.zappr.stream/canalalgerie.mpd
 #EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" tvg-country="CN" tvg-language="Chinese" group-title="CN generalist",cctv4 HD
 https://netplus.zappr.stream/cctv4.m3u8
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",Canal B (start 1.7.2026)
-#EXTREM https://netplus.zappr.stream/canalbd.mpd
-#EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Canal B (start 1.7.2026)
-#EXTREM https://netplus.zappr.stream/canalbf.mpd
+#EXTINF:-1 tvg-id="canalbde.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbde.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",Canal B de
+https://netplus.zappr.stream/canalbde.mpd
+#EXTINF:-1 tvg-id="canalbfr.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Canal B fr
+https://netplus.zappr.stream/canalbfr.mpd
+#EXTINF:-1 tvg-id="rhonefmtv.ch" tvg-logo="https://picserve.netplus.ch/channels/rhonefmtv.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",Rhone TV
+https://netplus.zappr.stream/rhonefmtv.mpd
