@@ -33,11 +33,9 @@ rtp://239.186.64.57:10000
 rtp://239.186.66.229:10000
 #EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc FR" tvg-logo="https://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="28" channel-id="28",8Mont-Blanc
 rtp://239.186.64.144:10000
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="https://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="35" channel-id="35",BFM BUSINESS
-rtp://239.186.64.146:10000
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" tvg-chno="37" channel-id="37",BFMTV CH
 rtp://239.186.64.72:10000
-#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="https://static.epg.best/ch/carac4.ch.png" tvg-chno="39" channel-id="39",carac4 (ex tv suisse plus)
+#EXTINF:-1 tvg-id="carac4.ch" tvg-name="carac4 CH" tvg-logo="https://static.epg.best/ch/carac4.ch.png" tvg-chno="39" channel-id="39",carac4
 rtp://239.186.66.239:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9 CH" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
@@ -71,7 +69,7 @@ rtp://239.186.64.102:10000
 rtp://239.186.66.198:10000
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue CH" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
-#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="https://static.epg.best/ch/carac1.ch.png" tvg-chno="88" channel-id="88",carac1 (ex rouge tv)
+#EXTINF:-1 tvg-id="carac1.ch" tvg-name="carac1 CH" tvg-logo="https://static.epg.best/ch/carac1.ch.png" tvg-chno="88" channel-id="88",carac1
 rtp://239.186.64.145:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV Genève Region TV
 rtp://239.186.64.69:10000
