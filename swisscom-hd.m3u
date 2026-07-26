@@ -46,8 +46,6 @@ rtp://239.186.70.41:10000
 rtp://239.186.84.54:10000
 #EXTINF:-1 tvg-id="C110.api.telerama.fr" tvg-name="KTO FR" tvg-logo="https://static.epg.best/fr/KTO.fr.png" tvg-chno="32" channel-id="32",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="C1073.api.telerama.fr" tvg-name="BFM Business FR" tvg-logo="https://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="73" channel-id="73",BFM BUSINESS HD
-rtp://239.186.70.74:10000
 #EXTINF:-1 tvg-id="C421.api.telerama.fr" tvg-name="8 Mont-Blanc" tvg-logo="https://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="75" channel-id="75",8 Mont-Blanc HD
 rtp://239.186.70.106:10000
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-name="Canal9.ch" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="77" channel-id="77",Canal9 HD
@@ -112,7 +110,7 @@ rtp://239.186.68.132:10000
 rtp://239.186.68.167:10000
 #EXTINF:-1 tvg-id="t18.fr" tvg-name="T18 FR" tvg-logo="https://static.epg.best/fr/t18.fr.png" tvg-chno="" channel-id="",T18 HD
 rtp://239.186.70.24:10000
-#EXTINF:-1 tvg-id="canalb.ch" tvg-name="canalb CH" tvg-logo="https://static.epg.best/ch/canalb.ch.png" tvg-chno="" channel-id="",Canalb HD
+#EXTINF:-1 tvg-id="canalbfr.ch" tvg-name="canalbfr CH" tvg-logo="https://static.epg.best/ch/canalbfr.ch.png" tvg-chno="" channel-id="",Canalb fr HD
 rtp://239.186.70.174:10000
 #EXTINF:-1 tvg-id="novo19.fr" tvg-name="NOVO19 FR" tvg-logo="https://static.epg.best/fr/novo19.fr.png" tvg-chno="" channel-id="",NOVO19 HD
 rtp://239.186.70.167:10000
@@ -217,8 +215,6 @@ rtp://239.186.74.11:10000
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="Great! Romance UK" tvg-logo="https://static.epg.best/gb/GreatClassic.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
-#EXTINF:-1 tvg-id="GreatMystery.uk" tvg-name="Great! Mystery UK" tvg-logo="https://static.epg.best/gb/GreatMystery.uk.png" tvg-chno="" channel-id="",GREAT! Mystery
-rtp://239.186.74.55:10000
 #EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="Great! Action UK" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! action
 rtp://239.186.74.58:10000
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News UK" tvg-logo="https://static.epg.best/uk/GBNews.uk.png" tvg-chno="" channel-id="",GB News HD
@@ -472,14 +468,14 @@ rtp://239.186.68.93:10000
 rtp://239.186.68.53:10000
 #EXTINF:-1,Hohenrausch HD
 rtp://239.186.70.140:10000
-#EXTINF:-1,canalb D HD 
-rtp://239.186.70.173:10000
 #EXTINF:-1,lilo TV
 rtp://239.186.74.82:10000
 #EXTINF:-1,network tv HD
 rtp://239.186.84.173:10000
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv DE" tvg-logo="https://static.epg.best/de/ntv.de.png" tvg-chno="340" channel-id="",ntv
 rtp://239.186.64.29:10000
+#EXTINF:-1 tvg-id="canalbde.ch" tvg-name="canalbde CH" tvg-logo="https://static.epg.best/ch/canalbde.ch.png" tvg-chno="" channel-id="",Canalb de HD
+rtp://239.186.70.173:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="403" channel-id="403",RSI LA1 FHD
 rtp://239.186.76.24:10000
@@ -623,8 +619,6 @@ rtp://239.186.74.59:10000
 rtp://239.186.68.192:10000
 #EXTINF:-1 ,Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel IT" tvg-logo="https://static.epg.best/it/BikeChannel.it.png" tvg-chno="" channel-id="",BIKE CHANNEL HD
-rtp://239.186.74.145:10000
 #EXTINF:-1 ,TRENTINO TV HD
 rtp://239.186.84.141:10000
 #EXTINF:-1 ,telenuovo HD
