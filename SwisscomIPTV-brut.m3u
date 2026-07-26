@@ -251,8 +251,6 @@ rtp://239.186.64.143:10000
 rtp://239.186.64.144:10000
 #EXTINF:-1,carac1 HD (ex Rouge TV)
 rtp://239.186.64.145:10000
-#EXTINF:-1,BFM Business
-rtp://239.186.64.146:10000
 #EXTINF:-1,AB1 (AC3 fra)
 rtp://239.186.64.147:10000
 #EXTINF:-1,KTO
@@ -537,7 +535,7 @@ rtp://239.186.66.69:10000
 rtp://239.186.66.71:10000
 #EXTINF:-1,13eme Rue (fra)
 rtp://239.186.66.74:10000
-#EXTINF:-1,Syfy F (fra)
+#EXTINF:-1,Scifi F (fra)
 rtp://239.186.66.75:10000
 #EXTINF:-1,tv breizh (fra)
 rtp://239.186.66.77:10000
@@ -1441,12 +1439,10 @@ rtp://239.186.70.69:10000
 rtp://239.186.70.70:10000
 #EXTINF:-1,MySports 6 D HD (deu)
 rtp://239.186.70.71:10000
-#EXTINF:-1 , Focus HD
+#EXTINF:-1,Focus HD
 rtp://239.186.70.72:10000
 #EXTINF:-1 ,Hip Trips HD (deu)
 rtp://239.186.70.73:10000
-#EXTINF:-1,BFM Business HD
-rtp://239.186.70.74:10000
 #EXTINF:-1,INPLUS HD (AC3 eng)
 rtp://239.186.70.75:10000
 #EXTINF:-1 ,Just COOKING HD (deu)
@@ -1487,13 +1483,13 @@ rtp://239.186.70.92:10000
 rtp://239.186.70.93:10000
 #EXTINF:-1,xplore HD
 rtp://239.186.70.94:10000
-#EXTINF:-1 ,DMF HD (deu)
+#EXTINF:-1,DMF HD (deu)
 rtp://239.186.70.96:10000
-#EXTINF:-1 ,volksmusik.tv HD (deu)
+#EXTINF:-1,volksmusik.tv HD (deu)
 rtp://239.186.70.97:10000
-#EXTINF:-1 ,EPIC DRAMA HD (bul)
+#EXTINF:-1,EPIC DRAMA HD (bul)
 rtp://239.186.70.99:10000
-#EXTINF:-1 ,CANAL+ BOX OFFICE HD
+#EXTINF:-1,CANAL+ BOX OFFICE HD
 rtp://239.186.70.100:10000
 #EXTINF:-1,Euronews D HD
 rtp://239.186.70.101:10000
@@ -1623,9 +1619,9 @@ rtp://239.186.70.170:10000
 rtp://239.186.70.171:10000
 #EXTINF:-1,cielo HD
 rtp://239.186.70.172:10000
-#EXTINF:-1,canalb D HD (demnächst start 1.7.2026)
+#EXTINF:-1,canalb D HD
 rtp://239.186.70.173:10000
-#EXTINF:-1,canalb F HD (prochainement démarrage 1.7.2026)
+#EXTINF:-1,canalb F HD
 rtp://239.186.70.174:10000
 #EXTINF:-1,M6 music HD (fra)
 rtp://239.186.70.177:10000
@@ -1661,7 +1657,7 @@ rtp://239.186.70.192:10000
 rtp://239.186.70.193:10000
 #EXTINF:-1,ARD-alpha HD (AC3 deu)
 rtp://239.186.70.194:10000
-#EXTINF:-1 , sky nature HD
+#EXTINF:-1,sky nature HD
 rtp://239.186.70.195:10000
 #EXTINF:-1,Utsav Plus HD
 rtp://239.186.70.196:10000
@@ -1689,17 +1685,15 @@ rtp://239.186.70.210:10000
 rtp://239.186.70.211:10000
 #EXTINF:-1,Mezzo Live HD
 rtp://239.186.70.212:10000
-#EXTINF:-1,MCM HD
-rtp://239.186.70.213:10000
 #EXTINF:-1,One Music Television HD
 rtp://239.186.70.214:10000
-#EXTINF:-1 , sky one D HD
+#EXTINF:-1 ,sky one D HD
 rtp://239.186.70.215:10000
 #EXTINF:-1,MySports Eins Event HD (deu)
 rtp://239.186.70.216:10000
 #EXTINF:-1,MySports Un Event HD (fra)
 rtp://239.186.70.217:10000
-#EXTINF:-1 , sky atlantic D HD
+#EXTINF:-1,sky atlantic D HD
 rtp://239.186.70.218:10000
 #EXTINF:-1,Sportdigital+ HD
 rtp://239.186.70.220:10000
@@ -1743,7 +1737,7 @@ rtp://239.186.70.248:10000
 rtp://239.186.70.249:10000
 #EXTINF:-1, sky sport 2 D HD (deu)
 rtp://239.186.70.250:10000
-#EXTINF:-1 , sky crime HD
+#EXTINF:-1,sky crime HD
 rtp://239.186.70.251:10000
 #EXTINF:-1,BN2 HD
 rtp://239.186.70.252:10000
@@ -1823,8 +1817,6 @@ rtp://239.186.74.52:10000
 rtp://239.186.74.53:10000
 #EXTINF:-1,MySports 7 D (deu)
 rtp://239.186.74.54:10000
-#EXTINF:-1,GREAT! Movies
-rtp://239.186.74.55:10000
 #EXTINF:-1,MySports Eins Event (deu)
 rtp://239.186.74.56:10000
 #EXTINF:-1,MySports Un Event (fra)
@@ -1975,8 +1967,6 @@ rtp://239.186.74.141:10000
 rtp://239.186.74.142:10000
 #EXTINF:-1 , Cartoon TV
 rtp://239.186.74.144:10000
-#EXTINF:-1 ,BIKE CHANNEL (ita)
-rtp://239.186.74.145:10000
 #EXTINF:-1 ,xplore (deu)
 rtp://239.186.74.146:10000
 #EXTINF:-1 ,Stimmungs garten TV (deu)
@@ -2187,7 +2177,7 @@ rtp://239.186.84.94:10000
 rtp://239.186.84.95:10000
 #EXTINF:-1,TV Polonia HD (AAC)
 rtp://239.186.84.96:10000
-#EXTINF:-1 , Iris HD
+#EXTINF:-1 ,Iris HD
 rtp://239.186.84.98:10000
 #EXTINF:-1,Giallo HD
 rtp://239.186.84.99:10000
@@ -2223,89 +2213,89 @@ rtp://239.186.84.120:10000
 rtp://239.186.84.121:10000
 #EXTINF:-1,Canal 11 HD (por)
 rtp://239.186.84.122:10000
-#EXTINF:-1 , Italia2 HD (AC3, ita)
+#EXTINF:-1,Italia2 HD (AC3, ita)
 rtp://239.186.84.123:10000
 #EXTINF:-1,MTV France HD
 rtp://239.186.84.124:10000
-#EXTINF:-1 , Top Crime HD
+#EXTINF:-1,Top Crime HD
 rtp://239.186.84.125:10000
-#EXTINF:-1 , sky showcase HD
+#EXTINF:-1,sky showcase HD
 rtp://239.186.84.126:10000
 #EXTINF:-1,Crime + Investigation I HD (ita)
 rtp://239.186.84.127:10000
-#EXTINF:-1 ,blue EVENT D 1 HD
+#EXTINF:-1,blue EVENT D 1 HD
 rtp://239.186.84.128:10000
-#EXTINF:-1 ,blue EVENT F 1 HD
+#EXTINF:-1,blue EVENT F 1 HD
 rtp://239.186.84.129:10000
-#EXTINF:-1 ,Pretty TV HD
+#EXTINF:-1,Pretty TV HD
 rtp://239.186.84.130:10000
-#EXTINF:-1 ,Rai Italia HD
+#EXTINF:-1,Rai Italia HD
 rtp://239.186.84.131:10000
-#EXTINF:-1 ,teve1 HD (alb)
+#EXTINF:-1,teve1 HD (alb)
 rtp://239.186.84.132:10000
-#EXTINF:-1 ,AC Milano HD (ita)
+#EXTINF:-1,AC Milano HD (ita)
 rtp://239.186.84.136:10000
-#EXTINF:-1 ,k-tv HD (deu)
+#EXTINF:-1,k-tv HD (deu)
 rtp://239.186.84.137:10000
-#EXTINF:-1 ,EURO D HD (tur)
+#EXTINF:-1,EURO D HD (tur)
 rtp://239.186.84.138:10000
-#EXTINF:-1 ,CARTOONITO I HD (ita)
+#EXTINF:-1,CARTOONITO I HD (ita)
 rtp://239.186.84.139:10000
-#EXTINF:-1 ,Rai Movie HD (ita)
+#EXTINF:-1,Rai Movie HD (ita)
 rtp://239.186.84.140:10000
-#EXTINF:-1 ,TRENTINO TV HD (ita)
+#EXTINF:-1,TRENTINO TV HD (ita)
 rtp://239.186.84.141:10000
-#EXTINF:-1 ,Boing I HD (ita) 
+#EXTINF:-1,Boing I HD (ita) 
 rtp://239.186.84.142:10000
-#EXTINF:-1 ,telenuovo HD (ita)
+#EXTINF:-1,telenuovo HD (ita)
 rtp://239.186.84.143:10000
-#EXTINF:-1 ,TOP CHANNEL NEWS HD (alb)
+#EXTINF:-1,TOP CHANNEL NEWS HD (alb)
 rtp://239.186.84.144:10000
-#EXTINF:-1 ,HRT4 HD (hrv)
+#EXTINF:-1,HRT4 HD (hrv)
 rtp://239.186.84.145:10000
-#EXTINF:-1 ,cvi HD (spa)
+#EXTINF:-1,cvi HD (spa)
 rtp://239.186.84.146:10000
-#EXTINF:-1 ,CGTN DOCUMENTARY HD (eng)
+#EXTINF:-1,CGTN DOCUMENTARY HD (eng)
 rtp://239.186.84.147:10000
-#EXTINF:-1 ,rtv24 (slk)
+#EXTINF:-1,rtv24 (slk)
 rtp://239.186.84.149:10000
-#EXTINF:-1 ,CAPRI SPORT HD (ita)
+#EXTINF:-1,CAPRI SPORT HD (ita)
 rtp://239.186.84.150:10000
-#EXTINF:-1 ,TVP INFO HD (pol)
+#EXTINF:-1,TVP INFO HD (pol)
 rtp://239.186.84.151:10000
-#EXTINF:-1 ,RADIO ITALIA HD (ita)
+#EXTINF:-1,RADIO ITALIA HD (ita)
 rtp://239.186.84.152:10000
-#EXTINF:-1 ,mne HD (srp)
+#EXTINF:-1,mne HD (srp)
 rtp://239.186.84.154:10000
-#EXTINF:-1 ,RTSH24 HD (alb)
+#EXTINF:-1,RTSH24 HD (alb)
 rtp://239.186.84.155:10000
-#EXTINF:-1 ,TELECUPOLE HD (ita)
+#EXTINF:-1,TELECUPOLE HD (ita)
 rtp://239.186.84.156:10000
-#EXTINF:-1 ,nikceabtv HD (ukr)
+#EXTINF:-1,nikceabtv HD (ukr)
 rtp://239.186.84.161:10000
-#EXTINF:-1 ,HSE HD (deu)
+#EXTINF:-1,HSE HD (deu)
 rtp://239.186.84.162:10000
-#EXTINF:-1 ,ENTER FILM HD (ukr)
+#EXTINF:-1,ENTER FILM HD (ukr)
 rtp://239.186.84.163:10000
-#EXTINF:-1 ,CANAL+ GRAND ECRAN HD (fra)
+#EXTINF:-1,CANAL+ GRAND ECRAN HD (fra)
 rtp://239.186.84.166:10000
-#EXTINF:-1 ,nova bh HD (ser)
+#EXTINF:-1,nova bh HD (ser)
 rtp://239.186.84.167:10000
-#EXTINF:-1 ,BOYAH HD (ell)
+#EXTINF:-1,BOYAH HD (ell)
 rtp://239.186.84.170:10000
-#EXTINF:-1 ,TV RT HD (deu) TV  = TV Rheintal HD
+#EXTINF:-1,TV RT HD (deu) TV  = TV Rheintal HD
 rtp://239.186.84.171:10000
-#EXTINF:-1 ,Rhone TV HD (fra) 
+#EXTINF:-1,Rhone TV HD (fra) 
 rtp://239.186.84.172:10000
-#EXTINF:-1 ,Network TV HD (ger)
+#EXTINF:-1,Network TV HD (ger)
 rtp://239.186.84.173:10000
-#EXTINF:-1 ,Deutscher Bundestag HD (deu)
+#EXTINF:-1,Deutscher Bundestag HD (deu)
 rtp://239.186.84.174:10000
-#EXTINF:-1 ,Espreso TV HD (ukr)
+#EXTINF:-1,Espreso TV HD (ukr)
 rtp://239.186.84.176:10000
-#EXTINF:-1 ,Rete55 TV HD (ita)
+#EXTINF:-1,Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
 #EXTINF:-1,Class TV Moda HD (ita)
 rtp://239.186.84.180:10000
-#EXTINF:-1 ,BOM CINE HD (spa)
+#EXTINF:-1,BOM CINE HD (spa)
 rtp://239.186.84.181:10000
