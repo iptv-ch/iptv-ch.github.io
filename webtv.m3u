@@ -591,7 +591,7 @@ https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 https://tv.musig24.tv/hls/0/stream.m3u8
 #EXTINF:-1,TVPolonia info HD
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1,Euronews. english HD
+#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://static.epg.best/uk/euronews.uk.png" tvg-country="UK" tvg-language="english" group-title="EN news",euronews. english HD
 #EXTREM https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8
 #EXTINF:-1,STINGRAY iConcerts HD
@@ -662,7 +662,7 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1,Reuters TV HD
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:-1,France24 English
+#EXTINF:-1 tvg-id="france24.uk" tvg-logo="https://static.epg.best/uk/france24.uk.png" tvg-country="UK" tvg-language="english" group-title="EN news",France24 english HD
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rugby Zone" tvg-logo="https://picserve.netplus.ch/channels/fast_rugbyzone.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",Rugby Zone
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d98c73d-ddae-4260-a640-e2e443a0b6ce/27173802-f7ef-4e18-ab7e-f4c2e3da9326/2.m3u8
@@ -702,8 +702,8 @@ https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/ch
 https://radioitalialive.akamaized.net/hls/live/2124228/radioitalialive/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-logo="https://static.epg.best/it/foodnetwork.it.png" tvg-country="IT" tvg-language="italia" group-title="IT cooking",Food Network IT HD
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="classtvmoda.it" tvg-logo="https://static.epg.best/it/classtvmoda.it.png" tvg-country="IT" tvg-language="italia" group-title="IT fashion",ClassTV MODA HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(sq_0bJK6qMAmxmsub2kEaSDnaxOn9gx0o4oXCat_9YoUU_5wC3I170bYw0-KUZf_HuV_JSQcsu8ro_am6-CQl2sAV4BXtlPS8WMs4fQLI3ru4A7JuKJj9CSF6ZufN626)/cloud/3/x98rt88/s/live-1080@60.m3u8
+#EXTINF:-1 tvg-id="classtvmoda.it" tvg-logo="https://static.epg.best/it/classtvmoda.it.png" tvg-country="IT" tvg-language="italia" group-title="IT fashion",ClassTV MODA IT HD
+https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/0e8e584b-60e7-4c2b-ab88-9db01211bf55/0.m3u8
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://static.epg.best/it/sportitalia.it.png" tvg-country="IT" tvg-language="italia" group-title="IT sport",Sportitalia HD
 https://d2jkw86a67nj1h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dbb29xswlo1zn/9bbb3446-b6a8-411b-aca3-89273004b2c4/3.m3u8
 #EXTINF:-1 tvg-id="automoto.it" tvg-logo="https://static.epg.best/it/automoto.it.png" tvg-country="IT" tvg-language="italia" group-title="IT sport",AUTOMOTO IT
@@ -714,3 +714,15 @@ https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://static.epg.best/it/giallo.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Giallo IT
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="realtime.it" tvg-logo="https://static.epg.best/it/realtime.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Real Time IT HD
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8?
+#EXTINF:-1 tvg-id="skytg24.it" tvg-logo="https://static.epg.best/it/skytg24.it.png" tvg-country="IT" tvg-language="italia" group-title="IT news",Sky TG24 IT HD
+https://tvheadend-veneto1.zappr.stream/stream/channel/f12c0bdcdf421b230ce4e208880c05d8?profile=webtv-h264-aac-matroska.mkv
+#EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://static.epg.best/it/hgtv.it.png" tvg-country="IT" tvg-language="italia" group-title="IT home",HGTV IT Home & Garden HD
+https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="classcnbc.it" tvg-logo="https://static.epg.best/it/classcnbc.it.png" tvg-country="IT" tvg-language="italia" group-title="IT financial",Class CNBC IT HD
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ud5nm30EsfKC1MuXI0P8LAoo8etpwjyISBI9Fln0c4BL9I0ZEbW3xzqj069KiyKyBwRDWOdhbHp5GXaE18TbEE4UAIwT7oIFHB-OiQ3OAa9K3p0Ka0IgpsVO8e6DPK7r)/cloud/3/x91c8ww/s/live-720@60.m3u8
+#EXTINF:-1 tvg-id="rtl1025.it" tvg-logo="https://static.epg.best/it/rtl1025.it.png" tvg-country="IT" tvg-language="italia" group-title="IT music",RTL102.5 HD
+https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-xr8iccrw35yso/4baf5509-b693-48bc-8e22-12496209477d/1.m3u8
+#EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://static.epg.best/it/euronews.it.png" tvg-country="IT" tvg-language="italia" group-title="IT news",euronews. italia HD
+https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8
