@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,UHD1 Astra UHD
+#EXTINF:-1 tvg-id="UHD1.lu@SD" ,UHD1 Astra UHD
 rtp://239.186.76.1:10000
-#EXTINF:-1 ,3+ UHD
+#EXTINF:-1 tvg-id="1908" ,3+ UHD
 rtp://239.186.76.8:10000
-#EXTINF:-1 ,4+ UHD
+#EXTINF:-1 tvg-id="1909" ,4+ UHD
 rtp://239.186.76.19:10000
-#EXTINF:-1 ,TV24 UHD
+#EXTINF:-1 tvg-id="1910" ,TV24 UHD
 rtp://239.186.76.33:10000
-#EXTINF:-1 ,UHD1 by ASTRA
+#EXTINF:-1 tvg-id="UHD1.lu@SD" ,UHD1 by ASTRA
 rtp://239.186.79.26:10000
-#EXTINF:-1 ,France2 UHD (source network netplus)
+#EXTINF:-1 tvg-id="France2.fr@SD" ,France2 UHD (source network netplus)
 udp://@239.101.10.2:1234
