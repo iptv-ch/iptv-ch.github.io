@@ -59,7 +59,7 @@ rtp://239.186.70.148:10000
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="" tvg-logo="https://static.epg.best/il/i24news.il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 tvg-id="icitv.ch" tvg-name="icitv CH" tvg-logo="https://static.epg.best/ch/icitv.ch.png" tvg-chno="71" channel-id="71",ici tv HD
+#EXTINF:-1 tvg-id="GrandGeneveTV.fr@SD" tvg-name="icitv CH" tvg-logo="https://static.epg.best/ch/icitv.ch.png" tvg-chno="71" channel-id="71",ici tv HD
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="LA TELE CH" tvg-logo="https://static.epg.best/ch/latele.ch.png" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
@@ -526,7 +526,7 @@ rtp://239.186.70.6:10000
 rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="Italia1.it@SD" tvg-name="Italia 1 IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" tvg-chno="376" channel-id="376",MEDIASET ITALIA1 HD
 rtp://239.186.68.165:10000
-#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="ReteQuattro IT" tvg-logo="https://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",MEDIASET Rete4 HD
+#EXTINF:-1 tvg-id="Rete4.it@SD" tvg-name="ReteQuattro IT" tvg-logo="https://static.epg.best/it/ReteQuattro.it.png" tvg-chno="380" channel-id="380",MEDIASET Rete4 HD
 rtp://239.186.70.188:10000
 #EXTINF:-1 tvg-id="20.it@SD" tvg-name="20 Mediaset IT" tvg-logo="https://static.epg.best/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET HD
 rtp://239.186.68.46:10000
@@ -704,7 +704,7 @@ rtp://239.186.84.151:10000
 rtp://239.186.70.99:10000
 #EXTINF:-1 tvg-id="1919" ,YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,Espreso TV HD (ukr)
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD",Espreso TV HD (ukr)
 rtp://239.186.84.176:10000
 #EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-name="2M Monde MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
@@ -754,19 +754,19 @@ rtp://239.186.84.11:10000
 rtp://239.186.84.34:10000
 #EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" ,TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 tvg-id="OraTV.al@SD" ,Diaspora Swiss TV HD
+#EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
 #EXTINF:-1 tvg-id="Adria.si" tvg-name="Adria SI" tvg-logo="https://static.epg.best/si/adria.si.png" tvg-chno="" channel-id="",ADRIA Music Television HD (svn)
 rtp://239.186.68.184:10000
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-name="Al Masriya EG" tvg-logo="https://static.epg.best/eg/Almasria.eg.png" tvg-chno="" channel-id="",Al Masriya HD (ara)
 rtp://239.186.70.13:10000
-#EXTINF:-1 tvg-id="614" ,TOP NEWS HD (alb)
+#EXTINF:-1 tvg-id="614",TOP NEWS HD (alb)
 rtp://239.186.84.144:10000
-#EXTINF:-1 tvg-id="1910" ,rtv24 (slo)
+#EXTINF:-1 tvg-id="24.sk@SD" ,rtv24 (slo)
 rtp://239.186.84.149:10000
 #EXTINF:-1 ,mne HD (srp)
 rtp://239.186.84.154:10000
-#EXTINF:-1 tvg-id="RTS2.ch@SD" ,RTSH24 HD (alb)
+#EXTINF:-1 tvg-id="RTSH24.al@SD" ,RTSH24 HD (alb)
 rtp://239.186.84.155:10000
 #EXTINF:-1 ,nikceabtv HD (ukr)
 rtp://239.186.84.161:10000

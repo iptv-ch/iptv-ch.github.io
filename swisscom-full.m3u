@@ -922,7 +922,7 @@ rtp://239.186.66.204:10000
 rtp://239.186.66.147:10000
 #EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-name="" tvg-logo="" tvg-chno="465" channel-id="465",TVRi TV Romania International
 rtp://239.186.66.148:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="466" channel-id="466",Z1
+#EXTINF:-1 tvg-id="Z1.hr@SD" tvg-name="" tvg-logo="" tvg-chno="466" channel-id="466",Z1
 rtp://239.186.66.149:10000
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="467",Andalucia TV
 rtp://239.186.64.197:10000
