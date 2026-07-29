@@ -639,7 +639,7 @@ rtp://239.186.66.148:10000
 rtp://239.186.66.151:10000
 #EXTINF:-1,Telehit Music (spa)
 rtp://239.186.66.152:10000
-#EXTINF:-1,Tlnovelas (spa)
+#EXTINF:-1,tln tlnovelas (spa)
 rtp://239.186.66.153:10000
 #EXTINF:-1,Hayat Folk
 rtp://239.186.66.154:10000
@@ -1153,7 +1153,7 @@ rtp://239.186.68.179:10000
 rtp://239.186.68.180:10000
 #EXTINF:-1,Trace Caribbean HD
 rtp://239.186.68.181:10000
-#EXTINF:-1,Paramount Channel France HD (fre)
+#EXTINF:-1,tln tlnovelas (spa) HD 
 rtp://239.186.68.182:10000
 #EXTINF:-1,MySports 3 F HD (fra)
 rtp://239.186.68.183:10000
@@ -1341,8 +1341,6 @@ rtp://239.186.70.20:10000
 rtp://239.186.70.21:10000
 #EXTINF:-1,Romance TV HD
 rtp://239.186.70.22:10000
-#EXTINF:-1,CNN HD
-rtp://239.186.70.23:10000
 #EXTINF:-1,T18 HD
 rtp://239.186.70.24:10000
 #EXTINF:-1,France 3 HD (fre)
@@ -1441,7 +1439,7 @@ rtp://239.186.70.70:10000
 rtp://239.186.70.71:10000
 #EXTINF:-1,Focus HD
 rtp://239.186.70.72:10000
-#EXTINF:-1 ,Hip Trips HD (deu)
+#EXTINF:-1 ,V+ TVI HD (por)
 rtp://239.186.70.73:10000
 #EXTINF:-1,INPLUS HD (AC3 eng)
 rtp://239.186.70.75:10000
@@ -1591,8 +1589,6 @@ rtp://239.186.70.155:10000
 rtp://239.186.70.156:10000
 #EXTINF:-1,Englisch Club HD (eng)
 rtp://239.186.70.157:10000
-#EXTINF:-1,Olympia TV HD (fra)
-rtp://239.186.70.158:10000
 #EXTINF:-1,Boomerang F HD (fre)
 rtp://239.186.70.159:10000
 #EXTINF:-1,ES1 HD
@@ -1975,8 +1971,6 @@ rtp://239.186.74.148:10000
 rtp://239.186.74.149:10000
 #EXTINF:-1 ,Just COOKING (deu)
 rtp://239.186.74.150:10000
-#EXTINF:-1 ,Hip Trips (deu)
-rtp://239.186.74.151:10000
 #EXTINF:-1 ,DLX RAP (deu)
 rtp://239.186.74.153:10000
 #EXTINF:-1 ,CANAL+ GRAND ECRAN
