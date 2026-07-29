@@ -75,13 +75,13 @@ rtp://239.186.64.145:10000
 rtp://239.186.64.69:10000
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5 Monde FBS" tvg-logo="https://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5 MONDE FRANCE BELGIQUE SUISSE MONACO
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5 Monde FBSM" tvg-logo="https://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5 MONDE FRANCE BELGIQUE SUISSE MONACO
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://static.epg.best/ch/TVM3.ch.png" tvg-chno="110" channel-id="110",tvm3
 rtp://239.186.64.98:10000
 #EXTINF:-1 tvg-id="6terSwitzerland.ch@SD" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" tvg-chno="111" channel-id="111",6ter
 rtp://239.186.66.130:10000
-#EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-name="ORTB" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
+#EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-name="Benin TV" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",ortb
 rtp://239.186.74.97:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="https://static.epg.best/gb/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC ONE
@@ -164,17 +164,17 @@ rtp://239.186.74.84:10000
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4seven.uk@SD" tvg-name="4Seven" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
-#EXTINF:-1 tvg-id="SkyMix.uk@SD" tvg-name="Pick" tvg-logo="https://static.epg.best/uk/skymix.uk.png" tvg-chno="" channel-id="",sky mix
+#EXTINF:-1 tvg-id="SkyMix.uk@SD" tvg-name="Sky Mix" tvg-logo="https://static.epg.best/uk/skymix.uk.png" tvg-chno="" channel-id="",sky mix
 rtp://239.186.74.94:10000
 #EXTINF:-1 tvg-id="Challenge.uk@SD" tvg-name="Challenge" tvg-logo="https://static.epg.best/gb/Challenge.uk.png" tvg-chno="" channel-id="",Challenge
 rtp://239.186.74.95:10000
-#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime UK" tvg-logo="https://static.epg.best/gb/truecrime.uk.png" tvg-chno="" channel-id="",TRUE CRIME UK
+#EXTINF:-1 tvg-id="CBSRealityEMEA.uk@SD" tvg-name="True Crime" tvg-logo="https://static.epg.best/gb/truecrime.uk.png" tvg-chno="" channel-id="",TRUE CRIME UK
 rtp://239.186.74.107:10000
 #EXTINF:-1 tvg-id="GREATromance.uk@UK" tvg-name="Great! Romance" tvg-logo="https://static.epg.best/gb/GreatRomance.uk.png" tvg-chno="" channel-id="",GREAT! romance
 rtp://239.186.74.53:10000
 #EXTINF:-1 tvg-id="Action.fr@SD" tvg-name="Action" tvg-logo="https://static.epg.best/gb/GreatAction.uk.png" tvg-chno="" channel-id="",GREAT! action
 rtp://239.186.74.58:10000
-#EXTINF:-1 tvg-id="GreatMystery.uk" tvg-name="Great! Mystery UK" tvg-logo="https://static.epg.best/gb/GreatMystery.uk.png" tvg-chno="" channel-id="",GREAT! Mystery
+#EXTINF:-1 tvg-id="GreatMystery.uk" tvg-name="Great! Mystery" tvg-logo="https://static.epg.best/gb/GreatMystery.uk.png" tvg-chno="" channel-id="",GREAT! Mystery
 rtp://239.186.74.11:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch@SD" tvg-name="SRF 1" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="281" channel-id="281",SRF1
@@ -189,7 +189,7 @@ rtp://239.186.64.55:10000
 rtp://239.186.64.56:10000
 #EXTINF:-1 tvg-id="4Plus.ch@SD" tvg-name="4+" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="176" channel-id="176",4+
 rtp://239.186.64.142:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="179" channel-id="179",AW1 TV
+#EXTINF:-1 tvg-id="AlpenlandTV.ch@SD" tvg-name="AW1 TV" tvg-logo="" tvg-chno="179" channel-id="179",AW1 TV
 rtp://239.186.64.112:10000
 #EXTINF:-1 tvg-id="DasErste.de@SD" tvg-name="Das Erste" tvg-logo="https://static.epg.best/de/ARD.de.png" tvg-chno="182" channel-id="182",ARD Das Erste
 rtp://239.186.64.11:10000
@@ -205,7 +205,7 @@ rtp://239.186.64.131:10000
 rtp://239.186.64.26:10000
 #EXTINF:-1 tvg-id="HelvetiaOneTV.ch@SD" tvg-name="Helvetia One TV" tvg-logo="https://static.epg.best/ch/Helvetiaone.ch.png" tvg-chno="198" channel-id="198",HELVETIA ONE
 rtp://239.186.66.238:10000
-#EXTINF:-1 tvg-id="DMF.de@SD" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",DMF
+#EXTINF:-1 tvg-id="DMF.de@SD" tvg-name="DMF" tvg-logo="https://static.epg.best/de/DeutschesMusikFernsehen.de.png" tvg-chno="202" channel-id="202",DMF
 rtp://239.186.66.118:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-name="Disney Channel D" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="203" channel-id="203",Disney Channel
 rtp://239.186.64.116:10000
@@ -334,7 +334,7 @@ rtp://239.186.74.150:10000
 #EXTINF:-1 ,just.fishing (deu)
 rtp://239.186.74.157:10000
 #EXTREM:italian
-#EXTINF:-1 tvg-id="RSILa1.ch@SD" tvg-name="RSI La 1" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
+#EXTINF:-1 tvg-id="RSILa1.ch@SD" tvg-name="RSI LA 1" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
 rtp://239.186.64.7:10000
 #EXTINF:-1 tvg-id="RSILa2.ch@SD" tvg-name="RSI LA 2" tvg-logo="https://static.epg.best/ch/RSILA2.ch.png" tvg-chno="404" channel-id="404",RSI LA2
 rtp://239.186.64.8:10000
@@ -362,7 +362,7 @@ rtp://239.186.66.188:10000
 rtp://239.186.66.187:10000
 #EXTINF:-1 tvg-id="K2.it@SD" tvg-name="K2" tvg-logo="https://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Warner Bros Discovery K2
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="MotorTrend.it@SD" tvg-name="Motor Trend" tvg-logo="https://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359",Warner Bros Discovery MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it@SD" tvg-name="Discovery Turbo" tvg-logo="https://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359",Warner Bros Discovery MOTOR TREND
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it@SD" tvg-name="Food Network IT" tvg-logo="https://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Warner Bros Discovery food network I
 rtp://239.186.66.122:10000
@@ -485,7 +485,7 @@ rtp://239.186.64.204:10000
 rtp://239.186.64.201:10000
 #EXTINF:-1 tvg-id="ShowMax.tr@SD" tvg-name="Showmax" tvg-logo="https://static.epg.best/tr/Showmax.tr.png" tvg-chno="428" channel-id="428",SHOW MAX
 rtp://239.186.64.209:10000
-#EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-name="Show" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" tvg-chno="429" channel-id="429",SHOW TURK
+#EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-name="Show Türk" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" tvg-chno="429" channel-id="429",SHOW TURK
 rtp://239.186.64.200:10000
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD" tvg-name="TRT Türk" tvg-logo="https://static.epg.best/tr/TRTTurk.tr.png" tvg-chno="430" channel-id="430",TRT TURK
 rtp://239.186.64.188:10000
@@ -520,7 +520,7 @@ rtp://239.186.74.52:10000
 rtp://239.186.66.85:10000
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-name="Al Masriya" tvg-logo="https://static.epg.best/eg/Almasriya.eg.png" tvg-chno="443" channel-id="443",Al Masriya
 rtp://239.186.64.193:10000
-#EXTINF:-1 tvg-id="ERTWorld.gr@SD" tvg-name="ERT World" tvg-logo="https://static.epg.best/gr/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world
+#EXTINF:-1 tvg-id="ERTWorld.gr@SD" tvg-name="ERT Cosmos" tvg-logo="https://static.epg.best/gr/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world
 rtp://239.186.66.227:10000
 #EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" tvg-chno="446" channel-id="446",HRT1
 rtp://239.186.66.125:10000
@@ -536,7 +536,7 @@ rtp://239.186.66.138:10000
 rtp://239.186.66.135:10000
 #EXTINF:-1 tvg-id="RiK.sk" tvg-name="RiK SK" tvg-logo="https://static.epg.best/sk/RiK.sk.png" tvg-chno="456" channel-id="456",RiK Sat
 rtp://239.186.66.137:10000
-#EXTINF:-1 tvg-id="RTK1.xk@SD" tvg-name="RTK1" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
+#EXTINF:-1 tvg-id="RTK1.xk@SD" tvg-name="RTK 1" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-name="TVP Polonia" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
 rtp://239.186.66.147:10000
@@ -550,9 +550,9 @@ rtp://239.186.74.77:10000
 rtp://239.186.74.83:10000
 #EXTINF:-1 tvg-id="ElWatania1.tn@SD"  tvg-name="Tunisie Nationale",Tunisie Nationale (ara)
 rtp://239.186.74.89:10000
-#EXTINF:-1 tvg-id="" tvg-name="Freedom",YKPAÏHA 24  / FREEDOM UA (ukr)
+#EXTINF:-1 tvg-id="" tvg-name="FreeDOM",YKPAÏHA 24  / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 ,Espreso TV (ukr)
+#EXTINF:-1  tvg-name="Espreso TV",Espreso TV (ukr)
 rtp://239.186.74.158:10000
 #EXTINF:-1 tvg-id=""  tvg-name="1+1 Int.",1+1 int. (ukr)
 rtp://239.186.74.9:10000
