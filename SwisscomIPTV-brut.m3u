@@ -787,7 +787,7 @@ rtp://239.186.66.247:10000
 rtp://239.186.66.248:10000
 #EXTINF:-1,TVI Ficcao
 rtp://239.186.66.249:10000
-#EXTINF:-1,TVI Internacional
+#EXTINF:-1,TVI internacional
 rtp://239.186.66.250:10000
 #EXTINF:-1,Israel+
 rtp://239.186.66.251:10000
@@ -1073,6 +1073,8 @@ rtp://239.186.68.138:10000
 rtp://239.186.68.139:10000
 #EXTINF:-1,i24 News E HD
 rtp://239.186.68.140:10000
+#EXTINF:-1,TELEHIT MUSICA (spa) HD
+rtp://239.186.68.141:10000
 #EXTINF:-1,4+ HD
 rtp://239.186.68.142:10000
 #EXTINF:-1,Bodensee TV HD
@@ -1275,6 +1277,8 @@ rtp://239.186.68.240:10000
 rtp://239.186.68.241:10000
 #EXTINF:-1,RTL9 CH HD
 rtp://239.186.68.242:10000
+#EXTINF:-1,TVI internacional HD
+rtp://239.186.68.243:10000
 #EXTINF:-1,blue Zoom F HD (fre)
 rtp://239.186.68.244:10000
 #EXTINF:-1 , Cine34 HD
@@ -1519,7 +1523,7 @@ rtp://239.186.70.116:10000
 rtp://239.186.70.117:10000
 #EXTINF:-1,Wetter.TV HD
 rtp://239.186.70.119:10000
-#EXTINF:-1,Novelas HD
+#EXTINF:-1,Novelas+ HD
 rtp://239.186.70.120:10000
 #EXTINF:-1,franceinfo HD
 rtp://239.186.70.121:10000
@@ -1661,7 +1665,9 @@ rtp://239.186.70.196:10000
 rtp://239.186.70.197:10000
 #EXTINF:-1,TRT Muzik HD
 rtp://239.186.70.198:10000
-#EXTINF:-1,Rheinwelten
+#EXTINF:-1,las estrellas HD
+rtp://239.186.70.201:10000
+#EXTINF:-1,RW Rheinwelten HD
 rtp://239.186.70.202:10000
 #EXTINF:-1,Zwei Music Television HD
 rtp://239.186.70.204:10000
@@ -1771,7 +1777,7 @@ rtp://239.186.74.18:10000
 rtp://239.186.74.19:10000
 #EXTINF:-1,Pink Serije
 rtp://239.186.74.20:10000
-#EXTINF:-1,Motor Trend
+#EXTINF:-1,Discovery turbo (ita)
 rtp://239.186.74.21:10000
 #EXTINF:-1,Espansione TV
 rtp://239.186.74.22:10000
@@ -2179,7 +2185,7 @@ rtp://239.186.84.99:10000
 rtp://239.186.84.100:10000
 #EXTINF:-1,HGTV I HD
 rtp://239.186.84.101:10000
-#EXTINF:-1,Motor Trend HD
+#EXTINF:-1,Discovery turbo (ita) HD
 rtp://239.186.84.102:10000
 #EXTINF:-1,Real Time HD
 rtp://239.186.84.103:10000
