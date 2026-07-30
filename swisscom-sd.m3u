@@ -59,7 +59,7 @@ rtp://239.186.66.25:10000
 rtp://239.186.64.148:10000
 #EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé" tvg-logo="https://static.epg.best/ch/LaTele.ch.png" tvg-chno="72" channel-id="72",LA TELE
 rtp://239.186.64.104:10000
-#EXTINF:-1 tvg-id="TopCalcio24.it@SD" tvg-name="Top Calcio 24" tvg-logo="https://static.epg.best/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
+#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="La Chaine Info - LCI" tvg-logo="https://static.epg.best/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD" tvg-name="Léman Bleu Télévision" tvg-logo="https://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="75" channel-id="75",lemanbleu
 rtp://239.186.64.89:10000
@@ -116,7 +116,7 @@ rtp://239.186.64.167:10000
 rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
 rtp://239.186.64.135:10000
-#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="Drama" tvg-logo="https://static.epg.best/uk/UandDrama.uk.png" tvg-chno="146" channel-id="146",U&DRAMA
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama" tvg-logo="https://static.epg.best/uk/UandDrama.uk.png" tvg-chno="146" channel-id="146",U&DRAMA
 rtp://239.186.66.140:10000
 #EXTINF:-1 tvg-id="E4.uk@SD" tvg-name="E4" tvg-logo="https://static.epg.best/gb/E4.uk.png" tvg-chno="147" channel-id="147",E4
 rtp://239.186.64.53:10000
@@ -124,7 +124,7 @@ rtp://239.186.64.53:10000
 rtp://239.186.64.178:10000
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-name="Fashion TV" tvg-logo="https://static.epg.best/fr/FashionTV.fr.png" tvg-chno="150" channel-id="150",Fashion TV
 rtp://239.186.64.174:10000
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 UK" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="152" channel-id="152",Film4
 rtp://239.186.64.172:10000
 #EXTINF:-1 tvg-id="Channel5.uk@SD" tvg-name="Channel 5" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" tvg-chno="153" channel-id="153",Channel5
 rtp://239.186.64.184:10000
@@ -150,7 +150,7 @@ rtp://239.186.66.242:10000
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk@SD" tvg-name="PBS America" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
-#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="Dave" tvg-logo="https://static.epg.best/gb/Uanddave.uk.png" tvg-chno="" channel-id="",U&Dave
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U&Dave" tvg-logo="https://static.epg.best/gb/Uanddave.uk.png" tvg-chno="" channel-id="",U&Dave
 rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="5STAR.uk@SD" tvg-name="5Star" tvg-logo="https://static.epg.best/gb/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
@@ -160,7 +160,7 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.74:10000
 #EXTINF:-1 tvg-id="5Action.uk@SD" tvg-name="5Action" tvg-logo="https://static.epg.best/gb/5ACTION.uk.png" tvg-chno="" channel-id="",5ACTION
 rtp://239.186.74.84:10000
-#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="Yesterday" tvg-logo="https://static.epg.best/gb/UandYesterday.uk.png" tvg-chno="" channel-id="",U&Yesterday
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday" tvg-logo="https://static.epg.best/gb/UandYesterday.uk.png" tvg-chno="" channel-id="",U&Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4seven.uk@SD" tvg-name="4Seven" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
@@ -265,9 +265,9 @@ rtp://239.186.66.201:10000
 rtp://239.186.64.18:10000
 #EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-name="Servus TV" tvg-logo="https://static.epg.best/at/ServusTV.at.png" tvg-chno="269" channel-id="269",ServusTV
 rtp://239.186.64.136:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="271" channel-id="271",SessionNationalrat
+#EXTINF:-1 tvg-id="" tvg-name="Session National Council WEB" tvg-logo="" tvg-chno="271" channel-id="271",SessionNationalrat
 rtp://239.186.66.146:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="273" channel-id="273",SessionStaenderat
+#EXTINF:-1 tvg-id="" tvg-name="Session Council Of States WEB" tvg-logo="" tvg-chno="273" channel-id="273",SessionStaenderat
 rtp://239.186.64.124:10000
 #EXTINF:-1 tvg-id="SchaffhauserFernsehen.ch@SD" tvg-name="SHf - Schaffhauser Fernsehen" tvg-logo="" tvg-chno="276" channel-id="276",SHf
 rtp://239.186.64.97:10000
@@ -327,11 +327,11 @@ rtp://239.186.74.105:10000
 rtp://239.186.74.113:10000
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-name="More Than Sports TV" tvg-logo="https://static.epg.best/de/morethansports.de.png" tvg-chno="205" channel-id="205",More Than Sports D
 rtp://239.186.66.241:10000
-#EXTINF:-1 tvg-id=""  tvg-name="Stimmungsgarten TV",stimmungsgarten.tv (deu)
+#EXTINF:-1 tvg-id="" tvg-name="Stimmungsgarten TV",stimmungsgarten.tv (deu)
 rtp://239.186.74.148:10000
 #EXTINF:-1 tvg-id="" ,justcooking.tv (deu)
 rtp://239.186.74.150:10000
-#EXTINF:-1 ,just.fishing (deu)
+#EXTINF:-1 tvg-id="" tvg-name="Just.fishing",just.fishing (deu)
 rtp://239.186.74.157:10000
 #EXTREM:italian
 #EXTINF:-1 tvg-id="RSILa1.ch@SD" tvg-name="RSI LA 1" tvg-logo="https://static.epg.best/ch/RSILA1.ch.png" tvg-chno="402" channel-id="402",RSI LA1
@@ -376,7 +376,7 @@ rtp://239.186.64.153:10000
 rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="LA7.it@SD" tvg-name="La 7" tvg-logo="https://static.epg.best/it/La7.it.png" tvg-chno="366" channel-id="366",LA7
 rtp://239.186.64.49:10000
-#EXTINF:-1 tvg-id="LA7.it@SD" tvg-name="La 7" tvg-logo="https://static.epg.best/it/La7cinema.it.png" tvg-chno="368" channel-id="368",LA7 CINEMA
+#EXTINF:-1 tvg-id="LA7d.it@SD" tvg-name="La7 Cinema" tvg-logo="https://static.epg.best/it/La7cinema.it.png" tvg-chno="368" channel-id="368",LA7 CINEMA
 rtp://239.186.64.164:10000
 #EXTINF:-1 tvg-id="20.it@SD" tvg-name="20 Mediaset" tvg-logo="https://static.epg.best/it/20mediaset.it.png" tvg-chno="370" channel-id="370",20 MEDIASET
 rtp://239.186.74.67:10000
@@ -454,11 +454,11 @@ rtp://239.186.74.22:10000
 rtp://239.186.74.71:10000
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-name="Discovery F" tvg-logo="http://static.epg.best/it/discovery.it.png" tvg-chno="" channel-id="",Discovery I
 rtp://239.186.64.191:10000
-#EXTINF:-1 tvg-id="TopCalcio24.it@SD"  tvg-name="Top Calcio 24",TOP CALCIO 24
+#EXTINF:-1 tvg-id="TopCalcio24.it@SD" tvg-name="Top Calcio 24",TOP CALCIO 24
 rtp://239.186.74.79:10000
-#EXTINF:-1 tvg-id="SenatoTV.it@SD"  tvg-name="Senato TV",senato italiano tv
+#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-name="Senato TV",senato italiano tv
 rtp://239.186.74.85:10000
-#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD"  tvg-name="Camera dei Deputati",camera dei deputati
+#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-name="Camera dei Deputati",camera dei deputati
 rtp://239.186.74.59:10000
 #EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-name="Twentyseven" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
 rtp://239.186.74.114:10000
@@ -544,17 +544,17 @@ rtp://239.186.66.147:10000
 rtp://239.186.66.148:10000
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-name="Al Jazeera" tvg-logo="https://static.epg.best/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
 rtp://239.186.64.173:10000
-#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD"  tvg-name="TV Duga+",TV Duga+ (bos)
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-name="TV Duga+",TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 tvg-id="HRTInternational.hr@SD"  tvg-name="HRT Int.",HRT int. (hrv)
+#EXTINF:-1 tvg-id="HRTInternational.hr@SD" tvg-name="HRT Int.",HRT int. (hrv)
 rtp://239.186.74.83:10000
-#EXTINF:-1 tvg-id="ElWatania1.tn@SD"  tvg-name="Tunisie Nationale",Tunisie Nationale (ara)
+#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-name="Tunisie Nationale",Tunisie Nationale (ara)
 rtp://239.186.74.89:10000
 #EXTINF:-1 tvg-id="" tvg-name="FreeDOM",YKPAÏHA 24  / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
 #EXTINF:-1  tvg-name="Espreso TV",Espreso TV (ukr)
 rtp://239.186.74.158:10000
-#EXTINF:-1 tvg-id=""  tvg-name="1+1 Int.",1+1 int. (ukr)
+#EXTINF:-1 tvg-id="" tvg-name="1+1 Int.",1+1 int. (ukr)
 rtp://239.186.74.9:10000
-#EXTINF:-1 tvg-id=""  tvg-name="RTVi",RTVI (rus)
+#EXTINF:-1 tvg-id="" tvg-name="RTVi",RTVI (rus)
 rtp://239.186.74.2:10000
