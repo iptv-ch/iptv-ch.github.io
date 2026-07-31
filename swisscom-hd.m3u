@@ -87,7 +87,7 @@ rtp://239.186.70.66:10000
 rtp://239.186.70.155:10000
 #EXTINF:-1 tvg-id="TVOnex.ch@SD" tvg-name="TV Onex" tvg-logo="https://static.epg.best/ch/tvonex.ch.png" tvg-chno="86" channel-id="86",TV Onex HD
 rtp://239.186.70.132:10000
-#EXTINF:-1 tvg-id="RhoneTV.ch@SD" tvg-name="Rhone TV",Rhone TV HD
+#EXTINF:-1 tvg-id="RhoneTV.ch@SD" tvg-name="Rhone TV" tvg-logo="https://i.imgur.com/YyXJaBN.png",Rhone TV HD
 rtp://239.186.84.172:10000
 #EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="89" channel-id="89",blue ZOOM F HD
 rtp://239.186.68.244:10000
@@ -222,9 +222,9 @@ rtp://239.186.84.57:10000
 rtp://239.186.84.42:10000
 #EXTINF:-1 tvg-id="" tvg-name="EU Parliament",EU Parliament HD
 rtp://239.186.84.45:10000
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary",CGTN DOCUMENTARY HD
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN DOCUMENTARY HD
 rtp://239.186.84.147:10000
-#EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-name="Daystar", Daystar HD (eng)
+#EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-name="Daystar" tvg-logo="https://i.imgur.com/IjzCv8f.png", Daystar HD (eng)
 rtp://239.186.70.149:10000
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch@SD" tvg-name="SRF 1" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="282" channel-id="282",SRF1 FHD
@@ -263,7 +263,7 @@ rtp://239.186.68.154:10000
 rtp://239.186.70.190:10000
 #EXTINF:-1 tvg-id="arte.de@SD" tvg-name="Arte Deutsch" tvg-logo="https://static.epg.best/de/ARTE.de.png" tvg-chno="188" channel-id="188",arte D HD
 rtp://239.186.68.11:10000
-#EXTINF:-1 tvg-id="AuftankenTV.ch@SD" tvg-name="Auftanken TV" tvg-logo="" tvg-chno="189" channel-id="189",auftanken.TV CH HD
+#EXTINF:-1 tvg-id="AuftankenTV.ch@SD" tvg-name="Auftanken TV" tvg-logo="https://i.imgur.com/m2MosLa.png" tvg-chno="189" channel-id="189",auftanken.TV CH HD
 rtp://239.186.70.117:10000
 #EXTINF:-1 tvg-id="RadioPilatusTV.ch@SD" tvg-name="Radio Pilatus TV" tvg-logo="https://static.epg.best/ch/pilatus.ch.png" tvg-chno="190" channel-id="190",radio Pilatus HD
 rtp://239.186.68.104:10000
@@ -433,9 +433,9 @@ rtp://239.186.74.105:10000
 rtp://239.186.84.37:10000
 #EXTINF:-1 tvg-id="VolksmusikTV.de@SD" tvg-name="Volksmusik.TV" tvg-logo="https://static.epg.best/de/Volksmusik.de.png" tvg-chno="" channel-id="",Volksmusik.tv HD
 rtp://239.186.70.97:10000
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-name="More Than Sports TV",More Than Sports TV HD
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-name="More Than Sports TV" tvg-logo="https://i.imgur.com/SLrjImc.png",More Than Sports TV HD
 rtp://239.186.70.28:10000
-#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-name="folx.tv",Folx HD
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-name="folx.tv" tvg-logo="https://i.imgur.com/ze04puX.png",Folx HD
 rtp://239.186.68.121:10000
 #EXTINF:-1 tvg-id="OneMusicTelevision.de@SD" tvg-name="One Music Television" tvg-logo="https://static.epg.best/de/onemusic.de.png" tvg-chno="" channel-id="",ONE 1 Music TV HD
 rtp://239.186.70.214:10000
@@ -447,27 +447,27 @@ rtp://239.186.84.60:10000
 rtp://239.186.84.80:10000
 #EXTINF:-1 tvg-id="ArcadiaTV.li@SD" tvg-name="ARCADIA world TV" tvg-logo="https://static.epg.best/ro/ArcadiaTV.ro.png" tvg-chno="" channel-id="" ,ARCADIA WORLD TV HD
 rtp://239.186.84.1:10000
-#EXTINF:-1  tvg-name="DMF" tvg-id="DMF.de@SD",DMF HD
+#EXTINF:-1  tvg-name="DMF" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" tvg-id="DMF.de@SD",DMF HD
 rtp://239.186.70.96:10000
 #EXTINF:-1 tvg-id="StimmungsgartenTV.at@SD" tvg-name="Stimmungsgarten TV",stimmungsgarten.tv
 rtp://239.186.74.148:10000
 #EXTINF:-1 tvg-id="" ,justcooking.tv (deu)
 rtp://239.186.74.150:10000
-#EXTINF:-1 tvg-id="TVRheintal.ch@SD" tvg-name="TV Rheintal",TV RT HD (deu) TV   TV Rheintal HD
+#EXTINF:-1 tvg-id="TVRheintal.ch@SD" tvg-name="TV Rheintal" tvg-logo="https://i.imgur.com/8PY1o81.jpg",TV RT HD (deu) TV   TV Rheintal HD
 rtp://239.186.84.171:10000
 #EXTINF:-1 tvg-id="" tvg-name="Immaculata TV",I-TV HD
 rtp://239.186.70.91:10000
 #EXTINF:-1 tvg-id="" tvg-name="Just.fishing",just.fishing (deu)
 rtp://239.186.74.157:10000
-#EXTINF:-1 tvg-id="Sylt1.de@SD" tvg-name="SYLT1",SYLT1 HD
+#EXTINF:-1 tvg-id="Sylt1.de@SD" tvg-name="SYLT1" tvg-logo="https://i.imgur.com/2Wh8OS5.png",SYLT1 HD
 rtp://239.186.70.126:10000
-#EXTINF:-1 tvg-id="DF1.de@SD" tvg-name="DF1",DF1 HD (deu)
+#EXTINF:-1 tvg-id="DF1.de@SD" tvg-name="DF1" tvg-logo="https://i.imgur.com/IOZICW5.png",DF1 HD (deu)
 rtp://239.186.68.93:10000
-#EXTINF:-1 tvg-id="TeleGold.de@SD" tvg-name="TELEGOLD",TELEGOLD HD (deu)
+#EXTINF:-1 tvg-id="TeleGold.de@SD" tvg-name="TELEGOLD" tvg-logo="https://i.imgur.com/IqcMoQO.png",TELEGOLD HD (deu)
 rtp://239.186.68.53:10000
 #EXTINF:-1 tvg-id="" tvg-name="Hohenrausch",Höhenrausch HD
 rtp://239.186.70.140:10000
-#EXTINF:-1 tvg-id="LiloTV.de@SD" tvg-name="Lilo TV",lilo TV
+#EXTINF:-1 tvg-id="LiloTV.de@SD" tvg-name="Lilo TV" tvg-logo="https://i.imgur.com/hjSwwVW.png",lilo TV
 rtp://239.186.74.82:10000
 #EXTINF:-1 tvg-id="" tvg-name="Network-TV",network tv HD
 rtp://239.186.84.173:10000
@@ -606,19 +606,19 @@ rtp://239.186.84.73:10000
 rtp://239.186.84.90:10000
 #EXTINF:-1 tvg-id="TopCalcio24.it@SD" tvg-name="Top Calcio 24" tvg-logo="https://static.epg.best/it/Topcalcio24.it.png" tvg-chno="420" channel-id="420",TOP CALCIO 24 HD
 rtp://239.186.84.105:10000
-#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-name="Senato TV",Senato TV HD
+#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-name="Senato TV" tvg-logo="https://i.imgur.com/h4NyN5d.png",Senato TV HD
 rtp://239.186.70.114:10000
 #EXTINF:-1 tvg-id="DeejayTV.it@SD" tvg-name="Deejay TV" tvg-logo="https://static.epg.best/it/Deejay.it.png" tvg-chno="" channel-id="",Deejay TV HD
 rtp://239.186.70.152:10000
 #EXTINF:-1 tvg-id="MTV.de@SD" tvg-name="MTV" tvg-logo="https://static.epg.best/it/SMtvSanMarino.it.png" tvg-chno="" channel-id="",Rtv San Marino HD
 rtp://239.186.84.23:10000
-#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-name="Camera dei Deputati",camera dei deputati
+#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/hv4zi9N.png",camera dei deputati
 rtp://239.186.74.59:10000
-#EXTINF:-1 tvg-id="RadioTicinoChannel.it@SD" tvg-name="Radio Ticino Channel",Radio Ticino channel HD
+#EXTINF:-1 tvg-id="RadioTicinoChannel.it@SD" tvg-name="Radio Ticino Channel" tvg-logo="https://i.imgur.com/aY715xZ.png",Radio Ticino channel HD
 rtp://239.186.68.192:10000
-#EXTINF:-1 tvg-id="ParolediVita.it@SD" tvg-name="Parole di Vita",Parole Di Vita HD
+#EXTINF:-1 tvg-id="ParolediVita.it@SD" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/vkFlXbR.png",Parole Di Vita HD
 rtp://239.186.68.179:10000
-#EXTINF:-1 tvg-id="TrentinoTV.it@SD" tvg-name="Trentino TV",TRENTINO TV HD
+#EXTINF:-1 tvg-id="TrentinoTV.it@SD" tvg-name="Trentino TV" tvg-logo="https://i.imgur.com/Xcw3TRB.png",TRENTINO TV HD
 rtp://239.186.84.141:10000
 #EXTINF:-1 tvg-id="" tvg-name="Telenuovo",telenuovo HD
 rtp://239.186.84.143:10000
@@ -626,9 +626,9 @@ rtp://239.186.84.143:10000
 rtp://239.186.84.150:10000
 #EXTINF:-1 tvg-id="" ,RADIO ITALIA HD
 rtp://239.186.84.152:10000
-#EXTINF:-1 tvg-id="Telecupole.it@SD" tvg-name="Telecupole",TELECUPOLE HD
+#EXTINF:-1 tvg-id="Telecupole.it@SD" tvg-name="Telecupole" tvg-logo="https://i.imgur.com/gPK7e4f.png",TELECUPOLE HD
 rtp://239.186.84.156:10000
-#EXTINF:-1 tvg-id="Rete55.it@SD" tvg-name="Rete 55",R55 Rete55 TV HD (ita)
+#EXTINF:-1 tvg-id="Rete55.it@SD" tvg-name="Rete 55" tvg-logo="https://i.imgur.com/UtS9YLc.png",R55 Rete55 TV HD (ita)
 rtp://239.186.84.178:10000
 #EXTINF:-1 tvg-id="" tvg-mane="Radio 24 - Il Sole 24 Ore TV",Radio24 tv Il Sole 24 ORE HD
 rtp://239.186.70.33:10000
@@ -702,9 +702,9 @@ rtp://239.186.84.96:10000
 rtp://239.186.84.151:10000
 #EXTINF:-1 tvg-id="EpicDrama.uk@Sweden" tvg-name="Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg" tvg-chno="" channel-id="",EPIC DRAMA HD (bul)
 rtp://239.186.70.99:10000
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM",YKPAÏHA 24 / FREEDOM UA (ukr)
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/FreeDOMUAlogo.svg",YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV",Espreso TV HD (ukr)
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV" tvg-logo="https://i.imgur.com/xNatV8K.png",Espreso TV HD (ukr)
 rtp://239.186.84.176:10000
 #EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-name="2M Monde" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Maroc
 rtp://239.186.64.194:10000
@@ -736,7 +736,7 @@ rtp://239.186.66.132:10000
 rtp://239.186.66.138:10000
 #EXTINF:-1 tvg-id="RTK1Sat.xk@SD" tvg-name="RTK 1 Sat" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1 SAT
 rtp://239.186.64.81:10000
-#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-name="Rudaw TV" tvg-logo="" tvg-chno="460" channel-id="460",Rudaw TV HD (kur)
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-name="Rudaw TV" tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-chno="460" channel-id="460",Rudaw TV HD (kur)
 rtp://239.186.68.247:10000
 #EXTINF:-1 tvg-id="PROTVInternational.ro@SD" tvg-name="Pro TV International" tvg-logo="https://static.epg.best/ro/ProTV.ro.png" tvg-chno="455" channel-id="455",PRO TV
 rtp://239.186.66.135:10000
@@ -750,9 +750,9 @@ rtp://239.186.70.191:10000
 rtp://239.186.70.18:10000
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-name="Al Arabiya" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" channel-id="432",Al arabiya HD (ara)
 rtp://239.186.84.11:10000
-#EXTINF:-1 tvg-id="BNMusic.ba@SD" tvg-name="BN Music",bn music HD (bos)
+#EXTINF:-1 tvg-id="BNMusic.ba@SD" tvg-name="BN Music" tvg-logo="https://i.imgur.com/PoRZZFb.png",bn music HD (bos)
 rtp://239.186.84.34:10000
-#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-name="TV Duga+",TV Duga+ (bos)
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-name="TV Duga+" tvg-logo="https://i.imgur.com/qZV3JW5.png",TV Duga+ (bos)
 rtp://239.186.74.77:10000
 #EXTINF:-1 ,Diaspora Swiss TV HD
 rtp://239.186.84.107:10000
@@ -762,21 +762,21 @@ rtp://239.186.68.184:10000
 rtp://239.186.70.13:10000
 #EXTINF:-1 tvg-id="",TOP NEWS HD (alb)
 rtp://239.186.84.144:10000
-#EXTINF:-1 tvg-id="24.sk@SD" tvg-name="RTVS 24",:24 (sk)
+#EXTINF:-1 tvg-id="24.sk@SD" tvg-name="RTVS 24" tvg-logo="https://i.imgur.com/tTCuczU.png",:24 (sk)
 rtp://239.186.84.149:10000
-#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-name="TVCG MNE",mne HD (srp)
+#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png",mne HD (srp)
 rtp://239.186.84.154:10000
-#EXTINF:-1 tvg-id="RTSH24.al@SD" tvg-name="RTSH 24",RTSH24 HD (alb)
+#EXTINF:-1 tvg-id="RTSH24.al@SD" tvg-name="RTSH 24" tvg-logo="https://i.imgur.com/H6tCoGW.png",RTSH24 HD (alb)
 rtp://239.186.84.155:10000
 #EXTINF:-1 ,nikceabtv HD (ukr)
 rtp://239.186.84.161:10000
-#EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-name="Enter-Film",ENTER FILM HD (ukr)
+#EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-name="Enter-Film" tvg-logo="https://i.imgur.com/wQbiGs6.png",ENTER FILM HD (ukr)
 rtp://239.186.84.163:10000
-#EXTINF:-1 tvg-id="NovaTV.ba@SD" tvg-name="Nova BH",nova bh HD (ser)
+#EXTINF:-1 tvg-id="NovaTV.ba@SD" tvg-name="Nova BH" tvg-logo="https://i.imgur.com/wTZxn8F.png",nova bh HD (ser)
 rtp://239.186.84.167:10000
 #EXTINF:-1 ,BOYAH HD (ell)
 rtp://239.186.84.170:10000
-#EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-name="RTVi",RTVI (rus)
+#EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI (rus)
 rtp://239.186.74.2:10000
 #EXTINF:-1 tvg-id="" tvg-name="Info Channel",Info Channel HD
 rtp://239.186.70.168:10000

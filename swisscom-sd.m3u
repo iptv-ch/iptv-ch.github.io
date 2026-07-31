@@ -63,9 +63,9 @@ rtp://239.186.64.104:10000
 rtp://239.186.66.94:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD" tvg-name="Léman Bleu Télévision" tvg-logo="https://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="75" channel-id="75",lemanbleu
 rtp://239.186.64.89:10000
-#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="" tvg-chno="81" channel-id="81",maxtv/DieuTV
+#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-chno="81" channel-id="81",maxtv/DieuTV
 rtp://239.186.64.102:10000
-#EXTINF:-1 tvg-id="NRTV.ch@SD" tvg-name="NRTV" tvg-logo="" tvg-chno="85" channel-id="85",nrtv
+#EXTINF:-1 tvg-id="NRTV.ch@SD" tvg-name="NRTV" tvg-logo="https://i.imgur.com/sXiFPfk.png" tvg-chno="85" channel-id="85",nrtv
 rtp://239.186.66.198:10000
 #EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
@@ -189,7 +189,7 @@ rtp://239.186.64.55:10000
 rtp://239.186.64.56:10000
 #EXTINF:-1 tvg-id="4Plus.ch@SD" tvg-name="4+" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="176" channel-id="176",4+
 rtp://239.186.64.142:10000
-#EXTINF:-1 tvg-id="AlpenlandTV.ch@SD" tvg-name="AW1 TV" tvg-logo="" tvg-chno="179" channel-id="179",AW1 TV
+#EXTINF:-1 tvg-id="AlpenlandTV.ch@SD" tvg-name="AW1 TV" tvg-logo="https://i.imgur.com/NPB6ciB.png" tvg-chno="179" channel-id="179",AW1 TV
 rtp://239.186.64.112:10000
 #EXTINF:-1 tvg-id="DasErste.de@SD" tvg-name="Das Erste" tvg-logo="https://static.epg.best/de/ARD.de.png" tvg-chno="182" channel-id="182",ARD Das Erste
 rtp://239.186.64.11:10000
@@ -231,7 +231,7 @@ rtp://239.186.64.133:10000
 rtp://239.186.66.231:10000
 #EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen" tvg-name="MDR" tvg-logo="https://static.epg.best/de/MDR.de.png" tvg-chno="229" channel-id="229",mdr
 rtp://239.186.64.63:10000
-#EXTINF:-1 tvg-id="MelodieTV.at@SD" tvg-name="MelodieTV" tvg-logo="" tvg-chno="231" channel-id="231",Melodie.tv
+#EXTINF:-1 tvg-id="MelodieTV.at@SD" tvg-name="MelodieTV" tvg-logo="https://i.imgur.com/UzsmVhI.png" tvg-chno="231" channel-id="231",Melodie.tv
 rtp://239.186.74.15:10000
 #EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-name="N24 Doku" tvg-logo="https://static.epg.best/de/N24Doku.de.png" tvg-chno="235" channel-id="235",N24 Doku
 rtp://239.186.66.232:10000
@@ -269,7 +269,7 @@ rtp://239.186.64.136:10000
 rtp://239.186.66.146:10000
 #EXTINF:-1 tvg-id="" tvg-name="Session Council Of States WEB" tvg-logo="" tvg-chno="273" channel-id="273",SessionStaenderat
 rtp://239.186.64.124:10000
-#EXTINF:-1 tvg-id="SchaffhauserFernsehen.ch@SD" tvg-name="SHf - Schaffhauser Fernsehen" tvg-logo="" tvg-chno="276" channel-id="276",SHf
+#EXTINF:-1 tvg-id="SchaffhauserFernsehen.ch@SD" tvg-name="SHf - Schaffhauser Fernsehen" tvg-logo="https://i.imgur.com/0z3mrMY.png" tvg-chno="276" channel-id="276",SHf
 rtp://239.186.64.97:10000
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="278" channel-id="278",SIXX CH
 rtp://239.186.64.70:10000
@@ -291,7 +291,7 @@ rtp://239.186.64.60:10000
 rtp://239.186.64.90:10000
 #EXTINF:-1 tvg-id="TeleTop.ch@SD" tvg-name="Tele Top" tvg-logo="https://static.epg.best/ch/TeleTop.ch.png" tvg-chno="307" channel-id="307",Tele Top
 rtp://239.186.64.96:10000
-#EXTINF:-1 tvg-id="TeleZ.ch@SD" tvg-name="Tele Z" tvg-logo="" tvg-chno="309" channel-id="309",TELEZ
+#EXTINF:-1 tvg-id="TeleZ.ch@SD" tvg-name="Tele Z" tvg-logo="https://i.imgur.com/3cdmgDx.png" tvg-chno="309" channel-id="309",TELEZ
 rtp://239.186.64.103:10000
 #EXTINF:-1 tvg-id="TeleZ.ch@SD" tvg-name="Tele Z" tvg-logo="https://static.epg.best/ch/TeleZueri.ch.png" tvg-chno="312" channel-id="312",Tele Zuri
 rtp://239.186.64.9:10000
@@ -346,13 +346,13 @@ rtp://239.186.66.107:10000
 rtp://239.186.74.18:10000
 #EXTINF:-1 tvg-id="Boing.it@SD" tvg-name="Boing I" tvg-logo="https://static.epg.best/it/Boing.it.png" tvg-chno="349" channel-id="349",Boing I
 rtp://239.186.64.74:10000
-#EXTINF:-1 tvg-id="CanaleItalia.it@SD" tvg-name="Canale Italia" tvg-logo="" tvg-chno="350" channel-id="350",CANALE Italia
+#EXTINF:-1 tvg-id="CanaleItalia.it@SD" tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/ZqxOFkN.png" tvg-chno="350" channel-id="350",CANALE Italia
 rtp://239.186.64.160:10000
 #EXTINF:-1 tvg-id="Boing.fr@SD" tvg-name="Cartoonito F" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" tvg-chno="351" channel-id="351",Cartoonito
 rtp://239.186.66.176:10000
 #EXTINF:-1 tvg-id="Cielo.it@SD" tvg-name="Cielo" tvg-logo="https://static.epg.best/it/Cielo.it.png" tvg-chno="352" channel-id="352",cielo
 rtp://239.186.64.76:10000
-#EXTINF:-1 tvg-id="ClassTVModa.it@SD" tvg-name="Class TV Moda" tvg-logo="" tvg-chno="354" channel-id="354",ClassTV Moda
+#EXTINF:-1 tvg-id="ClassTVModa.it@SD" tvg-name="Class TV Moda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Class-tv-moda.png" tvg-chno="354" channel-id="354",ClassTV Moda
 rtp://239.186.66.189:10000
 #EXTINF:-1 tvg-id="DMAX.uk@UK" tvg-name="DMAX UK" tvg-logo="https://static.epg.best/it/DMAX.it.png" tvg-chno="355" channel-id="355",Warner Bros Discovery DMAX
 rtp://239.186.66.110:10000
@@ -372,7 +372,7 @@ rtp://239.186.64.158:10000
 rtp://239.186.66.43:10000
 #EXTINF:-1 tvg-id="EuronewsAlbania.al@SD" tvg-name="Euronews AL" tvg-logo="https://static.epg.best/it/Euronews.it.png" tvg-chno="363" channel-id="363",euronews. I
 rtp://239.186.64.153:10000
-#EXTINF:-1 tvg-id="ItaliaChannel.it@SD" tvg-name="Italia Channel" tvg-logo="" tvg-chno="365" channel-id="365",ITALIA CHANNEL 123
+#EXTINF:-1 tvg-id="ItaliaChannel.it@SD" tvg-name="Italia Channel" tvg-logo="https://i.imgur.com/AVDkd2K.png" tvg-chno="365" channel-id="365",ITALIA CHANNEL 123
 rtp://239.186.74.19:10000
 #EXTINF:-1 tvg-id="LA7.it@SD" tvg-name="La 7" tvg-logo="https://static.epg.best/it/La7.it.png" tvg-chno="366" channel-id="366",LA7
 rtp://239.186.64.49:10000
@@ -438,13 +438,13 @@ rtp://239.186.74.24:10000
 rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="TeleTicino.ch@SD" tvg-name="Tele Ticino" tvg-logo="https://static.epg.best/ch/teleticino.ch.png" tvg-chno="410" channel-id="410",teleticino
 rtp://239.186.64.99:10000
-#EXTINF:-1 tvg-id="Telelombardia.it@SD" tvg-name="Telelombardia" tvg-logo="" tvg-chno="412" channel-id="412",TELELOMBARDIA
+#EXTINF:-1 tvg-id="Telelombardia.it@SD" tvg-name="Telelombardia" tvg-logo="https://i.imgur.com/GZLRBfx.png" tvg-chno="412" channel-id="412",TELELOMBARDIA
 rtp://239.186.64.154:10000
-#EXTINF:-1 tvg-id="Telenova.it@SD" tvg-name="Telenova" tvg-logo="" tvg-chno="413" channel-id="413",TELENOVA
+#EXTINF:-1 tvg-id="Telenova.it@SD" tvg-name="Telenova" tvg-logo="https://i.imgur.com/lo9OiWg.png" tvg-chno="413" channel-id="413",TELENOVA
 rtp://239.186.64.152:10000
 #EXTINF:-1 tvg-id="TV8.it@SD" tvg-name="TV8" tvg-logo="https://static.epg.best/it/TV8.it.png" tvg-chno="416" channel-id="416",tv8 Italia
 rtp://239.186.64.161:10000
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it@SD" tvg-name="UniNettuno University TV" tvg-logo="" tvg-chno="417" channel-id="417",UNINETTUNO.TV
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it@SD" tvg-name="UniNettuno University TV" tvg-logo="https://i.imgur.com/c9So8nf.png" tvg-chno="417" channel-id="417",UNINETTUNO.TV
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="TV2000.it@SD" tvg-name="TV2000" tvg-logo="https://static.epg.best/it/TV2000.it.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
@@ -454,11 +454,11 @@ rtp://239.186.74.22:10000
 rtp://239.186.74.71:10000
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-name="Discovery F" tvg-logo="http://static.epg.best/it/discovery.it.png" tvg-chno="" channel-id="",Discovery I
 rtp://239.186.64.191:10000
-#EXTINF:-1 tvg-id="TopCalcio24.it@SD" tvg-name="Top Calcio 24",TOP CALCIO 24
+#EXTINF:-1 tvg-id="TopCalcio24.it@SD" tvg-name="Top Calcio 24" tvg-logo="https://i.imgur.com/qYPiXlB.png",TOP CALCIO 24
 rtp://239.186.74.79:10000
-#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-name="Senato TV",senato italiano tv
+#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-name="Senato TV" tvg-logo="https://i.imgur.com/h4NyN5d.png",senato italiano tv
 rtp://239.186.74.85:10000
-#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-name="Camera dei Deputati",camera dei deputati
+#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/hv4zi9N.png",camera dei deputati
 rtp://239.186.74.59:10000
 #EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-name="Twentyseven" tvg-logo="https://static.epg.best/it/twentyseven.it.png" tvg-chno="" channel-id="",MEDIASET twenty seven 27 italian
 rtp://239.186.74.114:10000
@@ -472,7 +472,7 @@ rtp://239.186.64.77:10000
 rtp://239.186.66.62:10000
 #EXTINF:-1 tvg-id="OraTV.al@SD" tvg-name="TV Ora" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="422" channel-id="422",Canal 24 Horas
 rtp://239.186.64.196:10000
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="Canal Sur Andalucía" tvg-logo="" tvg-chno="467" channel-id="467",Andalucia
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/lznnA4v.png" tvg-chno="467" channel-id="467",Andalucia
 rtp://239.186.64.197:10000
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es@SD" tvg-name="Televisión de Galicia" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",Galicia
 rtp://239.186.64.187:10000
@@ -481,7 +481,7 @@ rtp://239.186.64.54:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="360.tr@SD"360.tr tvg-name="360" tvg-logo="https://static.epg.best/tr/360.tr.png" tvg-chno="420" channel-id="420",360 Turk
 rtp://239.186.64.204:10000
-#EXTINF:-1 tvg-id="ATV.tr@SD" tvg-name="ATV (TR)" tvg-logo="" tvg-chno="421" channel-id="421",atv turk
+#EXTINF:-1 tvg-id="ATV.tr@SD" tvg-name="ATV (TR)" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-chno="421" channel-id="421",atv turk
 rtp://239.186.64.201:10000
 #EXTINF:-1 tvg-id="ShowMax.tr@SD" tvg-name="Showmax" tvg-logo="https://static.epg.best/tr/Showmax.tr.png" tvg-chno="428" channel-id="428",SHOW MAX
 rtp://239.186.64.209:10000
@@ -495,7 +495,7 @@ rtp://239.186.64.205:10000
 rtp://239.186.66.121:10000
 #EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-name="Euro D" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",EURO D
 rtp://239.186.64.199:10000
-#EXTINF:-1 tvg-id="TGRTEurope.tr@SD" tvg-name="TGRT EU" tvg-logo="" tvg-chno="462" channel-id="462",TGRT EU
+#EXTINF:-1 tvg-id="TGRTEurope.tr@SD" tvg-name="TGRT EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TGRT_EU.png" tvg-chno="462" channel-id="462",TGRT EU
 rtp://239.186.64.203:10000
 #EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-name="TRT Kurdi" tvg-logo="https://static.epg.best/tr/TRTKurdi.tr.png" tvg-chno="463" channel-id="463",TRT KURDI
 rtp://239.186.66.204:10000
@@ -510,7 +510,7 @@ rtp://239.186.64.192:10000
 rtp://239.186.64.189:10000
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV4" tvg-logo="https://static.epg.best/cn/CCTV4Europe.cn.png" tvg-chno="435" channel-id="435",CCTV4
 rtp://239.186.64.195:10000
-#EXTINF:-1 tvg-id="DMSat.rs@SD" tvg-name="DM Sat TV" tvg-logo="" tvg-chno="439" channel-id="439",DM SAT
+#EXTINF:-1 tvg-id="DMSat.rs@SD" tvg-name="DM Sat TV" tvg-logo="https://i.imgur.com/LdeA1Cn.png" tvg-chno="439" channel-id="439",DM SAT
 rtp://239.186.64.79:10000
 #EXTINF:-1 tvg-id="DubaiTV.ae@SD" tvg-name="Dubai TV" tvg-logo="https://static.epg.best/ae/DubaiTV.ae.png" tvg-chno="440" channel-id="440",DUBAI TV
 rtp://239.186.66.119:10000
@@ -526,9 +526,9 @@ rtp://239.186.66.227:10000
 rtp://239.186.66.125:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
 rtp://239.186.66.141:10000
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-name="Kurdistan TV" tvg-logo="" tvg-chno="448" channel-id="448",KURDISTAN tv
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-name="Kurdistan TV" tvg-logo="https://i.imgur.com/mjQptpc.png" tvg-chno="448" channel-id="448",KURDISTAN tv
 rtp://239.186.66.203:10000
-#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-name="Phoenix TV" tvg-logo="" tvg-chno="451" channel-id="451",PHOENIX NEWS taiwan
+#EXTINF:-1 tvg-id="phoenix.de@HD" tvg-name="Phoenix TV" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-chno="451" channel-id="451",PHOENIX NEWS taiwan
 rtp://239.186.66.132:10000
 #EXTINF:-1 tvg-id="PlanetaRTR.ru" tvg-name="Planeta RTR " tvg-logo="https://static.epg.best/tr/PlanetaRTR.ru.png" tvg-chno="452" channel-id="452",PLANETA RTR
 rtp://239.186.66.138:10000
@@ -544,17 +544,17 @@ rtp://239.186.66.147:10000
 rtp://239.186.66.148:10000
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-name="Al Jazeera" tvg-logo="https://static.epg.best/qa/AlJazeera.qa.png" tvg-chno="115" channel-id="115",Al Jazeera Arabic
 rtp://239.186.64.173:10000
-#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-name="TV Duga+",TV Duga+ (bos)
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-name="TV Duga+" tvg-logo="https://i.imgur.com/qZV3JW5.png",TV Duga+ (bos)
 rtp://239.186.74.77:10000
-#EXTINF:-1 tvg-id="HRTInternational.hr@SD" tvg-name="HRT Int.",HRT int. (hrv)
+#EXTINF:-1 tvg-id="HRTInternational.hr@SD" tvg-name="HRT Int." tvg-logo="https://i.imgur.com/useLwHV.png",HRT int. (hrv)
 rtp://239.186.74.83:10000
-#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-name="Tunisie Nationale",Tunisie Nationale (ara)
+#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-name="Tunisie Nationale" tvg-logo="https://i.imgur.com/gNr2V14.png",Tunisie Nationale (ara)
 rtp://239.186.74.89:10000
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM",YKPAÏHA 24  / FREEDOM UA (ukr)
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/FreeDOMUAlogo.svg",YKPAÏHA 24  / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
-#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV",Espreso TV (ukr)
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV" tvg-logo="https://i.imgur.com/xNatV8K.png",Espreso TV (ukr)
 rtp://239.186.74.158:10000
 #EXTINF:-1 tvg-id="1Plus1@ua,SD" tvg-name="1+1",1+1 int. (ukr)
 rtp://239.186.74.9:10000
-#EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-name="RTVi",RTVI (rus)
+#EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI (rus)
 rtp://239.186.74.2:10000
