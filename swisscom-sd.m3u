@@ -536,7 +536,7 @@ rtp://239.186.66.138:10000
 rtp://239.186.66.135:10000
 #EXTINF:-1 tvg-id="RiK.sk" tvg-name="RiK SK" tvg-logo="https://static.epg.best/sk/RiK.sk.png" tvg-chno="456" channel-id="456",RiK Sat
 rtp://239.186.66.137:10000
-#EXTINF:-1 tvg-id="RTK1.xk@SD" tvg-name="RTK 1" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
+#EXTINF:-1 tvg-id="RTK1Sat.xk@SD" tvg-name="RTK 1 Sat" tvg-logo="https://static.epg.best/al/RTK.al.png" tvg-chno="457" channel-id="457",RTK1
 rtp://239.186.64.81:10000
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-name="TVP Polonia" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="464" channel-id="464",TVP POLONIA
 rtp://239.186.66.147:10000
