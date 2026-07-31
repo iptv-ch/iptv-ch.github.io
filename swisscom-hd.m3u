@@ -77,7 +77,7 @@ rtp://239.186.70.11:10000
 rtp://239.186.70.104:10000
 #EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/CARAC5_logo_2025.svg" tvg-chno="74" channel-id="74",carac5 HD (ex TeleSwizz HD)
 rtp://239.186.68.208:10000
-#EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://static.epg.best/ch/tvm3.ch.png" tvg-chno="80" channel-id="80",tvm3 HD
+#EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-chno="80" channel-id="80",tvm3 HD
 rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://static.epg.best/ch/maxtv.ch.png" tvg-chno="81" channel-id="81",maxtv HD/DieuTV HD
 rtp://239.186.68.199:10000

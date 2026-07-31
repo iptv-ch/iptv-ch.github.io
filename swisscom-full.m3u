@@ -222,7 +222,7 @@ rtp://239.186.84.54:10000
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5 Monde FBSM" tvg-logo="http://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="99" channel-id="99",TV5MONDE FRANCE BELGIQUE SUISSE HD
 rtp://239.186.70.41:10000
-#EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-chno="100" channel-id="100",tvm3
+#EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-chno="100" channel-id="100",tvm3
 rtp://239.186.64.98:10000
 #EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-chno="101" channel-id="101",tvm3 HD
 rtp://239.186.70.21:10000
