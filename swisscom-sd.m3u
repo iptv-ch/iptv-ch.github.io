@@ -35,7 +35,7 @@ rtp://239.186.66.229:10000
 rtp://239.186.64.144:10000
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" tvg-chno="37" channel-id="37",BFMTV CH
 rtp://239.186.64.72:10000
-#EXTINF:-1 tvg-id="TVSuissePlus.ch@SD" tvg-name="CARAC 4" tvg-logo="https://static.epg.best/ch/carac4.ch.png" tvg-chno="39" channel-id="39",carac4
+#EXTINF:-1 tvg-id="TVSuissePlus.ch@SD" tvg-name="CARAC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/02/CARAC4_logo_2023.svg" tvg-chno="39" channel-id="39",carac4
 rtp://239.186.66.239:10000
 #EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
@@ -69,7 +69,7 @@ rtp://239.186.64.102:10000
 rtp://239.186.66.198:10000
 #EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
-#EXTINF:-1 tvg-id="RougeTV.ch@SD" tvg-name="CARAC 1" tvg-logo="https://static.epg.best/ch/carac1.ch.png" tvg-chno="88" channel-id="88",carac1
+#EXTINF:-1 tvg-id="RougeTV.ch@SD" tvg-name="CARAC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/74/CARAC1_logo_2023.svg" tvg-chno="88" channel-id="88",carac1
 rtp://239.186.64.145:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV Genève Region TV
 rtp://239.186.64.69:10000

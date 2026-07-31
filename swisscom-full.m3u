@@ -112,7 +112,7 @@ rtp://233.32.39.164:1234
 rtp://239.186.64.144:10000
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr@SD" tvg-name="TV8 Mont Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD
 rtp://239.186.70.106:10000
-#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://i.imgur.com/ioHFQCl.png" tvg-chno="34" channel-id="34",TeleSwiss HD
+#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/CARAC5_logo_2025.svg" tvg-chno="34" channel-id="34",TeleSwiss HD
 rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-name="BFM Business" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="35" channel-id="35",BFM BUSINESS
 rtp://239.186.64.146:10000
