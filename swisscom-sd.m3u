@@ -5,9 +5,9 @@
 #EXTREM:french
 #EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
-#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS1
+#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/500px-RTS_1_Logo_2023.svg.png" tvg-chno="91" channel-id="91",RTS1
 rtp://239.186.64.5:10000
-#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-name="RTS 2" tvg-logo="https://static.epg.best/ch/RTS2.ch.png" tvg-chno="93" channel-id="93",RTS2
+#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-name="RTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png" tvg-chno="93" channel-id="93",RTS2
 rtp://239.186.64.6:10000
 #EXTINF:-1 tvg-id="TF1Switzerland.ch@SD" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" tvg-chno="99" channel-id="99",TF1 CH
 rtp://239.186.64.35:10000
@@ -37,7 +37,7 @@ rtp://239.186.64.144:10000
 rtp://239.186.64.72:10000
 #EXTINF:-1 tvg-id="TVSuissePlus.ch@SD" tvg-name="CARAC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CARAC4_logo_2023.svg/960px-CARAC4_logo_2023.svg.png" tvg-chno="39" channel-id="39",carac4
 rtp://239.186.66.239:10000
-#EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://static.epg.best/ch/Canal9.ch.png" tvg-chno="42" channel-id="42",Canal9
+#EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Noir_RGB.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
 #EXTINF:-1 tvg-id="CanalAlphaJU.ch@SD" tvg-name="Canal Alpha JU" tvg-logo="https://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="44" channel-id="44",Canal Alpha JU
 rtp://239.186.64.106:10000
@@ -51,19 +51,19 @@ rtp://239.186.66.225:10000
 rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" tvg-chno="64" channel-id="64",gulli
 rtp://239.186.66.23:10000
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://static.epg.best/fr/i24news.fr.png" tvg-chno="66" channel-id="66",i24 NEWS F
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-chno="66" channel-id="66",i24 NEWS F
 rtp://239.186.66.174:10000
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-name="CNEWS" tvg-logo="https://static.epg.best/fr/CNews.fr.png" tvg-chno="68" channel-id="68",CNEWS
 rtp://239.186.66.25:10000
 #EXTINF:-1 tvg-id="KTO.fr@SD" tvg-name="KTO" tvg-logo="https://static.epg.best/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://static.epg.best/ch/LaTele.ch.png" tvg-chno="72" channel-id="72",LA TELE
+#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_La_T%C3%A9l%C3%A9_Vaud_Fribourg.png" tvg-chno="72" channel-id="72",LA TELE
 rtp://239.186.64.104:10000
 #EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="La Chaine Info - LCI" tvg-logo="https://static.epg.best/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD" tvg-name="Léman Bleu Télévision" tvg-logo="https://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="75" channel-id="75",lemanbleu
 rtp://239.186.64.89:10000
-#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-chno="81" channel-id="81",maxtv/DieuTV
+#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Maxtv.jpg" tvg-chno="81" channel-id="81",maxtv/DieuTV
 rtp://239.186.64.102:10000
 #EXTINF:-1 tvg-id="NRTV.ch@SD" tvg-name="NRTV" tvg-logo="https://i.imgur.com/sXiFPfk.png" tvg-chno="85" channel-id="85",nrtv
 rtp://239.186.66.198:10000
@@ -73,9 +73,9 @@ rtp://239.186.64.95:10000
 rtp://239.186.64.145:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="95" channel-id="95",GRTV Genève Region TV
 rtp://239.186.64.69:10000
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://static.epg.best/fr/TV5MondeEurope.fr.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" tvg-chno="107" channel-id="107",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5 Monde FBSM" tvg-logo="https://static.epg.best/fr/TV5Monde.fr.png" tvg-chno="108" channel-id="108",TV5 MONDE FRANCE BELGIQUE SUISSE MONACO
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5 Monde FBSM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" tvg-chno="108" channel-id="108",TV5 MONDE FRANCE BELGIQUE SUISSE MONACO
 rtp://239.186.64.150:10000
 #EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-chno="110" channel-id="110",tvm3
 rtp://239.186.64.98:10000
