@@ -700,7 +700,7 @@ rtp://239.186.70.209:10000
 rtp://239.186.84.96:10000
 #EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-name="TVP Info" tvg-logo="https://static.epg.best/pl/TVPinfo.pl.png" tvg-chno="464" channel-id="464",TVP INFO HD (pol)
 rtp://239.186.84.151:10000
-#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="Epic Drama PL" tvg-logo="https://static.epg.best/pl/EpicDrama.hu.png" tvg-chno="" channel-id="",EPIC DRAMA HD (pol)
+#EXTINF:-1 tvg-id="EpicDrama.uk@Sweden" tvg-name="Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg" tvg-chno="" channel-id="",EPIC DRAMA HD (bul)
 rtp://239.186.70.99:10000
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM",YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
