@@ -9,5 +9,5 @@ rtp://239.186.76.19:10000
 rtp://239.186.76.33:10000
 #EXTINF:-1 tvg-id="UHD1.lu@SD" tvg-name="UHD1 by ASTRA" tvg-logo="https://i.imgur.com/IMHoKTD.png",UHD1 by ASTRA
 rtp://239.186.79.26:10000
-#EXTINF:-1 tvg-id="France2.fr@SD" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/France_2_2018.svg",France2 UHD (source network netplus)
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-name="France 2" tvg-logo="http://static.epg.best/fr/France2.fr.png",France2 UHD (source network netplus)
 udp://@239.101.10.2:1234

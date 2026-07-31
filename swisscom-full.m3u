@@ -112,7 +112,7 @@ rtp://233.32.39.164:1234
 rtp://239.186.64.144:10000
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr@SD" tvg-name="TV8 Mont Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD
 rtp://239.186.70.106:10000
-#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/CARAC5_logo_2025.svg" tvg-chno="34" channel-id="34",TeleSwiss HD
+#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/CARAC5_logo_2025.svg/960px-CARAC5_logo_2025.svg.png" tvg-chno="34" channel-id="34",TeleSwiss HD
 rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-name="BFM Business" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="35" channel-id="35",BFM BUSINESS
 rtp://239.186.64.146:10000
@@ -188,7 +188,7 @@ rtp://239.186.64.89:10000
 rtp://239.186.70.39:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="78" channel-id="78",lfm TV HD
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="One.de@SD" tvg-name="One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/One_2022.svg" tvg-chno="87" channel-id="79",One tv CH HD
+#EXTINF:-1 tvg-id="One.de@SD" tvg-name="One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png" tvg-chno="87" channel-id="79",One tv CH HD
 rtp://239.186.70.12:10000
 #EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-chno="81" channel-id="81",maxtv dieu tv
 rtp://239.186.64.102:10000
@@ -368,9 +368,9 @@ rtp://239.186.64.112:10000
 rtp://239.186.70.9:10000
 #EXTINF:-1 tvg-id="AnixeHDSerie.de@SD" tvg-name="Anixe Serie" tvg-logo="http://static.epg.best/de/Anixe.de.png" tvg-chno="181" channel-id="181",ANIXE SERIE HD
 rtp://239.186.68.7:10000
-#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ARD_Dachmarke_2014.svg" tvg-chno="182" channel-id="182",ARD1 Das Erste
+#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/250px-ARD_Dachmarke_2014.svg.png" tvg-chno="182" channel-id="182",ARD1 Das Erste
 rtp://239.186.64.11:10000
-#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ARD_Dachmarke_2014.svg" tvg-chno="183" channel-id="183",ARD1 Das Erste HD
+#EXTINF:-1 tvg-id="DasErste.de@SD" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/250px-ARD_Dachmarke_2014.svg.png" tvg-chno="183" channel-id="183",ARD1 Das Erste HD
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-name="ARD-alpha" tvg-logo="http://static.epg.best/de/ARDalpha.de.png" tvg-chno="184" channel-id="195",ARD alpha
 rtp://239.186.64.119:10000
@@ -530,9 +530,9 @@ rtp://239.186.66.201:10000
 rtp://239.186.68.147:10000
 #EXTINF:-1 tvg-id="SAT1.de@SD" tvg-name="SAT.1" tvg-logo="http://static.epg.best/de/Sat1.de.png" tvg-chno="264" channel-id="264",SAT.1 CH
 rtp://239.186.64.18:10000
-#EXTINF:-1 tvg-id="Schweiz5.ch@SD" tvg-name="Schweiz 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Schweiz_5.svg" tvg-chno="267" channel-id="267",Schweiz5
+#EXTINF:-1 tvg-id="Schweiz5.ch@SD" tvg-name="Schweiz 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schweiz_5.svg/960px-Schweiz_5.svg.png" tvg-chno="267" channel-id="267",Schweiz5
 rtp://239.186.64.101:10000
-#EXTINF:-1 tvg-id="Schweiz5.ch@SD" tvg-name="Schweiz 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Schweiz_5.svg" tvg-chno="268" channel-id="268",Schweiz5 HD
+#EXTINF:-1 tvg-id="Schweiz5.ch@SD" tvg-name="Schweiz 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schweiz_5.svg/960px-Schweiz_5.svg.png" tvg-chno="268" channel-id="268",Schweiz5 HD
 rtp://239.186.68.245:10000
 #EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-name="Servus TV" tvg-logo="http://static.epg.best/at/ServusTV.at.png" tvg-chno="269" channel-id="269",ServusTV DEUTSCHLAND CH
 rtp://239.186.64.136:10000
@@ -598,9 +598,9 @@ rtp://239.186.64.22:10000
 rtp://239.186.64.60:10000
 #EXTINF:-1 tvg-id="TeleBarn.ch@SD" tvg-name="Tele Bärn" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",TELE BAERN HD
 rtp://239.186.68.38:10000
-#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/TeleBielingue_Logo.svg" tvg-chno="302" channel-id="302",TeleBielingue
+#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
-#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/TeleBielingue_Logo.svg" tvg-chno="303" channel-id="303",TeleBielingue HD
+#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png" tvg-chno="303" channel-id="303",TeleBielingue HD
 rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="TeleD.ch@SD" tvg-name="Tele D" tvg-logo="https://i.imgur.com/f4ZW1vJ.png" tvg-chno="304" channel-id="304",TELE D HD
 rtp://239.186.68.217:10000
@@ -713,7 +713,7 @@ rtp://239.186.66.188:10000
 rtp://239.186.66.187:10000
 #EXTINF:-1 tvg-id="K2.it@SD" tvg-name="K2" tvg-logo="http://static.epg.best/it/K2.it.png" tvg-chno="358" channel-id="358",Discovery-italia K2 / FAMILY CLUB
 rtp://239.186.66.186:10000
-#EXTINF:-1 tvg-id="MotorTrend.it@SD" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Motor_Trend_logo.svg" tvg-chno="359" channel-id="359",Discovery-italia MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it@SD" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/960px-Motor_Trend_logo.svg.png" tvg-chno="359" channel-id="359",Discovery-italia MOTOR TREND
 rtp://239.186.74.21:10000
 #EXTINF:-1 tvg-id="Nove.it@SD" tvg-name="NOVE" tvg-logo="http://static.epg.best/it/NOVE.it.png" tvg-chno="360" channel-id="360",Discovery-italia NOVE
 rtp://239.186.64.158:10000
@@ -753,7 +753,7 @@ rtp://239.186.66.44:10000
 rtp://239.186.64.75:10000
 #EXTINF:-1 tvg-id="La5.it@SD" tvg-name="La5" tvg-logo="http://static.epg.best/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
 rtp://239.186.64.73:10000
-#EXTINF:-1 tvg-id="Rete4.it@SD" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Rete_4_-_Logo_2018.svg" tvg-chno="380" channel-id="380",MEDIASET Rete4
+#EXTINF:-1 tvg-id="Rete4.it@SD" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/960px-Rete_4_-_Logo_2018.svg.png" tvg-chno="380" channel-id="380",MEDIASET Rete4
 rtp://239.186.64.47:10000
 #EXTINF:-1 tvg-id="TGCom24.it@SD" tvg-name="TGCom24" tvg-logo="https://i.imgur.com/fPmvbGH.png" tvg-chno="381" channel-id="381",MEDIASET TGCOM24
 rtp://239.186.64.214:10000
@@ -811,7 +811,7 @@ rtp://239.186.66.177:10000
 rtp://239.186.66.178:10000
 #EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-name="SPORTITALIA" tvg-logo="http://static.epg.best/it/Sportitalia.it.png" tvg-chno="408" channel-id="408",Sport Italia SI
 rtp://239.186.74.24:10000
-#EXTINF:-1 tvg-id="Super.it@SD" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Super%21_logo_2021.svg" tvg-chno="291" channel-id="291",SUPER!
+#EXTINF:-1 tvg-id="Super.it@SD" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" tvg-chno="291" channel-id="291",SUPER!
 rtp://239.186.66.181:10000
 #EXTINF:-1 tvg-id="SuperTennis.it@SD" tvg-name="SuperTennis TV" tvg-logo="http://static.epg.best/it/SuperTennis.it.png" tvg-chno="409" channel-id="409",SUPER TENNIS HD
 rtp://239.186.70.154:10000
@@ -829,7 +829,7 @@ rtp://239.186.64.161:10000
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it@SD" tvg-name="VH1 Italy" tvg-logo="http://static.epg.best/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
-#EXTINF:-1 tvg-id="TV2000.it@SD" tvg-name="TV2000" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_tv2000_2015.svg" tvg-chno="415" channel-id="415",TV2000
+#EXTINF:-1 tvg-id="TV2000.it@SD" tvg-name="TV2000" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png" tvg-chno="415" channel-id="415",TV2000
 rtp://239.186.66.108:10000
 #EXTREM:others
 #EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-name="2M Monde" tvg-logo="http://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M MONDE
@@ -928,7 +928,7 @@ rtp://239.186.66.149:10000
 rtp://239.186.64.197:10000
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es@SD" tvg-name="Televisión de Galicia" tvg-logo="http://static.epg.best/es/TVGalicia.es.png" tvg-chno="468" channel-id="468",Galicia
 rtp://239.186.64.187:10000
-#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-name="TVE Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" tvg-chno="469" channel-id="469",tve international
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-name="TVE Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/960px-Logo_TVE-Internacional.svg.png" tvg-chno="469" channel-id="469",tve international
 rtp://239.186.64.54:10000
 #EXTINF:-1 tvg-id="RecordTVEuropa.pt@SD" tvg-name="Record TV" tvg-logo="http://static.epg.best/br/RecordTV.br.png" tvg-chno="470" channel-id="470",Record Int. EU
 rtp://239.186.64.83:10000

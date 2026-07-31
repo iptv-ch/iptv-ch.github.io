@@ -63,19 +63,19 @@ rtp://239.186.70.102:10000
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://static.epg.best/ch/latele.ch.png" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
-#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://static.epg.best/ch/TeleBielingue.ch.png" tvg-chno="303" channel-id="303",TeleBielingue HD
+#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png" tvg-chno="303" channel-id="303",TeleBielingue HD
 rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD" tvg-name="Léman Bleu Télévision" tvg-logo="https://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="76" channel-id="76",leman bleu HD
 rtp://239.186.70.39:10000
-#EXTINF:-1 tvg-id="RougeTV.ch@SD" tvg-name="CARAC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/74/CARAC1_logo_2023.svg" tvg-chno="84" channel-id="84",carac1 HD (ex rouge TV HD)
+#EXTINF:-1 tvg-id="RougeTV.ch@SD" tvg-name="CARAC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/960px-CARAC1_logo_2023.svg.png" tvg-chno="84" channel-id="84",carac1 HD (ex rouge TV HD)
 rtp://239.186.68.253:10000
-#EXTINF:-1 tvg-id="OneTV.ch@SD" tvg-name="CARAC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e8/CARAC2_logo_2023.svg" tvg-chno="83" channel-id="83",carac2 HD (ex one tv HD)
+#EXTINF:-1 tvg-id="OneTV.ch@SD" tvg-name="CARAC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/CARAC2_logo_2023.svg/960px-CARAC2_logo_2023.svg.png" tvg-chno="83" channel-id="83",carac2 HD (ex one tv HD)
 rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="LFMTV.ch@SD" tvg-name="CARAC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/CARAC3_logo_2023.svg" tvg-chno="77" channel-id="77",carac3 HD (ex lfm TV HD)
+#EXTINF:-1 tvg-id="LFMTV.ch@SD" tvg-name="CARAC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CARAC3_logo_2023.svg/960px-CARAC3_logo_2023.svg.png" tvg-chno="77" channel-id="77",carac3 HD (ex lfm TV HD)
 rtp://239.186.70.11:10000
-#EXTINF:-1 tvg-id="TVSuissePlus.ch@SD" tvg-name="CARAC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/02/CARAC4_logo_2023.svg" tvg-chno="79" channel-id="79",carac4 HD (ex TV SUISSE PLUS HD)
+#EXTINF:-1 tvg-id="TVSuissePlus.ch@SD" tvg-name="CARAC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CARAC4_logo_2023.svg/960px-CARAC4_logo_2023.svg.png" tvg-chno="79" channel-id="79",carac4 HD (ex TV SUISSE PLUS HD)
 rtp://239.186.70.104:10000
-#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/CARAC5_logo_2025.svg" tvg-chno="74" channel-id="74",carac5 HD (ex TeleSwizz HD)
+#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/CARAC5_logo_2025.svg/960px-CARAC5_logo_2025.svg.png" tvg-chno="74" channel-id="74",carac5 HD (ex TeleSwizz HD)
 rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-chno="80" channel-id="80",tvm3 HD
 rtp://239.186.70.21:10000
@@ -702,7 +702,7 @@ rtp://239.186.84.96:10000
 rtp://239.186.84.151:10000
 #EXTINF:-1 tvg-id="EpicDrama.uk@Sweden" tvg-name="Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg" tvg-chno="" channel-id="",EPIC DRAMA HD (bul)
 rtp://239.186.70.99:10000
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/FreeDOMUAlogo.svg",YKPAÏHA 24 / FREEDOM UA (ukr)
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FreeDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",YKPAÏHA 24 / FREEDOM UA (ukr)
 rtp://239.186.74.98:10000
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV" tvg-logo="https://i.imgur.com/xNatV8K.png",Espreso TV HD (ukr)
 rtp://239.186.84.176:10000
