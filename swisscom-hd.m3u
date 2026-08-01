@@ -124,7 +124,7 @@ rtp://239.186.68.153:10000
 rtp://239.186.68.158:10000
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="CBeebies" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="94" channel-id="94",BBC CBeebies HD / BBC FOUR HD
 rtp://239.186.68.152:10000
-#EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC NEWS (UK) HD
+#EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-name="BBC News" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC NEWS (UK) HD
 rtp://239.186.68.160:10000
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC World News" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="95" channel-id="95",BBC NEWS (Europe) HD
 rtp://239.186.68.214:10000
@@ -768,7 +768,7 @@ rtp://239.186.84.149:10000
 rtp://239.186.84.154:10000
 #EXTINF:-1 tvg-id="RTSH24.al@SD" tvg-name="RTSH 24" tvg-logo="https://i.imgur.com/H6tCoGW.png",RTSH24 HD (alb)
 rtp://239.186.84.155:10000
-#EXTINF:-1 ,nikceabtv HD (ukr)
+#EXTINF:-1 tvg-id="PixelTV.ua@SD" tvg-name="Pixel TV" tvg-logo="https://i.imgur.com/ECro8Ah.png",Піксель TV HD (ukr)
 rtp://239.186.84.161:10000
 #EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-name="Enter-Film" tvg-logo="https://i.imgur.com/wQbiGs6.png",ENTER FILM HD (ukr)
 rtp://239.186.84.163:10000
