@@ -95,17 +95,17 @@ rtp://239.186.68.244:10000
 rtp://239.186.74.97:10000
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-name="TF1 Séries Films" tvg-logo="https://static.epg.best/fr/TF1SeriesFilms.fr.png" tvg-chno="25" channel-id="25",TF1 Series Films HD
 rtp://239.186.68.133:10000
-#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-name="RMC Story" tvg-logo="https://static.epg.best/fr/rmclife.fr.png" tvg-chno="27" channel-id="27",RMC Life HD
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-name="RMC Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RMC_Life_logo_2025.svg/330px-RMC_Life_logo_2025.svg.png" tvg-chno="27" channel-id="27",RMC Life HD
 rtp://239.186.68.131:10000
 #EXTINF:-1 tvg-id="AB3.be@SD" tvg-name="AB 3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="35" channel-id="35",AB3 CH
 rtp://239.186.66.229:10000
-#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-name="RMC Découverte" tvg-logo="https://static.epg.best/fr/RMCdecouverte.fr.png" tvg-chno="26" channel-id="26",RMC Decouvertes HD
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-name="RMC Découverte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/RMC_D%C3%A9couverte_logo_2025.svg/330px-RMC_D%C3%A9couverte_logo_2025.svg.png" tvg-chno="26" channel-id="26",RMC Decouvertes HD
 rtp://239.186.68.130:10000
-#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-name="RMC Story" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" tvg-chno="22" channel-id="22",RMC Story HD
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-name="RMC Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RMC_Story_2025.svg/330px-RMC_Story_2025.svg.png" tvg-chno="22" channel-id="22",RMC Story HD
 rtp://239.186.68.135:10000
 #EXTINF:-1 tvg-id="LEquipe.fr@SD" tvg-name="L'Equipe" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="23" channel-id="23",La chaine L'EQUIPE HD
 rtp://239.186.68.132:10000
-#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-name="TV Monaco" tvg-logo="https://static.epg.best/fr/tvmonaco.fr.png" tvg-chno="" channel-id="",TV Monaco HD
+#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-name="TV Monaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" tvg-chno="" channel-id="",TV Monaco HD
 rtp://239.186.68.167:10000
 #EXTINF:-1 tvg-id="T18.fr@HD" tvg-name="T18" tvg-logo="https://static.epg.best/fr/t18.fr.png" tvg-chno="" channel-id="",T18 HD
 rtp://239.186.70.24:10000
