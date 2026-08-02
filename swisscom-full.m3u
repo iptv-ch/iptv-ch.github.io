@@ -315,15 +315,15 @@ rtp://239.186.66.58:10000
 rtp://239.186.66.126:10000
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
 rtp://239.186.68.140:10000
-#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="http://static.epg.best/uk/ITV1Anglia.uk.png" tvg-chno="159" channel-id="159",itv
+#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-chno="159" channel-id="159",itv
 rtp://239.186.64.169:10000
-#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="http://static.epg.best/uk/ITV1Anglia.uk.png" tvg-chno="160" channel-id="160",itv HD
+#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-chno="160" channel-id="160",itv HD
 rtp://239.186.68.42:10000
-#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-name="ITV2" tvg-logo="http://static.epg.best/uk/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2
+#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-name="ITV2" tvg-logo="https://i.imgur.com/2BpUK0W.png" tvg-chno="161" channel-id="161",itv2
 rtp://239.186.64.170:10000
-#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-name="ITV3" tvg-logo="http://static.epg.best/uk/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3
+#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-name="ITV3" tvg-logo="https://i.imgur.com/JuyM2z5.png" tvg-chno="162" channel-id="162",itv3
 rtp://239.186.64.180:10000
-#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="http://static.epg.best/uk/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
+#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="https://i.imgur.com/DYI4IA2.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
 #EXTINF:-1 tvg-id="ITVBe.uk@SD" tvg-name="ITVBe" tvg-logo="http://static.epg.best/uk/ITVBe.uk.png" tvg-chno="164" channel-id="164",itv Be.
 rtp://239.186.74.14:10000

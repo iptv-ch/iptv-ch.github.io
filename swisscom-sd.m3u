@@ -132,13 +132,13 @@ rtp://239.186.64.184:10000
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://static.epg.best/il/i24news.png" tvg-chno="157" channel-id="157",i24 NEWS E
 rtp://239.186.66.126:10000
-#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" tvg-chno="159" channel-id="159",itv1
+#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-chno="159" channel-id="159",itv1
 rtp://239.186.64.169:10000
-#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-name="ITV2" tvg-logo="https://static.epg.best/gb/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2
+#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-name="ITV2" tvg-logo="https://i.imgur.com/2BpUK0W.png" tvg-chno="161" channel-id="161",itv2
 rtp://239.186.64.170:10000
-#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-name="ITV3" tvg-logo="https://static.epg.best/gb/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3
+#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-name="ITV3" tvg-logo="https://i.imgur.com/JuyM2z5.png" tvg-chno="162" channel-id="162",itv3
 rtp://239.186.64.180:10000
-#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4
+#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="https://i.imgur.com/DYI4IA2.png" tvg-chno="163" channel-id="163",itv4
 rtp://239.186.64.171:10000
 #EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More 4" tvg-logo="https://static.epg.best/gb/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
@@ -522,7 +522,7 @@ rtp://239.186.66.85:10000
 rtp://239.186.64.193:10000
 #EXTINF:-1 tvg-id="ERTWorld.gr@SD" tvg-name="ERT Cosmos" tvg-logo="https://static.epg.best/gr/ERTWorld.gr.png" tvg-chno="444" channel-id="444",ERT world
 rtp://239.186.66.227:10000
-#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" tvg-chno="446" channel-id="446",HRT1
+#EXTINF:-1 tvg-id="HRT1.hr@SD" tvg-name="HRT 1" tvg-logo="https://i.imgur.com/lDSctzX.png" tvg-chno="446" channel-id="446",HRT1
 rtp://239.186.66.125:10000
 #EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="https://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
 rtp://239.186.66.141:10000

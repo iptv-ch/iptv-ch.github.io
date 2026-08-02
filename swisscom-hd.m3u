@@ -158,15 +158,15 @@ rtp://239.186.70.151:10000
 rtp://239.186.66.58:10000
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-name="Digi 24" tvg-logo="https://static.epg.best/uk/i24.il.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
 rtp://239.186.68.140:10000
-#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://static.epg.best/gb/ITV1.uk.png" tvg-chno="160" channel-id="160",itv1 HD
+#EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-chno="160" channel-id="160",itv1 HD
 rtp://239.186.68.42:10000
-#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-name="ITV2" tvg-logo="https://static.epg.best/gb/ITV2.uk.png" tvg-chno="161" channel-id="161",itv2 HD
+#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-name="ITV2" tvg-logo="https://i.imgur.com/2BpUK0W.png" tvg-chno="161" channel-id="161",itv2 HD
 rtp://239.186.84.16:10000
-#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-name="ITV3" tvg-logo="https://static.epg.best/gb/ITV3.uk.png" tvg-chno="162" channel-id="162",itv3 HD
+#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-name="ITV3" tvg-logo="https://i.imgur.com/JuyM2z5.png" tvg-chno="162" channel-id="162",itv3 HD
 rtp://239.186.70.189:10000
-#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="https://static.epg.best/gb/ITV4.uk.png" tvg-chno="163" channel-id="163",itv4 HD
+#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4" tvg-logo="https://i.imgur.com/DYI4IA2.png" tvg-chno="163" channel-id="163",itv4 HD
 rtp://239.186.70.150:10000
-#EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-name="ITV Quiz" tvg-logo="https://static.epg.best/gb/ITVQuiz.uk.png" tvg-chno="164" channel-id="164",itvQuiz HD
+#EXTINF:-1 tvg-id="ITVQuiz.uk@SD" tvg-name="ITV Quiz" tvg-logo="https://epg.staticdomains.app/logos/ITVQuiz.uk.png" tvg-chno="164" channel-id="164",itvQuiz HD
 rtp://239.186.70.245:10000
 #EXTINF:-1 tvg-id="More4.uk@SD" tvg-name="More 4" tvg-logo="https://static.epg.best/uk/More4.uk.png" tvg-chno="167" channel-id="167",More4
 rtp://239.186.64.185:10000
