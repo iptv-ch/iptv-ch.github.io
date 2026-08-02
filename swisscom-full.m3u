@@ -66,7 +66,7 @@ rtp://239.186.68.18:10000
 rtp://239.186.66.229:10000
 #EXTINF:-1 tvg-id="AB3.be@SD" tvg-name="AB 3" tvg-logo="http://static.epg.best/fr/AB3.fr.png" tvg-chno="31" channel-id="31",AB3 CH HD
 rtp://239.186.68.33:10000
-#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="http://static.epg.best/fr/OCSMax.fr.png" tvg-chno="1" channel-id="1",OCS Max FR
+#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-chno="1" channel-id="1",OCS Max FR
 rtp://233.21.50.59:1234
 #EXTINF:-1 tvg-id="OCSCity" tvg-name="OCS City FR" tvg-logo="http://static.epg.best/fr/OCSCity.fr.png" tvg-chno="2" channel-id="2",OCS City FR
 rtp://233.21.50.60:1234
@@ -112,7 +112,7 @@ rtp://233.32.39.164:1234
 rtp://239.186.64.144:10000
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr@SD" tvg-name="TV8 Mont Blanc" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="29" channel-id="29",8Mont-Blanc HD
 rtp://239.186.70.106:10000
-#EXTINF:-1 tvg-id="TeleSwizz.ch@SD" tvg-name="CARAC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/CARAC5_logo_2025.svg/960px-CARAC5_logo_2025.svg.png" tvg-chno="34" channel-id="34",TeleSwiss HD
+#EXTINF:-1 tvg-id="Carac5.ch@SD" tvg-name="CARAC 5" tvg-logo="https://i.imgur.com/giDfku4.png" tvg-chno="34" channel-id="34",TeleSwiss HD
 rtp://239.186.68.208:10000
 #EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-name="BFM Business" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="35" channel-id="35",BFM BUSINESS
 rtp://239.186.64.146:10000
@@ -126,9 +126,9 @@ rtp://239.186.68.196:10000
 rtp://239.186.66.239:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="40" channel-id="40",TV Suisse plus HD
 rtp://239.186.70.104:10000
-#EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Noir_RGB.png" tvg-chno="42" channel-id="42",Canal9
+#EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://i.imgur.com/TNciMh2.png" tvg-chno="42" channel-id="42",Canal9
 rtp://239.186.64.108:10000
-#EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Noir_RGB.png" tvg-chno="43" channel-id="43",Canal9 HD
+#EXTINF:-1 tvg-id="Canal9.ch@SD" tvg-name="Canal 9" tvg-logo="https://i.imgur.com/TNciMh2.png" tvg-chno="43" channel-id="43",Canal9 HD
 rtp://239.186.68.144:10000
 #EXTINF:-1 tvg-id="CanalAlphaJU.ch@SD" tvg-name="Canal Alpha JU" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="44" channel-id="44",Canal Alpha JU
 rtp://239.186.64.106:10000
@@ -172,15 +172,15 @@ rtp://239.186.70.30:10000
 rtp://239.186.64.148:10000
 #EXTINF:-1 tvg-id="GrandGeneveTV.fr@SD" tvg-name="ici TV Romandie" tvg-logo="https://i.imgur.com/44oyrTB.png" tvg-chno="71" channel-id="71",Grand Geneve TV HD
 rtp://239.186.70.133:10000
-#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_La_T%C3%A9l%C3%A9_Vaud_Fribourg.png" tvg-chno="72" channel-id="72",LA TELE
+#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://i.imgur.com/DdCfl4n.png" tvg-chno="72" channel-id="72",LA TELE
 rtp://239.186.64.104:10000
-#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_La_T%C3%A9l%C3%A9_Vaud_Fribourg.png" tvg-chno="73" channel-id="73",LA TELE HD
+#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://i.imgur.com/DdCfl4n.png" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
-#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_La_T%C3%A9l%C3%A9_Vaud_Fribourg.png" tvg-chno="73" channel-id="73",LA TELE FR HD
+#EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://i.imgur.com/DdCfl4n.png" tvg-chno="73" channel-id="73",LA TELE FR HD
 rtp://239.186.70.161:10000
-#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="La Chaine Info - LCI" tvg-logo="http://static.epg.best/fr/LCI.fr.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
+#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="La Chaine Info - LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-chno="74" channel-id="74",LCI La Chaine Info
 rtp://239.186.66.94:10000
-#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="La Chaine Info - LCI" tvg-logo="http://static.epg.best/fr/LCI.fr.png" tvg-chno="75" channel-id="75",LCI HD La Chaine Info HD
+#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-name="La Chaine Info - LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-chno="75" channel-id="75",LCI HD La Chaine Info HD
 rtp://239.186.66.94:10000
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD" tvg-name="Léman Bleu Télévision" tvg-logo="http://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="76" channel-id="76",lemanbleu
 rtp://239.186.64.89:10000
@@ -190,17 +190,17 @@ rtp://239.186.70.39:10000
 rtp://239.186.70.11:10000
 #EXTINF:-1 tvg-id="One.de@SD" tvg-name="One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/960px-One_2022.svg.png" tvg-chno="87" channel-id="79",One tv CH HD
 rtp://239.186.70.12:10000
-#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Maxtv.jpg" tvg-chno="81" channel-id="81",maxtv dieu tv
+#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-chno="81" channel-id="81",maxtv dieu tv
 rtp://239.186.64.102:10000
-#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Maxtv.jpg" tvg-chno="82" channel-id="82",maxtv dieu tv HD
+#EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-name="Max TV" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-chno="82" channel-id="82",maxtv dieu tv HD
 rtp://239.186.68.199:10000
 #EXTINF:-1 tvg-id="NRTV.ch@SD" tvg-name="NRTV" tvg-logo="https://i.imgur.com/sXiFPfk.png" tvg-chno="85" channel-id="85",nrtv
 rtp://239.186.66.198:10000
 #EXTINF:-1 tvg-id="NRTV.ch@SD" tvg-name="NRTV" tvg-logo="https://i.imgur.com/sXiFPfk.png" tvg-chno="86" channel-id="86",nrtv HD
 rtp://239.186.70.66:10000
-#EXTINF:-1 tvg-id="RougeTV" tvg-name="Rouge TV CH" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",rougeTV
+#EXTINF:-1 tvg-id="Carac1.ch@SD" tvg-name="CARAC 1" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="88" channel-id="88",carac1
 rtp://239.186.64.145:10000
-#EXTINF:-1 tvg-id="RougeTV" tvg-name="Rouge TV CH" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="89" channel-id="89",rougeTV HD
+#EXTINF:-1 tvg-id="Carac1.ch@SD" tvg-name="CARAC 1" tvg-logo="http://static.epg.best/ch/RougeTV.ch.png" tvg-chno="89" channel-id="89",carac1 HD
 rtp://239.186.68.253:10000
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-name="RTL9" tvg-logo="https://i.imgur.com/nFqjVNW.png" tvg-chno="90" channel-id="90",RTL9 CH
 rtp://239.186.64.155:10000
@@ -214,15 +214,15 @@ rtp://239.186.70.155:10000
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://i.imgur.com/A5iwahB.png" tvg-chno="95" channel-id="95",blue Zoom F HD
 rtp://239.186.68.244:10000
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" tvg-chno="96" channel-id="96",TV5MONDE EUROPE
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-chno="96" channel-id="96",TV5MONDE EUROPE
 rtp://239.186.64.71:10000
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" tvg-chno="97" channel-id="97",TV5MONDE EUROPE HD
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-chno="97" channel-id="97",TV5MONDE EUROPE HD
 rtp://239.186.84.54:10000
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" tvg-chno="98" channel-id="98",TV5MONDE FRANCE BELGIQUE SUISSE
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5Monde France Belgium Switzerland Monaco" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-chno="98" channel-id="98",TV5MONDE FRANCE BELGIQUE SUISSE
 rtp://239.186.64.150:10000
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5 Monde FBSM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" tvg-chno="99" channel-id="99",TV5MONDE FRANCE BELGIQUE SUISSE HD
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-name="TV5Monde France Belgium Switzerland Monaco" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-chno="99" channel-id="99",TV5MONDE FRANCE BELGIQUE SUISSE HD
 rtp://239.186.70.41:10000
-#EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-chno="100" channel-id="100",tvm3
+#EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-chno="100" channel-id="100",tvm3
 rtp://239.186.64.98:10000
 #EXTINF:-1 tvg-id="TVM3.ch@SD" tvg-name="TVM3" tvg-logo="https://i.imgur.com/zNJlFMg.png" tvg-chno="101" channel-id="101",tvm3 HD
 rtp://239.186.70.21:10000
@@ -241,9 +241,9 @@ rtp://239.186.68.43:10000
 rtp://239.186.64.165:10000
 #EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="http://static.epg.best/uk/BBC2.uk.png" tvg-chno="121" channel-id="121",BBC Two HD
 rtp://239.186.68.41:10000
-#EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="http://static.epg.best/uk/CBBC.uk.png" tvg-chno="122" channel-id="122",BBC CBBC
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/5xvRzBrt/BBC3CBBC.png" tvg-chno="122" channel-id="122",BBC CBBC
 rtp://239.186.64.166:10000
-#EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="http://static.epg.best/uk/CBBC.uk.png" tvg-chno="123" channel-id="123",BBC CBBC HD
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/5xvRzBrt/BBC3CBBC.png" tvg-chno="123" channel-id="123",BBC CBBC HD
 rtp://239.186.68.153:10000
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="http://static.epg.best/uk/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC Four/ BBC CBeebies
 rtp://239.186.64.52:10000
@@ -253,11 +253,11 @@ rtp://239.186.68.158:10000
 rtp://239.186.64.113:10000
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="CBeebies" tvg-logo="http://static.epg.best/uk/CBeebies.uk.png" tvg-chno="127" channel-id="127",BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
-#EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-name="BBC News" tvg-logo="http://static.epg.best/uk/BBCNews.uk.png" tvg-chno="128" channel-id="128",BBC News HD
+#EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" tvg-chno="128" channel-id="128",BBC News HD
 rtp://239.186.68.160:10000
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC World News" tvg-logo="http://static.epg.best/uk/BBCWorldNews.uk.png" tvg-chno="129" channel-id="129",BBC World News
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" tvg-chno="129" channel-id="129",BBC World News
 rtp://239.186.64.176:10000
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC World News" tvg-logo="http://static.epg.best/uk/BBCWorldNews.uk.png" tvg-chno="130" channel-id="130",BBC World News HD
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" tvg-chno="130" channel-id="130",BBC World News HD
 rtp://239.186.68.214:10000
 #EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-name="Bloomberg TV" tvg-logo="http://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="131" channel-id="131",Bloomberg TV
 rtp://239.186.64.177:10000
