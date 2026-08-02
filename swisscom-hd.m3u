@@ -774,7 +774,7 @@ rtp://239.186.84.161:10000
 rtp://239.186.84.163:10000
 #EXTINF:-1 tvg-id="NovaTV.ba@SD" tvg-name="Nova BH" tvg-logo="https://i.imgur.com/wTZxn8F.png",nova bh HD (ser)
 rtp://239.186.84.167:10000
-#EXTINF:-1 ,BOYAH HD (ell)
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-name="Hellenic Parliament TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4d/Voulitv-logo.svg/960px-Voulitv-logo.svg.png",ΒΟΥΛΗ TV HD (ell)
 rtp://239.186.84.170:10000
 #EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI (rus)
 rtp://239.186.74.2:10000
