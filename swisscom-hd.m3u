@@ -142,7 +142,7 @@ rtp://239.186.66.116:10000
 rtp://239.186.70.224:10000
 #EXTINF:-1 tvg-id="CNNInternational.us@MENA" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="107" channel-id="107",CNN International HD
 rtp://239.186.70.23:10000
-#EXTINF:-1 tvg-id="UDrama.uk@SD" tvg-name="U&Drama" tvg-logo="https://static.epg.best/uk/UandDrama.uk.png" tvg-chno="108" channel-id="108",U&DRAMA
+#EXTINF:-1 tvg-id="UDrama.uk@SD" tvg-name="U&Drama" tvg-logo="https://i.imgur.com/cGBJx59.png" tvg-chno="108" channel-id="108",U&DRAMA
 rtp://239.186.66.140:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="109" channel-id="109",DW English HD
 rtp://239.186.70.249:10000
@@ -180,7 +180,7 @@ rtp://239.186.66.242:10000
 rtp://239.186.66.243:10000
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://static.epg.best/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",ALJAZEERA E HD
 rtp://239.186.68.171:10000
-#EXTINF:-1 tvg-id="UDave.uk@SD" tvg-name="U&Dave" tvg-logo="https://static.epg.best/uk/uanddave.uk.png" tvg-chno="120" channel-id="120",U&Dave
+#EXTINF:-1 tvg-id="UDave.uk@SD" tvg-name="U&Dave" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png" tvg-chno="120" channel-id="120",U&Dave
 rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="Quest.uk@SD" tvg-name="Quest" tvg-logo="https://static.epg.best/uk/quest.uk.png" tvg-chno="122" channel-id="122",Quest HD
 rtp://@239.186.84.2:10000
@@ -194,7 +194,7 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.84:10000
 #EXTINF:-1 tvg-id="DMAX.uk@UK" tvg-name="DMAX UK" tvg-logo="https://static.epg.best/uk/DiscoveryDMAX.uk.png" tvg-chno="" channel-id="",DMAX UK
 rtp://239.186.74.74:10000
-#EXTINF:-1 tvg-id="UYesterday.uk@SD" tvg-name="U&Yesterday" tvg-logo="https://static.epg.best/uk/UandYesterday.uk.png" tvg-chno="" channel-id="",U&Yesterday
+#EXTINF:-1 tvg-id="UYesterday.uk@SD" tvg-name="U&Yesterday" tvg-logo="https://i.imgur.com/r3pqSHl.png" tvg-chno="" channel-id="",U&Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4seven.uk@SD" tvg-name="4Seven" tvg-logo="https://static.epg.best/uk/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000

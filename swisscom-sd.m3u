@@ -116,7 +116,7 @@ rtp://239.186.64.167:10000
 rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DEUTSCHE WELLE En
 rtp://239.186.64.135:10000
-#EXTINF:-1 tvg-id="UDrama.uk@SD" tvg-name="U&Drama" tvg-logo="https://static.epg.best/uk/UandDrama.uk.png" tvg-chno="146" channel-id="146",U&DRAMA
+#EXTINF:-1 tvg-id="UDrama.uk@SD" tvg-name="U&Drama" tvg-logo="https://i.imgur.com/cGBJx59.png" tvg-chno="146" channel-id="146",U&DRAMA
 rtp://239.186.66.140:10000
 #EXTINF:-1 tvg-id="E4.uk@SD" tvg-name="E4" tvg-logo="https://static.epg.best/gb/E4.uk.png" tvg-chno="147" channel-id="147",E4
 rtp://239.186.64.53:10000
@@ -150,7 +150,7 @@ rtp://239.186.66.242:10000
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk@SD" tvg-name="PBS America" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America UK
 rtp://239.186.66.243:10000
-#EXTINF:-1 tvg-id="UDave.uk@SD" tvg-name="U&Dave" tvg-logo="https://static.epg.best/gb/Uanddave.uk.png" tvg-chno="" channel-id="",U&Dave
+#EXTINF:-1 tvg-id="UDave.uk@SD" tvg-name="U&Dave" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2306.png" tvg-chno="" channel-id="",U&Dave
 rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="5STAR.uk@SD" tvg-name="5Star" tvg-logo="https://static.epg.best/gb/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
@@ -160,7 +160,7 @@ rtp://239.186.74.88:10000
 rtp://239.186.74.74:10000
 #EXTINF:-1 tvg-id="5Action.uk@SD" tvg-name="5Action" tvg-logo="https://static.epg.best/gb/5ACTION.uk.png" tvg-chno="" channel-id="",5ACTION
 rtp://239.186.74.84:10000
-#EXTINF:-1 tvg-id="UYesterday.uk@SD" tvg-name="U&Yesterday" tvg-logo="https://static.epg.best/gb/UandYesterday.uk.png" tvg-chno="" channel-id="",U&Yesterday
+#EXTINF:-1 tvg-id="UYesterday.uk@SD" tvg-name="U&Yesterday" tvg-logo="https://i.imgur.com/r3pqSHl.png" tvg-chno="" channel-id="",U&Yesterday
 rtp://239.186.74.87:10000
 #EXTINF:-1 tvg-id="4seven.uk@SD" tvg-name="4Seven" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" tvg-chno="" channel-id="",Channel4 7
 rtp://239.186.74.93:10000
