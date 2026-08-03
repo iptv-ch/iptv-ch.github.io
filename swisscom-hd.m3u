@@ -140,8 +140,8 @@ rtp://239.186.68.40:10000
 rtp://239.186.66.116:10000
 #EXTINF:-1 tvg-id="CNBCEurope.uk@SD" tvg-name="CNBC UK" tvg-logo="https://static.epg.best/uk/CNBC.uk.png" tvg-chno="105" channel-id="105",CNBC UK HD
 rtp://239.186.70.224:10000
-#EXTINF:-1 tvg-id="CNNInternational.us@MENA" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="107" channel-id="107",CNN International HD
-rtp://239.186.70.23:10000
+#EXTINF:-1 tvg-id="CNNInternational.us@MENA" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="107" channel-id="107",CNN International
+rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="UDrama.uk@SD" tvg-name="U&Drama" tvg-logo="https://i.imgur.com/cGBJx59.png" tvg-chno="108" channel-id="108",U&DRAMA
 rtp://239.186.66.140:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DeutscheWelleEn DE" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="109" channel-id="109",DW English HD
