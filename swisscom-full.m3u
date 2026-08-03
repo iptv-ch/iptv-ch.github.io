@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
 #EXTREM:french
-#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/500px-RTS_1_Logo_2023.svg.png" tvg-chno="91" channel-id="91",RTS Un
+#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://i.ibb.co/W4WnxPM1/RTS1-ch.png" tvg-chno="91" channel-id="91",RTS Un
 rtp://239.186.64.5:10000
-#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/500px-RTS_1_Logo_2023.svg.png" tvg-chno="92" channel-id="92",RTS Un HD
+#EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://i.ibb.co/W4WnxPM1/RTS1-ch.png" tvg-chno="92" channel-id="92",RTS Un HD
 rtp://239.186.68.3:10000
-#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-name="RTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png" tvg-chno="93" channel-id="93",RTS Deux
+#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-name="RTS 2" tvg-logo="https://i.ibb.co/m5wRwv4n/RTS2-ch.png" tvg-chno="93" channel-id="93",RTS Deux
 rtp://239.186.64.6:10000
-#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-name="RTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/500px-RTS_2_Logo_2023.svg.png" tvg-chno="94" channel-id="94",RTS Deux HD
+#EXTINF:-1 tvg-id="RTS2.ch@SD" tvg-name="RTS 2" tvg-logo="https://i.ibb.co/m5wRwv4n/RTS2-ch.png" tvg-chno="94" channel-id="94",RTS Deux HD
 rtp://239.186.68.4:10000
 #EXTINF:-1 tvg-id="TF1Switzerland.ch@SD" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="99" channel-id="99",TF1 CH
 rtp://239.186.64.35:10000
@@ -160,9 +160,9 @@ rtp://239.186.70.125:10000
 rtp://239.186.66.23:10000
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="65" channel-id="65",gulli HD
 rtp://239.186.70.29:10000
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-chno="66" channel-id="66",i24 NEWS F
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://i.ibb.co/BKjhDWRs/i24-NEWSFrench-il.png" tvg-chno="66" channel-id="66",i24 NEWS F
 rtp://239.186.66.174:10000
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://i.ibb.co/BKjhDWRs/i24-NEWSFrench-il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-name="CNEWS" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="68" channel-id="68",CNEWS
 rtp://239.186.66.25:10000
@@ -233,25 +233,25 @@ rtp://239.186.70.132:10000
 rtp://239.186.64.173:10000
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="http://static.epg.best/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",Al Jazeera E HD
 rtp://239.186.68.171:10000
-#EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="118" channel-id="118",BBC One
+#EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="https://i.ibb.co/C31C3grs/BBCOne-uk.png" tvg-chno="118" channel-id="118",BBC One
 rtp://239.186.64.51:10000
-#EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="http://static.epg.best/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
+#EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="https://i.ibb.co/C31C3grs/BBCOne-uk.png" tvg-chno="119" channel-id="119",BBC One HD
 rtp://239.186.68.43:10000
-#EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="http://static.epg.best/uk/BBC2.uk.png" tvg-chno="120" channel-id="120",BBC Two
+#EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/HfvP9Fr8/BBCTwo-uk.png" tvg-chno="120" channel-id="120",BBC Two
 rtp://239.186.64.165:10000
-#EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="http://static.epg.best/uk/BBC2.uk.png" tvg-chno="121" channel-id="121",BBC Two HD
+#EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/HfvP9Fr8/BBCTwo-uk.png" tvg-chno="121" channel-id="121",BBC Two HD
 rtp://239.186.68.41:10000
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/5xvRzBrt/BBC3CBBC.png" tvg-chno="122" channel-id="122",BBC CBBC
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="122" channel-id="122",BBC CBBC
 rtp://239.186.64.166:10000
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/5xvRzBrt/BBC3CBBC.png" tvg-chno="123" channel-id="123",BBC CBBC HD
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="123" channel-id="123",BBC CBBC HD
 rtp://239.186.68.153:10000
-#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="http://static.epg.best/uk/BBC4.uk.png" tvg-chno="124" channel-id="124",BBC Four/ BBC CBeebies
+#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="https://i.ibb.co/QvrfqPWj/BBCFour-uk.png" tvg-chno="124" channel-id="124",BBC Four/ BBC CBeebies
 rtp://239.186.64.52:10000
-#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="http://static.epg.best/uk/BBC4.uk.png" tvg-chno="125" channel-id="125",BBC Four HD / BBC CBeebies HD
+#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="https://i.ibb.co/QvrfqPWj/BBCFour-uk.png" tvg-chno="125" channel-id="125",BBC Four HD / BBC CBeebies HD
 rtp://239.186.68.158:10000
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="CBeebies" tvg-logo="http://static.epg.best/uk/CBeebies.uk.png" tvg-chno="126" channel-id="126",BBC CBeebies / BBC Four
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/XxgrxCvG/CBeebies-uk.png" tvg-chno="126" channel-id="126",BBC CBeebies / BBC Four
 rtp://239.186.64.113:10000
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="CBeebies" tvg-logo="http://static.epg.best/uk/CBeebies.uk.png" tvg-chno="127" channel-id="127",BBC CBeebies HD / BBC Four HD
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/XxgrxCvG/CBeebies-uk.png" tvg-chno="127" channel-id="127",BBC CBeebies HD / BBC Four HD
 rtp://239.186.68.152:10000
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" tvg-chno="128" channel-id="128",BBC News HD
 rtp://239.186.68.160:10000
@@ -343,7 +343,7 @@ rtp://239.186.64.179:10000
 rtp://239.186.66.244:10000
 #EXTINF:-1 tvg-id="5USA.uk@SD" tvg-name="5USA" tvg-logo="http://static.epg.best/gb/FiveUSA.uk.png" tvg-chno="" channel-id="",5USA
 rtp://239.186.66.242:10000
-#EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-name="BBC Parliament" tvg-logo="http://static.epg.best/gb/BBCParliament.uk.png" tvg-chno="" channel-id="",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-name="BBC Parliament" tvg-logo="https://i.ibb.co/1tQw2W5b/BBCParliament-uk.png" tvg-chno="" channel-id="",BBC Parliament
 rtp://239.186.74.25:10000
 #EXTINF:-1 tvg-id="PBSAmerica.uk@SD" tvg-name="PBS America" tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" tvg-chno="" channel-id="",PBS America
 rtp://239.186.66.243:10000
@@ -598,9 +598,9 @@ rtp://239.186.64.22:10000
 rtp://239.186.64.60:10000
 #EXTINF:-1 tvg-id="TeleBarn.ch@SD" tvg-name="Tele Bärn" tvg-logo="http://static.epg.best/ch/TeleBaern.ch.png" tvg-chno="301" channel-id="301",TELE BAERN HD
 rtp://239.186.68.38:10000
-#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png" tvg-chno="302" channel-id="302",TeleBielingue
+#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://i.ibb.co/My2wQrxC/Tele-Bielingue-ch.png" tvg-chno="302" channel-id="302",TeleBielingue
 rtp://239.186.64.95:10000
-#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/960px-TeleBielingue_Logo.svg.png" tvg-chno="303" channel-id="303",TeleBielingue HD
+#EXTINF:-1 tvg-id="TeleBielingue.ch@SD" tvg-name="Tele Bielingue" tvg-logo="https://i.ibb.co/My2wQrxC/Tele-Bielingue-ch.png" tvg-chno="303" channel-id="303",TeleBielingue HD
 rtp://239.186.70.82:10000
 #EXTINF:-1 tvg-id="TeleD.ch@SD" tvg-name="Tele D" tvg-logo="https://i.imgur.com/f4ZW1vJ.png" tvg-chno="304" channel-id="304",TELE D HD
 rtp://239.186.68.217:10000
