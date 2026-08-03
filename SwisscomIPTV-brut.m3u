@@ -637,7 +637,7 @@ rtp://239.186.66.147:10000
 rtp://239.186.66.148:10000
 #EXTINF:-1,De Pelicula (spa)
 rtp://239.186.66.151:10000
-#EXTINF:-1,Telehit Music (spa)
+#EXTINF:-1,TELEHIT MUSICA (spa)
 rtp://239.186.66.152:10000
 #EXTINF:-1,tln tlnovelas (spa)
 rtp://239.186.66.153:10000
@@ -753,7 +753,7 @@ rtp://239.186.66.223:10000
 rtp://239.186.66.224:10000
 #EXTINF:-1,franceinfo
 rtp://239.186.66.225:10000
-#EXTINF:-1,ERT World
+#EXTINF:-1,ERT cosmos
 rtp://239.186.66.227:10000
 #EXTINF:-1,AB3 CH(fra)
 rtp://239.186.66.229:10000
@@ -785,9 +785,9 @@ rtp://239.186.66.245:10000
 rtp://239.186.66.247:10000
 #EXTINF:-1,SIC Noticias
 rtp://239.186.66.248:10000
-#EXTINF:-1,TVI Ficcao
+#EXTINF:-1,V+ TVI
 rtp://239.186.66.249:10000
-#EXTINF:-1,TVI internacional
+#EXTINF:-1,tvi internacional (por)
 rtp://239.186.66.250:10000
 #EXTINF:-1,Israel+
 rtp://239.186.66.251:10000
@@ -915,6 +915,8 @@ rtp://239.186.68.58:10000
 rtp://239.186.68.59:10000
 #EXTINF:-1,Warner TV Comedy HD (AC3 ger)
 rtp://239.186.68.60:10000
+#EXTINF:-1,De pelicula HD (esp)
+rtp://239.186.68.61:10000
 #EXTINF:-1,Discovery HD (deu)
 rtp://239.186.68.62:10000
 #EXTINF:-1,Nat Geo Wild HD (deu)
@@ -1277,7 +1279,7 @@ rtp://239.186.68.240:10000
 rtp://239.186.68.241:10000
 #EXTINF:-1,RTL9 CH HD
 rtp://239.186.68.242:10000
-#EXTINF:-1,TVI internacional HD
+#EXTINF:-1,TVI internacional HD (por)
 rtp://239.186.68.243:10000
 #EXTINF:-1,blue Zoom F HD (fre)
 rtp://239.186.68.244:10000
@@ -1295,7 +1297,7 @@ rtp://239.186.68.249:10000
 rtp://239.186.68.250:10000
 #EXTINF:-1,Hope Channel HD
 rtp://239.186.68.251:10000
-#EXTINF:-1,TeleTop HD (deu)
+#EXTINF:-1,Tele Top HD (deu)
 rtp://239.186.68.252:10000
 #EXTINF:-1,carac1 HD (ex Rouge TV HD)
 rtp://239.186.68.253:10000
@@ -1443,7 +1445,7 @@ rtp://239.186.70.70:10000
 rtp://239.186.70.71:10000
 #EXTINF:-1,Focus HD
 rtp://239.186.70.72:10000
-#EXTINF:-1 ,V+ TVI HD (por)
+#EXTINF:-1,V+ TVI HD (por)
 rtp://239.186.70.73:10000
 #EXTINF:-1,INPLUS HD (AC3 eng)
 rtp://239.186.70.75:10000
@@ -1455,7 +1457,7 @@ rtp://239.186.70.77:10000
 rtp://239.186.70.78:10000
 #EXTINF:-1,Antenna 3 HD (ita)
 rtp://239.186.70.79:10000
-#EXTINF:-1,ERT World HD
+#EXTINF:-1,ERT cosmos HD
 rtp://239.186.70.80:10000
 #EXTINF:-1,Crime District HD (fra)
 rtp://239.186.70.81:10000
