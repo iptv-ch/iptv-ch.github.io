@@ -639,6 +639,10 @@ rtp://239.186.70.169:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-name="RTP Mundo" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Mundo
 rtp://239.186.64.77:10000
+#EXTINF:-1,tvi internacional HD (por)
+rtp://239.186.68.243:10000
+#EXTINF:-1 ,V+ TVI HD (por)
+rtp://239.186.70.73:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="AragonTVInternacional.es@SD" tvg-name="Aragón TV Int" tvg-logo="https://static.epg.best/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int
 rtp://239.186.66.62:10000
@@ -654,6 +658,14 @@ rtp://239.186.68.178:10000
 rtp://239.186.84.19:10000
 #EXTINF:-1 ,cvi HD Cuba Visio Internacional
 rtp://239.186.84.146:10000
+#EXTINF:-1,De pelicula HD (esp)
+rtp://239.186.68.61:10000
+#EXTINF:-1,TELEHIT MUSICA HD (spa)
+rtp://239.186.68.141:10000
+#EXTINF:-1,tln tlnovelas (spa)
+rtp://239.186.68.182:10000
+#EXTINF:-1,las estrellas HD (spa)
+rtp://239.186.70.201:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-name="Euro D" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D HD
 rtp://239.186.84.138:10000
