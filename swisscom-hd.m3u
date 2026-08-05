@@ -59,7 +59,7 @@ rtp://239.186.70.148:10000
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://i.ibb.co/BKjhDWRs/i24-NEWSFrench-il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 tvg-id="" tvg-name="ici TV Romandie" tvg-logo="https://static.epg.best/ch/icitv.ch.png" tvg-chno="71" channel-id="71",ici tv HD
+#EXTINF:-1 tvg-id="" tvg-name="ici TV Romandie" tvg-logo="https://i.ibb.co/27QLdtPB/ici-tv-romandie.png" tvg-chno="71" channel-id="71",ici tv HD
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://i.imgur.com/DdCfl4n.png" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
@@ -639,9 +639,9 @@ rtp://239.186.70.169:10000
 rtp://239.186.68.246:10000
 #EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-name="RTP Mundo" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" tvg-chno="472" channel-id="472",RTP Mundo
 rtp://239.186.64.77:10000
-#EXTINF:-1,tvi internacional HD (por)
+#EXTINF:-1 tvg-id="TVIInternacional.pt@SD" tvg-name="TVI Internacional" tvg-logo="https://i.imgur.com/l1cun8s.png",tvi internacional HD (por)
 rtp://239.186.68.243:10000
-#EXTINF:-1 ,V+ TVI HD (por)
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-name="V+ TVI" tvg-logo="https://i.ibb.co/mCyz2vnT/VPlus-TVI-pt.png",V+ TVI HD (por)
 rtp://239.186.70.73:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="AragonTVInternacional.es@SD" tvg-name="Aragón TV Int" tvg-logo="https://static.epg.best/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int
@@ -656,15 +656,15 @@ rtp://239.186.84.33:10000
 rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-name="teleSUR" tvg-logo="https://static.epg.best/es/Telesur.es.png" tvg-chno="" channel-id="",teleSUR HD (spa)
 rtp://239.186.84.19:10000
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-name="Cubavisión Int.",CVI Cubavisión Internacional
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" tvg-name="Cubavisión Int." tvg-logo="https://i.imgur.com/0ZHm9f6.png",CVI Cubavisión Internacional
 rtp://239.186.84.146:10000
-#EXTINF:-1,De pelicula HD (esp)
+#EXTINF:-1 tvg-id="DePeliculaEuropa.mx@SD" tvg-name="De Pelicula Europa" tvg-logo="https://i.imgur.com/BIYymcb.png",De pelicula HD (esp)
 rtp://239.186.68.61:10000
-#EXTINF:-1,TELEHIT MUSICA HD (spa)
+#EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-name="Telehit Musica" tvg-logo="https://i.imgur.com/CofYjWh.png",TELEHIT MUSICA HD (spa)
 rtp://239.186.68.141:10000
-#EXTINF:-1,tln tlnovelas (spa)
+#EXTINF:-1 tvg-id="TlnovelasEuropa.mx@SD" tvg-name="Tlnovelas Europa" tvg-logo="https://i.imgur.com/8AKW7Uu.png",tln tlnovelas (spa)
 rtp://239.186.68.182:10000
-#EXTINF:-1,las estrellas HD (spa)
+#EXTINF:-1 tvg-id="LasEstrellasEuropa.mx@SD" tvg-name="Las Estrellas Europa" tvg-logo="https://i.imgur.com/g5ShxZ7.png",las estrellas HD (spa)
 rtp://239.186.70.201:10000
 #EXTREM:turkish
 #EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-name="Euro D" tvg-logo="https://static.epg.best/tr/EuroD.tr.png" tvg-chno="424" channel-id="424",Euro D HD
