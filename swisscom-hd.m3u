@@ -455,7 +455,7 @@ rtp://239.186.74.148:10000
 rtp://239.186.74.150:10000
 #EXTINF:-1 tvg-id="TVRheintal.ch@SD" tvg-name="TV Rheintal" tvg-logo="https://i.imgur.com/8PY1o81.jpg",TV RT HD (deu) TV   TV Rheintal HD
 rtp://239.186.84.171:10000
-#EXTINF:-1 tvg-id="" tvg-name="Immaculata TV",I-TV HD
+#EXTINF:-1 tvg-id="ImmaculataTV.ch,SD" tvg-name="Immaculata TV" tvg-logo="https://i.imgur.com/8WsYVpt.png",I-TV HD
 rtp://239.186.70.91:10000
 #EXTINF:-1 tvg-id="" tvg-name="Just.fishing",just.fishing (deu)
 rtp://239.186.74.157:10000
