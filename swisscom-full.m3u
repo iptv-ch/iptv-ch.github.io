@@ -626,9 +626,9 @@ rtp://239.186.68.189:10000
 rtp://239.186.64.88:10000
 #EXTINF:-1 tvg-id="Telebasel.ch@SD" tvg-name="Telebasel" tvg-logo="http://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="315" channel-id="315",Telebasel HD
 rtp://239.186.68.206:10000
-#EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="316" channel-id="316",blue zoom D
+#EXTINF:-1 tvg-id="BlueZoomD.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://i.imgur.com/yjBeQzx.png" tvg-chno="316" channel-id="316",blue zoom D
 rtp://239.186.66.129:10000
-#EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="317" channel-id="317",blue zoom D HD
+#EXTINF:-1 tvg-id="BlueZoomD.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://i.imgur.com/yjBeQzx.png" tvg-chno="317" channel-id="317",blue zoom D HD
 rtp://239.186.68.155:10000
 #EXTINF:-1 tvg-id="TLC.de@SD" tvg-name="TLC" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="318" channel-id="318",TLC CH
 rtp://239.186.66.175:10000

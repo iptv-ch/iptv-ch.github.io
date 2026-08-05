@@ -3,7 +3,7 @@
 #EXTEPG url-tvg=""
 #PLAYLIST: bluetv channel free open standard size 576i, codec video h.264 only on host Swisscom network or partners of multicast network
 #EXTREM:french
-#EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="0" channel-id="0",blue zoom F
+#EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://i.imgur.com/A5iwahB.png" tvg-chno="0" channel-id="0",blue zoom F
 rtp://239.186.64.111:10000
 #EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-name="RTS 1" tvg-logo="https://i.ibb.co/W4WnxPM1/RTS1-ch.png" tvg-chno="91" channel-id="91",RTS1
 rtp://239.186.64.5:10000
@@ -297,7 +297,7 @@ rtp://239.186.64.103:10000
 rtp://239.186.64.9:10000
 #EXTINF:-1 tvg-id="Telebasel.ch@SD" tvg-name="Telebasel" tvg-logo="https://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="314" channel-id="314",Telebasel
 rtp://239.186.64.88:10000
-#EXTINF:-1 tvg-id="BlueZoomD.ch@SD" tvg-name="blue Zoom D" tvg-logo="https://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="316" channel-id="316",blue zoom D
+#EXTINF:-1 tvg-id="BlueZoomD.ch@SD" tvg-name="blue Zoom D" tvg-logo="https://i.imgur.com/yjBeQzx.png" tvg-chno="316" channel-id="316",blue zoom D
 rtp://239.186.66.129:10000
 #EXTINF:-1 tvg-id="TOGGOplus.de@SD" tvg-name="Toggo Plus" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000

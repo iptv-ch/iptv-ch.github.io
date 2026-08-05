@@ -89,7 +89,7 @@ rtp://239.186.70.155:10000
 rtp://239.186.70.132:10000
 #EXTINF:-1 tvg-id="RhoneTV.ch@SD" tvg-name="Rhone TV" tvg-logo="https://i.imgur.com/YyXJaBN.png",Rhone TV HD
 rtp://239.186.84.172:10000
-#EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://static.epg.best/ch/BlueZoomF.ch.png" tvg-chno="89" channel-id="89",blue ZOOM F HD
+#EXTINF:-1 tvg-id="BlueZoomF.ch@SD" tvg-name="blue Zoom F" tvg-logo="https://i.imgur.com/A5iwahB.png" tvg-chno="89" channel-id="89",blue ZOOM F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1 tvg-id="SRTB.bj" tvg-name="SRTB BJ" tvg-logo="https://static.epg.best/bj/SRTB.bj.png" tvg-chno="90" channel-id="90",SRTB BENIN TV
 rtp://239.186.74.97:10000
@@ -393,7 +393,7 @@ rtp://239.186.68.166:10000
 rtp://239.186.68.189:10000
 #EXTINF:-1 tvg-id="Telebasel.ch@SD" tvg-name="Telebasel" tvg-logo="https://static.epg.best/ch/TeleBasel.ch.png" tvg-chno="315" channel-id="315",Telebasel HD
 rtp://239.186.68.206:10000
-#EXTINF:-1 tvg-id="BlueZoomD.ch@SD" tvg-name="blue Zoom D" tvg-logo="https://static.epg.best/ch/BlueZoomD.ch.png" tvg-chno="317" channel-id="317",blue ZOOM D HD
+#EXTINF:-1 tvg-id="BlueZoomD.ch@SD" tvg-name="blue Zoom D" tvg-logo="https://i.imgur.com/yjBeQzx.png" tvg-chno="317" channel-id="317",blue ZOOM D HD
 rtp://239.186.68.155:10000
 #EXTINF:-1 tvg-id="TOGGOplus.de@SD" tvg-name="Toggo Plus" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="320" channel-id="320",TOGGO plus
 rtp://239.186.66.202:10000
