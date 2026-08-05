@@ -88,7 +88,7 @@ rtp://239.186.74.97:10000
 rtp://239.186.64.51:10000
 #EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/HfvP9Fr8/BBCTwo-uk.png" tvg-chno="120" channel-id="120",BBC TWO
 rtp://239.186.64.165:10000
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="122" channel-id="122",BBC CBBC / BBC THREE
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="122" channel-id="122",BBC CBBC / BBC THREE
 rtp://239.186.64.166:10000
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="https://i.ibb.co/QvrfqPWj/BBCFour-uk.png" tvg-chno="124" channel-id="124",BBC FOUR /Cbeebies
 rtp://239.186.64.52:10000
