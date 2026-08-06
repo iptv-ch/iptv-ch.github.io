@@ -47,7 +47,7 @@ rtp://239.186.64.92:10000
 rtp://239.186.64.151:10000
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-name="franceinfo" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="62" channel-id="62",franceinfo
 rtp://239.186.66.225:10000
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://static.epg.best/fr/France24.fr.png" tvg-chno="63" channel-id="63",France24
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-chno="63" channel-id="63",France24
 rtp://239.186.64.41:10000
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" tvg-chno="64" channel-id="64",gulli
 rtp://239.186.66.23:10000

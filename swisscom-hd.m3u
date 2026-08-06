@@ -55,7 +55,7 @@ rtp://239.186.68.193:10000
 rtp://239.186.68.194:10000
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-name="Euronews F" tvg-logo="https://static.epg.best/fr/Euronews.fr.png" tvg-chno="80" channel-id="80",euronews. F HD
 rtp://239.186.70.148:10000
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://static.epg.best/fr/France24.fr.png" tvg-chno="63" channel-id="63",France24 HD
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-chno="63" channel-id="63",France24 HD
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://i.ibb.co/BKjhDWRs/i24-NEWSFrench-il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
@@ -184,7 +184,7 @@ rtp://239.186.68.171:10000
 rtp://239.186.66.253:10000
 #EXTINF:-1 tvg-id="Quest.uk@SD" tvg-name="Quest" tvg-logo="https://static.epg.best/uk/quest.uk.png" tvg-chno="122" channel-id="122",Quest HD
 rtp://@239.186.84.2:10000
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://static.epg.best/fr/France24e.fr.png" tvg-chno="124" channel-id="124",France24 E HD
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png" tvg-chno="124" channel-id="124",France24 E HD
 rtp://239.186.84.31:10000
 #EXTINF:-1 tvg-id="5STAR.uk@SD" tvg-name="5Star" tvg-logo="https://static.epg.best/uk/5star.uk.png" tvg-chno="" channel-id="",5STAR
 rtp://239.186.74.72:10000
