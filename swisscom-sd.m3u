@@ -81,7 +81,7 @@ rtp://239.186.64.150:10000
 rtp://239.186.64.98:10000
 #EXTINF:-1 tvg-id="6terSwitzerland.ch@SD" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" tvg-chno="111" channel-id="111",6ter
 rtp://239.186.66.130:10000
-#EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-name="Benin TV" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" tvg-chno="111" channel-id="111",Benin TV
+#EXTINF:-1 tvg-id="ORTBTV.bj@SD" tvg-name="Benin TV" tvg-logo="https://i.ibb.co/pv7BHsKG/ORTBTV-bj.png" tvg-chno="111" channel-id="111",Benin TV
 rtp://239.186.74.97:10000
 #EXTREM:english
 #EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-name="BBC One" tvg-logo="https://i.ibb.co/C31C3grs/BBCOne-uk.png" tvg-chno="118" channel-id="118",BBC ONE
@@ -130,7 +130,7 @@ rtp://239.186.64.172:10000
 rtp://239.186.64.184:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it@SD" tvg-name="Food Network IT" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://static.epg.best/il/i24news.png" tvg-chno="157" channel-id="157",i24 NEWS E
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://i.ibb.co/jvf60gDx/i24-NEWSEnglish-World-il.png" tvg-chno="157" channel-id="157",i24 NEWS E
 rtp://239.186.66.126:10000
 #EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-chno="159" channel-id="159",itv1
 rtp://239.186.64.169:10000
