@@ -677,6 +677,8 @@ rtp://239.186.68.218:10000
 rtp://239.186.68.226:10000
 #EXTINF:-1,La Chaine Info HD
 rtp://239.186.68.241:10000
+#EXTINF:-1,TVI internacional HD
+rtp://239.186.68.243:10000
 #EXTINF:-1,blue Zoom F HD
 rtp://239.186.68.244:10000
 #EXTINF:-1,Cine34 HD

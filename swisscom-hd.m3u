@@ -641,8 +641,6 @@ rtp://239.186.68.246:10000
 rtp://239.186.64.77:10000
 #EXTINF:-1 tvg-id="TVIInternacional.pt@SD" tvg-name="TVI Internacional" tvg-logo="https://i.imgur.com/l1cun8s.png",tvi internacional HD (por)
 rtp://239.186.68.243:10000
-#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-name="V+ TVI" tvg-logo="https://i.ibb.co/mCyz2vnT/VPlus-TVI-pt.png",V+ TVI HD (por)
-rtp://239.186.70.73:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="AragonTVInternacional.es@SD" tvg-name="Aragón TV Int" tvg-logo="https://static.epg.best/es/aragonint.es.png" tvg-chno="143" channel-id="143",Aragon int
 rtp://239.186.66.62:10000
