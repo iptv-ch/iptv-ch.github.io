@@ -152,9 +152,9 @@ rtp://239.186.79.78:10000
 rtp://239.186.66.225:10000
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-name="franceinfo" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="" channel-id="",franceinfo HD
 rtp://239.186.70.121:10000
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="http://static.epg.best/fr/France24.fr.png" tvg-chno="63" channel-id="63",France24
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-chno="63" channel-id="63",France24
 rtp://239.186.64.41:10000
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="http://static.epg.best/fr/France24.fr.png" tvg-chno="63" channel-id="63",France24 HD
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-chno="63" channel-id="63",France24 HD
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-name="Gulli" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="64" channel-id="64",gulli
 rtp://239.186.66.23:10000
@@ -170,7 +170,7 @@ rtp://239.186.66.25:10000
 rtp://239.186.70.30:10000
 #EXTINF:-1 tvg-id="KTO.fr@SD" tvg-name="KTO" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="70" channel-id="70",KtO
 rtp://239.186.64.148:10000
-#EXTINF:-1 tvg-id="GrandGeneveTV.fr@SD" tvg-name="ici TV Romandie" tvg-logo="https://i.imgur.com/44oyrTB.png" tvg-chno="71" channel-id="71",Grand Geneve TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ici TV Romandie" tvg-logo="https://i.imgur.com/44oyrTB.png" tvg-chno="71" channel-id="71",Grand Geneve TV HD
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://i.imgur.com/DdCfl4n.png" tvg-chno="72" channel-id="72",LA TELE
 rtp://239.186.64.104:10000
@@ -241,9 +241,9 @@ rtp://239.186.68.43:10000
 rtp://239.186.64.165:10000
 #EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/HfvP9Fr8/BBCTwo-uk.png" tvg-chno="121" channel-id="121",BBC Two HD
 rtp://239.186.68.41:10000
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="122" channel-id="122",BBC CBBC
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="122" channel-id="122",BBC CBBC
 rtp://239.186.64.166:10000
-#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@SD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="123" channel-id="123",BBC CBBC HD
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-name="BBC Three / CBBC" tvg-logo="https://i.ibb.co/ZzHZPzQw/BBCThree-CBBC-uk.png" tvg-chno="123" channel-id="123",BBC CBBC HD
 rtp://239.186.68.153:10000
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="https://i.ibb.co/QvrfqPWj/BBCFour-uk.png" tvg-chno="124" channel-id="124",BBC Four/ BBC CBeebies
 rtp://239.186.64.52:10000
@@ -289,7 +289,7 @@ rtp://239.186.70.224:10000
 rtp://239.186.64.175:10000
 #EXTINF:-1 tvg-id="CNNInternational.us@MENA" tvg-name="CNN" tvg-logo="http://static.epg.best/uk/CNN.uk.png" tvg-chno="145" channel-id="145",CNN International HD
 rtp://239.186.70.23:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="207" channel-id="207",DW Deutsche Welle English
+#EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="207" channel-id="207",DW Deutsche Welle English
 rtp://239.186.64.135:10000
 #EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="http://static.epg.best/uk/Drama.uk.png" tvg-chno="146" channel-id="146",DRAMA
 rtp://239.186.66.140:10000
@@ -311,9 +311,9 @@ rtp://239.186.64.184:10000
 rtp://239.186.70.151:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it@SD" tvg-name="Food Network IT" tvg-logo="http://static.epg.best/uk/FoodNetwork.uk.png" tvg-chno="155" channel-id="155",food network E
 rtp://239.186.66.58:10000
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-chno="157" channel-id="157",i24 NEWS E
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://i.ibb.co/jvf60gDx/i24-NEWSEnglish-World-il.png" tvg-chno="157" channel-id="157",i24 NEWS E
 rtp://239.186.66.126:10000
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News" tvg-logo="https://i.ibb.co/jvf60gDx/i24-NEWSEnglish-World-il.png" tvg-chno="158" channel-id="158",i24 NEWS E HD
 rtp://239.186.68.140:10000
 #EXTINF:-1 tvg-id="ITV1.uk@London" tvg-name="ITV1" tvg-logo="https://i.imgur.com/xwPekCF.png" tvg-chno="159" channel-id="159",itv
 rtp://239.186.64.169:10000
@@ -444,7 +444,7 @@ rtp://239.186.68.156:10000
 rtp://239.186.64.123:10000
 #EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight UK" tvg-logo="http://static.epg.best/uk/Insight.uk.png" tvg-chno="219" channel-id="219",Insight.tv HD
 rtp://239.186.70.75:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="http://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
+#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-name="Kabel 1 DE" tvg-logo="http://static.epg.best/de/Kabel1.de.png" tvg-chno="220" channel-id="220",kabel eins
 rtp://239.186.64.20:10000
 #EXTINF:-1 tvg-id="Kanal9.ch@SD" tvg-name="Kanal 9" tvg-logo="http://static.epg.best/ch/Kanal9.ch.png" tvg-chno="223" channel-id="223",Kanal9
 rtp://239.186.64.109:10000
@@ -506,7 +506,7 @@ rtp://239.186.64.65:10000
 rtp://239.186.68.30:10000
 #EXTINF:-1 tvg-id="PROTVInternational.ro@SD" tvg-name="Pro TV International" tvg-logo="http://static.epg.best/de/Pro7.de.png" tvg-chno="251" channel-id="251",Pro7
 rtp://239.186.64.19:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="254" channel-id="254",Puls aCHT HD
+#EXTINF:-1 tvg-id="PulsAcht.ch@SD" tvg-name="Puls 8" tvg-logo="" tvg-chno="254" channel-id="254",Puls aCHT HD
 rtp://239.186.68.191:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" channel-id="254",QS24 QantiSana HD
 rtp://233.35.254.211:1234
@@ -890,7 +890,7 @@ rtp://239.186.64.193:10000
 rtp://239.186.66.227:10000
 #EXTINF:-1 tvg-id="HRT1.hr@SD" tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-chno="446" channel-id="446",HRT1
 rtp://239.186.66.125:10000
-#EXTINF:-1 tvg-id="KCN3SvetPlus.rs" tvg-name="KCN 3 Svet Plus RS" tvg-logo="http://static.epg.best/rs/KCN3SvetPlus.rs.png" tvg-chno="447" channel-id="447",KCN3 Svet Plus3
+#EXTINF:-1 tvg-id="TVKCN3.rs@SD" tvg-name="K::CN 3" tvg-logo="https://i.imgur.com/F89h2Bp.png" tvg-chno="447" channel-id="447",K::CN 3
 rtp://239.186.66.141:10000
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-name="Kurdistan TV" tvg-logo="https://i.imgur.com/mjQptpc.png" tvg-chno="448" channel-id="448",KURDISTAN TV
 rtp://239.186.66.203:10000
