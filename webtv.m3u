@@ -274,6 +274,8 @@ https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
 #EXTINF:-1 tvg-id="cctv4.cn",cctv4 HD
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 tvg-id="hrt4.hr" tvg-logo="https://picserve.netplus.ch/channels/hrt4.png",HRT int HD
+https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-dash/hrt4.mpd
 #EXTINF:-1 tvg-id="VideoItalia.it",video italia HD
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
 #EXTINF:-1 tvg-id="recordnews.br",Record news
@@ -574,9 +576,8 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="radiofrecciatv.it" tvg-logo="",RADIO FRECCIA TV HD
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist.m3u8
 #EXTINF:-1 tvg-id="kisskiss.it" tvg-logo="",KISS KISS HD
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
+#EXTREM https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
-
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://i.postimg.cc/SQzVnq0S/dokusat.png" group-title="documentary",Dokusat HD
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV" tvg-logo="https://i.postimg.cc/L5DYvxw9/morethansportstv.png" group-title="sports",More Than Sports TV HD
@@ -626,7 +627,7 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8
 #EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec HD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1,SPORTDIGITAL FREE HD
+#EXTINF:-1,SPORTDIGITAL FREE HD deutsch
 https://jmp2.uk/stvp-DEAJ0500429A
 #EXTINF:-1,Movie Music by STINGRAY HD
 https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8
@@ -722,3 +723,5 @@ https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/
 https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-xr8iccrw35yso/4baf5509-b693-48bc-8e22-12496209477d/1.m3u8
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://static.epg.best/it/euronews.it.png" tvg-country="IT" tvg-language="italia" group-title="IT news",euronews. italia HD
 https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8
+#EXTINF:-1 tvg-id="viavosgestv.fr",ViaVosges TV
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
