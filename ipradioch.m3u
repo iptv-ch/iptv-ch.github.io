@@ -553,3 +553,5 @@ http://radios.topymedia.com:8032/stream
 https://rn2.fluidstream.eu/gammaradio.mp3
 #EXTINF:-1,FRANCOPHONIE
 https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3
+#EXTINF:-1,Tonic radio
+https://tonicradiolyondab.ice.infomaniak.ch/tonicradiolyondab-128.mp3
