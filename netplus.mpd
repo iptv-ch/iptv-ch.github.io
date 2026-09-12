@@ -381,7 +381,7 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:-1 tvg-id="hrt4.hr" tvg-logo="https://picserve.netplus.ch/channels/hrt4.png",HRT int HD
 https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-dash/hrt4.mpd
-#EXTINF:-1 tvg-id="cctvnews.cn" tvg-logo="https://picserve.netplus.ch/channels/cctvnews.png" tvg-country="CN" tvg-language="Chinese" group-title="CN news",CCTV news HD
+#EXTINF:-1 tvg-id="cgtn.cn" tvg-logo="https://picserve.netplus.ch/channels/cctvnews.png" tvg-country="CN" tvg-language="english" group-title="CN news",CGTN news HD
 https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-dash/cctvnews.mpd
 #EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://picserve.netplus.ch/channels/ert3.png" tvg-country="GR" tvg-language="Greek" group-title="GR news",ERT Cosmos HD
 https://viamotionhsi.netplus.ch/live/eds/ert3/browser-dash/ert3.mpd
