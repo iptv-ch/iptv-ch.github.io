@@ -338,6 +338,8 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveintern
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:-1 tvg-id="Aragontv.es" tvg-logo="https://picserve.netplus.ch/channels/aragontv.png",Aragon TV HD
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
+#EXTINF:-1 tvg-id="canalsur.es" tvg-logo="https://picserve.netplus.ch/channels/andaluciatelevision.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Canal Sur Andalucia TV
+https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-dash/andaluciatelevision.mpd
 #EXTINF:-1 tvg-id="starhd.es" tvg-logo="https://picserve.netplus.ch/channels/starhd.png",star HD
 https://viamotionhsi.netplus.ch/live/eds/starhd/browser-dash/starhd.mpd
 #EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://picserve.netplus.ch/channels/recordnews.png",Record news internacional
