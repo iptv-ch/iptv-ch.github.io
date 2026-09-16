@@ -725,3 +725,9 @@ https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8
 #EXTINF:-1 tvg-id="viavosgestv.fr",ViaVosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="cctvnews.cn" tvg-logo="https://picserve.netplus.ch/channels/cctvnews.png" tvg-country="CN" tvg-language="english" group-title="CN news",CGTN news HD
+https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8
+#EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://picserve.netplus.ch/channels/ert3.png" tvg-country="GR" tvg-language="Greek" group-title="GR news",ERT Cosmos HD
+https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8
+#EXTINF:-1 tvg-id="canalsur.es" tvg-logo="https://picserve.netplus.ch/channels/andaluciatelevision.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Canal Sur Andalucia TV
+https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8
