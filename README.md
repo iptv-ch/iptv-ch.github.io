@@ -4,8 +4,6 @@ Warning legal:
 usage solely private home use only, totally forbidden business paid piracy at all without consent from the official source operator.
 there no piracy at all, list from my own free time as is for tv open community.
 
-Still waiting iptv stream multicast from upc (now: sunrise upc)
-
 This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:
 
 IPTV open channels from Netplus + Swisscom as language french only, english only, german only, italian only.
@@ -45,7 +43,7 @@ Not geoblocked to Switzerland, tested outside Switzerland, in France, work suces
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
 This file only lists the SD channels.<br>
-EPG information from https://xmltv.ch/ is included.<br>
+No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
 
@@ -56,7 +54,7 @@ EPG information from https://xmltv.ch/ is included.<br>
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
 This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br>
-EPG information from https://xmltv.ch/ is included.<br>
+No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
 
 ## Swisscom TV UHD only (required codec video h265)
@@ -66,7 +64,7 @@ EPG information from https://xmltv.ch/ is included.<br>
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
 This file only lists the UHD channels.<br>
-EPG information from https://xmltv.ch/ is included.<br>
+No TV Guide/Electronic Program Guide, EPG managed by your media center <br>
 [More information]( https://www.regardtv.net/t6105p325-flux-iptv-swisscom#77698 ).
 
 **https://iptv-ch.github.io/SwisscomIPTVfreeCA.m3u**
