@@ -619,8 +619,6 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png",SUR 1 ANDALUCÍA
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 #EXTINF:-1 tvg-id="arte.de",arte d HD
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang.kr",arirang korea HD
@@ -729,7 +727,8 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8
 #EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://picserve.netplus.ch/channels/ert3.png" tvg-country="GR" tvg-language="Greek" group-title="GR news",ERT Cosmos HD
 https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8
-#EXTINF:-1 tvg-id="canalsur.es" tvg-logo="https://picserve.netplus.ch/channels/andaluciatelevision.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Canal Sur Andalucia TV
-https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8
+#EXTINF:-1 tvg-id="canalsur.es" tvg-logo="https://picserve.netplus.ch/channels/andaluciatelevision.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Canal Sur Andalucia TV HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8
+https://dfk2a268yviz9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/a4d3099d-d098-470f-9fa9-0dcfaaa16a4a/0.m3u8
 #EXTINF:-1 tvg-id="qs24tv.ch" tvg-logo="https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png" tvg-country="CH" tvg-language="german" group-title="CH health",QS24.TV HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8
