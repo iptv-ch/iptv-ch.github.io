@@ -8,7 +8,7 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 #EXTINF:-1 tvg-id="rtsinfo.ch" group-title="news",RTS Info HD
 https://rtsinfo-d.akamaized.net/out/v1/lsvs/rts-info/cmaf/hls-index.m3u8
 #EXTINF:-1 tvg-id="rtscouleur3.ch",RTS Couleur3 TV
-https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
+https://visualradio-rts-couleur3-d.akamaized.net/out/v1/lsvs/visual-radio-rts-couleur-3/cmaf/hls-index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr",TF1 HD
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="France2.fr",France2 HD
@@ -321,7 +321,6 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentra
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 #EXTREM #EXTINF:-1 tvg-id="7maxx.de",7MAXX
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
-https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8-VMX/prosiebenmaxx.m3u8
 https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="dmax.de",DMAX CH
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
