@@ -504,7 +504,7 @@ rtp://239.186.70.233:10000
 rtp://239.186.84.89:10000
 #EXTINF:-1 tvg-id="Giallo.it@SD" tvg-name="Giallo" tvg-logo="https://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Warner Bros. Discovery Giallo HD
 rtp://239.186.84.99:10000
-#EXTINF:-1 tvg-id="MotorTrend.it@SD" tvg-name="Discovery Turbo" tvg-logo="https://static.epg.best/us/MotorTrend.us.png" tvg-chno="359" channel-id="359",Warner Bros. Discovery MOTORTREND HD
+#EXTINF:-1 tvg-id="MotorTrend.it@SD" tvg-name="Discovery Turbo" tvg-logo="https://static.epg.best/us/MotorTrend.us.png" tvg-chno="359" channel-id="359",Warner Bros. Discovery turbo HD
 rtp://239.186.84.102:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it@SD" tvg-name="Food Network IT" tvg-logo="https://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",Warner Bros. Discovery food network I HD
 rtp://239.186.84.91:10000
