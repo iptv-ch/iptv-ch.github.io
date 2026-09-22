@@ -319,6 +319,9 @@ https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.uk" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" tvg-country="EN" tvg-language="English" group-title="UK news",bloomberg HD
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1 tvg-id="fashiontv.uk" tvg-logo="https://picserve.netplus.ch/channels/fashiontv.png" tvg-country="EN" tvg-language="English" group-title="UK ",FashionTV HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",QUEST HD
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" tvg-country="EN" tvg-language="English" group-title="UK generalist",channel4 HD
