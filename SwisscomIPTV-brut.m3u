@@ -1523,6 +1523,8 @@ rtp://239.186.70.115:10000
 rtp://239.186.70.116:10000
 #EXTINF:-1,Auftanken TV HD
 rtp://239.186.70.117:10000
+#EXTINF:-1,LOVE NATURE HD (fra)
+rtp://239.186.70.118:10000
 #EXTINF:-1,Wetter.TV HD
 rtp://239.186.70.119:10000
 #EXTINF:-1,Novelas+ HD
@@ -1551,7 +1553,7 @@ rtp://239.186.70.130:10000
 rtp://239.186.70.131:10000
 #EXTINF:-1,TV Onex HD
 rtp://239.186.70.132:10000
-#EXTINF:-1,ici tv HD (Grand Geneve TV HD)
+#EXTINF:-1,romandie TV HD
 rtp://239.186.70.133:10000
 #EXTINF:-1,blue Sport direct 21 HD (fre)
 rtp://239.186.70.134:10000
@@ -1625,6 +1627,10 @@ rtp://239.186.70.172:10000
 rtp://239.186.70.173:10000
 #EXTINF:-1,canalb F HD
 rtp://239.186.70.174:10000
+#EXTINF:-1,Sky Sport NFL HD (deu)
+rtp://239.186.70.175:10000
+#EXTINF:-1,DOG&CAT TV HD (fra)
+rtp://239.186.70.176:10000
 #EXTINF:-1,M6 music HD (fra)
 rtp://239.186.70.177:10000
 #EXTINF:-1,TV Dukagjini HD
@@ -1667,6 +1673,8 @@ rtp://239.186.70.196:10000
 rtp://239.186.70.197:10000
 #EXTINF:-1,TRT Muzik HD
 rtp://239.186.70.198:10000
+#EXTINF:-1,beIN Sports Channel HD (fre)
+rtp://239.186.70.199:10000
 #EXTINF:-1,las estrellas HD
 rtp://239.186.70.201:10000
 #EXTINF:-1,RW Rheinwelten HD
@@ -1767,6 +1775,10 @@ rtp://239.186.74.8:10000
 rtp://239.186.74.9:10000
 #EXTINF:-1,GREAT! Mystery
 rtp://239.186.74.11:10000
+#EXTINF:-1,Sky Sport NFL (AC3,deu)
+rtp://239.186.74.12:10000
+#EXTINF:-1,beIN Sports Channel (fre)
+rtp://239.186.74.13:10000
 #EXTINF:-1,Melodie TV
 rtp://239.186.74.15:10000
 #EXTINF:-1,Geo Television (ger)
