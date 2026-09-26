@@ -59,7 +59,7 @@ rtp://239.186.70.148:10000
 rtp://239.186.70.125:10000
 #EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News Français" tvg-logo="https://i.ibb.co/BKjhDWRs/i24-NEWSFrench-il.png" tvg-chno="67" channel-id="67",i24 NEWS F HD
 rtp://239.186.70.102:10000
-#EXTINF:-1 tvg-id="" tvg-name="ici TV Romandie" tvg-logo="https://i.ibb.co/27QLdtPB/ici-tv-romandie.png" tvg-chno="71" channel-id="71",ici tv HD
+#EXTINF:-1 tvg-id="" tvg-name="Romandie TV" tvg-logo="https://i.ibb.co/27QLdtPB/ici-tv-romandie.png" tvg-chno="71" channel-id="71",romandie TV HD
 rtp://239.186.70.133:10000
 #EXTINF:-1 tvg-id="LaTele.ch@SD" tvg-name="La Télé - Fribourg" tvg-logo="https://i.imgur.com/DdCfl4n.png" tvg-chno="73" channel-id="73",LA TELE HD
 rtp://239.186.68.107:10000
