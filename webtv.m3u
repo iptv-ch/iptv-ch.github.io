@@ -727,3 +727,5 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8
 #EXTINF:-1 tvg-id="classcnbc.it" tvg-logo="https://classcnbc.it/" tvg-country="IT" tvg-language="italia" group-title="IT news financial",Class CNBC IT HD
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(4ZafIrySVZdYTLblsU8Z6XsM33pqmmcmZSLj3P7dmLGB6E2Eg7q_F0ApJqqS9UPGgbv9L-NdxOUkbhoezsIsD2rszM3RYFEjlnoK5jF4gsSH5-az7_EWkvk8Ao6Qf42f)/cloud/3/x91c8ww/s/live-720@60.m3u8
+#EXTINF:-1 tvg-id="20minutes.fr" tvg-logo="https://programme-tv.20minutes.fr/assets/channel-logos/20-minutes-tv.png" tvg-country="FR" tvg-language="french" group-title="FR news",20 Minutes TV HD
+https://live-20minutestv.digiteka.com/1961167769/tracks-v2a1/mono.ts.m3u8
