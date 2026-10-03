@@ -475,7 +475,7 @@ rtp://239.186.66.31:10000
 rtp://239.186.66.32:10000
 #EXTINF:-1,Cartoon Network CH (fra)
 rtp://239.186.66.33:10000
-#EXTINF:-1,Rai Scuola
+#EXTINF:-1,Italiana
 rtp://239.186.66.34:10000
 #EXTINF:-1,Rai Gulp
 rtp://239.186.66.35:10000
@@ -1513,7 +1513,7 @@ rtp://239.186.70.108:10000
 rtp://239.186.70.109:10000
 #EXTINF:-1,Rai Storia HD
 rtp://239.186.70.110:10000
-#EXTINF:-1,Rai Scuola HD
+#EXTINF:-1,Italiana HD
 rtp://239.186.70.111:10000
 #EXTINF:-1,Senato TV HD (ita)
 rtp://239.186.70.114:10000
