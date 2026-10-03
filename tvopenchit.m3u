@@ -17,7 +17,7 @@ rtp://239.186.84.89:10000
 rtp://239.186.66.188:10000
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://static.epg.best/it/Giallo.it.png" tvg-chno="357" channel-id="357",Giallo HD
 rtp://239.186.84.99:10000
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend IT" tvg-logo="http://static.epg.best/it/MotorTrend.it.png" tvg-chno="359" channel-id="359",MOTOR TREND HD
+#EXTINF:-1 tvg-id="turbo.it" tvg-name="turbo IT" tvg-logo="http://static.epg.best/it/turbo.it.png" tvg-chno="359" channel-id="359",turbo HD
 rtp://239.186.84.102:10000
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network IT" tvg-logo="http://static.epg.best/it/FoodNetwork.it.png" tvg-chno="364" channel-id="364",food networks I HD
 rtp://239.186.84.91:10000
