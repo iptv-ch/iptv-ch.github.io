@@ -572,7 +572,7 @@ rtp://239.186.84.18:10000
 rtp://239.186.66.182:10000
 #EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-name="Rai Storia" tvg-logo="https://static.epg.best/it/RaiStoria.it.png" tvg-chno="400" channel-id="400",Rai Storia HD
 rtp://239.186.70.110:10000
-#EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-name="Rai Scuola" tvg-logo="https://static.epg.best/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola HD
+#EXTINF:-1 tvg-id="Italiana.it@SD" tvg-name="Italiana" tvg-logo="https://static.epg.best/it/Italiana.it.png" tvg-chno="396" channel-id="396",Italiana HD
 rtp://239.186.70.111:10000
 #EXTINF:-1 tvg-id="RaiNews24.it@SD" tvg-name="Rai News 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" tvg-chno="394" channel-id="394",Rai News24 HD
 rtp://239.186.70.84:10000
