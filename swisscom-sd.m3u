@@ -422,7 +422,7 @@ rtp://239.186.66.185:10000
 rtp://239.186.64.156:10000
 #EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-name="Rai Premium" tvg-logo="https://static.epg.best/it/RaiPremium.it.png" tvg-chno="395" channel-id="395",Rai Premium
 rtp://239.186.66.183:10000
-#EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-name="Rai Scuola" tvg-logo="https://static.epg.best/it/RaiScuola.it.png" tvg-chno="396" channel-id="396",Rai Scuola
+#EXTINF:-1 tvg-id="Italiana.it@SD" tvg-name="Italiana" tvg-logo="https://static.epg.best/it/Italiana.it.png" tvg-chno="396" channel-id="396",Italiana
 rtp://239.186.66.34:10000
 #EXTINF:-1 tvg-id="RaiSport.it@HD" tvg-name="Rai Sport +" tvg-logo="https://static.epg.best/it/RaiSportPlus.it.png" tvg-chno="397" channel-id="397",Rai Sport
 rtp://239.186.64.157:10000
