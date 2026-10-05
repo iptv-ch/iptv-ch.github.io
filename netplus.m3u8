@@ -122,8 +122,7 @@ https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1 tvg-id="nrtv.ch" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" tvg-country="CH" tvg-language="French" group-title="CH Regional",nrtv HD
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 #EXTINF:-1 tvg-id="maxtv.ch" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" tvg-country="FR" tvg-language="French" group-title="FR Religion",DieuTV HD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
-https://cdn.katapy.io/cache/stream/katapytv/dieu/720.m3u8
+https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png" tvg-country="CH" tvg-language="French" group-title="music",tvm3 HD
 https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
 #EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" tvg-country="FR" tvg-language="French" group-title="FR regional",8Mont-Blanc HD
@@ -382,7 +381,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/manifest.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
 #EXTINF:-1 tvg-id="mne.me" tvg-logo="https://picserve.netplus.ch/channels/rtcg.png" tvg-country="ME" tvg-language="Serbia" group-title="RS generalist",MNE HD
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://picserve.netplus.ch/channels/trtturk.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",TRT TURK HD
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://picserve.netplus.ch/channels/trtturk.png" tvg-country="TR" tvg-language="Turkish" group-title="TR generalist",TRT1 HD
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
 #EXTINF:-1 tvg-id="2m.ma" tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png" tvg-country="MA" tvg-language="Arabic" group-title="MA generalist",2M Maroc FHD
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
