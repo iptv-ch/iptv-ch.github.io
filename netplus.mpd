@@ -389,3 +389,5 @@ https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-dash/hrt4.mpd
 https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-dash/cctvnews.mpd
 #EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://picserve.netplus.ch/channels/ert3.png" tvg-country="GR" tvg-language="Greek" group-title="GR news",ERT Cosmos HD
 https://viamotionhsi.netplus.ch/live/eds/ert3/browser-dash/ert3.mpd
+#EXTINF:-1 tvg-name="EPT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="EPTNews.gr" tvg-chno="" tvg-country="GR" group-title="Greece news  ",EPT News
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
