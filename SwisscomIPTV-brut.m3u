@@ -1673,7 +1673,7 @@ rtp://239.186.70.196:10000
 rtp://239.186.70.197:10000
 #EXTINF:-1,TRT Muzik HD
 rtp://239.186.70.198:10000
-#EXTINF:-1,beIN Sports Channel HD (fre)
+#EXTINF:-1,beIN SPORTS CH HD (fre)
 rtp://239.186.70.199:10000
 #EXTINF:-1,las estrellas HD
 rtp://239.186.70.201:10000
@@ -1713,7 +1713,7 @@ rtp://239.186.70.220:10000
 rtp://239.186.70.221:10000
 #EXTINF:-1,Fox News HD
 rtp://239.186.70.222:10000
-#EXTINF:-1,Motorvision TV HD (deu)
+#EXTINF:-1,vision TV HD (deu)
 rtp://239.186.70.223:10000
 #EXTINF:-1,CNBC UK HD
 rtp://239.186.70.224:10000
@@ -1757,7 +1757,7 @@ rtp://239.186.70.252:10000
 rtp://239.186.70.254:10000
 #EXTINF:-1,MySports 2 D (deu)
 rtp://239.186.74.1:10000
-#EXTINF:-1,RTVi (ru)
+#EXTINF:-1,RTVI (rus)
 rtp://239.186.74.2:10000
 #EXTINF:-1,blue Retro (deu)
 rtp://239.186.74.3:10000
@@ -1777,7 +1777,7 @@ rtp://239.186.74.9:10000
 rtp://239.186.74.11:10000
 #EXTINF:-1,Sky Sport NFL (AC3,deu)
 rtp://239.186.74.12:10000
-#EXTINF:-1,beIN Sports Channel (fre)
+#EXTINF:-1,beIN SPORTS CH (fre)
 rtp://239.186.74.13:10000
 #EXTINF:-1,Melodie TV
 rtp://239.186.74.15:10000
