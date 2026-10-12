@@ -178,7 +178,7 @@ https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 #EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" tvg-country="CH" tvg-language="German" group-title="CH Sport",blue zoom D HD
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
-#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",Tele Bielingue HD
+#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" tvg-country="CH" tvg-language="German" group-title="CH Regional",TB2 HD
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
 #EXTINF:-1 tvg-id="orf2.at" tvg-logo="https://picserve.netplus.ch/channels/orf2.png" tvg-country="AT" tvg-language="German" group-title="AT generalist",ORF2 HD
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
@@ -387,7 +387,7 @@ https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="canalalgerie." tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png" tvg-country="DZ" tvg-language="Arabic" group-title="DZ generalist",Canal Algerie2
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
-#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" tvg-country="CN" tvg-language="Chinese" group-title="CN generalist",cctv4 HD
+#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" tvg-country="CN" tvg-language="Chinese" group-title="CN generalist",CCTV4 HD
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 #EXTINF:-1 tvg-id="hrt4.hr" tvg-logo="https://picserve.netplus.ch/channels/hrt4.png" tvg-country="HR" tvg-language="Croitia" group-title="HR generalist",HRT int HD
 https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-HLS8/hrt4.m3u8
