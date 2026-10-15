@@ -130,7 +130,7 @@ https://netplus.zappr.stream/tv8montblanc.m3u8
 https://netplus.zappr.stream/valtv.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" tvg-country="CH" tvg-language="German" group-title="CH generalist",SRF1 HD 1080p
 https://netplus.zappr.stream/srf1hd.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" tvg-country="CH" tvg-language="German" group-title="CH generalist",SRF2 HD 1080p
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" tvg-country="CH" tvg-language="German" group-title="CH generalist",SRF2 HD 1080p
 https://netplus.zappr.stream/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" tvg-country="CH" tvg-language="German" group-title="CH news",SRF info HD 720p
 https://netplus.zappr.stream/srfinfo.m3u8

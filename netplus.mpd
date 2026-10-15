@@ -133,7 +133,7 @@ https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-dash/valtv.mpd
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png",SRF1 FHD
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png",SRF2 FHD
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png",SRF2 FHD
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:-1 tvg-id="SRFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png",SRF info HD
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
