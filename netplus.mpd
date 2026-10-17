@@ -178,7 +178,7 @@ https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-dash/tv24.mpd
 #EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png",blue zoom D HD
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
-#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png",Tele Bielingue FHD
+#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png",TB2 HD
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-dash/telebielingue.mpd
 #EXTINF:-1 tvg-id="orf2.at" tvg-logo="https://picserve.netplus.ch/channels/orf2.png",ORF2 HD
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
