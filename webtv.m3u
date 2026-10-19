@@ -735,3 +735,9 @@ https://amg00735-amg00735c51-wedotv-eu-7283.playouts.now.amagi.tv/playlist.m3u8
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVi.ru" tvg-logo="https://static.epg.best/ru/RTVi.ru.png" tvg-country="RU" tvg-language="russian" group-title="RU generalist",RTVi HD
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-logo="https://static.epg.best/de/bibeltv.de.png" tvg-country="DE" tvg-language="german" group-title="DE religion",bibel tv HD
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/bibeltv01/bibeltv01.stream_1/chunks.m3u8
+#EXTINF:-1 tvg-id="k-tv.de" tvg-logo="https://static.epg.best/de/k-tv.de.png" tvg-country="DE" tvg-language="german" group-title="DE religion",K-TV HD
+https://streamcdnm1-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/chunklist_b3392000.m3u8
+#EXTINF:-1 tvg-id="daystar.us" tvg-logo="https://static.epg.best/us/k-tv.de.png" tvg-country="US" tvg-language="english" group-title="EN religion",Daystar.tv HD
+https://player.daystar.tv/live/MzNwkTO
