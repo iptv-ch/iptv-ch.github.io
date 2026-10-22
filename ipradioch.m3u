@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="radio" radio="true",Radio Net+
+#EXTINF:-1 tvg-logo="https://radionetplus.ch/logo.jpg" group-title="radio" radio="true",Radio Net+
 https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
-#EXTINF:-1 group-title="radio" radio="true",Radio Chablais
+#EXTINF:-1 tvg-logo="https://radiochablais.ch/images/phocadownload/visuel/logo_RC.png" group-title="radio" radio="true",Radio Chablais
 https://radiochablais.ice.infomaniak.ch/radiochablais-high.aac
 #EXTINF:-1 group-title="radio" radio="true",RadioFr.Fesh
 https://radiofresh.ice.infomaniak.ch/radiofresh.aac
