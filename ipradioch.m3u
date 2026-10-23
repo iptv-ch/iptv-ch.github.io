@@ -3,123 +3,123 @@
 https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3
 #EXTINF:-1 tvg-logo="https://radiochablais.ch/images/phocadownload/visuel/logo_RC.png" group-title="radio" radio="true",Radio Chablais
 https://radiochablais.ice.infomaniak.ch/radiochablais-high.aac
-#EXTINF:-1 group-title="radio" radio="true",RadioFr.Fesh
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radiofrfresh.png" group-title="radio" radio="true",RadioFr.Fesh
 https://radiofresh.ice.infomaniak.ch/radiofresh.aac
-#EXTINF:-1 group-title="radio" radio="true",RadioFr. Fribourg
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radiofr.png" group-title="radio" radio="true",RadioFr. Fribourg
 https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.aac
-#EXTINF:-1 group-title="radio" radio="true",RadioFr. Freiburg
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radiofr.png" group-title="radio" radio="true",RadioFr. Freiburg
 https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
-#EXTINF:-1 group-title="radio" radio="true",IP music
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/ipmusic-radioplayer-1400x1400px-36785-S.png" group-title="radio" radio="true",IP music
 https://live7.avf.ch/ipmusicaacplus96
-#EXTINF:-1 group-title="radio" radio="true",IP music SLOW
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/ipmusicslow-radioplayer-1400x1400px-32684-S.png" group-title="radio" radio="true",IP music SLOW
 https://live9.avf.ch/ipmusicslowaacp96
-#EXTINF:-1 group-title="radio" radio="true",Global Sport
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-global-2024-titrage-dab-98810-S.jpg" group-title="radio" radio="true",Global Sport
 https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",MaXXima
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/maxxima-56635-S.png" group-title="radio" radio="true",MaXXima
 https://maxxima.mine.nu/maxxima.mp3
-#EXTINF:-1 group-title="radio" radio="true",SPOON radio
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON radio
 https://spoonradio.ice.infomaniak.ch/spoonradio-hd.aac
-#EXTINF:-1 group-title="radio" radio="true",SPOON CLASSICS
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",SPOON CLASSICS
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
-#EXTINF:-1 group-title="radio" radio="true",SPOON BALLADS
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",SPOON BALLADS
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
-#EXTINF:-1 group-title="radio" radio="true",Yes FM
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Yes FM
 https://yesfm.ice.infomaniak.ch/yesfm-high.aac
-#EXTINF:-1 group-title="radio" radio="true",Kiss Collector
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Kiss Collector
 https://dr2101.ice.infomaniak.ch/dr2101.aac
-#EXTINF:-1 group-title="radio" radio="true",ROCKSTAR
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",ROCKSTAR
 https://dr2102.ice.infomaniak.ch/dr2102.aac
-#EXTINF:-1 group-title="radio" radio="true",URBN
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",URBN
 https://dr2103.ice.infomaniak.ch/dr2103.aac
-#EXTINF:-1 group-title="radio" radio="true",LUX Radio
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",LUX Radio
 https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
-#EXTINF:-1 group-title="radio" radio="true",GRRIF
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",GRRIF
 https://grrif.ice.infomaniak.ch/grrif-high.mp3
-#EXTINF:-1 group-title="radio" radio="true",LAC
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radiolac.png" group-title="radio" radio="true",LAC
 https://radiolac.ice.infomaniak.ch/radiolac-high.aac
-#EXTINF:-1 group-title="radio" radio="true",LFM
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/lfm.png" group-title="radio" radio="true",LFM
 https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac
-#EXTINF:-1 group-title="radio" radio="true",magic radio
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",magic radio
 https://magicradio.ice.infomaniak.ch/magicradio-high.mp3
-#EXTINF:-1 group-title="radio" radio="true",ONE FM
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/onefm.png" group-title="radio" radio="true",ONE FM
 https://onefm.ice.infomaniak.ch/onefm-high.aac
-#EXTINF:-1 group-title="radio" radio="true",RHONE FM+
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/rhonefm.png" group-title="radio" radio="true",RHONE FM+
 https://rhonefm.ice.infomaniak.ch/rhonefm-high.aac
-#EXTINF:-1 group-title="radio" radio="true",RADIO R
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radior.png" group-title="radio" radio="true",RADIO R
 https://radior.ice.infomaniak.ch/radior-96.aac
-#EXTINF:-1 group-title="radio" radio="true",RFJ
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/rfj.png" group-title="radio" radio="true",RFJ
 https://rfj.ice.infomaniak.ch/rfj-high.aac
-#EXTINF:-1 group-title="radio" radio="true",RJB
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/rjb.png" group-title="radio" radio="true",RJB
 https://rjb.ice.infomaniak.ch/rjb-high.aac
-#EXTINF:-1 group-title="radio" radio="true",RTN
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/rtn.png" group-title="radio" radio="true",RTN
 https://rtn.ice.infomaniak.ch/rtn-high.aac
-#EXTINF:-1 group-title="radio" radio="true",Rouge
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/rouge.png" group-title="radio" radio="true",Rouge
 https://rougefm.ice.infomaniak.ch/rougefm-high.aac
-#EXTINF:-1 group-title="radio" radio="true",Vibration 108
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Vibration 108
 https://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
-#EXTINF:-1 group-title="radio" radio="true",Vertical
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/vertical.png" group-title="radio" radio="true",Vertical
 https://verticalradio.ice.infomaniak.ch/verticalradio-128.aac
-#EXTINF:-1 group-title="radio" radio="true",Latina CH
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Latina CH
 https://start-latina.ice.infomaniak.ch/start-latina-high.aac
-#EXTINF:-1 group-title="radio" radio="true",TA RADIO
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",TA RADIO
 https://stream.taradio.ch/dab
-#EXTINF:-1 group-title="radio" radio="true",Vostok
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Vostok
 https://radiovostok.ice.infomaniak.ch/radiovostok.aac
-#EXTINF:-1 group-title="radio" radio="true",RTS Premiere
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rts-premiere.png" group-title="radio" radio="true",RTS Premiere
 https://stream.srg-ssr.ch/srgssr/la-1ere/aac/96
-#EXTINF:-1 group-title="radio" radio="true",RTS Espace2
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rts-espace2.png" group-title="radio" radio="true",RTS Espace2
 https://stream.srg-ssr.ch/srgssr/espace-2/aac/96
-#EXTINF:-1 group-title="radio" radio="true",RTS Couleur3
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rts-couleur3.png" group-title="radio" radio="true",RTS Couleur3
 https://stream.srg-ssr.ch/srgssr/couleur3/aac/96
-#EXTINF:-1 group-title="radio" radio="true",RTS Option Musique
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rts-optionmusique.png" group-title="radio" radio="true",RTS Option Musique
 https://stream.srg-ssr.ch/srgssr/option-musique/aac/96
-#EXTINF:-1 group-title="radio" radio="true",Radio RTR
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rtr.png" group-title="radio" radio="true",Radio RTR
 https://stream.srg-ssr.ch/srgssr/rr/aac/96
-#EXTINF:-1 group-title="radio" radio="true",RSI Rete Uno
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rete-uno.png" group-title="radio" radio="true",RSI Rete Uno
 https://stream.srg-ssr.ch/srgssr/reteuno/aac/96
-#EXTINF:-1 group-title="radio" radio="true",RSI Rete Due
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rete-due.png" group-title="radio" radio="true",RSI Rete Due
 https://stream.srg-ssr.ch/srgssr/retedue/aac/96
-#EXTINF:-1 group-title="radio" radio="true",RSI Rete Tre
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-rete-tre.png" group-title="radio" radio="true",RSI Rete Tre
 https://stream.srg-ssr.ch/srgssr/retetre/aac/96
-#EXTINF:-1 group-title="radio" radio="true",SRF1
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/Radio_SRF_1.png" group-title="radio" radio="true",SRF1
 https://stream.srg-ssr.ch/srgssr/srf1/aac/96
-#EXTINF:-1 group-title="radio" radio="true",SRF2 Kultur
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/Radio_SRF_2_Kultur.png" group-title="radio" radio="true",SRF2 Kultur
 https://stream.srg-ssr.ch/srgssr/srf2/aac/96
-#EXTINF:-1 group-title="radio" radio="true",SRF3 
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/Radio_SRF_3.png" group-title="radio" radio="true",SRF3 
 https://stream.srg-ssr.ch/srgssr/srf3/aac/96
-#EXTINF:-1 group-title="radio" radio="true",SRF4 News
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/Radio_SRF_4_News.png" group-title="radio" radio="true",SRF4 News
 https://stream.srg-ssr.ch/srgssr/srf4news/aac/96
-#EXTINF:-1 group-title="radio" radio="true",SRF Musikwelle
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/Radio_SRF_Musikwelle.png" group-title="radio" radio="true",SRF Musikwelle
 https://stream.srg-ssr.ch/srgssr/srfmw/aac/96
-#EXTINF:-1 group-title="radio" radio="true",SRF Virus
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/Radio_SRF_Virus.png" group-title="radio" radio="true",SRF Virus
 https://stream.srg-ssr.ch/srgssr/srfvirus/aac/96
-#EXTINF:-1 group-title="radio" radio="true",Swiss Classic de
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-swiss-classic.png" group-title="radio" radio="true",Swiss Classic de
 https://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
-#EXTINF:-1 group-title="radio" radio="true",Swiss Classique fr
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Swiss Classique fr
 https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
-#EXTINF:-1 group-title="radio" radio="true",Swiss Jazz
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-swiss-jazz.png" group-title="radio" radio="true",Swiss Jazz
 https://stream.srg-ssr.ch/srgssr/rsj/aac/96
-#EXTINF:-1 group-title="radio" radio="true",Swiss Pop
+#EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-swiss-pop.png" group-title="radio" radio="true",Swiss Pop
 https://stream.srg-ssr.ch/srgssr/rsp/aac/96
-#EXTINF:-1 group-title="radio" radio="true",Ticino
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Ticino
 https://streaming.smartradio.ch:8502/stream
-#EXTINF:-1 group-title="radio" radio="true",Radio Italia
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
-#EXTINF:-1 group-title="radio" radio="true",Country Radio Switzerland
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Country Radio Switzerland
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",Radio Tell
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/radio-tell-34510-S.jpg" group-title="radio" radio="true",Radio Tell
 https://radiotell.dmd2streaming.com/radiotell.mp3
-#EXTINF:-1 group-title="radio" radio="true",GOAT Radio
+#EXTINF:-1 tvg-logo="https://www.20min.ch/logos/20min-logo-light-mode.svg" group-title="radio" radio="true",GOAT Radio
 https://20min.dmd2streaming.com/20minuten_radio_64.aac
-#EXTINF:-1 group-title="radio" radio="true",Sunradio
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Sunradio
 https://stream.sunradio.ch/live
-#EXTINF:-1 group-title="radio" radio="true",toxic.fm
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",toxic.fm
 https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",OpenBroadcast
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",OpenBroadcast
 https://stream-abr.openbroadcast.ch/hls/manifest.m3u8
-#EXTINF:-1 group-title="radio" radio="true",Schweiz Podcast
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Schweiz Podcast
 https://audiokanzlei.ice.infomaniak.ch/audiokanzlei-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",Rundfunk.fm
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Rundfunk.fm
 https://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3
 #EXTINF:-1 group-title="radio" radio="true",RADIORASA
 https://radio.upstream-cloud.ch/radiorasa-128.mp3
@@ -211,7 +211,7 @@ https://securestreams4.autopo.st:1558/Back2Noize
 https://play.radioking.io/royale-radio/161119
 #EXTINF:-1 group-title="radio" radio="true",Geneva Latina
 https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",Radio Maria Suisse Romande
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radiomaria.png" group-title="radio" radio="true",Radio Maria Suisse Romande
 https://dreamsiteradiocp4.com/proxy/rmrsuisse2?mp=/stream
 #EXTINF:-1 group-title="radio" radio="true",Radio Positive CH
 https://nl.digitalrm.pt:8106/stream
@@ -219,7 +219,7 @@ https://nl.digitalrm.pt:8106/stream
 https://ec6.yesstreaming.net:1800/stream
 #EXTINF:-1 group-title="radio" radio="true",Sout Al Khaleej
 https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
-#EXTINF:-1 group-title="radio" radio="true",radiobus.fm
+#EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/radiobus.png" group-title="radio" radio="true",radiobus.fm
 https://radiobus.ice.infomaniak.ch/radiobus-128.aac
 #EXTINF:-1 group-title="radio" radio="true",Thaalam Radio
 https://thaalam.out.airtime.pro/thaalam_b
