@@ -27,7 +27,7 @@ https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 https://yesfm.ice.infomaniak.ch/yesfm-high.aac
 #EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Kiss Collector
 https://dr2101.ice.infomaniak.ch/dr2101.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",ROCKSTAR
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/756/7565020/600/600/lsagfu4o.png" group-title="radio" radio="true",ROCK STAR
 https://dr2102.ice.infomaniak.ch/dr2102.aac
 #EXTINF:-1 tvg-logo=" group-title="radio" radio="true",URBN
 https://dr2103.ice.infomaniak.ch/dr2103.aac
@@ -223,7 +223,7 @@ https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 https://radiobus.ice.infomaniak.ch/radiobus-128.aac
 #EXTINF:-1 group-title="radio" radio="true",Thaalam Radio
 https://thaalam.out.airtime.pro/thaalam_b
-#EXTINF:-1 group-title="radio" radio="true",105 dj radio
+#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",105 dj radio
 https://my105.stream37.radiohost.de/my105-djradio_mp3-192
 #EXTINF:-1 group-title="radio" radio="true",Agaune Radio
 https://play.radioking.io/agauneradio
@@ -247,7 +247,7 @@ https://stream.radiojar.com/h6eddm4h9quvv
 https://radioclubbing.stream.laut.fm/radioclubbing
 #EXTINF:-1 group-title="radio" radio="true",Life Channel radio
 https://stream1.lifechannel.ch/LIFECHANNEL
-#EXTINF:-1 group-title="radio" radio="true",Break Radio
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/756/756207/600/600/lh7iu1yw.jpeg" group-title="radio" radio="true",Break Radio
 https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
 #EXTINF:-1 group-title="radio" radio="true",Happy Radio
 https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio
@@ -275,7 +275,7 @@ https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 https://stunnel1.cyber-streaming.com:9162/stream
 #EXTINF:-1 group-title="radio" radio="true",ADO
 https://start-adofm.ice.infomaniak.ch/start-adofm-high.aac
-#EXTINF:-1 group-title="radio" radio="true",airzen
+#EXTINF:-1 tvg-logo="https://www.airzen.fr/api/media/resize/?f=Logo-AirZenRadio.webp&w=112&v=1" group-title="radio" radio="true",airzen
 https://stream.rcs.revma.com/pr5cwsxhr18uv
 #EXTINF:-1 group-title="radio" radio="true",BFM Business
 https://hls-bfmbusiness.nextradiotv.com/ssai/master.m3u8
@@ -407,7 +407,7 @@ https://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
 https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
 #EXTINF:-1 group-title="radio" radio="true",K6FM Toute les infos de Dijon Beaune et Côte d'Or
 https://k6fm.ice.infomaniak.ch/k6fm-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",BOA Bretagne On Air
+#EXTINF:-1 tvg-logo="https://radio-boa.bzh/_ipx/f_webp&s_500x658/logo_white_vertical.svg" group-title="radio" radio="true",BOA Bretagne On Air
 https://stream.radios.bzh/hls/boa/aac_hifi.m3u8
 #EXTINF:-1 group-title="radio" radio="true",Yellow Radio
 https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
@@ -561,7 +561,7 @@ https://de2.streamingpulse.com/stream/vcr
 https://energybern.ice.infomaniak.ch/energybern-high.mp3
 #EXTINF:-1 group-title="radio" radio="true",Energy Basel
 https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
-#EXTINF:-1 group-title="radio" radio="true",Swiss Groove
+#EXTINF:-1 tvg-logo="https://swissgroove.ch/images/logo.svg" group-title="radio" radio="true",Swiss Groove
 https://www.swissgroove.ch/listen.php
 #EXTINF:-1 group-title="radio" radio="true",Radio Number One Italia
 https://rn1.fluidstream.eu/rn1.mp3
