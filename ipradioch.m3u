@@ -230,7 +230,7 @@ https://play.radioking.io/agauneradio
 #EXTINF:-1 group-title="radio" radio="true",radio du bord de l'eau
 https://play.radioking.io/radio-du-bord-de-l-eau/223426
 #EXTINF:-1 tvg-logo="https://www.rcmradio.ch/upload/design/6a9604aa0283d8.01566102.jpeg" group-title="radio" radio="true",Radio Crans-Montana RCM
-https://listen.radioking.com/radio/605899/stream/669205
+https://play.radioking.io/rcmlaradio
 #EXTINF:-1 group-title="radio" radio="true",GDS.FM
 https://gdsfm.out.airtime.pro/gdsfm_a
 #EXTINF:-1 group-title="radio" radio="true",Radio Luzern
@@ -281,17 +281,17 @@ https://stream.rcs.revma.com/pr5cwsxhr18uv
 https://hls-bfmbusiness.nextradiotv.com/ssai/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.bfmtv.com/assets/v28/images/BFM-Radio-header.0f6868a950316011f3fee859d5c2bc35.svg" group-title="radio" radio="true",BFM RADIO
 https://hls-bfmradio.nextradiotv.com/ssai/master.m3u8
-#EXTINF:-1 group-title="radio" radio="true",Chante France
+#EXTINF:-1 tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/chante-france/images/logo_hcQoGGMTuD.png" group-title="radio" radio="true",Chante France
 https://chantefrance.ice.infomaniak.ch/chantefrance-96.aac
-#EXTINF:-1 group-title="radio" radio="true",CHERIE FM
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/OvBHr_kZhsFizZuBRtK5yCzb3D8=/medias%2F2022%2F02%2F621516f26dfb8_621516f412477.svg" group-title="radio" radio="true",CHERIE FM
 https://streaming.nrjaudio.fm/ou2n2epw5hs7
-#EXTINF:-1 group-title="radio" radio="true",CROONER RADIO
+#EXTINF:-1 tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2025/03/Logo-Header-Crooner-Radio-2025.webp" group-title="radio" radio="true",CROONER RADIO
 https://direct.croonerradio.fr/croonerradio-hifi.mp3
 #EXTINF:-1 tvg-logo="https://www.europe1.fr/themes/europe1/europe1-logo.svg" group-title="radio" radio="true",EUROPE1
 https://europe1.lmn.fm/europe1-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.europe2.fr/upload/design/6a7b3258352523.14081445.png" group-title="radio" radio="true",EUROPE2
 https://europe2.lmn.fm/europe2-live/playlist.m3u8
-#EXTINF:-1 group-title="radio" radio="true",FC RADIO
+#EXTINF:-1 tvg-logo="https://fcradio.fr/upload/design/5fe06764d31c32.40701722.png" group-title="radio" radio="true",FC RADIO
 https://fcradioluisandre.ice.infomaniak.ch/fcradiodab.mp3
 #EXTINF:-1 group-title="radio" radio="true",FG. DJ RADIO
 https://stream.rcs.revma.com/wknqhm4yuchvv
@@ -309,7 +309,7 @@ https://icecast.radiofrance.fr/francemusique-hifi.aac
 https://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1 group-title="radio" radio="true",Mouv Radio Musique Rap & Hip Hop Nation
 https://icecast.radiofrance.fr/mouv-hifi.aac
-#EXTINF:-1 group-title="radio" radio="true",FUEGO
+#EXTINF:-1 tvg-logo="https://radiofuego.fr/_image?href=%2F_astro%2Flogo_radiofuego.bYfbVYJd.png&w=120&h=60&f=webp" group-title="radio" radio="true",FUEGO
 https://stream.rcs.revma.com/myzzee8kwccwv
 #EXTINF:-1 tvg-logo="https://images.rtl.fr/~c/300v300/funradio/www/1819488-logo-fun-radio.jpg" group-title="radio" radio="true",FUN RADIO
 https://icecast.funradio.fr/fun-1-44-128
@@ -329,7 +329,7 @@ https://radio74.ice.infomaniak.ch/radio74-high.mp3
 https://mfm.ice.infomaniak.ch/mfm-128.mp3
 #EXTINF:-1 group-title="radio" radio="true",Melody Radio vintage
 https://stream.rcs.revma.com/bsa1cyuup42vv
-#EXTINF:-1 group-title="radio" radio="true",NOSTALGIE
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/L3zosrZkW7lmgFtxF9yG8USZq6c=/medias%2F2022%2F02%2F62150f1f4ce26_62150f240ef6d.svg" group-title="radio" radio="true",NOSTALGIE
 https://streaming.nrjaudio.fm/ouwgwqsk6j4d
 #EXTINF:-1 group-title="radio" radio="true",NOVA
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
