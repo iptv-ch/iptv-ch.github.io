@@ -19,9 +19,9 @@ https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON radio
 https://spoonradio.ice.infomaniak.ch/spoonradio-hd.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",SPOON CLASSICS
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON CLASSICS
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",SPOON BALLADS
+#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON BALLADS
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 #EXTINF:-1 tvg-logo="https://dr21.mediaonegroup.ch/apps/assets/YES_BLANC_OMBRE.svg" group-title="radio" radio="true",Yes FM
 https://yesfm.ice.infomaniak.ch/yesfm-high.aac
@@ -55,13 +55,13 @@ https://rjb.ice.infomaniak.ch/rjb-high.aac
 https://rtn.ice.infomaniak.ch/rtn-high.aac
 #EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/rouge.png" group-title="radio" radio="true",Rouge
 https://rougefm.ice.infomaniak.ch/rougefm-high.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Vibration 108
+#EXTINF:-1 tvg-logo="https://www.vibration108.ch/wp-content/uploads/2014/06/vibration108-2.png" group-title="radio" radio="true",Vibration 108
 https://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 #EXTINF:-1 tvg-logo="https://romandiemedias.ch/wp-content/themes/romandie-media/img/radios/vertical.png" group-title="radio" radio="true",Vertical
 https://verticalradio.ice.infomaniak.ch/verticalradio-128.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Latina CH
+#EXTINF:-1 tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/latina/images/logo_m1iLvmwBrF.png" group-title="radio" radio="true",Latina CH
 https://start-latina.ice.infomaniak.ch/start-latina-high.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",TA RADIO
+#EXTINF:-1 tvg-logo="https://www.taradio.ch/wp-content/uploads/2024/07/GIF-2024-07-10-19-08-14.gif" group-title="radio" radio="true",TA RADIO
 https://stream.taradio.ch/dab
 #EXTINF:-1 tvg-logo="https://radiovostok.ch/wp-content/uploads/2025/10/Logo_SVG_PNG-256-x-154-px-1.png" group-title="radio" radio="true",Radio Vostok
 https://radiovostok.ice.infomaniak.ch/radiovostok.aac
@@ -101,7 +101,7 @@ https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96
 https://stream.srg-ssr.ch/srgssr/rsj/aac/96
 #EXTINF:-1 tvg-logo="https://www.srgssr.ch/fileadmin/dam/images/logos/springboard/radio-swiss-pop.png" group-title="radio" radio="true",Swiss Pop
 https://stream.srg-ssr.ch/srgssr/rsp/aac/96
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Ticino
+#EXTINF:-1 tvg-logo="https://radioticino.com/wp-content/uploads/2022/11/rftlogosmall.png" group-title="radio" radio="true",Ticino
 https://streaming.smartradio.ch:8502/stream
 #EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
@@ -111,7 +111,7 @@ https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 https://radiotell.dmd2streaming.com/radiotell.mp3
 #EXTINF:-1 tvg-logo="https://www.20min.ch/logos/20min-logo-light-mode.svg" group-title="radio" radio="true",GOAT Radio
 https://20min.dmd2streaming.com/20minuten_radio_64.aac
-#EXTINF:-1 tvg-logo=" group-title="radio" radio="true",Sunradio
+#EXTINF:-1 tvg-logo="https://www.dab-swiss.ch/assets/images/sunradio_dab-swiss.png" group-title="radio" radio="true",Sunradio
 https://stream.sunradio.ch/live
 #EXTINF:-1 tvg-logo=" group-title="radio" radio="true",toxic.fm
 https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
@@ -127,9 +127,9 @@ https://radio.upstream-cloud.ch/radiorasa-128.mp3
 https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3
 #EXTINF:-1 group-title="radio" radio="true",Radio4TNG
 https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
-#EXTINF:-1 group-title="radio" radio="true",WRS
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/29/6ada1d5ee4380714dbb.png" group-title="radio" radio="true",WRS World Radio Switzerland
 https://uksouth.streaming.broadcast.radio:10290/wrs
-#EXTINF:-1 group-title="radio" radio="true",Radio JAMES FM
+#EXTINF:-1 tvg-logo="https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png" group-title="radio" radio="true",Radio JAMES FM
 https://jamesfm.ice.infomaniak.ch/jamesfm.aac
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_198_admin.jpeg" group-title="radio" radio="true",FLASHBACK FM
 https://stream.streambase.ch/ffm/mp3-128
