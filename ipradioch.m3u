@@ -19,10 +19,6 @@ https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
 https://maxxima.mine.nu/maxxima.mp3
 #EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON radio
 https://spoonradio.ice.infomaniak.ch/spoonradio-hd.aac
-#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON CLASSICS
-https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
-#EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/logo-spoon-23white-72dpi-98304-S.png" group-title="radio" radio="true",SPOON BALLADS
-https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 #EXTINF:-1 tvg-logo="https://dr21.mediaonegroup.ch/apps/assets/YES_BLANC_OMBRE.svg" group-title="radio" radio="true",Yes FM
 https://yesfm.ice.infomaniak.ch/yesfm-high.aac
 #EXTINF:-1 tvg-logo="https://dr21.mediaonegroup.ch/apps/assets/logo_kiss_collector.svg" group-title="radio" radio="true",Kiss Collector
@@ -333,7 +329,7 @@ https://novazz.ice.infomaniak.ch/novazz-128.mp3
 https://energyhits.ice.infomaniak.ch/energyhits-high.mp3
 #EXTINF:-1 group-title="radio" radio="true",ODS RADIO
 https://ods.ice.infomaniak.ch/ods-high.aac
-#EXTINF:-1 group-title="radio" radio="true",ORIENT
+#EXTINF:-1 "tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/radioorient/images/logo_GrQUEHbER4.png" group-title="radio" radio="true",ORIENT
 https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3
 #EXTINF:-1 group-title="radio" radio="true",OUI FM ab+
 https://ouifm.ice.infomaniak.ch/ouifm-high.aac
@@ -377,20 +373,20 @@ https://virginradio.ice.infomaniak.ch/virgin-radio.aac
 https://media.autorouteinfo.fr/direct_sud.mp3
 #EXTINF:-1 group-title="radio" radio="true",CINEMUSIC
 https://play.radioking.io/cinemusicradio/62785
-#EXTINF:-1 group-title="radio" radio="true",TropiqueFM
+#EXTINF:-1 tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/tropiquesfm/images/logo_6cSR9TNYPu.png" group-title="radio" radio="true",TropiqueFM
 https://listen.radioking.com/radio/8916/stream/64357
-#EXTINF:-1 group-title="radio" radio="true",KISSFM L'esprit du Sud
+#EXTINF:-1 tvg-logo="https://kissfm.fr/radio/kissdossiers/album/000.png" group-title="radio" radio="true",KISSFM L'esprit du Sud
 https://kissfm.ice.infomaniak.ch/kissfm-128.mp3
 #EXTINF:-1 group-title="radio" radio="true",Guadeloupe
 https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3
 #EXTINF:-1 group-title="radio" radio="true",Martinique
 https://martinique.ice.infomaniak.ch/martinique-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",Diversité FM la radio musicale et citoyenne
+#EXTINF:-1 tvg-logo="https://www.diversitefm.fr/wp-content/uploads/2024/02/logo-diversitefm-transparant-blanc-0224.png" group-title="radio" radio="true",Diversité FM la radio musicale et citoyenne
 https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3
-#EXTINF:-1 group-title="radio" radio="true",CANAL FM
+#EXTINF:-1 tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(Rz8EtPGvCL)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/canalfm/images/logo_HUW2N7vwRh.png" group-title="radio" radio="true",CANAL FM
 https://ice01.canalfm.ovh/canalfm.aac
-#EXTINF:-1 group-title="radio" radio="true",Attitude - Des rythmes et du style
-https://podcast.attitudefm.com:8443/;
+#EXTINF:-1 tvg-logo="https://www.attitudefm.com/wp-content/uploads/2025/01/logo-final-attitude-vecto-TYPO-BLANCHE_Plan-de-travail-1-e1736602105452.png" group-title="radio" radio="true",Attitude - Des rythmes et du style
+https://podcast.attitudefm.com:8443/
 #EXTINF:-1 group-title="radio" radio="true",Azur FM 1ère radio associative d'Alsace
 https://listen.radioking.com/radio/74173/stream/112150
 #EXTINF:-1 group-title="radio" radio="true",DIRECT FM 
@@ -515,7 +511,7 @@ https://c22.radioboss.fm:8847/stream
 https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.svg?v=1" group-title="radio" radio="true",sky news radio
 https://video.news.sky.com/snr/news/snrnews.mp3
-#EXTINF:-1 group-title="radio" radio="true",GBNews radio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s310252/images/logod.png?t=639258597290000000" group-title="radio" radio="true",GBNews radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1 group-title="radio" radio="true",DELUXE MUSIC
 https://audiostreams.deluxemusic.tv/music/mp3-192/audiostreams.deluxemusic.tv/play.m3u
@@ -537,7 +533,7 @@ https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/c
 https://nr5.newradio.it/proxy/madresti?mp=/stream
 #EXTINF:-1 group-title="radio" radio="true",radio france international
 https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
-#EXTINF:-1 group-title="radio" radio="true",radiosouvenir.com
+#EXTINF:-1 tvg-logo="https://www.radiosouvenir.com/logo.jpg" group-title="radio" radio="true",radiosouvenir.com
 https://radio12.pro-fhi.net/live/RadioSouvenir.com
 #EXTINF:-1 group-title="radio" radio="true",Ouest Track Radio
 https://stream.ouest-track.com:9030/stream
@@ -559,7 +555,7 @@ https://energybern.ice.infomaniak.ch/energybern-high.mp3
 https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
 #EXTINF:-1 tvg-logo="https://swissgroove.ch/images/logo.svg" group-title="radio" radio="true",Swiss Groove
 https://www.swissgroove.ch/listen.php
-#EXTINF:-1 group-title="radio" radio="true",Radio Number One Italia
+#EXTINF:-1 tvg-logo="https://radionumberone.it/wp-content/uploads/2021/03/cropped-2021_RN1-Logo.png" group-title="radio" radio="true",Radio Number One Italia
 https://rn1.fluidstream.eu/rn1.mp3
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_195_admin.jpeg" group-title="radio" radio="true",Klassik
 https://klassikr.streamabc.net:8000/klr-krschweiz-mp3-192-3641774
@@ -573,5 +569,3 @@ https://stream.rabe.ch/livestream/rabe-mid.mp3
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_204_admin.png" group-title="radio" radio="true",Canal3
 https://radio.upstream-cloud.ch/canal3allemand-128.mp3
-#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_200_admin.jpeg" group-title="radio" radio="true",radio central2
-https://chmedia.streamabc.net/79-rcentralasz-mp3-192-9392691
