@@ -513,7 +513,7 @@ https://maxfm.ice.infomaniak.ch/maxfm-grenoble-64.aac
 https://c22.radioboss.fm:8847/stream
 #EXTINF:-1 group-title="radio" radio="true",BBC one radio
 https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-#EXTINF:-1 group-title="radio" radio="true",skynews radio
+#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.svg?v=1" group-title="radio" radio="true",sky news radio
 https://video.news.sky.com/snr/news/snrnews.mp3
 #EXTINF:-1 group-title="radio" radio="true",GBNews radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
@@ -573,5 +573,5 @@ https://stream.rabe.ch/livestream/rabe-mid.mp3
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_204_admin.png" group-title="radio" radio="true",Canal3
 https://radio.upstream-cloud.ch/canal3allemand-128.mp3
-#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_204_admin.png" group-title="radio" radio="true",radio central2
+#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_200_admin.jpeg" group-title="radio" radio="true",radio central2
 https://chmedia.streamabc.net/79-rcentralasz-mp3-192-9392691
