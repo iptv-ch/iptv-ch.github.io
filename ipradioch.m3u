@@ -569,3 +569,7 @@ https://stream.rabe.ch/livestream/rabe-mid.mp3
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_204_admin.png" group-title="radio" radio="true",Canal3
 https://radio.upstream-cloud.ch/canal3allemand-128.mp3
+#EXTINF:-1 tvg-logo="https://radioaswat.ma/wp-content/themes/aswata108/img/logo.png" group-title="radio" radio="true",radio Aswat Maroc
+https://aswat.ice.infomaniak.ch/aswat-high.mp3
+#EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/0a75b43e-0a49-418a-9ca5-b3bcc3428d27-w320.webp" group-title="radio" radio="true",Medina FM
+https://medinafm.ice.infomaniak.ch/medinafm-128.mp3
