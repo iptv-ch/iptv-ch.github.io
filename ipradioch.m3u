@@ -547,7 +547,7 @@ https://rn2.fluidstream.eu/gammaradio.mp3
 https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3
 #EXTINF:-1 group-title="radio" radio="true",Tonic radio
 https://tonicradiolyondab.ice.infomaniak.ch/tonicradiolyondab-128.mp3
-#EXTINF:-1 group-title="radio" radio="true",Venice Classic Radio Auditorium
+#EXTINF:-1 tvg-logo="https://veniceclassicradio.eu/play/wp-content/uploads/sites/2/2026/04/logo_VCR-auditorium-_square-2048.png" group-title="radio" radio="true",Venice Classic Radio Auditorium
 https://de2.streamingpulse.com/stream/vcr
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_172_admin.png" group-title="radio" radio="true",Energy Bern
 https://energybern.ice.infomaniak.ch/energybern-high.mp3
