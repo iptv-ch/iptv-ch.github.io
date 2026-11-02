@@ -559,7 +559,7 @@ https://www.swissgroove.ch/listen.php
 https://rn1.fluidstream.eu/rn1.mp3
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_195_admin.jpeg" group-title="radio" radio="true",Klassik
 https://klassikr.streamabc.net:8000/klr-krschweiz-mp3-192-3641774
-#EXTINF:-1 tvg-logo="https://swissgroove.ch/images/logo.svg" group-title="radio" radio="true",Radio Freundes-Dienst
+#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch/upload/media/default/0001/01/thumb_29_admin.png" group-title="radio" radio="true",Radio Freundes-Dienst
 https://radiofdch.ice.infomaniak.ch/radiofdch.mp3
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_170_admin.png" group-title="radio" radio="true",Radio Vaterland
 https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8
