@@ -133,9 +133,9 @@ https://stream.streambase.ch/ffm/mp3-128
 https://stream.streambase.ch/rsunshine/mp3-128
 #EXTINF:-1 tvg-logo="https://www.melody.tv/wp-content/themes/melody/assets/images/channels/logo/melody-radio-vintage.png" group-title="radio" radio="true",Radio Melody CH de
 https://stream.streambase.ch/rm/mp3-128
-#EXTINF:-1 group-title="radio" radio="true",Ellipticum
+#EXTINF:-1 tvg-logo="https://ellipticum.com/wp-content/uploads/2025/02/testo-ellipticum-desktop.png" group-title="radio" radio="true",Ellipticum
 https://live.ellipticum.radio/elli_it.aac
-#EXTINF:-1 group-title="radio" radio="true",Radio X Basel
+#EXTINF:-1 tvg-logo="https://radiox.ch/.imaging/mte/radiox-theme/xlarge/dam/Event_Banner/rx_spenden_mustre-rainbow.gif/jcr:content/rx_spenden_mustre-rainbow.gif" group-title="radio" radio="true",Radio X Basel
 https://mp3.radiox.ch/mobile.aac
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_178_admin.png" group-title="radio" radio="true",Radio Zürisee
 https://mp3.radio.ch/radiozuerisee128k
@@ -199,7 +199,7 @@ https://stream.streambase.ch/vrock/aac-64
 https://virageradio.ice.infomaniak.ch/virageradiopremiumweb-320.mp3
 #EXTINF:-1 tvg-logo="https://back2noize.com/wp-content/uploads/2019/08/back2noize-logo-round-300x300.jpg" group-title="radio" radio="true",Back2Noize
 https://securestreams4.autopo.st:1558/Back2Noize
-#EXTINF:-1 group-title="radio" radio="true",RedLine Radio
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/81865/cover/custom/5e11ab7a-2a36-4064-b703-d8d123f119b6.png" group-title="radio" radio="true",RedLine Radio
 https://play.radioking.io/royale-radio/161119
 #EXTINF:-1 tvg-logo="https://genevalatina.ch/wp-content/uploads/2021/02/Logo-Geneva-Latina-v2.png" group-title="radio" radio="true",Geneva Latina
 https://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3
@@ -337,7 +337,7 @@ https://ouifm.ice.infomaniak.ch/ouifm-high.aac
 https://str0.creacast.com/pharefm
 #EXTINF:-1 group-title="radio" radio="true",PLAYLIST RADIO
 https://playlist.ice.infomaniak.ch/playlist-192.mp3
-#EXTINF:-1 group-title="radio" radio="true",PLEIN AIR
+#EXTINF:-1 tvg-logo="https://www.pleinair.net/images/jch-optimize/ng/images_logo-pared.webp" group-title="radio" radio="true",PLEIN AIR
 https://stream-1.pleinair.net:8443/dr_pontarlier.mp3
 #EXTINF:-1 group-title="radio" radio="true",RADIO CLASSIQUE
 https://radioclassique.ice.infomaniak.ch/radioclassique-high.aac
@@ -575,7 +575,7 @@ https://aswat.ice.infomaniak.ch/aswat-high.mp3
 https://medinafm.ice.infomaniak.ch/medinafm-128.mp3
 #EXTINF:-1 tvg-logo="https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/dreyeckland/images/logo.png" group-title="radio" radio="true",DKL Dreyeckland
 https://n03-eu3.rcs.revma.com/aguwyw7fkzzuv
-#EXTINF:-1 tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png group-title="radio" radio="true",Giornale radio
+#EXTINF:-1 tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png" group-title="radio" radio="true",Giornale radio
 https://gr.fluidstream.eu/gr1.mp3
 #EXTINF:-1 tvg-logo="https://www.radioking.com/api/track/cover/cd8a13fe-6ec5-4012-8b41-a2aed93b682e" group-title="radio" radio="true",Hope radio Espoir
 https://stream.hoperadio.fr/hoperadio
@@ -593,3 +593,5 @@ https://digris.streamabc.net/108-u2qrj4en-mp3-256-7434049
 https://server31677.streamplus.de:11144/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiostar.fr/wp-content/uploads/2025/09/logo-RadioStar-Hit-e1758259910195-300x140.png" group-title="radio" radio="true",Radio Star
 https://radiostar.ice.infomaniak.ch/radiostar-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/cbfde3c3-8213-45a6-ac89-b6a3b521025c/268x268" group-title="radio" radio="true",mon petit france inter
+https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8
