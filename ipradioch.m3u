@@ -105,7 +105,7 @@ https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 #EXTINF:-1 tvg-logo="https://dabcom.ch/upfiles/images/radio-tell-34510-S.jpg" group-title="radio" radio="true",Radio Tell
 https://radiotell.dmd2streaming.com/radiotell.mp3
-#EXTINF:-1 tvg-logo="https://www.20min.ch/logos/20min-logo-light-mode.svg" group-title="radio" radio="true",GOAT Radio
+#EXTINF:-1 tvg-logo="https://radio-ch.com/wp-content/uploads/2024/03/GOAT-Radio-330x330.jpg" group-title="radio" radio="true",GOAT Radio
 https://20min.dmd2streaming.com/20minuten_radio_64.aac
 #EXTINF:-1 tvg-logo="https://www.dab-swiss.ch/assets/images/sunradio_dab-swiss.png" group-title="radio" radio="true",Sunradio
 https://stream.sunradio.ch/live
