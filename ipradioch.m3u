@@ -237,7 +237,7 @@ https://uradio-aac.ice.infomaniak.ch/uradio.aac
 https://stream.radiojar.com/h6eddm4h9quvv
 #EXTINF:-1 tvg-logo="https://www.clubbingradio.com/images/logo-white.png" group-title="radio" radio="true",clubbing radio
 https://radioclubbing.stream.laut.fm/radioclubbing
-#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_190_admin.png" group-title="radio" radio="true",Life Channel radio
+#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch/upload/media/SMC_RADIO/0001/01/thumb_174_admin.jpeg" group-title="radio" radio="true",Life Channel radio
 https://stream1.lifechannel.ch/LIFECHANNEL
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/756/756207/600/600/lh7iu1yw.jpeg" group-title="radio" radio="true",Break Radio
 https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
