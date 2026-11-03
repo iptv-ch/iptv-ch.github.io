@@ -129,7 +129,7 @@ https://uksouth.streaming.broadcast.radio:10290/wrs
 https://jamesfm.ice.infomaniak.ch/jamesfm.aac
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_198_admin.jpeg" group-title="radio" radio="true",FLASHBACK FM
 https://stream.streambase.ch/ffm/mp3-128
-#EXTINF:-1 group-title="radio" radio="true",Sunshine Radio
+#EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch/upload/media/SMC_RADIO/0001/01/thumb_186_admin-2026-10-26.png" group-title="radio" radio="true",Sunshine Radio
 https://stream.streambase.ch/rsunshine/mp3-128
 #EXTINF:-1 tvg-logo="https://www.melody.tv/wp-content/themes/melody/assets/images/channels/logo/melody-radio-vintage.png" group-title="radio" radio="true",Radio Melody CH de
 https://stream.streambase.ch/rm/mp3-128
@@ -447,7 +447,7 @@ https://stream.quets.ch/live
 https://stream.radios.bzh/listen/radiolaser/radio.mp3
 #EXTINF:-1 group-title="radio" radio="true",L'ONDE PORTEUSE
 https://listen.radioking.com/radio/141961/stream/182095
-#EXTINF:-1 group-title="radio" radio="true",Madras FM La radio 100% TUBES
+#EXTINF:-1 tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png" group-title="radio" radio="true",Madras FM La radio 100% TUBES
 https://2stream.net/mfmradio-128
 #EXTINF:-1 tvg-logo="https://sonata.swissmediacast.ch//upload/media/SMC_RADIO/0001/01/thumb_186_admin.png" group-title="radio" radio="true",SUNSHINE LIVE ELECTRONIC MUSIC
 https://sunsl.streamabc.net/sunsl-sslschweiz-mp3-192-1333495
