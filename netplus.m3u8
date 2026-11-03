@@ -1,4 +1,4 @@
-#EXTM3U8
+#EXTM3U
 #EXTREM netplus.ch tv over the top HTTP Live Stream in Switzerland unrelated to your internet provider and tv operator but could be geoblocked.
 #EXTREM Some channels are available only trough true home network netplus.ch partners.
 #EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" tvg-country="CH" tvg-language="French" group-title="CH Generalist",RTS 1 HD
@@ -41,7 +41,7 @@ https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
 #EXTINF:-1 tvg-id="rtl9.be" tvg-logo="https://picserve.netplus.ch/channels/rtl9.png" tvg-country="FR" tvg-language="French" group-title="FR movies/documentary",RTL9 HD
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
-#EXTINF:-1 tvg-id="ab1.tv" tvg-logo="https://picserve.netplus.ch/channels/ab1.png" tvg-country="BE" tvg-language="French" group-title="FR Series",AB1
+#EXTINF:-1 tvg-id="ab1.tv" tvg-logo="https://picserve.netplus.ch/channels/ab1.png" tvg-country="BE" tvg-language="French" group-title="FR Series",AB1 HD
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 #EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-logo="https://picserve.netplus.ch/channels/hd1.png" tvg-country="FR" tvg-language="French" group-title="FR series films",TF1 Series Films HD
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
@@ -57,7 +57,7 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-id="lequipe.fr" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" tvg-country="FR" tvg-language="French" group-title="FR sport",La chaine L'EQUIPE
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-#EXTINF:-1 tvg-id="ab3.tv" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" tvg-country="BE" tvg-language="French" group-title="FR series",AB3
+#EXTINF:-1 tvg-id="ab3.tv" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" tvg-country="BE" tvg-language="French" group-title="FR series",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTREM #EXTINF:-1 tvg-id="paramount.fr" tvg-logo="https://picserve.netplus.ch/channels/paramount.png" tvg-country="FR" tvg-language="French" group-title="FR movie",paramount network F HD
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
@@ -280,7 +280,6 @@ https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
 #EXTINF:-1 tvg-id="la5.it" tvg-logo="https://picserve.netplus.ch/channels/la5.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",LA5 HD
 https://viamotionhsi.netplus.ch/live/eds/la5/browser-HLS8/la5.m3u8
 #EXTINF:-1 tvg-id="canaleit.it" tvg-logo="https://picserve.netplus.ch/channels/canaleit.png" tvg-country="IT" tvg-language="Italian" group-title="IT generalist",CANALE Italia
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u8
 https://liveac115b.b-cdn.net/canale1.smil/m.m3u8
 #EXTINF:-1 tvg-id="videoitalia.it" tvg-logo="https://picserve.netplus.ch/channels/videoitalia.png" tvg-country="IT" tvg-language="Italian" group-title="IT music",VIDEO ITALIA HD
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
