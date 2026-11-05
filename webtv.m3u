@@ -432,7 +432,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="figarotv.com" tvg-logo="https://picserve.netplus.ch/channels/figarotv.png",Figaro TV HD
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="canal32.ch" tvg-logo="https://picserve.netplus.ch/channels/canal32.png",Canal32 HD 1080p
-https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="wetter.tv" tvg-logo="https://picserve.netplus.ch/channels/wetter.png",wetter.tv HD
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="swiss-sport.tv/" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png",swiss sport tv HD
@@ -459,8 +459,8 @@ https://cdn.haititivi.com/website/haitinews/index.m3u8
 http://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="generations.fr" tvg-logo="https://picserve.netplus.ch/channels/generations.png",Generations TV HD
 https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="ivoire.fr" tvg-logo="https://picserve.netplus.ch/channels/ivoire.png",Ivoire channel
-https://video1.getstreamhosting.com:1936/8244/8244/manifest.m3u8
+#EXTINF:-1 tvg-id="ivoire.fr" tvg-logo="https://picserve.netplus.ch/channels/ivoire.png",ivoire channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="traceurban.fr" tvg-logo="https://picserve.netplus.ch/channels/traceurban.png",TRACE URBAN HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="tracelatina.fr" tvg-logo="https://picserve.netplus.ch/channels/tracelatina.png",TRACE LATINA HD
@@ -505,10 +505,6 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FR300011G9" group-title="Cinéma",SONY ONE FAVORIS
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="FR3000082K" group-title="Cinéma",SONY ONE SERIES COMEDIES
-https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="FR3000125U" group-title="Cinéma",SONY ONE SERIES THRILLER
-https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FR300010HD" group-title="Séries et Divertissements",SONY ONE THE BLACKLIST
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr" tvg-name="Vosges TV" tvg-logo="https://i.postimg.cc/6qSJsv8k/vosgestv.png" group-title="",Vosges TV
@@ -525,8 +521,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&
 https://jmp2.uk/stvp-FRBC900003KP
 #EXTINF:-1 channel-id="samsung-FR3600003DS" tvg-id="FR3600003DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600003DS_20251209T004448SQUARE.png" group-title="Divertissement" tvg-chno="",100% Comedy
 https://jmp2.uk/stvp-FR3600003DS
-#EXTINF:-1 channel-id="samsung-FRBA10000029E" tvg-id="FRBA10000029E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA10000029E_20241015T042540SQUARE.png" group-title="Divertissement" tvg-chno="",People Are Awesome
-https://jmp2.uk/stvp-FRBA10000029E
 #EXTINF:-1 channel-id="samsung-FRBD5100003TP" tvg-id="FRBD5100003TP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20251202T002632SQUARE.png" group-title="Divertissement" tvg-chno="",Epicurieux avec Jamy
 https://jmp2.uk/stvp-FRBD5100003TP
 #EXTINF:-1 channel-id="samsung-FRBC4700002RF" tvg-id="FRBC4700002RF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20251028T011415SQUARE.png" group-title="Séries TV" tvg-chno="",Alerte à Malibu
@@ -551,8 +545,6 @@ https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/manifest.m3u8
 #EXTINF:-1 ,Fox LiveNOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png",ACTION TOTALE ADRÉNALINE
-https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",PTV PUISSANCE TV
 https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png",ETV GUADELOUPE
@@ -573,8 +565,6 @@ https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FRBB340000115" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" group-title="Cinéma",EMOTION'L HD
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="ClubbingTV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/274_8e77a87554.png" group-title="Musique",CLUBBING TV
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-id="matele.be",MATELE (1080i)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="riksat.cy",RIK SAT HD
@@ -651,15 +641,13 @@ https://8af87da5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5Q2xhc3NpY2FfSExT/4547056c-4a43-4209-b017-81137f725997/3.m3u8
 #EXTINF:-1,MotorVision english HD
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1,MotorVision classic HD
-https://mvg-mv-cl-wedotv.otteravision.com/mvg/mv_cl/mv_cl_1080.m3u8
 #EXTINF:-1 tvg-name="TRACE Brasil HD" tvg-logo="https://static.epg.best/br/tracebrasil.br.png" tvg-country="BR" group-title="music",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://static.epg.best/uk/bbcearth.uk.png" tvg-country="GB" group-title="documentary",BBC Earth HD
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="GBNews HD" tvg-logo="https://static.epg.best/gb/gbnews.gb.png" tvg-country="GB" tvg-language="English" group-title="UK News",GB News HD
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://static.epg.best/ca/icitele.ca.png" tvg-country="CA" tvg-language="French" group-title="CA generalist",ICI Télé - Radio Canada HD
+#EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://static.epg.best/ca/icitele.ca.png" tvg-country="CA" tvg-language="French" group-title="CA generalist",ICI RDI Télé - Radio Canada HD
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1,N24 Doku HD
 https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
@@ -709,8 +697,6 @@ https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.
 https://canalb-f.vedge.infomaniak.com/livecast/ik:canalb-f/manifest.m3u8
 #EXTINF:-1 tvg-id="canalb-d.ch" tvg-logo="https://static.epg.best/ch/canalb-d.ch.png" tvg-country="CH" tvg-language="deutsch" group-title="CH local",canalb de HD
 https://canalb-d.vedge.infomaniak.com/livecast/ik:canalb-d/manifest.m3u8
-#EXTINF:-1 tvg-id="antennatre.it" tvg-logo="https://static.epg.best/ch/antennatre.it.png" tvg-country="IT" tvg-language="italia" group-title="IT local",ANTENNA TRE HD
-https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="radioitalialive.it" tvg-logo="https://static.epg.best/it/radioitalialive.it.png" tvg-country="IT" tvg-language="italia" group-title="IT local",Radio Italia live
 https://radioitalialive.akamaized.net/hls/live/2124228/radioitalialive/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-logo="https://static.epg.best/it/foodnetwork.it.png" tvg-country="IT" tvg-language="italia" group-title="IT cooking",Food Network IT HD
