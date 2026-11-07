@@ -455,19 +455,19 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="www.haitinewstv.com" tvg-logo="https://picserve.netplus.ch/channels/haitinewstv.png",Haiti News HD
 https://cdn.haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 tvg-id="dbmtv.com" tvg-logo="https://picserve.netplus.ch/channels/dbmtv.png",DBMTV HD Digital Black Music HD
+#EXTINF:-1 tvg-id="dbmtv.com" tvg-logo="https://gamako.net/iptv/logos/blacklogos/dbm_logobbg.png",DBMTV HD Digital Black Music HD
 http://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="generations.fr" tvg-logo="https://picserve.netplus.ch/channels/generations.png",Generations TV HD
+#EXTINF:-1 tvg-id="generations.fr" tvg-logo="https://generations.fr/media/option/thumb/161x68_logo-generations-50770.webp",Generations TV HD
 https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="ivoire.fr" tvg-logo="https://picserve.netplus.ch/channels/ivoire.png",ivoire channel
+#EXTINF:-1 tvg-id="ivoire.fr" tvg-logo="https://gamako.net/iptv/logos/blacklogos/ivoirechannel_logobbg.png",ivoire channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="traceurban.fr" tvg-logo="https://picserve.netplus.ch/channels/traceurban.png",TRACE URBAN HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="tracelatina.fr" tvg-logo="https://picserve.netplus.ch/channels/tracelatina.png",TRACE LATINA HD
 #EXTREM https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
-#EXTINF:-1 tvg-id="MyGospelTV.fr" tvg-name="My Gospel TV" tvg-logo="https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png" group-title="music;religious",My Gospel TV HD
-https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
+#EXTREM #EXTINF:-1 tvg-id="MyGospelTV.fr" tvg-name="My Gospel TV" tvg-logo="https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png" group-title="music;religious",My Gospel TV HD
+#EXTREM https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblack.png",BB BLACK! HD
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackafrica.png",BB BLACK! Africa HD
