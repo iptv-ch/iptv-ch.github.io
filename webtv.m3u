@@ -401,7 +401,7 @@ https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8
 #EXTINF:-1 tvg-id="africa24tv.com" tvg-logo="https://gamako.net/iptv/logos/blacklogos/africa24_logobbg.png",Africa24 HD
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="https://picserve.netplus.ch/channels/africa24sport.png",Africa24 Sport HD
+#EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/africa24sport_logobbg.png",Africa24 Sport HD
 https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="africanews.com" tvg-logo="https://picserve.netplus.ch/channels/africanews.png",africanews. HD
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
@@ -531,7 +531,7 @@ https://jmp2.uk/stvp-FR1100001V1
 https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20250722T005817SQUARE.png" group-title="Documentaires" tvg-chno="",Destination Nature
 https://jmp2.uk/stvp-FRBC4000001IO
-#EXTINF:-1 channel-id="samsung-FR1800004EP" tvg-id="FR1800004EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20251013T054046SQUARE.png" group-title="Voyages et Gastronomie" tvg-chno="",TV5 Monde Voyage
+#EXTINF:-1 channel-id="samsung-FR1800004EP" tvg-id="FR1800004EP" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondevoyage_logobbg.png" group-title="Voyages et Gastronomie" tvg-chno="",TV5 Monde Voyage
 https://jmp2.uk/stvp-FR1800004EP
 #EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us" tvg-logo="https://i.imgur.com/fU0ZhKD.png" group-title="Religious",Global Buddhist Network HD
 https://us.gbnus.com/live/dhamma_high/playlist.m3u8
@@ -739,5 +739,7 @@ https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/bibeltv01
 https://streamcdnm1-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/chunklist_b3392000.m3u8
 #EXTINF:-1 tvg-id="tvrt.ch" tvg-logo="https://www.tvrt.ch/design2020/logos/logo-tvrt-head.svg" tvg-country="CH" tvg-language="Schweiz deutsch" group-title="CH region", TV RT Rheintal
 https://rtmp-vl.fidion.de/live/tvrt.m3u8
-#EXTINF:-1 tvg-id="rtscouleur3.ch",RTS Couleur3 TV
-https://visualradio-rts-couleur3-d.akamaized.net/out/v1/lsvs/visual-radio-rts-couleur-3/cmaf/hls-index.m3u8
+#EXTINF:-1 tvg-id="nexttvgroup.com" tvg-logo="https://gamako.net/iptv/logos/blacklogos/nexttv_logobbg.png" tvg-country="FR" tvg-language="French" group-title="FR series",NEXT TV
+https://video1.getstreamhosting.com:1936/NextTV/live/main_stream.m3u8
+#EXTINF:-1 tvg-id="nexttvgroup.com" tvg-logo="https://gamako.net/iptv/logos/blacklogos/starplus_logobbg.png" tvg-country="FR" tvg-language="French" group-title="FR series",NEXT TV
+https://video1.getstreamhosting.com:1936/StarPlusNovelas/live/main_stream.m3u8
