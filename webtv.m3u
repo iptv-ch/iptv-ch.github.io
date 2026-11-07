@@ -399,7 +399,7 @@ https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-HLS8/hrt4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8
 #EXTINF:-1 tvg-id="ertcosmos.gr" tvg-logo="https://picserve.netplus.ch/channels/ert3.png" tvg-country="GR" tvg-language="Greek" group-title="GR news",ERT Cosmos HD
 https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8
-#EXTINF:-1 tvg-id="africa24tv.com" tvg-logo="https://picserve.netplus.ch/channels/africa24.png",Africa24 HD
+#EXTINF:-1 tvg-id="africa24tv.com" tvg-logo="https://gamako.net/iptv/logos/blacklogos/africa24_logobbg.png",Africa24 HD
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="https://picserve.netplus.ch/channels/africa24sport.png",Africa24 Sport HD
 https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
@@ -407,7 +407,7 @@ https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="",TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://picserve.netplus.ch/channels/tv5mondeinfo.png",TV5MONDE Info (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondeinfo_logobbg.png",TV5MONDE Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="francais.rt.com" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-500px-RT_France.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",RT Russia Today France HD
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -590,9 +590,9 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="",Bénin TV HD
+#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/benintv_logobbg.png" group-title="",Bénin TV HD
 https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
-#EXTINF:-1,KALAC TV HD
+#EXTINF:-1 tvg-id="LGFPOP.tv" tvg-logo="https://lgfmedias.com/logos/pop-mono.svg" tvg-country="GN" tvg-language="French" group-title="FR generalist",LGF Pop HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 #EXTINF:-1,Musig24 Schweizer musik schlager
 https://tv.musig24.tv/hls/0/stream.m3u8
@@ -609,9 +609,9 @@ https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
 #EXTINF:-1,RHT Radio Haute Tension Guadeloupe
 https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5tbzFI.png",Espace TV Ghana
-https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
-#EXTINF:-1,Madras FM TV HD
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png",LGF Talk
+https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="madrasfm.tv" tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png" tvg-country="FR" tvg-language="French" group-title="FR music",Madras FM TV HD
 https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.postimg.cc/xdWDWzXr/now70s.png" group-title="music",that's 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
