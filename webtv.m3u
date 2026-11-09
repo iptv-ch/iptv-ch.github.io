@@ -89,6 +89,7 @@ https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 tvg-id="tv5monde.fr" tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png" tvg-country="FR" tvg-language="French" group-title="FR generalist",TV5 MONDE FBSM HD
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTREM https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="itele.fr" tvg-logo="https://picserve.netplus.ch/channels/itele.png" tvg-country="FR" tvg-language="French" group-title="FR news",CNEWS HD
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 #EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://picserve.netplus.ch/channels/lci.png" tvg-country="FR" tvg-language="French" group-title="FR news",LCI HD
@@ -403,9 +404,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="africanews.com" tvg-logo="https://picserve.netplus.ch/channels/africanews.png",africanews. HD
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="",TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondeinfo_logobbg.png",TV5MONDE Info (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_tv5mondeinfofr.png",TV5MONDE Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="francais.rt.com" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-500px-RT_France.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",RT Russia Today France HD
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -561,7 +560,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="matele.be",MATELE (1080i)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/chunklist.m3u8
-#EXTINF:-1 tvg-id="riksat.cy",RIK SAT HD
+#EXTINF:-1 tvg-id="riksat.cy" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-language="" tvg-country="CY" group-title="CY generalist" ,RIK SAT HD
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="radioitalia.it" tvg-logo="https://picserve.netplus.ch/channels/radioitalia.png",Radio Italia tv
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
@@ -582,24 +581,24 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV" tvg-logo="https://i.postimg.cc/L5DYvxw9/morethansportstv.png" group-title="sports",More Than Sports TV HD
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24 HD
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" tvg-country="CH" group-title="CH news",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="LGFPOP.tv" tvg-logo="https://lgfmedias.com/logos/pop-mono.svg" tvg-country="GN" tvg-language="French" group-title="FR generalist",LGF Pop HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
-#EXTINF:-1,Musig24 Schweizer musik schlager
+#EXTINF:-1 tvg-id="musig24.tv" tvg-logo="https://new.musig24.tv/assets/brand/musig24-logo.webp" tvg-country="CH" group-title="CH music",Musig24 Schweizer musik schlager
 https://tv.musig24.tv/hls/0/stream.m3u8
-#EXTINF:-1,TVPolonia info HD
+#EXTINF:-1 tvg-id="tvpinfo.pl" tvg-logo="https://s.tvp.pl/files/portale-v4/tvp-info-v2/assets/images/tvp_info-2024.feb2d591.svg" tvg-country="PL" tvg-language="Polonia" group-title="PL news",TVP info_ HD
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://static.epg.best/uk/euronews.uk.png" tvg-country="UK" tvg-language="english" group-title="EN news",euronews. english HD
+#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://static.epg.best/uk/euronews.uk.png" tvg-country="UK" tvg-language="english" group-title="EN news",euronews. en HD
 #EXTREM https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 https://a-cdn.klowdtv.com/live4/euronews_720p/chunks.m3u8
-#EXTINF:-1,STINGRAY iConcerts HD
+#EXTINF:-1 tvg-id="iconcerts.us" tvg-logo="https://www.stingray.com/wp-content/uploads/2026/04/iconcerts_logo.svg" tvg-country="US" group-title="music",STINGRAY iConcerts HD
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1,English Club TV
+#EXTINF:-1 tvg-id="englishclub.tv" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" tvg-country="UK" tvg-language="UK" group-title="UK Learning",English Club TV
 https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1,TVD TV Découverte
+#EXTINF:-1 tvg-id="tvdecouverte.ch" tvg-logo="https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png" tvg-country="CH" tvg-language="French" group-title="CH regional",TVD TV Découverte
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png",LGF Talk
+#EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png" tvg-country="FR" tvg-language="French" group-title="FR news",LGF Talk
 https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8
 #EXTINF:-1 tvg-id="madrasfm.tv" tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png" tvg-country="FR" tvg-language="French" group-title="FR music",Madras FM TV HD
 https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
@@ -617,19 +616,19 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="arte.de" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EJNxrqJoyTicNtX7uuZTTC/1920x1080",arte d HD
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="arirang.kr",arirang korea HD
+#EXTINF:-1 tvg-id="arirang.kr" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/500px-Arirang.svg.png" tvg-country="KR" group-title="KR Generalist",arirang korea HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8
-#EXTINF:-1 tvg-id="icitelevision.ca",ICI Television Québec HD
+#EXTINF:-1 tvg-id="icitelevision.ca" tvg-logo="https://icitelevision.ca/wp-content/uploads/2017/07/logoretina-3.png" tvg-country="CA" group-title="CA Generalist",ICI Television Québec HD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1,SPORTDIGITAL FREE HD deutsch
 https://jmp2.uk/stvp-DEAJ0500429A
-#EXTINF:-1,Movie Music by STINGRAY HD
+#EXTINF:-1 tvg-id="movie-music.com" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/12/movie-music_logo.svg" tvg-country="US" group-title="music",Movie Music by STINGRAY HD
 https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X01vdmllTXVzaWNieVN0aW5ncmF5X0hMUw/f03a879d-41f6-4bf1-9e9d-c0985374a99a/3.m3u8
-#EXTINF:-1,dJazz STINGRAY HD
+#EXTINF:-1 tvg-id="stingray_djazz.us" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/01/stingray_djazz.svg" tvg-country="US" group-title="music",dJazz STINGRAY HD
 https://8af87da5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5REpBWlpfSExT/a1941365-77da-4bb2-98b2-307abbb35d4e/3.m3u8
-#EXTINF:-1,Classica STINGRAY HD
+#EXTINF:-1 tvg-id="stingray_classica.us" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/01/stingray_classica.svg" tvg-country="US" group-title="music",Classica STINGRAY HD
 https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5Q2xhc3NpY2FfSExT/4547056c-4a43-4209-b017-81137f725997/3.m3u8
-#EXTINF:-1,MotorVision english HD
+#EXTINF:-1 tvg-id="motorvision.tv" tvg-logo="https://video.motorvision.tv/themes/custom/mvg/motorvision_tv/logo.png" tvg-country="US" group-title="sport",MotorVision En HD
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-name="TRACE Brasil HD" tvg-logo="https://static.epg.best/br/tracebrasil.br.png" tvg-country="BR" group-title="music",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
@@ -661,7 +660,7 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d98c73d-ddae-4260-a640-e2e443a0b6ce/27173802-f7ef-4e18-ab7e-f4c2e3da9326/2.m3u8
 #EXTINF:-1 tvg-name="wired2fish" tvg-logo="https://picserve.netplus.ch/channels/fast_wired2fish.png" tvg-country="GB" tvg-language="English" group-title="UK SPORTS",Wired2fish
 https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
-#EXTINF:-1 tvg-id="tvri.br",TVR INFO TV Romania INFO HD
+#EXTINF:-1 tvg-id="tvrinfo.ro" tvg-logo="https://tvrinfo.ro/wp-content/themes/tvr/images/white-logo.svg" tvg-country="RO" tvg-language="Romanian" group-title="RO news",TVR INFO Romania INFO HD
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/index.m3u8
 #EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://static.epg.best/lu/RTL.bj.png" tvg-country="LU" tvg-language="Lëtzebuergesch" group-title="LU generalist",RTL Luxembourg HD
 https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
@@ -707,7 +706,7 @@ https://pb-xr8iccrw35yso.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://euronews-live-ita-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/854d00fb-ffa8-4d48-a222-7b35611f89a7/4.m3u8
 #EXTINF:-1 tvg-id="qs24tv.ch" tvg-logo="https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png" tvg-country="CH" tvg-language="german" group-title="CH health",QS24.TV HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8
-#EXTINF:-1 tvg-id="classcnbc.it" tvg-logo="https://classcnbc.it/" tvg-country="IT" tvg-language="italia" group-title="IT news financial",Class CNBC IT HD
+#EXTINF:-1 tvg-id="classcnbc.it" tvg-logo="https://classcnbc.it/" tvg-country="IT" tvg-language="italia" group-title="IT news",Class CNBC IT HD
 https://d1t2v0gs1xcf0l.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y3ddf6plueqkw/d1f46cc7-20fb-49fa-8357-925d31c9eeeb/0.m3u8
 #EXTINF:-1 tvg-id="20minutes.fr" tvg-logo="https://programme-tv.20minutes.fr/assets/channel-logos/20-minutes-tv.png" tvg-country="FR" tvg-language="french" group-title="FR news",20 Minutes TV HD
 https://live-20minutestv.digiteka.com/1961167769/tracks-v2a1/mono.ts.m3u8
@@ -731,5 +730,5 @@ https://video1.getstreamhosting.com:1936/StarPlusNovelas/live/main_stream.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-country="FR" tvg-language="French" group-title="FR ",TV5MONDE Chefs HD
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:-1 tvg-id="blacktvs.com@SD" tvg-logo="https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg" tvg-country="EN" tvg-language="English" group-title="US generalist"
+#EXTINF:-1 tvg-id="blacktvs.com@SD" tvg-logo="https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg" tvg-country="EN" tvg-language="English" group-title="US generalist",Black TVs
 https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8
