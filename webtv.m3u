@@ -464,8 +464,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 #EXTREM #EXTINF:-1 tvg-id="MyGospelTV.fr" tvg-name="My Gospel TV" tvg-logo="https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png" group-title="music;religious",My Gospel TV HD
 #EXTREM https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
-#EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblack.png",BB BLACK! HD
-https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackafrica.png",BB BLACK! Africa HD
 https://bblackafrica.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackcaribbean.png",BB BLACK! Caribbean HD
@@ -586,8 +584,6 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="news",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="ortb.bj" tvg-name="ORTB BJ" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/benintv_logobbg.png" group-title="",Bénin TV HD
-https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="LGFPOP.tv" tvg-logo="https://lgfmedias.com/logos/pop-mono.svg" tvg-country="GN" tvg-language="French" group-title="FR generalist",LGF Pop HD
 https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 #EXTINF:-1,Musig24 Schweizer musik schlager
@@ -603,8 +599,6 @@ https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1,TVD TV Découverte
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
-#EXTINF:-1,RHT Radio Haute Tension Guadeloupe
-https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://gamako.net/iptv/logos/blacklogos/tv_logobbg.png",LGF Talk
 https://edge16.vedge.infomaniak.com/livecast/ik:espacetv/chunklist.m3u8
 #EXTINF:-1 tvg-id="madrasfm.tv" tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png" tvg-country="FR" tvg-language="French" group-title="FR music",Madras FM TV HD
@@ -737,3 +731,5 @@ https://video1.getstreamhosting.com:1936/StarPlusNovelas/live/main_stream.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-country="FR" tvg-language="French" group-title="FR ",TV5MONDE Chefs HD
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="blacktvs.com@SD" tvg-logo="https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg" tvg-country="EN" tvg-language="English" group-title="US generalist"
+https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8
