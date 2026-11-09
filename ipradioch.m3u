@@ -593,3 +593,5 @@ https://server31677.streamplus.de:11144/stream.mp3
 https://radiostar.ice.infomaniak.ch/radiostar-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/pikapi/images/cbfde3c3-8213-45a6-ac89-b6a3b521025c/268x268" group-title="radio" radio="true",mon petit france inter
 https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8
+#EXTINF:-1 tvg-logo="https://www.rtl.be/sites/all/themes/enacarbon_rtl/images/bel-rtl/bel-rtl_white.svg" group-title="radio" radio="true",belRTL!
+https://www.rtl.be/player/components/nowplaying/belrtl
