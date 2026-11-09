@@ -41,8 +41,6 @@ https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 https://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="generations.fr" tvg-logo="https://picserve.netplus.ch/channels/generations.png",Generations TV HD
 https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblack.png",BB BLACK! HD
-https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackafrica.png",BB BLACK! Africa HD
 https://bblackafrica.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackcaribbean.png",BB BLACK! Caribbean HD
