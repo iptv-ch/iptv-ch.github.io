@@ -595,3 +595,5 @@ https://radiostar.ice.infomaniak.ch/radiostar-128.mp3
 https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8
 #EXTINF:-1 tvg-logo="https://www.rtl.be/sites/all/themes/enacarbon_rtl/images/bel-rtl/bel-rtl_white.svg" group-title="radio" radio="true",belRTL!
 https://www.rtl.be/player/components/nowplaying/belrtl
+#EXTINF:-1 tvg-logo="https://static-oaos.rtbf.be/assets/png/logotype/dark/lapremiere.png" group-title="radio" radio="true",RTBF LaPremière
+https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067
