@@ -690,8 +690,6 @@ https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://d2jkw86a67nj1h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dbb29xswlo1zn/9bbb3446-b6a8-411b-aca3-89273004b2c4/3.m3u8
 #EXTINF:-1 tvg-id="automoto.it" tvg-logo="https://static.epg.best/it/automoto.it.png" tvg-country="IT" tvg-language="italia" group-title="IT sport",AUTOMOTO IT
 https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/726c5407-75a8-4485-909e-c1d4d05c6754/1.m3u8
-#EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://static.epg.best/it/tv2000.it.png" tvg-country="IT" tvg-language="italia" group-title="IT religion",TV2000 IT
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 tvg-id="discovery.it" tvg-logo="https://static.epg.best/it/discovery.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",DISCOVERY IT
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://static.epg.best/it/giallo.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Giallo IT
