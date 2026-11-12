@@ -730,3 +730,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="blacktvs.com@SD" tvg-logo="https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg" tvg-country="EN" tvg-language="English" group-title="US generalist",Black TVs
 https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8
+#EXTINF:-1 tvg-id="SciFi.fr@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SciFi_2026.svg/250px-SciFi_2026.svg.png" tvg-country="FR" tvg-language="French" group-title="FR movies",SciFi
+http://192.99.186.30/stream/250/index.m3u8
+#EXTINF:-1 tvg-id="13emeRue.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/250px-Logo_13e_Rue_%282017%29.svg.png" tvg-country="FR" tvg-language="French" group-title="FR movies",13EME RUE
+http://192.99.186.30/stream/251/index.m3u8
