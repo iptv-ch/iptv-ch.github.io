@@ -692,6 +692,8 @@ https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://static.epg.best/it/giallo.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Giallo IT
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://static-play2000.akamaized.net/live/2026/04/vCxmXXnhSHQDwqV075gRTGP4A7Ywa3ofHUyYfuDH.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",TV2000
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_1500/chunklist.m3u8
 #EXTINF:-1 tvg-id="realtime.it" tvg-logo="https://static.epg.best/it/realtime.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Real Time IT HD
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://static.epg.best/it/hgtv.it.png" tvg-country="IT" tvg-language="italia" group-title="IT home",HGTV IT Home & Garden HD
