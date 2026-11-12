@@ -597,3 +597,5 @@ https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8
 https://www.rtl.be/player/components/nowplaying/belrtl
 #EXTINF:-1 tvg-logo="https://static-oaos.rtbf.be/assets/png/logotype/dark/lapremiere.png" group-title="radio" radio="true",RTBF LaPremière
 https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067
+#EXTINF:-1 tvg-logo="https://static-play2000.akamaized.net/live/2026/04/HD1Qwi0U3skNFtdYROxUqhuip22Szn7UEbShcl0U.png" group-title="radio" radio="true",INBLU2000
+https://hls.live2.meride.tv/hls/live/2028947/inblu2000/inblu_1_128/chunklist_ao.m3u8
