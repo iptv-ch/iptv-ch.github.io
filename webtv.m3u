@@ -722,29 +722,29 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="blacktvs.com@SD" tvg-logo="https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg" tvg-country="EN" tvg-language="English" group-title="generalist",Black TVs HD
 https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8
-#EXTINF:-1 tvg-id="SciFi.fr@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SciFi_2026.svg/250px-SciFi_2026.svg.png" tvg-country="FR" tvg-language="French" group-title="movies",SciFi HD
+#EXTINF:-1 tvg-id="SciFi.fr@HD" tvg-logo="https://picserve.netplus.ch/channels/syfyhd.png" tvg-country="FR" tvg-language="French" group-title="movies",SciFi HD
 http://192.99.186.30/stream/250/index.m3u8
 #EXTINF:-1 tvg-id="13emeRue.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/250px-Logo_13e_Rue_%282017%29.svg.png" tvg-country="FR" tvg-language="French" group-title="movies",13EME RUE HD
 http://192.99.186.30/stream/251/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MCM_Top_2017.svg/langfr-330px-MCM_Top_2017.svg.png" tvg-country="FR" tvg-language="French" group-title="music",MCM Top HD
+#EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/mcmtop.png" tvg-country="FR" tvg-language="French" group-title="music",MCM Top HD
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="Automotolachaine.fr@SD" tvg-logo="i.imgur.com/ebf2uc7.png" tvg-country="FR" tvg-language="French" group-title="auto moto",AUTOMOTO HD
+#EXTINF:-1 tvg-id="Automotolachaine.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/automoto.png" tvg-country="FR" tvg-language="French" group-title="auto moto",AUTOMOTO HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.fr@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/250px-Boomerang_tv_logo.png" tvg-country="FR" tvg-language="French" group-title="kids",Boomrang F HD
+#EXTINF:-1 tvg-id="Boomerang.fr@HD" tvg-logo="https://picserve.netplus.ch/channels/boomerang.png" tvg-country="FR" tvg-language="French" group-title="kids",Boomrang F HD
 http://41.205.93.154/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" tvg-country="FR" tvg-language="French" group-title="sports",Chasse&Pêche HD
+#EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/chasseetpeche.png" tvg-country="FR" tvg-language="French" group-title="sports",Chasse&Pêche HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" tvg-country="FR" tvg-language="French" group-title="entertainement",Comedy Central Fr HD
+#EXTINF:-1 tvg-id="ComedyCentral.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png" tvg-country="FR" tvg-language="French" group-title="entertainement",Comedy Central Fr HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-logo="https://fr.wikipedia.org/wiki/Discovery_Channel#/media/Fichier:Discovery_Channel_-_Logo_2019.svg" tvg-country="FR" tvg-language="French" group-title="Documentary",Discovery Channel F HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/discoverychannel.png" tvg-country="FR" tvg-language="French" group-title="Documentary",Discovery Channel F HD
 http://192.99.186.30/stream/68/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport1 F HD
+#EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-logo="https://picserve.netplus.ch/channels/eurosport1.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport1 F HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport2 F HD
+#EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport2 F HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://i.imgur.com/WHnddkg.png" tvg-country="FR" tvg-language="French" group-title="Sports",Golf+ HD
+#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/golfplus.png" tvg-country="FR" tvg-language="French" group-title="Sports",Golf+ HD
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
-#EXTINF:-1 tvg-id="HistoireTV.fr@SD" tvg-logo="https://i.imgur.com/hxuJXll.png" tvg-country="FR" tvg-language="French" group-title="Documentary",HISTOIRE TV HD
+#EXTINF:-1 tvg-id="HistoireTV.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/histoire.png" tvg-country="FR" tvg-language="French" group-title="Documentary",HISTOIRE TV HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/330px-LOGO_i24NEWS.png" tvg-country="IL" tvg-language="French" group-title="news",i24NEWS
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
@@ -754,19 +754,21 @@ http://192.99.186.30/stream/81/index.m3u8
 http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.imgur.com/.png" tvg-country="BE" tvg-language="French" group-title="generalist",MATELE
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/M6_Music_2020_logo.svg/langfr-330px-M6_Music_2020_logo.svg.png" tvg-country="FR" tvg-language="French" group-title="music",M6Music
+#EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/250px-M6_Music_2012.png" tvg-country="FR" tvg-language="French" group-title="music",M6Music
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Melody.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Melody_logo_2013.png/500px-Melody_logo_2013.png" tvg-country="FR" tvg-language="French" group-title="music",Melody
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" tvg-language="French" group-title="lifestyle",my zen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="FR" tvg-language="French" group-title="kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/nickelodeon.png" tvg-country="FR" tvg-language="French" group-title="kids",Nickelodeon
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Mangas.fr@SD" tvg-logo="https://i.imgur.com/wmmE0za.png" tvg-country="FR" tvg-language="French" group-title="kids",Mangas
+#EXTINF:-1 tvg-id="Mangas.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/mangas.png" tvg-country="FR" tvg-language="French" group-title="kids",Mangas
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.fr@SD" tvg-logo="https://i.imgur.com/OWRUPA4.png" tvg-country="FR" tvg-language="French" group-title="kids",niCKTOONS HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="ScienceVieTV.fr@SD" tvg-logo="https://i.imgur.com/9ELsSMI.png" tvg-country="FR" tvg-language="French" group-title="documentary",Science&Vie HD
+#EXTINF:-1 tvg-id="ScienceVieTV.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/scienceetvie.png" tvg-country="FR" tvg-language="French" group-title="documentary",Science&Vie HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBreizh.fr@SD" tvg-logo="https://i.imgur.com/08W4yhn.png" tvg-country="FR" tvg-language="French" group-title="generalist",TV Breizh
+#EXTINF:-1 tvg-id="TVBreizh.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/tvbreizh.png" tvg-country="FR" tvg-language="French" group-title="generalist",TV Breizh
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/nickjunior.png" tvg-country="FR" tvg-language="French" group-title="kids",Nickelodeon Junior
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
