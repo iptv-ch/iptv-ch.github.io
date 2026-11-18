@@ -732,8 +732,6 @@ http://185.228.163.146:8000/play/a00g/index.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Boomerang.fr@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/250px-Boomerang_tv_logo.png" tvg-country="FR" tvg-language="French" group-title="kids",Boomrang F HD
 http://41.205.93.154/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="i.imgur.com/EOXnU15.png" tvg-country="FR" tvg-language="French" group-title="Sports",Canal+ Sport HD
-http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" tvg-country="FR" tvg-language="French" group-title="sports",Chasse&Pêche HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" tvg-country="FR" tvg-language="French" group-title="entertainement",Comedy Central Fr HD
