@@ -760,7 +760,7 @@ https://live.matele.be/hls/live.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Melody.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Melody_logo_2013.png/500px-Melody_logo_2013.png" tvg-country="FR" tvg-language="French" group-title="music",Melody
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" tvg-language="French" group-title="lifestyle",
+#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" tvg-language="French" group-title="lifestyle",my zen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="FR" tvg-language="French" group-title="kids",Nickelodeon
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
