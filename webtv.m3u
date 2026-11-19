@@ -402,7 +402,7 @@ https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_tv5mondeinfofr.png",TV5MONDE Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="francais.rt.com" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-500px-RT_France.svg.png" tvg-country="RU" tvg-language="french" group-title="news",Russia Today HD
+#EXTINF:-1 tvg-id="francais.rt.com" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt-france-ru.svg" tvg-country="RU" tvg-language="french" group-title="news",Russia Today HD
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="theexplorers.com" tvg-logo="https://assets.theexplorers.com/img/layout/logo_the_explorer_bleu.svg",The Explorers HD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d7b8d2d2-30c5-4362-8735-ac91f9e17134/458be94d-45ec-44e7-a92b-eca318c910c6/2.m3u8
@@ -465,10 +465,8 @@ https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifes
 http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id=".fr" tvg-logo="https://picserve.netplus.ch/channels/mondeduloisir.png",MDL Monde Du Loisir TV HD
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tracesportstars.tv@SD" tvg-logo="https://picserve.netplus.ch/channels/tracesportstars.png",Trace Sport Stars HD
+#EXTINF:-1 tvg-id="tracesportstars.tv@SD" tvg-logo="",Trace Sport Stars HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTREM #EXTINF:-1 tvg-id="motorvision.tv" tvg-logo="https://picserve.netplus.ch/channels/motorvision.png",MotorVision EN HD
-
 #EXTINF:-1 tvg-id="frequencenovelas.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_frequencenovelas.png",Frequence Novelas F HD
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="screamin.fr" tvg-logo="https://picserve.netplus.ch/channels/fast_screamin.png",SCREAM IN F HD
@@ -619,7 +617,7 @@ https://799d3689.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vk
 https://8af87da5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5REpBWlpfSExT/a1941365-77da-4bb2-98b2-307abbb35d4e/3.m3u8
 #EXTINF:-1 tvg-id="stingray_classica.us" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/01/stingray_classica.svg" tvg-country="US" group-title="music",Classica STINGRAY HD
 https://3b388da9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X1N0aW5ncmF5Q2xhc3NpY2FfSExT/4547056c-4a43-4209-b017-81137f725997/3.m3u8
-#EXTINF:-1 tvg-id="motorvision.tv" tvg-logo="https://video.motorvision.tv/themes/custom/mvg/motorvision_tv/logo.png" tvg-country="UK" language="english" group-title="sport",MotorVision+ HD
+#EXTINF:-1 tvg-id="motorvision.uk@SD" tvg-logo="https://picserve.netplus.ch/channels/motorvision.png" tvg-country="UK" language="english" group-title="sport",MotorVision+ HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-name="TRACE Brasil HD" tvg-logo="https://static.epg.best/br/tracebrasil.br.png" tvg-country="BR" language="portuguese" group-title="music",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
@@ -755,7 +753,7 @@ https://live.matele.be/hls/live.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Melody.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Melody_logo_2013.png/500px-Melody_logo_2013.png" tvg-country="FR" tvg-language="French" group-title="music",Melody
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="FR" tvg-language="French" group-title="lifestyle",my zen TV
+#EXTINF:-1 tvg-id="MyZenTV.uk@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="UK" tvg-language="english" group-title="lifestyle",my zen TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/nickelodeon.png" tvg-country="FR" tvg-language="French" group-title="kids",Nickelodeon
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
@@ -771,7 +769,15 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr@SD" tvg-logo="https://i.imgur.com/ily4bEm.png" tvg-country="FR" tvg-language="French" group-title="regional",PARIS PREMIERE HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Action.fr@SD" tvg-logo="https://i.imgur.com/Zv9VsVq.png" tvg-country="FR" tvg-language="French" group-title="movie",ACTION
+#EXTINF:-1 tvg-id="Action.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/crimedistric.png" tvg-country="FR" tvg-language="French" group-title="movie",ACTION
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CrimeDistrict.fr@SD" tvg-logo="https://i.imgur.com/WQJ6Lbk.png" tvg-country="FR" tvg-language="French" group-title="documentary",CRIME DISTRICT
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="teva.fr@SD" tvg-logo="https://assets-bundle.6cloud.fr/m6/24/svg-sprite/marginless.svg#tevareplay" tvg-country="FR" tvg-language="French" group-title="generalist",téva
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Ushuaiatv.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png" tvg-country="FR" tvg-language="French" group-title="discover"
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="vatican.va@SD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vatican-media-va.png" tvg-country="VA" tvg-language="italian" group-title="religious",Vatican media Europa
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="tvpitchoun.fr@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png" tvg-country="FR" tvg-language="French" group-title="cartoons",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
