@@ -320,7 +320,8 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 #EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png" tvg-country="EN" tvg-language="English" group-title="generalist",QUEST HD
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" tvg-country="EN" tvg-language="English" group-title="generalist",channel4 HD
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="channel5.uk" tvg-logo="https://picserve.netplus.ch/channels/channel5.png" tvg-country="EN" tvg-language="English" group-title="generalist",channel5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png" tvg-country="EN" tvg-language="English" group-title="movie",FILM4
@@ -718,7 +719,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="blacktvs.com@SD" tvg-logo="https://blacktvs.com/wp-content/uploads/2021/10/My-Post-22-ccc84d3d8eff6cdfb7c3e4ad79005e04.jpg" tvg-country="EN" tvg-language="English" group-title="generalist",Black TVs HD
 https://stream.ott.tvstartup.com/975c1980-ef2a-413f-bf4f-88c3a9684530/master.m3u8
 #EXTINF:-1 tvg-id="SciFi.fr@HD" tvg-logo="https://picserve.netplus.ch/channels/syfyhd.png" tvg-country="FR" tvg-language="French" group-title="movies",SciFi HD
-http://192.99.186.30/stream/250/index.m3u8
+#EXTREM http://192.99.186.30/stream/250/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/syfy/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="13emeRue.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/250px-Logo_13e_Rue_%282017%29.svg.png" tvg-country="FR" tvg-language="French" group-title="movies",13EME RUE HD
 http://192.99.186.30/stream/251/index.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/mcmpop.png" tvg-country="FR" tvg-language="French" group-title="music",MCM Pop HD
@@ -775,9 +777,11 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="teva.fr@SD" tvg-logo="https://assets-bundle.6cloud.fr/m6/24/svg-sprite/marginless.svg#tevareplay" tvg-country="FR" tvg-language="French" group-title="generalist",téva
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Ushuaiatv.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png" tvg-country="FR" tvg-language="French" group-title="discover"
+#EXTINF:-1 tvg-id="Ushuaiatv.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png" tvg-country="FR" tvg-language="French" group-title="discover",Ushuïa TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="vatican.va@SD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vatican-media-va.png" tvg-country="VA" tvg-language="italian" group-title="religious",Vatican media Europa
+#EXTINF:-1 tvg-id="vatican.va@SD" tvg-logo="" tvg-country="VA" tvg-language="italian" group-title="religious",Vatican media Europa
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="tvpitchoun.fr@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png" tvg-country="FR" tvg-language="French" group-title="cartoons",
+#EXTINF:-1 tvg-id="tvpitchoun.fr@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png" tvg-country="FR" tvg-language="French" group-title="cartoons",TV Pitchoun
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="tgcom24.it@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Mediaset_TG_Com24_296fc48738.png" tvg-country="IT" tvg-language="italian" group-title="news",TGCOM24
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
