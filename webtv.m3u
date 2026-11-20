@@ -783,5 +783,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpitchoun.fr@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png" tvg-country="FR" tvg-language="French" group-title="cartoons",TV Pitchoun
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="tgcom24.it@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Mediaset_TG_Com24_296fc48738.png" tvg-country="IT" tvg-language="italian" group-title="news",TGCOM24
+#EXTINF:-1 tvg-id="tgcom24.it@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Mediaset_TG_Com24_296fc48738.png" tvg-country="IT" tvg-language="italian" group-title="news",TGCOM24 HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="fightbox.uk@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Fight_Box_2013_8cd4fe8cf0.png" tvg-country="UK" tvg-language="english" group-title="sport",FIGHTBOX HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8
