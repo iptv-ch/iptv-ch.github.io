@@ -10,8 +10,7 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 #EXTINF:-1 tvg-id="TF1.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",TF1 CH HD
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",France2 HD
-https://viamotionhsi.netplus.ch/lips://picserve.netplus.ch/channels/france5hd.png" tvg-country="FR" tvg-language="French" group-title="travel documentary",France5 HD
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 #EXTINF:-1 tvg-id="m6.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",M6 CH HD
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="canal9.ch@SD" tvg-logo="https://picserve.netplus.ch/channels/canal9.png" tvg-country="CH" tvg-language="French" group-title="Regional",Canal9 HD
@@ -19,7 +18,7 @@ https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
 #EXTINF:-1 tvg-id="lemanbleu.ch@SD" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" tvg-country="CH" tvg-language="French" group-title="Regional",Léman bleu HD
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 #EXTINF:-1 tvg-id="latele.ch@SD" tvg-logo="https://picserve.netplus.ch/channels/latele.png" tvg-country="CH" tvg-language="French" group-title="Regional VD",LA TELE HD
-https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/ve/eds/france2hd/browser-HLS8/france2hd.m3u8
+https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 #EXTINF:-1 tvg-id="France3.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",France3 HD
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 #EXTINF:-1 tvg-id="France4.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" tvg-country="FR" tvg-language="French" group-title="kids",France4 HD
