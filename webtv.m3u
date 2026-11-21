@@ -8,11 +8,11 @@ https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" tvg-country="CH" tvg-language="French" group-title="Generalist",RTS 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",TF1 CH HD
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",France2 HD
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",M6 CH HD
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png" tvg-country="CH" tvg-language="French" group-title="Regional",Canal9 HD
 https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
 #EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" tvg-country="CH" tvg-language="French" group-title="Regional",Léman bleu HD
@@ -20,27 +20,27 @@ https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 #EXTINF:-1 tvg-id="latele.ch" tvg-logo="https://picserve.netplus.ch/channels/latele.png" tvg-country="CH" tvg-language="French" group-title="Regional VD",LA TELE HD
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" tvg-country="FR" tvg-language="French" group-title="Generalist",France3 HD
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" tvg-country="FR" tvg-language="French" group-title="kids",France4 HD
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" tvg-country="FR" tvg-language="French" group-title="generalist",France5 HD
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" tvg-country="CH" tvg-language="French" group-title="Regional",Canal Alpha JU HD
 https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
 #EXTINF:-1 tvg-id="canalbfr.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png" tvg-country="CH" tvg-language="French" group-title="Regional",Canal B HD
 https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8
 #EXTINF:-1 tvg-id="tmc.fr" tvg-logo="https://picserve.netplus.ch/channels/tmc.png" tvg-country="FR" tvg-language="French" group-title="Generalist",TMC HD
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="w9.fr" tvg-logo="https://picserve.netplus.ch/channels/w9.png" tvg-country="FR" tvg-language="French" group-title="Generalist",W9 HD
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="carac1.ch@SD" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png" tvg-country="CH" tvg-language="French" group-title="generalist",carac1 HD
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 #EXTINF:-1 tvg-id="tfx.fr" tvg-logo="https://picserve.netplus.ch/channels/nt1.png" tvg-country="FR" tvg-language="French" group-title="Generalist",TFX HD
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="t18.fr" tvg-logo="https://picserve.netplus.ch/channels/t18.png" tvg-country="FR" tvg-language="French" group-title="Generalist",T18 HD
-https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://picserve.netplus.ch/channels/d17.png" tvg-country="FR" tvg-language="French" group-title="Generalist",CSTAR HD
-https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="rtl9.be" tvg-logo="https://picserve.netplus.ch/channels/rtl9.png" tvg-country="FR" tvg-language="French" group-title="movies/documentary",RTL9 HD
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-id="ab1.be" tvg-logo="https://picserve.netplus.ch/channels/ab1.png" tvg-country="BE" tvg-language="French" group-title="Series",AB1
@@ -58,7 +58,7 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 #EXTINF:-1 tvg-id="bluezoom.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" tvg-country="CH" tvg-language="French" group-title="sport",blue zoom F HD
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-id="lequipe.fr" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" tvg-country="FR" tvg-language="French" group-title="sport",La chaine L'EQUIPE
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ab3.be" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" tvg-country="BE" tvg-language="French" group-title="series",AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 tvg-id="tcm.fr" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" tvg-country="FR" tvg-language="French" group-title="movies",TCM CINEMA HD
@@ -75,10 +75,10 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 #EXTINF:-1 tvg-id="animaux.fr" tvg-logo="https://picserve.netplus.ch/channels/animaux.png" tvg-country="FR" tvg-language="French" group-title="animals",ANIMAUX HD
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
-#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png" tvg-country="FR" tvg-language="French" group-title="generalist",arte F HD
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png" tvg-country="FR" tvg-language="French" group-title="generalist",arte HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png" tvg-country="FR" tvg-language="French" group-title="news",BFM TV HD
-https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="france24.fr" tvg-logo="https://picserve.netplus.ch/channels/france24.png" tvg-country="FR" tvg-language="French" group-title="news",France24 HD
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 #EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://picserve.netplus.ch/channels/euronews.png" tvg-country="FR" tvg-language="French" group-title="news",euronews F HD
@@ -368,7 +368,6 @@ https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrintern
 #EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://picserve.netplus.ch/channels/bvn.png" tvg-country="NL" tvg-language="Dutch" group-title="generalist",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-id="rtk1.al" tvg-logo="https://picserve.netplus.ch/channels/rtk1.png" tvg-country="AL" tvg-language="Albanian" group-title="generalist",RTK1 SAT HD
-#EXTREM https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/manifest.m3u8
 #EXTINF:-1 tvg-id="ptccbet.rs" tvg-logo="https://picserve.netplus.ch/channels/rtssat.png" tvg-country="RS" tvg-language="Serbia" group-title="generalist",PTC CBET HD
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
