@@ -729,11 +729,11 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playl
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/discoverychannel.png" tvg-country="FR" tvg-language="French" group-title="Documentary",Discovery Channel F HD
 http://192.99.186.30/stream/68/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-logo="https://picserve.netplus.ch/channels/eurosport1.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport1 F HD
+#EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Eurosport_1_Logo_2015_svg_b4391c27d1.png.png" tvg-country="FR" tvg-language="French" group-title="sport",Eurosport1 HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="FR" tvg-language="French" group-title="Sports",Eurosport2 F HD
+#EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="FR" tvg-language="French" group-title="sport",Eurosport2 HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/golfplus.png" tvg-country="FR" tvg-language="French" group-title="Sports",Golf+ HD
+#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/golfplus.png" tvg-country="FR" tvg-language="French" group-title="sport",Golf+ HD
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="HistoireTV.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/histoire.png" tvg-country="FR" tvg-language="French" group-title="documentary",HISTOIRE TV HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
@@ -781,3 +781,11 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="fightbox.uk@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Fight_Box_2013_8cd4fe8cf0.png" tvg-country="UK" tvg-language="english" group-title="sport",FIGHTBOX HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="eurosport1.it@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Eurosport_1_Logo_2015_svg_b4391c27d1.png.png" tvg-country="IT" tvg-language="italian" group-title="sport",eurosport1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="eurosport1.it@SD" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="IT" tvg-language="italian" group-title="sport",eurosport2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="eurosport1.en@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Eurosport_1_Logo_2015_svg_b4391c27d1.png.png" tvg-country="UK" tvg-language="english" group-title="sport",eurosport1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="eurosport1.en@SD" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="UK" tvg-language="english" group-title="sport",eurosport2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
