@@ -624,7 +624,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-name="N24Doku.de" tvg-logo="https://static.epg.best/de/N24Doku.de.png" tvg-country="DE" tvg-language="German" group-title="documentaries",N24 Doku HD
 https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8
-#EXTINF:-1, tvg-name="BildTV.de@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bild_%28Fernsehsender%29_logo.svg/500px-Bild_%28Fernsehsender%29_logo.svg.png" tvg-country="DE" tvg-language="German" group-title="news",Bild TV HD
+#EXTINF:-1 tvg-name="BildTV.de@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bild_%28Fernsehsender%29_logo.svg/500px-Bild_%28Fernsehsender%29_logo.svg.png" tvg-country="DE" tvg-language="German" group-title="news",Bild TV HD
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="Autobild.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_AutoBild.svg/langfr-500px-Logo_AutoBild.svg.png" tvg-country="DE" tvg-language="German" group-title="news",Auto Bild HD
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
