@@ -733,8 +733,6 @@ http://192.99.186.30/stream/68/index.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="FR" tvg-language="French" group-title="sport",Eurosport2 HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/golfplus.png" tvg-country="FR" tvg-language="French" group-title="sport",Golf+ HD
-http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="HistoireTV.fr@SD" tvg-logo="https://picserve.netplus.ch/channels/histoire.png" tvg-country="FR" tvg-language="French" group-title="documentary",HISTOIRE TV HD
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/330px-LOGO_i24NEWS.png" tvg-country="IL" tvg-language="French" group-title="news",i24NEWS
