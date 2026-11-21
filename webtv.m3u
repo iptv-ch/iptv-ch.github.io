@@ -455,7 +455,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsung
 https://bblackafrica.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackcaribbean.png",BB BLACK! Caribbean HD
 https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 tvg-id="bblack.tv" tvg-logo="https://picserve.netplus.ch/channels/bblackclassik.png",BB BLACK! Classik HD
+#EXTINF:-1 tvg-id="ad.tv" tvg-logo="",ADTV HD
 http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id=".fr" tvg-logo="https://picserve.netplus.ch/channels/mondeduloisir.png",MDL Monde Du Loisir TV HD
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
@@ -488,7 +488,7 @@ https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="enquetes-de-choc-fast-media" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_E02656638_HHSEUK_007310_Flag_A_Overlay_Home_Screen_1_1_Sq_1000x1000px_Template_v02_copie_8aaa923ce1.jpg" group-title="Séries et Divertissements",ENQUÊTES DE CHOC
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_POPCORN_emission_Logo_Reproduction_8ad41ad83b.png" group-title="Séries et Divertissements",POPCORN
+#EXTINF:-1 tvg-id="750g.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/750g_logo.png" tvg-country="FR" tvg-language="french" group-title="cooking",750g TV
 https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FRBB39000020C" tvg-logo="https://picserve.netplus.ch/channels/fast_cinenanar.png" group-title="Cinéma",CINE NANAR
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
@@ -510,7 +510,7 @@ https://jmp2.uk/stvp-FRBD4800001P4
 https://jmp2.uk/stvp-FRBC4000001IO
 #EXTINF:-1 channel-id="samsung-FR1800004EP" tvg-id="FR1800004EP" tvg-logo="https://ivoirechannel.ci/atvapp/res/tvlogos/tv5mondevoyage_logobbg.png" group-title="Voyages et Gastronomie" tvg-chno="",TV5 Monde Voyage
 https://jmp2.uk/stvp-FR1800004EP
-#EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us" tvg-logo="https://i.imgur.com/fU0ZhKD.png" group-title="Religion",Global Buddhist Network HD
+#EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us" tvg-logo="https://i.imgur.com/fU0ZhKD.png" group-title="Religious",Global Buddhist Network HD
 https://us.gbnus.com/live/dhamma_high/playlist.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="lifestyle",HANDICAP TV HD
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
@@ -629,7 +629,7 @@ https://bild.personalstream.tv/v1/master.m3u8
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name="WeltDerWunder.de" tvg-logo="https://static.epg.best/de/WeltDerWunder.de.png" tvg-country="DE" tvg-language="German" group-title="generalist",Welt der Wunder HD
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1,tvg-id="lilotv.de" tvg-logo="https://www.lilotv.de/wp-content/uploads/2024/01/logo.png" tvg-country="DE" tvg-language="German" group-title="regional", lilo.TV HD
+#EXTINF:-1 tvg-id="lilotv.de" tvg-logo="https://www.lilotv.de/wp-content/uploads/2024/01/logo.png" tvg-country="DE" tvg-language="German" group-title="regional",lilo.TV HD
 https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
 #EXTINF:-1 tvg-id="dasding.de" tvg-logo="https://assets.radioplayer.org/276/276377/11/4215-mst05n26.png" tvg-country="DE" tvg-language="German" group-title="music",SWR DASDING HD
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
@@ -673,8 +673,6 @@ https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://static.epg.best/it/giallo.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Giallo IT
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://static-play2000.akamaized.net/live/2026/04/vCxmXXnhSHQDwqV075gRTGP4A7Ywa3ofHUyYfuDH.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",TV2000
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_1500/chunklist.m3u8
 #EXTINF:-1 tvg-id="realtime.it" tvg-logo="https://static.epg.best/it/realtime.it.png" tvg-country="IT" tvg-language="italia" group-title="IT generalist",Real Time IT HD
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://static.epg.best/it/hgtv.it.png" tvg-country="IT" tvg-language="italia" group-title="Lifestyle",HGTV HD
@@ -786,3 +784,5 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playli
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1.en@SD" tvg-logo="https://picserve.netplus.ch/channels/eurosport2.png" tvg-country="UK" tvg-language="english" group-title="sport",eurosport2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="rai_yoyo.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/250px-Rai_Yoyo_-_Logo_2017.svg.png" tvg-country="IT" tvg-language="italian" group-title="cartoons",Rai Yoyo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8
