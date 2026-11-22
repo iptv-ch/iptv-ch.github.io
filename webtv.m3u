@@ -766,7 +766,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="teva.fr@SD" tvg-logo="https://assets-bundle.6cloud.fr/m6/24/svg-sprite/marginless.svg#tevareplay" tvg-country="FR" tvg-language="French" group-title="generalist",téva
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Ushuaiatv.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png" tvg-country="FR" tvg-language="French" group-title="discover",Ushuïa TV
+#EXTINF:-1 tvg-id="Ushuaiatv.fr@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png" tvg-country="FR" tvg-language="French" group-title="discover",Ushuaïa TV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="vatican.va@SD" tvg-logo="" tvg-country="VA" tvg-language="italian" group-title="religious",Vatican media Europa
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
