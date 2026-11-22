@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de" group-title="generalist",3sat
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/3sat/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="arte.de" group-title="generalist",arte
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="kika.de" group-title="kids",KiKA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/kika/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="rtl.de" group-title="generalist",RTL
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="zdf.de" group-title="generalist",ZDF
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" group-title="generalist",ZDFneo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="zdfinfo.de" group-title="news",ZDFinfo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
