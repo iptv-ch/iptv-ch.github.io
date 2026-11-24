@@ -13,3 +13,213 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="zdfinfo.de" group-title="news",ZDFinfo
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="3sat.de" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/3sat/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="24h.es" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_arabic/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_english/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/canal_j/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cherie_25/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cgtn/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/das_erste/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_24_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_24_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_24_ar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/kabel_eins/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/kika/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/kto/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/la_7/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_due/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_scuola/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_storia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_tre/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_decouverte/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rmc_story/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtlzwei_ch/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/Syfy/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tvp_polonia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/Ushuaia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="%%.fr" group-title="generale",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
