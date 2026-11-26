@@ -794,3 +794,5 @@ https://stream.beninwebtv.bj/2/live/stream.m3u8
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 #EXTINF:-1 tvg-id="7info.ci" tvg-logo="https://i.imgur.com/jcl1nNR.png" tvg-country="CI" tvg-language="french" group-title="news",7info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="mggtv.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_MGGTV_LOGO_Vertical_81d21eee36.png" tvg-country="FR" tvg-language="French" group-title="sport",
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mgg_tv/live.livx/playlist.m3u8
