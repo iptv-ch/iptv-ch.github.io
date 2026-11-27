@@ -601,3 +601,33 @@ https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067
 https://hls.live2.meride.tv/hls/live/2028947/inblu2000/inblu_1_128/chunklist_ao.m3u8
 #EXTINF:-1 tvg-logo="https://www.clubbingradio.com/images/logo-white.png" group-title="radio" radio="true",Clubbing Radio France
 https://live.clubbingradio.fr/radio/8000/live.mp3
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE Africa_fr
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE TERANGA
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE AYITI
+https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE CARIBBEAN
+https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE GOSPEL FR
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE GOSPEL SA
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE IVOIRE
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE KITOKO
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE LATINA
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE MBOA
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE URBAN AFRICA FR
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE URBAN DOM
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE URBAN FR
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE URBAN_SA
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="radio" radio="true",TRACE VANILLA
+https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
