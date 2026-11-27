@@ -406,8 +406,8 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 tvg-id="justforlaughs.com" tvg-logo="https://picserve.netplus.ch/channels/fast_justforlaughs.png",Just for laughs HD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/dda633df-ff1a-4127-9533-086f91bb67ff/cb6e197e-fdf9-4dcd-860d-b8c519ef288f/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/fast_nauticalchannel.png",Nautical Channel HD
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/0999e7d3-4cdd-443f-9498-73f99ddb6e46/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/fast_nauticalchannel.png" tvg-country="UK" tvg-language="english" group-title="sport",Nautical Channel HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nautical/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="automotiontv.com" tvg-logo="https://picserve.netplus.ch/channels/automotion.png",AUTOMOTION FHD
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/1.m3u8
 #EXTINF:-1 tvg-id="adn.com" tvg-logo="https://picserve.netplus.ch/channels/fast_adn.png",ADN Animation Digital Network HD
